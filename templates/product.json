@@ -133,6 +133,14 @@
             "content": "",
             "page": ""
           }
+        },
+        "50ace3d2-e324-4cba-b98e-e63ebaff4f6b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specifications",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -149,7 +157,8 @@
         "52df90b0-c2aa-4ae2-8f31-d18e5a33e088",
         "ee5e9f1c-a80a-4244-950f-03806a509775",
         "af0fcb50-fbfc-4b83-8ed9-3d73e75f28b5",
-        "3ec2728a-3cb2-49de-9f92-030a96225f2a"
+        "3ec2728a-3cb2-49de-9f92-030a96225f2a",
+        "50ace3d2-e324-4cba-b98e-e63ebaff4f6b"
       ],
       "settings": {
         "media_layout": "slider",
