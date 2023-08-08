@@ -382,86 +382,6 @@
         "fix_zindex": 0
       }
     },
-    "356e82f9-b1ba-4f35-8cd6-93a61aec3864": {
-      "type": "section-content-tabs",
-      "blocks": {
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1": {
-          "type": "tab",
-          "settings": {
-            "title": "2023",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "2023",
-            "products_limit": 5,
-            "number_of_items": 4,
-            "text": "<p>Content of first tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2": {
-          "type": "tab",
-          "settings": {
-            "title": "Accessories",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "accessoies",
-            "products_limit": 5,
-            "number_of_items": 4,
-            "text": "<p>Content of second tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3": {
-          "type": "tab",
-          "settings": {
-            "title": "1st year Anniversary",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "21-today",
-            "products_limit": 5,
-            "number_of_items": 4,
-            "text": "<p>Content of third tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1",
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2",
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3"
-      ],
-      "settings": {
-        "alignment": "center",
-        "compact": true,
-        "title": "Discover Our Best-Sellers!",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f": {
       "type": "section-collage",
       "blocks": {
@@ -472,8 +392,8 @@
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "garden flag",
+            "text_position": "align-top text-start",
+            "title": "Traditional Photo Album",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": true,
@@ -488,9 +408,9 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
+            "link_text": "Buy Now",
+            "link_url": "shopify:\/\/collections\/traditional-wedding-albums",
+            "show_link": true,
             "show_look": false,
             "product_list": [
               "10-little-fingers-sentiment-gift-frame"
@@ -508,8 +428,8 @@
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "Image banner",
+            "text_position": "align-top text-start",
+            "title": "Print Your Photos",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -524,9 +444,9 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
+            "link_text": "Buy now",
+            "link_url": "shopify:\/\/collections\/traditional-photo-albums",
+            "show_link": true,
             "show_look": false,
             "product_list": [
 
@@ -678,7 +598,7 @@
       "settings": {
         "mirrored": true,
         "width": "boxed",
-        "height": "size-l",
+        "height": "size-m",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
@@ -686,6 +606,104 @@
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "356e82f9-b1ba-4f35-8cd6-93a61aec3864": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "2023",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "2023",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "Accessories",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "accessoies",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of second tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "1st year Anniversary",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "21-today",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "8328db66-31e2-4af3-8b9d-e38487e16dac": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "80th-birthday-framed-gifts-personalised-photo-banners",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Tab content<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1",
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2",
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3",
+        "8328db66-31e2-4af3-8b9d-e38487e16dac"
+      ],
+      "settings": {
+        "alignment": "center",
+        "compact": true,
+        "title": "Discover Our Best-Sellers!",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -832,9 +850,9 @@
     "1662644641662a3424",
     "166029123538307d80",
     "1660291186859914cb",
-    "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
+    "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "c44666b7-f00b-4316-839b-77d8cf2bf64c"
   ]
