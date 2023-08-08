@@ -1,4 +1,6 @@
 {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
+{%- if product.metafields.inventory.ShappifyHidden == 'true' -%}{%- break -%}{%- endif -%}
+
 {%- liquid
    assign custom_height_ratio = settings.custom_product_image_ratio | divided_by: 100.0
    assign image_width = 430
@@ -805,6 +807,8 @@
                             {%- endfor -%}
                         {% endif %}
                     </div>
+                    <div class="bold_options" data-product-id="{{ product.id }}"></div>
+
                 {%- when 'inventory' -%}
                     <div class="f8pr-stock m0">
                         {%- liquid

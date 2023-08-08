@@ -4847,3 +4847,10 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
     text-align: center;
 }
 /* cls015 end */
+.with-mobile-tab .bold_option_uploadfile input{
+	padding: 12px 20px;
+}
+.bold_option_dropdown  label{
+	display: flex;
+    align-items: center;
+}
