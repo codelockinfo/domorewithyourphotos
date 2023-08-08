@@ -125,6 +125,14 @@
             "content": "<ul><li>Material: Standard-wrapped premium canvas<\/li><li>Hanging: Ready to hang with a pre-installed sawtooth hanger<\/li><li>Frame Type: Framing option is available<\/li><li>Origin: Made in Spain<\/li><\/ul>",
             "page": ""
           }
+        },
+        "3ec2728a-3cb2-49de-9f92-030a96225f2a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -140,7 +148,8 @@
         "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924",
         "52df90b0-c2aa-4ae2-8f31-d18e5a33e088",
         "ee5e9f1c-a80a-4244-950f-03806a509775",
-        "af0fcb50-fbfc-4b83-8ed9-3d73e75f28b5"
+        "af0fcb50-fbfc-4b83-8ed9-3d73e75f28b5",
+        "3ec2728a-3cb2-49de-9f92-030a96225f2a"
       ],
       "settings": {
         "media_layout": "slider",
