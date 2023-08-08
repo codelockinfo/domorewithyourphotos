@@ -771,39 +771,6 @@
         "fix_zindex": 0
       }
     },
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c": {
-      "type": "section-blog-posts",
-      "settings": {
-        "blog": "news",
-        "number_of_items": 3,
-        "text_alignment": "center",
-        "title": "Ideas & Advice",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "300",
-        "subtitle": "Collection of the best gift ideas and home decor tips.",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h4",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "Button",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "show_image": true,
-        "show_date": false,
-        "show_author": true,
-        "show_excerpt": false,
-        "button_color_palette_post": "accent",
-        "show_link_post": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "e5086e97-5399-4448-ace4-e3cb612cccdd": {
       "type": "section-collage",
       "blocks": {
@@ -973,6 +940,39 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "c44666b7-f00b-4316-839b-77d8cf2bf64c": {
+      "type": "section-blog-posts",
+      "settings": {
+        "blog": "news",
+        "number_of_items": 3,
+        "text_alignment": "center",
+        "title": "Ideas & Advice",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "300",
+        "subtitle": "Collection of the best gift ideas and home decor tips.",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h4",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "show_image": true,
+        "show_date": false,
+        "show_author": true,
+        "show_excerpt": false,
+        "button_color_palette_post": "accent",
+        "show_link_post": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -987,7 +987,7 @@
     "a73296f0-f170-4c5b-885d-b98039090205",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c",
-    "e5086e97-5399-4448-ace4-e3cb612cccdd"
+    "e5086e97-5399-4448-ace4-e3cb612cccdd",
+    "c44666b7-f00b-4316-839b-77d8cf2bf64c"
   ]
 }
