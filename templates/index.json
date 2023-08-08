@@ -803,6 +803,176 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "e5086e97-5399-4448-ace4-e3cb612cccdd": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Framed-Prints_Desktop-1.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-top text-start",
+            "title": "Blankets",
+            "title_font": "primary",
+            "title_size": "h3",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "->",
+            "link_url": "shopify:\/\/collections\/2023",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ornament_Desktop-1.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-top text-start",
+            "title": "Anniversary",
+            "title_font": "primary",
+            "title_size": "h3",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "->",
+            "link_url": "shopify:\/\/collections\/1st-year-anniversary",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "af6f22e0-5ce4-4a37-980f-46ec4384a59c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pillow_Desktop-1.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-top text-start",
+            "title": "Birthday Gifts",
+            "title_font": "primary",
+            "title_size": "h3",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "->",
+            "link_url": "shopify:\/\/collections\/birthday-gifts",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "546221aa-1bd5-4e91-a8c3-f0fb8153e753": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Canvas-Prints_new.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-top text-start",
+            "title": "Baby Gifts",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "->",
+            "link_url": "shopify:\/\/collections\/baby-gifts",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-1",
+        "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2",
+        "af6f22e0-5ce4-4a37-980f-46ec4384a59c",
+        "546221aa-1bd5-4e91-a8c3-f0fb8153e753"
+      ],
+      "settings": {
+        "mirrored": true,
+        "width": "boxed",
+        "height": "size-s",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -817,6 +987,7 @@
     "a73296f0-f170-4c5b-885d-b98039090205",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c"
+    "c44666b7-f00b-4316-839b-77d8cf2bf64c",
+    "e5086e97-5399-4448-ace4-e3cb612cccdd"
   ]
 }
