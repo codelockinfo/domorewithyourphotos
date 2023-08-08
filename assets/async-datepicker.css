@@ -1,7 +1,7 @@
 
 .datepicker-cell:before { content: ""; display: block; overflow: hidden; position: absolute; left: 0; top: 0; right: 0; bottom: 0; z-index: -1; margin: 0; text-align: left; text-indent: -3000em; direction: ltr; }
 
-.datepicker-dropdown.active { display: block;position:relative;z-index:99; top:0;}
+.datepicker-dropdown.active { display: block;position:relative;z-index:99; top:0 !important;}
 
 .datepicker-dropdown { position: absolute; left: 0; right: 0; top: 100%; z-index: 20; padding: calc(var(--main_fz) * 1.1428571429) calc(var(--main_fz) * 1.1428571429) calc(var(--main_fz) * 1.1428571429); border-radius: var(--b2i); border: 1px solid var(--custom_input_bd); background: var(--custom_input_bg); color: var(--custom_input_fg); font-size: var(--main_fz); }
 /*.datepicker-dropdown { display: block !important; }*/
