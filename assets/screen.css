@@ -4759,3 +4759,77 @@ q { margin-bottom: 16px; padding-left: 16px; border: 0 solid var(--secondary_bg)
 @media print {
 nav, .shopify-section-announcement-bar, form, .l4dr, .l4pm, .l4sc { display: none !important; }
 }
+/* cls015 start */
+.section_collist .swiper-slide {
+    width: 100px!important;
+    margin: 0 auto;
+}
+.section_collist i.icon-chevron-right.mobile-hide {
+    display: none;
+} 
+li.link-btn.button-palette-light a{
+	color: #f07c63;
+}
+.tabs-initialized ul li a span:hover{
+	color: #f07c63;
+}
+.shopify-section-content-tabs span.s1lb.label.plain {
+    display: none;
+}
+.shopify-section-content-tabs p.submit {
+    display: none;
+}
+.collage_img p.link.button-palette-accent {
+    display: inline;
+    border: 1px solid;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.collage_img p.link.button-palette-accent span{
+	text-transform: capitalize;
+
+}
+.collage_img h2.ff-primary .animated_column .ff-primary {
+    text-transform: capitalize;
+}
+.shopify-section-content-tabs .tabs-inner p{
+	display:none;
+}
+.animated_column html:not(.mobile) .l4ft.hover-out>li:after{
+	display:none;}
+	
+.animated_column  [data-whatin=mouse] .l4ft li:not(.dont-move):hover {
+    -webkit-transform: translateY(0px)!important;
+    transform: translateY(0px)!important;
+}
+.animated_column [data-whatin=mouse] .l4ft.zoom li:hover .main>figure img{
+	transform: scale(0);
+}
+.animated_column html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
+   opacity: 1!important; 
+}
+.animated_column html:not(.mobile) .l4ft.hover-out>li:after{
+	display:none;}
+	
+.animated_column html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
+	opacity: 1;
+}
+.animated_column .link-btn.button-palette-accent::before {
+		border-radius: 50%;
+}
+html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
+    opacity: 1!important;
+}
+.animated_column .link-btn a:before{
+	background-color: transparent;
+	border-radius: 50%;
+	border:1px solid #000;
+}
+.animated_column .link-btn a{
+	padding: 16px!important;
+	
+}
+.animated_column  [class^=palette-] .link-btn a:not(.loading){
+	color:#000!important;
+}
+/* cls015 end */
