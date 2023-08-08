@@ -4832,4 +4832,9 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 .animated_column  [class^=palette-] .link-btn a:not(.loading){
 	color:#000!important;
 }
+.animated_column ul li h2{
+	text-align: center;
+    color: #000;
+    text-transform: capitalize;
+}
 /* cls015 end */
