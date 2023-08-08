@@ -180,7 +180,7 @@
         "img_info_color_palette": "light_2",
         "enable_custom_font_size": false,
         "font_size": "14px",
-        "show_product_description": true,
+        "show_product_description": false,
         "description_title_size": "h2",
         "product_description_enable_read_more": false,
         "pros_cons_title_size": "h2",
