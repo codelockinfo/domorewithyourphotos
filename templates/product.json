@@ -193,29 +193,6 @@
         "multiply_bg_mobile": false
       }
     },
-    "recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "recommended_products_qty": 6,
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "You may also like",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "spacing_desktop": 50,
-        "spacing_mobile": 0,
-        "mobile_collapse": false
-      }
-    },
     "reviews": {
       "type": "product-reviews",
       "settings": {
@@ -237,6 +214,29 @@
         "mobile_collapse": false
       }
     },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "recommended_products_qty": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "You may also like",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 0,
+        "mobile_collapse": false
+      }
+    },
     "recently-viewed": {
       "type": "section-recently-viewed-products",
       "settings": {
@@ -244,7 +244,7 @@
         "image_ratio": 100,
         "show_in_circle": true,
         "fill_images": true,
-        "text_alignment_heading": "start",
+        "text_alignment_heading": "center",
         "text_alignment": "left",
         "title": "Recently viewed products",
         "title_font": "primary",
@@ -270,8 +270,8 @@
   "order": [
     "breadcrumbs",
     "main-product",
-    "recommendations",
     "reviews",
+    "recommendations",
     "recently-viewed"
   ]
 }
