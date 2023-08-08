@@ -4814,27 +4814,36 @@ li.link-btn.button-palette-light a{
 .animated_column html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	opacity: 1;
 }
-.animated_column .link-btn.button-palette-accent::before {
+.animated_column .link-btn.button-palette-accent::before ,.collage_img .link-btn.button-palette-accent::before { 
 		border-radius: 50%;
 }
 html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
     opacity: 1!important;
 }
-.animated_column .link-btn a:before{
+.animated_column .link-btn a:before ,.collage_img .link-btn a:before{
 	background-color: transparent;
 	border-radius: 50%;
 	border:1px solid #000;
 }
-.animated_column .link-btn a{
+.animated_column .link-btn a ,.collage_img .link-btn a{
 	padding: 16px!important;
 	
 }
-.animated_column  [class^=palette-] .link-btn a:not(.loading){
+.animated_column  [class^=palette-] .link-btn a:not(.loading) ,.collage_img  [class^=palette-] .link-btn a:not(.loading){
 	color:#000!important;
 }
 .animated_column ul li h2{
 	text-align: center;
     color: #000;
     text-transform: capitalize;
+}
+.shopify-section-content-tabs nav ul{
+	border-bottom: 1px solid #00000042;
+}
+.blogtext p.link-btn.button-palette-accent {
+    display: none;
+}
+.blogtext ul.l4ne.landscape.w33 h3 {
+    text-align: center;
 }
 /* cls015 end */
