@@ -25,7 +25,12 @@
 /*.fancybox__content { overflow: hidden !important; }*/
 .has-video .fancybox__content { width: 100% !important; height: 100% !important; }
 .fancybox__iframe { display: block; overflow: hidden; width: 100% !important; height: 100% !important; }
-.fancybox__container .fancybox__backdrop { background: var(--white); opacity: 1; }
+.fancybox__container .fancybox__backdrop { 
+	/* background: var(--white);  */
+	opacity: 1;
+    background-color: rgba(0,0,0,.8);
+    transition: opacity .15s linear;
+}
 
 
 /*!

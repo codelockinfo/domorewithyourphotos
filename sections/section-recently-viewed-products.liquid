@@ -2,13 +2,16 @@
   if section.settings.text_alignment == 'center'
     assign title_classes = 'text-center align-center'
   endif
+  if section.settings.text_alignment_heading == 'center'
+  assign title_classes_heading = 'text-center align-center'
+endif
 -%}
 
 {%- if section.settings.title != empty or section.settings.subtitle != empty -%}
   <header class="cols">
     <div class="{{ title_classes }}">
       {%- if section.settings.title != empty -%}
-        <{{ section.settings.title_size }} class="{{ title_classes }} {% if section.settings.enable_custom_text_styling %}text-palette-{{ section.settings.title_color_palette }} fw-{{ section.settings.title_weight }} {% endif %}ff-{{ section.settings.title_font }}{% if section.settings.subtitle != blank %} m0{% endif %}">{{ section.settings.title }}</{{ section.settings.title_size }}>
+        <{{ section.settings.title_size }} class="{{ title_classes }} {{ title_classes_heading }} {% if section.settings.enable_custom_text_styling %}text-palette-{{ section.settings.title_color_palette }} fw-{{ section.settings.title_weight }} {% endif %}ff-{{ section.settings.title_font }}{% if section.settings.subtitle != blank %} m0{% endif %}">{{ section.settings.title }}</{{ section.settings.title_size }}>
       {%- endif -%}
       {%- if section.settings.subtitle != empty -%}
         <{{ section.settings.subtitle_size }} class="{{ title_classes }} {% if section.settings.enable_custom_subtext_styling %}text-palette-{{ section.settings.subtitle_color_palette }} fw-{{ section.settings.subtitle_weight }} {% endif %}ff-{{ section.settings.subtitle_font }}">{{ section.settings.subtitle }}</{{ section.settings.subtitle_size }}>
@@ -90,6 +93,22 @@
       "type": "checkbox",
       "label": "t:sections.recently_viewed_products.settings.fill_images.label",
       "default": true
+    },
+    {
+      "type": "select",
+      "id": "text_alignment_heading",
+      "label": "t:static_sections.product_recommendations.settings.text_alignment.label",
+      "options": [
+        {
+          "value": "start",
+          "label": "t:static_sections.product_recommendations.settings.text_alignment.options__1.label"
+        },
+        {
+          "value": "center",
+          "label": "t:static_sections.product_recommendations.settings.text_alignment.options__2.label"
+        }
+      ],
+      "default": "start"
     },
     {
       "type": "select",
