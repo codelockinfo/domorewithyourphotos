@@ -86,10 +86,10 @@
           "settings": {
             "button_style": "inv",
             "show_amount_selection": true,
-            "show_dynamic_buybutton": true,
+            "show_dynamic_buybutton": false,
             "preorder_label": "",
             "preorder_label_color_palette": "light_2",
-            "preorder_show_dynamic_buybutton": false,
+            "preorder_show_dynamic_buybutton": true,
             "show_gift_card_recipient": false
           }
         },
