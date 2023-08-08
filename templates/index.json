@@ -854,7 +854,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Birthday Gifts",
+            "title": "Gifts",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
