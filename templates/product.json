@@ -241,7 +241,7 @@
       "type": "section-recently-viewed-products",
       "settings": {
         "number_of_items": 8,
-        "image_ratio": 100,
+        "image_ratio": 140,
         "show_in_circle": true,
         "fill_images": true,
         "text_alignment_heading": "center",
