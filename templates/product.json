@@ -1,1 +1,250 @@
-{"sections":{"breadcrumbs":{"type":"breadcrumbs","settings":{"hide_mobile":true}},"main-product":{"type":"main-product","blocks":{"c7259cb9-7235-4028-b6df-3a68077fed80":{"type":"title","settings":{"layout":"title-top","show_vendor_brand":true,"show_vendor_name":true,"show_product_rating":true,"share_whatsapp":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"share_messenger":true,"share_email":true}},"short_description":{"type":"short_description","settings":{"show_read_more":true}},"variant_selection":{"type":"variant_selection","settings":{"selection_type":"dropdown","options":true}},"pickup":{"type":"pickup","settings":{}},"90724a70-740a-4cc9-984c-764e1d76a5bd":{"type":"codes","settings":{"show_sku":true,"show_barcode":true}},"inventory":{"type":"inventory","settings":{}},"price":{"type":"price","settings":{"show_tax":true}},"buy_button":{"type":"buy_button","settings":{"show_amount_selection":true,"show_dynamic_buybutton":true}},"80e67d89-9369-4ddb-8111-2aa1c36fb500":{"type":"usp","settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"ce57c15f-9a2f-4731-8dfe-6ed8eefa9924":{"type":"usp","settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"52df90b0-c2aa-4ae2-8f31-d18e5a33e088":{"type":"usp","settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"ee5e9f1c-a80a-4244-950f-03806a509775":{"type":"shipping_timer","settings":{}}},"block_order":["c7259cb9-7235-4028-b6df-3a68077fed80","short_description","variant_selection","pickup","90724a70-740a-4cc9-984c-764e1d76a5bd","inventory","price","buy_button","80e67d89-9369-4ddb-8111-2aa1c36fb500","ce57c15f-9a2f-4731-8dfe-6ed8eefa9924","52df90b0-c2aa-4ae2-8f31-d18e5a33e088","ee5e9f1c-a80a-4244-950f-03806a509775"],"settings":{"show_thumbs_desktop":true,"show_thumbs_mobile":true,"show_product_description":true,"pros":"","cons":"","specifications":""}},"recommendations":{"type":"product-recommendations","settings":{"recommended_products_qty":6,"number_of_items":4,"text_alignment":"start","title":"You may also like","title_size":"h2","spacing_desktop":50,"spacing_mobile":0}},"reviews":{"type":"product-reviews","settings":{"text_alignment":"start","title":"Reviews","title_size":"h2","spacing_desktop":50,"spacing_mobile":30}},"recently-viewed":{"type":"section-recently-viewed-products","settings":{"number_of_items":8,"text_alignment":"left","title":"Recently viewed products","title_size":"h3","spacing_desktop":50,"spacing_mobile":30}}},"order":["breadcrumbs","main-product","recommendations","reviews","recently-viewed"]}
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "hide_mobile": true
+      }
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "c7259cb9-7235-4028-b6df-3a68077fed80": {
+          "type": "title",
+          "settings": {
+            "layout": "title-right",
+            "title_size": "h2",
+            "show_vendor_brand": true,
+            "show_vendor_name": true,
+            "show_product_rating": true,
+            "share_whatsapp": true,
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true,
+            "share_messenger": true,
+            "share_email": true,
+            "layout_mobile": "title-top",
+            "mobile_title_size": "h2"
+          }
+        },
+        "short_description": {
+          "type": "short_description",
+          "settings": {
+            "show_read_more": true
+          }
+        },
+        "variant_selection": {
+          "type": "variant_selection",
+          "settings": {
+            "selection_type": "buttons",
+            "options": true,
+            "button_options": "Color",
+            "dropdown_options": "",
+            "show_variant_images": true,
+            "show_selected_variant_images": false,
+            "show_unavailable_variants": true,
+            "show_single_options": true,
+            "enable_selling_plans": true,
+            "size_name": "Size",
+            "sizechart_alignment": "left",
+            "sizechart_title_size": "h2",
+            "sizechart_title": "Size chart",
+            "sizechart_text": "",
+            "sizechart_page": "",
+            "sizechart_image_width": 460,
+            "sizechart_liquid": "",
+            "sizechart_html": ""
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "settings": {
+          }
+        },
+        "90724a70-740a-4cc9-984c-764e1d76a5bd": {
+          "type": "codes",
+          "settings": {
+            "show_sku": true,
+            "show_barcode": true
+          }
+        },
+        "inventory": {
+          "type": "inventory",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax": true,
+            "font_size": 14
+          }
+        },
+        "buy_button": {
+          "type": "buy_button",
+          "settings": {
+            "button_style": "inv",
+            "show_amount_selection": true,
+            "show_dynamic_buybutton": true,
+            "preorder_label": "",
+            "preorder_label_color_palette": "light_2",
+            "preorder_show_dynamic_buybutton": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "80e67d89-9369-4ddb-8111-2aa1c36fb500": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "52df90b0-c2aa-4ae2-8f31-d18e5a33e088": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "ee5e9f1c-a80a-4244-950f-03806a509775": {
+          "type": "shipping_timer",
+          "settings": {
+          }
+        },
+        "af0fcb50-fbfc-4b83-8ed9-3d73e75f28b5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Highlight",
+            "content": "<ul><li>Material: Standard-wrapped premium canvas<\/li><li>Hanging: Ready to hang with a pre-installed sawtooth hanger<\/li><li>Frame Type: Framing option is available<\/li><li>Origin: Made in Spain<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "c7259cb9-7235-4028-b6df-3a68077fed80",
+        "short_description",
+        "variant_selection",
+        "pickup",
+        "90724a70-740a-4cc9-984c-764e1d76a5bd",
+        "inventory",
+        "price",
+        "buy_button",
+        "80e67d89-9369-4ddb-8111-2aa1c36fb500",
+        "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924",
+        "52df90b0-c2aa-4ae2-8f31-d18e5a33e088",
+        "ee5e9f1c-a80a-4244-950f-03806a509775",
+        "af0fcb50-fbfc-4b83-8ed9-3d73e75f28b5"
+      ],
+      "settings": {
+        "media_layout": "slider",
+        "images_grid_spacing": 16,
+        "fill_images": true,
+        "show_thumbs_desktop": true,
+        "show_thumbs_mobile": true,
+        "thumbs_layout": "bottom",
+        "img_info": "",
+        "img_info_color_palette": "light_2",
+        "enable_custom_font_size": false,
+        "font_size": "14px",
+        "show_product_description": true,
+        "description_title_size": "h2",
+        "product_description_enable_read_more": false,
+        "pros_cons_title_size": "h2",
+        "pros": "",
+        "cons": "",
+        "specs_title_size": "h2",
+        "specifications": "",
+        "product_description_mobile_collapse": false,
+        "mobile_tabs_title_size": "h2",
+        "multiply_bg_mobile": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "recommended_products_qty": 6,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "You may also like",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 0,
+        "mobile_collapse": false
+      }
+    },
+    "reviews": {
+      "type": "product-reviews",
+      "settings": {
+        "text_alignment": "start",
+        "title": "Reviews",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "mobile_collapse": false
+      }
+    },
+    "recently-viewed": {
+      "type": "section-recently-viewed-products",
+      "settings": {
+        "number_of_items": 8,
+        "image_ratio": 100,
+        "show_in_circle": true,
+        "fill_images": true,
+        "text_alignment_heading": "start",
+        "text_alignment": "left",
+        "title": "Recently viewed products",
+        "title_font": "primary",
+        "title_size": "h3",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "content_alignment": "center",
+        "show_title": true,
+        "show_price": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "recommendations",
+    "reviews",
+    "recently-viewed"
+  ]
+}
