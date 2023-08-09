@@ -20,7 +20,7 @@
         "footer-block-menu-1": {
           "type": "menu",
           "settings": {
-            "title_size": "h3",
+            "title_size": "h5",
             "title_weight": "700",
             "menu": "footer",
             "split_menu": false
