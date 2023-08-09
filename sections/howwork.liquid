@@ -23,8 +23,8 @@
             {% else %}
             {{ 'image2' | placeholder_svg_tag: 'placeholder-svg' }}
             {% endif %}
-            <h3 class="ordertitle">{{section.settings.ordertext}}</h3>
-            <p class="orderdetail">{{section.settings.orderdes}}</p>
+            <h3 class="ordertitle">{{section.settings.ordertext1}}</h3>
+            <p class="orderdetail">{{section.settings.orderdes1}}</p>
           </div>
         </div>
     </div>
@@ -68,6 +68,26 @@
         "id": "image2",
         "label": "Right image"
       },	
+      {
+        "type": "text",
+        "id": "ordertext",
+        "label": "Order Heading"
+      },
+      {
+        "type": "text",
+        "id": "orderdes",
+        "label": "Order Sub- Title"
+      },
+      {
+        "type": "text",
+        "id": "ordertext1",
+        "label": "Delivery Heading"
+      },
+      {
+        "type": "text",
+        "id": "orderdes1",
+        "label": "Delivery Sub- Title"
+      },
 	{
         "type": "image_picker",
         "id": "animatedbanner1",
