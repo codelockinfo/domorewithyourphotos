@@ -59,7 +59,7 @@
         "header-block-button-1"
       ],
       "settings": {
-        "layout": "layout_3",
+        "layout": "layout_6",
         "width": 2000,
         "header_height": "69px|55px",
         "top_bar_color": "white",
@@ -75,7 +75,7 @@
         "enable_usp_slider_autoplay": true,
         "usp_slider_autoplay_seconds": 3,
         "logo": "shopify:\/\/shop_images\/sample_598x_55d2454a-af8a-4a4e-b1a4-d82628803bcb.webp",
-        "logo_width": 225,
+        "logo_width": 290,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "searchbar_font_size": "14px",
@@ -89,7 +89,7 @@
         "menu_layout": "mega",
         "show_dropdown_images": true,
         "show_dropdown_images_autofill": false,
-        "menubar_alignment": "left",
+        "menubar_alignment": "center",
         "menubar_border": false,
         "menubar_border_width": "wide",
         "menubar_border_color": "#F4F4F4",
