@@ -3445,6 +3445,57 @@
           .slideDown(200);
       }
     });
+    $(".buttonPersonalize").on("click", function() {
+      console.log("buttonPersonalize");
+      $(".bold_options.bold_options_loaded").toggleClass("show");
+      if($(this).text() === "Personalize"){
+        $(this).text("Close personalize");
+      }else{
+        $(this).text("Personalize");
+      }
+    });
+    function readURL(input, previewId) {
+      if (input.files && input.files[0]) {
+          var reader = new FileReader();
+          reader.onload = function(e) {
+              $(previewId).css('background-image', 'url('+e.target.result +')');
+              $(previewId).hide();
+              $(previewId).fadeIn(650);
+          }
+          reader.readAsDataURL(input.files[0]);
+      }
+  }
+   $(document).on("change",".bold_option_uploadfile input:file",function (){
+    console.log("HHHELLO");
+      var btnTitle = $(this).closest(".bold_option_uploadfile").find(".bold_option_title").html();
+      console.log(btnTitle);
+      var btnTitleHtml = $.parseHTML(btnTitle);
+      console.log(btnTitleHtml);
+      console.log("im clicked" + this.files.length);
+      
+      if( this.files && this.files.length >= 1 ) {
+        var uploadFile = $(this);
+        var file = this.files[0];
+        var reader = new FileReader();
+        // Set preview image into the popover data-content
+        $(this).closest(".bold_option_uploadfile").find(".bold_option_title").text(file.name);
+        reader.readAsDataURL(file);
+        reader.onloadend = function() { 
+          {% comment %} console.log(this.result); {% endcomment %}
+          var imgfind = uploadFile.closest(".bold_option_uploadfile").find("img").length;
+          console.log(imgfind);
+          if(imgfind == 0){
+            uploadFile.closest(".bold_option_uploadfile").prepend("<img  style='width:50px;height:50px !important;' src='"+this.result+"'>");
+          }else{
+            uploadFile.closest(".bold_option_uploadfile").find("img").attr("src",this.result);
+          }
+      }
+      }
+      else {
+        $(this).closest(".bold_option_uploadfile").find(".bold_option_title").html(btnTitle);
+      }
+
+    });   
   });
   
 </script>
