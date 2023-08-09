@@ -9,9 +9,9 @@
           "type": "newsletter",
           "settings": {
             "title_size": "h5",
-            "title_weight": "700",
-            "title": "Subscribe to our emails",
-            "newsletter_text": "<p>Never miss any news and be the first to know about sale and offers<\/p>",
+            "title_weight": "600",
+            "title": "SIGNUP AND RECEIVE ALL OUR NEWS AND UPDATES FIRST",
+            "newsletter_text": "",
             "footer_button_color": "accent",
             "enable_newsletter_terms_checkbox": false,
             "newsletter_terms_text": ""
