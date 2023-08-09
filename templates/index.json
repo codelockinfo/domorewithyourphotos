@@ -973,6 +973,22 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
+      "type": "howwork",
+      "settings": {
+        "worktitle": "Order",
+        "workdesc": "To give the confidence to  consumer",
+        "image": "shopify:\/\/shop_images\/icons8-clock-144.png",
+        "image2": "shopify:\/\/shop_images\/icons8-calendar-96.png",
+        "animatedbanner1": "shopify:\/\/shop_images\/Untitled-1_e23.png",
+        "button-text": "Print Photos Online",
+        "button-link": "https:\/\/580.app.fujipix.ie\/",
+        "custom_text": "<p><strong>Who Are You Buying From<\/strong><\/p><p>We are a family business printing photos, gifts and framed gifts in Killybegs, Co Donegal for nearly 20 years. <\/p><p><\/p><p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire on your wall.<\/p><p><\/p>",
+        "dri": "shopify:\/\/shop_images\/print_photos_mobile_1e041242-0fbb-4617-9690-d9bf8f7cecd7.png",
+        "cta_text": "Read About Us",
+        "cta_url": "shopify:\/\/pages\/about-us"
+      }
     }
   },
   "order": [
@@ -988,6 +1004,7 @@
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c"
+    "c44666b7-f00b-4316-839b-77d8cf2bf64c",
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
