@@ -909,6 +909,7 @@
                         {%- if gift_card_recipient_feature_active -%}
                             {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
                         {%- endif -%}
+                      {%- if product.metafields.inventory.ShappifyHidden == 'true' -%}{%- break -%}{%- endif -%}
                         <p class="submit m10 {% unless current_variant.available %}unavailable{% endunless %}" {{ block.shopify_attributes }}>
                             {%- if block.settings.show_amount_selection -%}
                                 <span class="input-amount">
