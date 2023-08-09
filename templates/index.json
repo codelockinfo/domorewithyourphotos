@@ -1023,6 +1023,96 @@
         "cta_text": "Read About Us",
         "cta_url": "shopify:\/\/pages\/about-us"
       }
+    },
+    "e2b723d0-bda6-440a-ac73-1e4756308c04": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "The Simpsons Caricature",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "white",
+            "title_weight": "200"
+          }
+        },
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Surprise your family with a one of a kind hand drawn simpson family portrait.<\/p><p>Choose between framed or Canvas.<\/p><p>Get in touch if you need hlep or have any questions.<\/p>"
+          }
+        },
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Order Here",
+            "link_url_1": "shopify:\/\/products\/the-simpsons-family-portrait",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-title-1",
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-text-1",
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-1",
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-2",
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-3",
+        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/appfamily.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1040,6 +1130,7 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
     "c44666b7-f00b-4316-839b-77d8cf2bf64c",
-    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905",
+    "e2b723d0-bda6-440a-ac73-1e4756308c04"
   ]
 }
