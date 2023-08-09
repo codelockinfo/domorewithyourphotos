@@ -57,13 +57,6 @@
             "sizechart_html": ""
           }
         },
-        "8173a59f-95f6-4f23-9796-98ec220bdffe": {
-          "type": "custom_html",
-          "disabled": true,
-          "settings": {
-            "custom_html": "<button type=\"submit\" class=\"overlay-tertiary inv\">Personalize<\/button>"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "settings": {
@@ -86,6 +79,12 @@
           "settings": {
             "show_tax": true,
             "font_size": 16
+          }
+        },
+        "8173a59f-95f6-4f23-9796-98ec220bdffe": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<button type=\"submit\" class=\"overlay-tertiary w-100\">Personalize<\/button>"
           }
         },
         "buy_button": {
@@ -163,11 +162,11 @@
         "c7259cb9-7235-4028-b6df-3a68077fed80",
         "short_description",
         "variant_selection",
-        "8173a59f-95f6-4f23-9796-98ec220bdffe",
         "pickup",
         "90724a70-740a-4cc9-984c-764e1d76a5bd",
         "inventory",
         "price",
+        "8173a59f-95f6-4f23-9796-98ec220bdffe",
         "buy_button",
         "80e67d89-9369-4ddb-8111-2aa1c36fb500",
         "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924",
