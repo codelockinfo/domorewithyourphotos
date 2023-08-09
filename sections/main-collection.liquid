@@ -176,7 +176,7 @@
               {%- endif -%}
               <ul id="collection" class="l4cl {{ width_class }}{% unless show_filters_and_menu %} mobile-wide{% endunless %} mobile-scroll" {{ block.shopify_attributes }}>
                 {%- for product in collection.products -%}
-                  {%- if product.metafields.inventory.ShappifyHidden == 'true' -%}{%- continue -%}{%- endif -%}
+                  {% comment %} {%- if product.metafields.inventory.ShappifyHidden == 'true' -%}{%- continue -%}{%- endif -%} {% endcomment %}
                   {%- liquid
                     capture placeholder_int
                       cycle 1, 2, 3, 4, 5, 6
