@@ -4854,3 +4854,6 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	display: flex;
     align-items: center;
 }
+.overlay-tertiary.w-100{
+	width: 100%;
+} 

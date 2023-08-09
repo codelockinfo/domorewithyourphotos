@@ -55,7 +55,7 @@
 		{{ content_for_header }}
 		{% if template == 'product' and product.metafields.inventory.ShappifyHidden or product.type contains '_HIDDEN_' %}<meta name='robots' content='noindex'>{% endif %}
 		{%- render 'bold-common' -%}
-{% render 'sc-includes' %}
+		{% render 'sc-includes' %}
 		{{ settings.custom_script_for_head }}
 	</head>
 	<body class="template-{{ template.name | handle }}">

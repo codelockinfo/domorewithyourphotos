@@ -391,8 +391,7 @@
                     {{ block.settings.custom_liquid }}
                 {%- when 'custom_html' -%}
                     {{ block.settings.custom_html }}
-{% comment %}                     
-                    <div class="bold_options" data-product-id="{{ product.id }}"></div> {% endcomment %}
+                    
                 {%- when 'title' -%}
                     {%- if forloop.first == false -%}
                         {%- if title_block.settings.layout == 'title-right' -%}
