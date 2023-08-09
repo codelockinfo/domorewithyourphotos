@@ -1104,7 +1104,7 @@
         "color_palette": "black",
         "overlay_opacity": 100,
         "layout": "image-right",
-        "width": "boxed",
+        "width": "wide",
         "height": "m",
         "enable_custom_height": false,
         "custom_height": 300,
