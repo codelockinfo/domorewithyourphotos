@@ -1,0 +1,129 @@
+<div class="container ppdm_layout ">
+  <div class="col-48 paddtb30">
+       
+  <div class="col4">    
+    <h2>{{section.settings.worktitle}}</h2>
+    <p>{{section.settings.workdesc}}</p>
+    <div class="orderflex">
+        <div class="orderdetail">
+          <div class="ordertext">
+            {% if section.settings.image != 'blank' %}
+            <img src="{{ section.settings.image | img_url: '800x' }}" alt="{{ section.settings.image.alt | escape }}">
+            {% else %}
+            {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+            {% endif %}
+            <h3 class="ordertitle">{{section.settings.ordertext}}</h3>
+            <p class="orderdetail">{{section.settings.orderdes}}</p>
+          </div>
+        </div>
+        <div class="orderdetail">
+          <div  class="ordertext">
+            {% if section.settings.image2 != 'blank' %}
+            <img src="{{ section.settings.image2 | img_url: '800x' }}" alt="{{ section.settings.image2.alt | escape }}">
+            {% else %}
+            {{ 'image2' | placeholder_svg_tag: 'placeholder-svg' }}
+            {% endif %}
+            <h3 class="ordertitle">{{section.settings.ordertext}}</h3>
+            <p class="orderdetail">{{section.settings.orderdes}}</p>
+          </div>
+        </div>
+    </div>
+     <a class="text-center read-more text-link" href="{{ section.settings.button-link}}" target="_blank">{{section.settings.button-text}}</a>
+   
+  </div>
+  <div class="col8 kiosk-section">
+    <div class="top-banner-container">            
+            {% if section.settings.animatedbanner1 %}<div class="ptb-banner-img"><img src="{{ section.settings.animatedbanner1 | img_url: 'master' }}" ></div>{% endif %}
+            <div class="top-banner-content">{{ section.settings.custom_text }}</div>
+            <div class="ptb_right_img"><img src="{{ section.settings.dri | img_url: 'master' }}" ></div>
+            <a class="read-more text-link" href="{{ section.settings.cta_url}}" target="_blank">{{section.settings.cta_text}}</a>
+     </div>
+  </div>
+</div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Section How We Work",
+    "class":"how_work",
+    "settings": [
+      {
+        "type": "text",
+        "id": "worktitle",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "workdesc",
+        "label": " Sub- Title"
+      },
+		{
+        "type": "image_picker",
+        "id": "image",
+        "label": "Left image"
+      },
+      {
+        "type": "image_picker",
+        "id": "image2",
+        "label": "Right image"
+      },	
+	{
+        "type": "image_picker",
+        "id": "animatedbanner1",
+        "label": "Animated Banner Image"
+      },
+		 {
+        "type": "text",
+        "id": "button-text",
+        "label": "Image Bottom Button text",
+        "default": "Activiate Kiosk"
+      },
+      {
+        "type": "url",
+        "id": "button-link",
+        "label": "Image Bottom Button link"
+      },
+
+      {
+        "type": "richtext",
+        "id": "custom_text",
+        "label": "Custom Text",
+        "default": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+      },
+		{
+        "type": "image_picker",
+        "id": "dri",
+        "label": "Right Image"
+      },
+	  {
+        "type": "text",
+        "id": "cta_text",
+        "label": "Button text",
+        "default": "Activate printing kiosk"
+      },
+      {
+        "type": "url",
+        "id": "cta_url",
+        "label": "Button link"
+      }
+	  
+	],
+"presets": [
+	  {
+		"name": "Section How We Work",
+        "category": "text",
+        "settings": {          
+		  "cta_url": "#"
+        }
+	  }
+		
+	]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
