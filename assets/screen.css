@@ -4944,6 +4944,9 @@ a.text-center.read-more.text-link {
 	float: left;
     width: 100%;
     box-sizing: border-box;
+	box-shadow: -2px 2px 5px #0003;
+	font-size: 30px;
+    font-weight: 600;
 }
 .container.ppdm_layout{
 	max-width: 1200px;
@@ -4954,7 +4957,7 @@ a.text-center.read-more.text-link {
     margin: 8px auto;
 }
 .how_work .col4 h2 ,.how_work .col4 p{
-	text-aligh:center;
+	text-align:center;
 }
 .how_work .orderflex {
     display: flex;
@@ -4966,11 +4969,39 @@ a.text-center.read-more.text-link {
 	background: #e69797a1;
 	padding: 10px;
 	border-radius: 20px;
+	width: 46%;
 }
 .how_work h3.ordertitle {
     margin-top: 0;
 }
+@media only screen and (max-width: 991px) {
+	.how_work .col-48.paddtb30{
+		flex-wrap: wrap;
+	}
+	.how_work .col-48 .col8 ,.how_work .col-48 .col4{
+		width:100%;
+	} 
+	.how_work .col-48 .col4{
+		order:2;
+	}
+	.how_work .paddtb30{
+		padding-right: 0;
+	}
+}
+@media only screen and (max-width: 420px) {
+	.how_work .orderflex{
+		flex-wrap: wrap;
+	}
+	.how_work .orderdetail{
+		width:98%;
+		margin: 4% 0;
+	}
+	a.text-center.read-more.text-link ,.how_work .top-banner-container .read-more.text-link{
+		font-size: 20px;
+	}
+}
 /* how work end section */
+
 /* cls015 end */
 .with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
 	padding: 12px 20px;
