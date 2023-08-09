@@ -136,3 +136,15 @@
 		{{ settings.custom_script_for_body }}
 	</body>
 </html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+	$(document).on("click",".subMenullink",function(e){
+			e.preventDefault();
+			if($(this).find(".submenu").hasClass("clsHidemenu")){
+				$(this).find("span").html("-");
+			}else{
+				$(this).find("span").html("+");
+			}
+			$(this).find(".submenu").toggleClass("clsHidemenu");
+	});
+</script>

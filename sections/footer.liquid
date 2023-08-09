@@ -166,14 +166,15 @@
               {%- if link.links != blank -%}
                 <ul>
                   {%- for sub in link.links -%}
-                    <li><a href="{{ sub.url }}" title="{{ sub.title }}">{{ sub.title }}</a></li>
+                    <li class="{% if sub.links !=  blank %} subMenullink {% endif%}"><a href="{{ sub.url }}" title="{{ sub.title }}">{{ sub.title }}{% if sub.links !=  blank %} <span>+</span> {% endif%}</a>
                     {%- if sub.links != blank -%}
-                      <ul>
+                      <ul class="submenu clsHidemenu">
                         {%- for subsub in sub.links -%}
                           <li><a href="{{ subsub.url }}" title="{{ subsub.title }}">{{ subsub.title }}</a></li>
                         {%- endfor -%}
                       </ul>
                     {%- endif -%}
+                  </li>
                   {%- endfor -%}
                 </ul>
               {%- endif -%}
@@ -272,7 +273,7 @@
     </figure>
     {%- if section.settings.bottom_img_link != empty -%}</a>{%- endif -%}
   {%- endif -%}
-  <p>&copy; <span class="date">{{ 'now' | date: "%Y" }}</span> {{ shop.name }}, {{ powered_by_link }}</a></p>
+  <p>&copy; <span class="date">{{ 'now' | date: "%Y" }}</span> {{ shop.name | link_to: '/' }}</a></p>
   <ul class="l4dr">
     {%- liquid
       if section.settings.enable_country_selector and localization.available_countries.size > 1
