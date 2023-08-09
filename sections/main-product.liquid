@@ -392,6 +392,7 @@
                 {%- when 'custom_html' -%}
                     {{ block.settings.custom_html }}
                     
+                    <div class="bold_options" data-product-id="{{ product.id }}"></div>
                 {%- when 'title' -%}
                     {%- if forloop.first == false -%}
                         {%- if title_block.settings.layout == 'title-right' -%}
