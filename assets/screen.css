@@ -4955,3 +4955,13 @@ a.text-center.read-more.text-link {
 }
 /* how work end section */
 /* cls015 end */
+.with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
+	padding: 12px 20px;
+}
+.bold_option_dropdown  label{
+	display: flex;
+    align-items: center;
+}
+.overlay-tertiary.w-100{
+	width: 100%;
+} 

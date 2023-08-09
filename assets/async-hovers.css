@@ -297,3 +297,6 @@ html:not(.cart-hover) #header .l4al { pointer-events: none; }
 @media only screen and (max-width: 400px) {
 .recommendation-modal__container { width: auto !important; }
 }
+ .form-card.cart-initialized{
+	display: none;
+}

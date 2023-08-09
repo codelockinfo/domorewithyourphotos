@@ -61,6 +61,8 @@
           {%- endif -%}
           <ul class="l4ca">
             {%- for line_item in cart.items -%}
+
+{%- include 'bold-options-hybrid-cart-item' with line_item -%}
               <li class="{% if settings.fill_product_images %} cover{% endif %}{% unless line_item.image %} no-image{% endunless %}{% if line_item.original_line_price > line_item.final_line_price %} has-discount{% endif %}">
                 {%- if line_item.image -%}
                   <figure{% if settings.multiply_product_images == 'multiply' %} class="img-multiply"{% elsif settings.multiply_product_images == 'multiply-bg' %} class="img-multiply-bg"{% endif %}>
@@ -109,12 +111,36 @@
                       {%- if line_item.selling_plan_allocation -%}
                         <li>{{ line_item.selling_plan_allocation.selling_plan.name }}</li>
                       {%- endif -%}
+                       <!-- Bold:POv2 -->
+                      <span class="Bold-theme-hook-DO-NOT-DELETE bold_cart_item_properties" style="display:none !important;"></span>
+                      {% assign propertySize = line_item.properties | size %}
+                      {% if propertySize > 0 %}
+                      {% for p in line_item.properties %}
+                      {% assign first_character_in_key = p.first | truncate: 1, '' %}
+                      {% unless p.last == blank or first_character_in_key == '_' %}
+                      {% if p.first == "CardID" %}
+                      PersonalisationID:
+                      {% else %}
+                      {{ p.first }}:
+                      {% endif %}
+                      {% if p.last contains '/uploads/' %}
+                      <a href="{{ p.last }}">{{ p.last | split: '/' | last }}</a>
+                      {% else %}
+                      {{ p.last }}
+                      {% endif %}
+                      <br/>
+                      {% endunless %}
+                      {% endfor %}
+                      {% endif %}
+                      <!-- Bold:POv2 -->
+                        {% comment %}
                       {%- for property in line_item.properties -%}
                         {%- if property.first.first == '_' or property.last == blank -%}{%- continue -%}{%- endif -%}
                         <li>
                           {{ property.first }}:&nbsp;{% if property.last contains '/uploads/' %}<a href="{{ property.last }}">{{ property.last | split: '/' | last }}</a>{% else %}{{ property.last }}{% endif %}
                         </li>
                       {%- endfor -%}
+                        {% endcomment %}
                     </ul>
                   {%- endif -%}
                   {%- render 'product-deliverytime',
