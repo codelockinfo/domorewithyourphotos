@@ -870,7 +870,7 @@
                         {%- endif -%}
                     </p>
                     {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
-                    {%- form 'product', product, id: product_form_installment_id, class: 'f8pr-product-form-installment' -%}
+                    {%- form 'product', product, id: product_form_installment_id, class: 'f8pr-product-form-installment no_bold_options' -%}
                         <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
                         <div class="shopify-installments-container">{{ form | payment_terms }}</div>
                     {%- endform -%}
