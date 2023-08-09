@@ -5044,3 +5044,41 @@ a.text-center.read-more.text-link {
 .overlay-tertiary.w-100{
 	width: 100%;
 } 
+.bold_options.bold_options_loaded{
+	display: none;
+}
+.bold_options.bold_options_loaded.show{
+	display: block;
+}
+.bold_option.bold_option_uploadfile {
+	position: relative;
+    overflow: hidden;
+    margin-bottom: 10px !important; 
+    margin-top: 10px !important; 
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    padding: 8px 16px 7px;
+}
+.bold_option_title{
+	margin-left: 2px;
+}
+.bold_option_uploadfile .bold_option_element input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.bold_option_uploadfile .bold_option_element input[type=file] {
+	/* cursor: pointer;
+    border: 1px dashed;
+    border-radius: 10px;
+    padding: 10px; */
+}
