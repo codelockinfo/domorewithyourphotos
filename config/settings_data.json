@@ -91,6 +91,8 @@
     "image_behaviour": "slider",
     "product_text_size": "14px",
     "show_vendor": false,
+    "show_color_swatches": true,
+    "color_swatches_single": true,
     "preorder": true,
     "preorder_button_color": "#000000",
     "preorder_label_color": "#000000",

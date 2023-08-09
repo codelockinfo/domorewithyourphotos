@@ -1,1 +1,75 @@
-{"type":"footer","name":"t:static_sections.footer.name","sections":{"footer":{"type":"footer","blocks":{"footer-block-customer-support-1":{"type":"customer_support","settings":{"title":"Customer service","customer_support_img_width":220,"customer_support_offset_right":30,"customer_support_offset_bottom":0,"extra_customer_support":"<p>Available between 8AM to 8PM. Ready to answer your questions.<\/p>","customer_support_offset_right_mobile":0,"customer_support_offset_bottom_mobile":0}},"footer-block-newsletter-1":{"type":"newsletter","settings":{"title":"Subscribe to our emails","footer_button_color":"accent","enable_newsletter_terms_checkbox":false,"newsletter_terms_text":""}},"footer-block-menu-1":{"type":"menu","settings":{"menu":"footer","split_menu":false}}},"block_order":["footer-block-newsletter-1","footer-block-menu-1","footer-block-customer-support-1"],"settings":{"footer_color":"white","bottom_color":"light","bottom_img_width":50,"bottom_img_link":"","enable_country_selector":true,"enable_language_selector":true,"show_payment_methods":true}}},"order":["footer"]}
+{
+  "type": "footer",
+  "name": "t:static_sections.footer.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-block-newsletter-1": {
+          "type": "newsletter",
+          "settings": {
+            "title_size": "h5",
+            "title_weight": "700",
+            "title": "Subscribe to our emails",
+            "newsletter_text": "<p>Never miss any news and be the first to know about sale and offers<\/p>",
+            "footer_button_color": "accent",
+            "enable_newsletter_terms_checkbox": false,
+            "newsletter_terms_text": ""
+          }
+        },
+        "footer-block-menu-1": {
+          "type": "menu",
+          "settings": {
+            "title_size": "h3",
+            "title_weight": "700",
+            "menu": "footer",
+            "split_menu": false
+          }
+        },
+        "footer-block-customer-support-1": {
+          "type": "customer_support",
+          "settings": {
+            "title_size": "h5",
+            "title_weight": "700",
+            "title": "Customer service",
+            "customer_support_img_width": 220,
+            "customer_support_offset_right": 30,
+            "customer_support_offset_bottom": 0,
+            "extra_customer_support": "<p>Available between 8AM to 8PM. Ready to answer your questions.<\/p>",
+            "show_socials": true,
+            "socials_in_circle": false,
+            "socials_color_palette": "accent",
+            "enable_follow_on_shop": false,
+            "customer_support_offset_right_mobile": 0,
+            "customer_support_offset_bottom_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "footer-block-newsletter-1",
+        "footer-block-menu-1",
+        "footer-block-customer-support-1"
+      ],
+      "settings": {
+        "footer_color": "white",
+        "column_text_alignment": "left",
+        "content_position": "left",
+        "title_font": "primary",
+        "font_size": "14px",
+        "bottom_color": "light",
+        "bottom_img": "shopify:\/\/shop_images\/sample_598x_55d2454a-af8a-4a4e-b1a4-d82628803bcb.webp",
+        "bottom_img_width": 50,
+        "bottom_img_link": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_follow_on_shop": false,
+        "show_payment_methods": true,
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
