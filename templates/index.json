@@ -654,7 +654,7 @@
       ],
       "settings": {
         "alignment": "center",
-        "compact": false,
+        "compact": true,
         "title": "Discover Our Best-Sellers!",
         "title_font": "primary",
         "title_size": "h2",
