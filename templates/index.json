@@ -6,7 +6,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pillow_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/Evergreen.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -42,18 +42,18 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ornament_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/Banner-Anniversary-Gifts-1-1.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-center",
-            "title": "MEMORIAL SLATES",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700",
-            "subtitle": "celebrate your memories with",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
