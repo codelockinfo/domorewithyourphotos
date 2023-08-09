@@ -4953,6 +4953,23 @@ a.text-center.read-more.text-link {
     width: 100%;
     margin: 8px auto;
 }
+.how_work .col4 h2 ,.how_work .col4 p{
+	text-aligh:center;
+}
+.how_work .orderflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.how_work .orderdetail{
+	text-align:center;
+	background: #e69797a1;
+	padding: 10px;
+	border-radius: 20px;
+}
+.how_work h3.ordertitle {
+    margin-top: 0;
+}
 /* how work end section */
 /* cls015 end */
 .with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
