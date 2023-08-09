@@ -84,7 +84,7 @@
         "8173a59f-95f6-4f23-9796-98ec220bdffe": {
           "type": "custom_html",
           "settings": {
-            "custom_html": "<button type=\"submit\" class=\"overlay-tertiary w-100\">Personalize<\/button>"
+            "custom_html": "<button type=\"submit\" class=\"overlay-tertiary w-100 buttonPersonalize\">Personalize<\/button>"
           }
         },
         "buy_button": {
