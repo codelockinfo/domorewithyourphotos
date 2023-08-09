@@ -62,7 +62,7 @@
         "filters_show_more_limit": 7,
         "enable_custom_filters_font_size": false,
         "filters_font_size": "14px",
-        "filter_mobile_sticky": false,
+        "filter_mobile_sticky": true,
         "fix_zindex": 1
       }
     }
