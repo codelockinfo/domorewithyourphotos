@@ -977,8 +977,10 @@
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
-        "worktitle": "",
-        "workdesc": "",
+        "worktitle": "Order",
+        "workdesc": "To give the confidence to  consumer",
+        "image": "shopify:\/\/shop_images\/icons8-clock-144.png",
+        "image2": "shopify:\/\/shop_images\/icons8-calendar-96.png",
         "animatedbanner1": "shopify:\/\/shop_images\/Untitled-1_e23.png",
         "button-text": "Print Photos Online",
         "button-link": "https:\/\/580.app.fujipix.ie\/",
