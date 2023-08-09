@@ -4869,6 +4869,17 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	  margin-bottom: 30px;
 	   box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.2);
 }
+.how_work a.text-center.read-more.text-link ,
+.how_work .top-banner-container a.read-more.text-link{
+    /* font-family: sans-serif , 'Inter'; */
+    background: transparent !important;
+    box-shadow: none !important;
+    color: #020202 !important;
+    outline: 1px solid #d43342 !important;
+}
+.how_work a.read-more.text-link {
+    text-align: center;
+}
 .how_work .col-48 {
     width: 100%;
     display: block;
@@ -4971,6 +4982,9 @@ a.text-center.read-more.text-link {
 	border-radius: 20px;
 	width: 46%;
 }
+.ordertext{
+	padding: 60px 0;
+}
 .how_work h3.ordertitle {
     margin-top: 0;
 }
@@ -4988,6 +5002,19 @@ a.text-center.read-more.text-link {
 		padding-right: 0;
 	}
 }
+@media only screen and (max-width: 620px) {
+	.how_work .top-banner-content{
+		width: 100%;
+		float: unset;
+	}
+	.ptb_right_img {
+		width: 16%;
+		float: right;
+	}
+	.ordertext {
+		padding: 10px 0;
+	}
+}
 @media only screen and (max-width: 420px) {
 	.how_work .orderflex{
 		flex-wrap: wrap;
@@ -4999,7 +5026,11 @@ a.text-center.read-more.text-link {
 	a.text-center.read-more.text-link ,.how_work .top-banner-container .read-more.text-link{
 		font-size: 20px;
 	}
+	.ptb_right_img {
+		width: 40%;
+	}
 }
+
 /* how work end section */
 
 /* cls015 end */

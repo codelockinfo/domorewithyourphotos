@@ -25,7 +25,7 @@
                             data-src="{{ link.object[image] | image_url: width: 60, height: 60 }}"
                             data-srcset="{{ link.object[image] | image_url: width: 30, height: 30 }} 1x,{{ link.object[image] | image_url: width: 60, height: 60 }} 2x"
                             alt="{{ link.object[image].alt | default: link.title | escape }}"
-                            width="30"
+                            width="50"
                             height="30">
                 {%- endif -%}
                 {%- if link_title_downcase == 'sale' and sale_highlight -%}
@@ -53,7 +53,7 @@
                            0
                          "
                                                 alt="{{ sub.object[image].alt | default: sub.title | escape }}"
-                                                width="30"
+                                                width="50"
                                                 height="30">
                                     {%- endif -%}
                                     {{ sub.title }}
@@ -74,7 +74,7 @@
                                    0
                                  "
                                                             alt="{{ subsub.object[image].alt | default: subsub.title | escape }}"
-                                                            width="30"
+                                                            width="50"
                                                             height="30">
                                                 {%- endif -%}
                                                 {{ subsub.title }}
@@ -127,7 +127,7 @@
                             data-src="{{ link.object[image] | image_url: width: 60, height: 60 }}"
                             data-srcset="{{ link.object[image] | image_url: width: 30, height: 30 }} 1x,{{ link.object[image] | image_url: width: 60, height: 60 }} 2x"
                             alt="{{ link.object[image].alt | default: link.title | escape }}"
-                            width="30"
+                            width="50"
                             height="30">
                 {%- endif -%}
                 {%- if link_title_downcase == 'sale' and sale_highlight -%}
@@ -340,7 +340,7 @@
                        0
                      "
                                                 alt="{{ sub.object[image].alt | default: sub.title | escape }}"
-                                                width="30"
+                                                width="50"
                                                 height="30">
                                     {%- endif -%}
                                     {{ sub.title }}
