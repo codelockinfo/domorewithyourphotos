@@ -59,6 +59,7 @@
         },
         "8173a59f-95f6-4f23-9796-98ec220bdffe": {
           "type": "custom_html",
+          "disabled": true,
           "settings": {
             "custom_html": "<button type=\"submit\" class=\"overlay-tertiary inv\">Personalize<\/button>"
           }

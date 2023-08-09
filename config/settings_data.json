@@ -1,7 +1,7 @@
 {
   "current": {
     "favicon": "",
-    "width": 1600,
+    "width": 1300,
     "everything_rounded": true,
     "palette_black": "#000000",
     "palette_light": "#efefef",
@@ -182,21 +182,6 @@
           "logo_width_on_giftcard": 130,
           "giftcard_background_color": "#eb5757",
           "giftcard_text_color": "#ffffff"
-        }
-      },
-      "sticky-add-to-cart": {
-        "type": "sticky-add-to-cart",
-        "settings": {
-          "enable": false,
-          "position": "bottom",
-          "color_palette": "white",
-          "button_color_palette": "buy_button",
-          "show_variant_picker": true,
-          "show_unavailable_variants": true,
-          "show_tax": false,
-          "show_amount_selection": true,
-          "hide_in_theme_editor": false,
-          "show_mobile": true
         }
       }
     },
