@@ -171,7 +171,7 @@
         "e434d2f5-3a5d-45a1-966d-c97cccc7c52e"
       ],
       "settings": {
-        "media_layout": "slider",
+        "media_layout": "rows",
         "images_grid_spacing": 16,
         "fill_images": true,
         "show_thumbs_desktop": true,
