@@ -78,7 +78,7 @@
           "type": "price",
           "settings": {
             "show_tax": true,
-            "font_size": 14
+            "font_size": 16
           }
         },
         "buy_button": {
