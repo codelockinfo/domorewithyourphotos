@@ -1079,7 +1079,7 @@
           "settings": {
             "link_text_1": "Order Here",
             "link_url_1": "shopify:\/\/products\/the-simpsons-family-portrait",
-            "button_color_palette_1": "accent",
+            "button_color_palette_1": "light",
             "button_style_1": "fill",
             "show_link_1": false,
             "link_text_2": "",
@@ -1101,11 +1101,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/add001.jpg",
         "overlay_opacity_img": 0,
-        "color_palette": "white",
+        "color_palette": "black",
         "overlay_opacity": 100,
         "layout": "image-right",
         "width": "boxed",
-        "height": "l",
+        "height": "m",
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
