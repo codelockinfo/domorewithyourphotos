@@ -64,6 +64,7 @@
         },
         "90724a70-740a-4cc9-984c-764e1d76a5bd": {
           "type": "codes",
+          "disabled": true,
           "settings": {
             "show_sku": true,
             "show_barcode": true
@@ -143,6 +144,7 @@
         },
         "50ace3d2-e324-4cba-b98e-e63ebaff4f6b": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Specifications",
             "content": "<p>Anniversary, Wedding, Song Lyrics<\/p>",
