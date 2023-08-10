@@ -42,12 +42,12 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-canvas-prints-1.jpg",
+            "image": "shopify:\/\/shop_images\/Photo-Tiles_Desktop-1.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-center",
-            "title": "",
+            "title": "CELEBRATE YOUR MEMORIES",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -62,9 +62,9 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
+            "link_text": "Canvas Print",
+            "link_url": "shopify:\/\/collections",
+            "show_link": true,
             "show_look": false,
             "product_list": [
 
