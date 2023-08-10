@@ -383,3 +383,12 @@ bold-options.css version 6
 
 /* custom css */
 
+.bold_option_dropdown .bold_option_value_quantity input{
+    font-size: 17px;
+    color: #8a8f93;
+    border: 1px solid #e1e3e4;
+    padding: 11px 15px;
+    vertical-align: middle;
+    max-width: 100%;
+    margin-top: 2%; 
+}
