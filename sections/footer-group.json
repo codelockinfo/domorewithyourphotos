@@ -37,7 +37,7 @@
             "customer_support_offset_bottom": 0,
             "extra_customer_support": "<p>Available between 8AM to 8PM. Ready to answer your questions.<\/p>",
             "show_socials": true,
-            "socials_in_circle": false,
+            "socials_in_circle": true,
             "socials_color_palette": "accent",
             "enable_follow_on_shop": false,
             "customer_support_offset_right_mobile": 0,
