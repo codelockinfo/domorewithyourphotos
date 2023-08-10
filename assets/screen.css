@@ -5048,7 +5048,7 @@ a.text-center.read-more.text-link {
 	width: 100%;
 } 
 .bold_options.bold_options_loaded{
-	display: none;
+	/* display: none; */
 }
 .bold_options.bold_options_loaded.show{
 	display: block;
@@ -5081,4 +5081,10 @@ a.text-center.read-more.text-link {
 }
 .clsHidemenu{
 	display: none;
+}
+.form-cart section ul.form-group{
+	display: block;
+}
+.bold_lightbox_buttons > button{
+	background: var(--secondary_bg_btn);
 }
