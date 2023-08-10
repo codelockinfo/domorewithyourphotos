@@ -107,7 +107,7 @@
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "title_color_palette": "black",
+        "title_color_palette": "dark",
         "title_weight": "700",
         "subtitle": "",
         "subtitle_font": "secondary",
@@ -238,7 +238,6 @@
     },
     "1662644641662a3424": {
       "type": "section-promo-gallery",
-      "disabled": true,
       "blocks": {
         "1662644641f8605a6c-0": {
           "type": "image",
@@ -327,6 +326,7 @@
         "1662644641f8605a6c-0",
         "1662644641f8605a6c-1"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 3,
         "width": "boxed",
@@ -374,7 +374,6 @@
     },
     "1660291186859914cb": {
       "type": "section-usp-bar",
-      "disabled": true,
       "blocks": {
         "166029118628eefa48-0": {
           "type": "usp",
@@ -400,6 +399,7 @@
         "166029118628eefa48-1",
         "166029118628eefa48-2"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
