@@ -178,7 +178,7 @@
           "type": "promo_banners",
           "settings": {
             "menu_item": "Binocular, Instax, Frames & Accessories",
-            "height": "size-s",
+            "height": "size-m",
             "enable_custom_height": false,
             "custom_height": 300,
             "image_zoom": false,
