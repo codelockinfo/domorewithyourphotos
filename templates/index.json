@@ -998,7 +998,7 @@
         "show_author": true,
         "show_excerpt": false,
         "button_color_palette_post": "accent",
-        "show_link_post": false,
+        "show_link_post": true,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
