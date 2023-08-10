@@ -1031,7 +1031,7 @@
           "type": "title",
           "settings": {
             "title_font": "primary",
-            "title_size": "h3",
+            "title_size": "h4",
             "title": "The Simpsons Caricature",
             "enable_custom_text_styling": false,
             "title_color_palette": "white",
@@ -1043,7 +1043,7 @@
           "settings": {
             "font": "secondary",
             "font_weight": "400",
-            "font_size": "16px",
+            "font_size": "14px",
             "text": "<p>Surprise your family with a one of a kind hand drawn simpson family portrait.<\/p><p>Choose between framed or Canvas.<\/p><p>Get in touch if you need hlep or have any questions.<\/p>"
           }
         },
