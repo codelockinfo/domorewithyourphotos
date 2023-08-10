@@ -71,6 +71,7 @@
     "button_fontsize_mobile": "14px",
     "button_wide_mobile": false,
     "back_to_top_button": false,
+    "enable_cart_drawer": false,
     "enable_cart_drawer_undo_remove": true,
     "enable_cart_drawer_undo_remove_delay": true,
     "cart_drawer_checkout_button": true,
@@ -190,6 +191,21 @@
           "logo_width_on_giftcard": 130,
           "giftcard_background_color": "#eb5757",
           "giftcard_text_color": "#ffffff"
+        }
+      },
+      "sticky-add-to-cart": {
+        "type": "sticky-add-to-cart",
+        "settings": {
+          "enable": false,
+          "position": "bottom",
+          "color_palette": "white",
+          "button_color_palette": "buy_button",
+          "show_variant_picker": true,
+          "show_unavailable_variants": true,
+          "show_tax": false,
+          "show_amount_selection": true,
+          "hide_in_theme_editor": false,
+          "show_mobile": true
         }
       }
     },
