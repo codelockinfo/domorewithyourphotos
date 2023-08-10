@@ -175,7 +175,7 @@
         "number_of_items": 8,
         "text_alignment": "center",
         "title": "Shop Trending Categories",
-        "title_font": "secondary",
+        "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
         "title_color_palette": "black",
