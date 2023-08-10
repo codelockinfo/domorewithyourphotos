@@ -94,7 +94,7 @@
     "show_vendor": false,
     "show_color_swatches": true,
     "color_swatches_single": true,
-    "preorder": true,
+    "preorder": false,
     "preorder_button_color": "#000000",
     "preorder_label_color": "#000000",
     "enable_free_shipping": true,
