@@ -28,7 +28,7 @@
             "font_size": "16px",
             "link_text": "shop best sellers",
             "link_url": "shopify:\/\/products\/18th-birthday-framed-photo-collage",
-            "show_link": false,
+            "show_link": true,
             "show_look": false,
             "product_list": [
 
