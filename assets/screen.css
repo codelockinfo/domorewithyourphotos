@@ -5103,6 +5103,7 @@ a.text-center.read-more.text-link {
 
 .form-cart  .bold_cart_edit_button{
 	margin: var(--btn_dist) var(--btn_dist) var(--btn_dist) 0;
+	width: 100%;
 }
 
 .imageHref{
