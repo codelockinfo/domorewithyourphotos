@@ -5082,9 +5082,30 @@ a.text-center.read-more.text-link {
 .clsHidemenu{
 	display: none;
 }
+
 .form-cart section ul.form-group{
 	display: block;
+	line-height: 11px;
+	opacity: 1;
+	color: gray;
 }
+
+.form-cart  .bold_cart_edit_button{
+	margin: var(--btn_dist) var(--btn_dist) var(--btn_dist) 0;
+}
+
+.imageHref{
+	text-decoration: none;
+	margin: 0 5px;
+}
+
 .bold_lightbox_buttons > button{
 	background: var(--secondary_bg_btn);
+}
+
+.template-cart #root .cover .cartImageProperties{
+	width: 50px !important;
+	height: 50px !important;
+	display: inline;
+    margin: 10px 0;
 }
