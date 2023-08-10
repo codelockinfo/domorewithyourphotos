@@ -28,7 +28,7 @@
             "font_size": "16px",
             "link_text": "shop best sellers",
             "link_url": "shopify:\/\/products\/18th-birthday-framed-photo-collage",
-            "show_link": false,
+            "show_link": true,
             "show_look": false,
             "product_list": [
 
@@ -175,7 +175,7 @@
         "number_of_items": 8,
         "text_alignment": "center",
         "title": "Shop Trending Categories",
-        "title_font": "secondary",
+        "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
         "title_color_palette": "black",
@@ -714,7 +714,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "garden flage",
+            "title": "Garden Flage",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
@@ -1031,7 +1031,7 @@
           "type": "title",
           "settings": {
             "title_font": "primary",
-            "title_size": "h3",
+            "title_size": "h4",
             "title": "The Simpsons Caricature",
             "enable_custom_text_styling": false,
             "title_color_palette": "white",
@@ -1043,7 +1043,7 @@
           "settings": {
             "font": "secondary",
             "font_weight": "400",
-            "font_size": "16px",
+            "font_size": "14px",
             "text": "<p>Surprise your family with a one of a kind hand drawn simpson family portrait.<\/p><p>Choose between framed or Canvas.<\/p><p>Get in touch if you need hlep or have any questions.<\/p>"
           }
         },

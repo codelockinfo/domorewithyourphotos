@@ -9,7 +9,7 @@
           "type": "newsletter",
           "settings": {
             "title_size": "h5",
-            "title_weight": "600",
+            "title_weight": "700",
             "title": "SIGNUP AND RECEIVE ALL OUR NEWS AND UPDATES FIRST",
             "newsletter_text": "",
             "footer_button_color": "accent",
@@ -31,7 +31,7 @@
           "settings": {
             "title_size": "h5",
             "title_weight": "700",
-            "title": "Customer service",
+            "title": "CUSTOMER SERVICE",
             "customer_support_img_width": 220,
             "customer_support_offset_right": 30,
             "customer_support_offset_bottom": 0,
