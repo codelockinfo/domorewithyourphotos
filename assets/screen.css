@@ -5121,3 +5121,6 @@ a.text-center.read-more.text-link {
 	display: inline;
     margin: 10px 0;
 }
+#main-product .buttonPersonalize{
+	display: none;
+}
