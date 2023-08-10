@@ -5047,10 +5047,10 @@ a.text-center.read-more.text-link {
 .overlay-tertiary.w-100{
 	width: 100%;
 } 
-.bold_options.bold_options_loaded{
-	/* display: none; */
+#main-product .bold_options.bold_options_loaded{
+	display: none;
 }
-.bold_options.bold_options_loaded.show{
+#main-product .bold_options.bold_options_loaded.show{
 	display: block;
 }
 .bold_option.bold_option_uploadfile {
