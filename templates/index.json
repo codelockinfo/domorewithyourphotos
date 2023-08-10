@@ -51,7 +51,7 @@
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
-            "title_color_palette": "black",
+            "title_color_palette": "dark",
             "title_weight": "700",
             "subtitle": "",
             "subtitle_font": "secondary",
