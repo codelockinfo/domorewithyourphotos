@@ -4,12 +4,11 @@
   "sections": {
     "announcement": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-1": {
           "type": "text",
           "settings": {
-            "text": "Shout out your big announcement here!"
+            "text": "Order Today, Preview in 24hrs, Delivery 1-3 Days"
           }
         }
       },
@@ -270,7 +269,7 @@
         "sticky": "sticky-header",
         "cart_icon": "cart|e903",
         "cart_icon_color": "accent",
-        "menubar_menu": "main-menu-2021",
+        "menubar_menu": "new",
         "menubar_height": "45px",
         "menu_layout": "mega",
         "show_dropdown_images": true,
