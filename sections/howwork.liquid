@@ -36,7 +36,7 @@
             {% if section.settings.animatedbanner1 %}<div class="ptb-banner-img"><img src="{{ section.settings.animatedbanner1 | img_url: 'master' }}" ></div>{% endif %}
             <div class="top-banner-content">{{ section.settings.custom_text }}</div>
             <div class="ptb_right_img"><img src="{{ section.settings.dri | img_url: 'master' }}" ></div>
-            <a class="read-more text-link" href="{{ section.settings.cta_url}}" target="_blank">{{section.settings.cta_text}}</a>
+            <div style="display:flex;"><a class="read-more text-link" href="{{ section.settings.cta_url}}" target="_blank">{{section.settings.cta_text}}</a></div>
      </div>
   </div>
 </div>
