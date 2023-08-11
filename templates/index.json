@@ -6,7 +6,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website2_2048x_3628b794-c0c9-4fe8-ae77-b32a294c5616.webp",
+            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -35,8 +35,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Personalised Party Banners"
           }
         },
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
