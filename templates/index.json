@@ -856,6 +856,61 @@
         "fix_zindex": 0
       }
     },
+    "e4401d1a-bfe5-40c3-9622-4ff73e51cef4": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Don’t Miss Out On Our Newest Designs!",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-content-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "page": "",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-title-1",
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-content-1",
+        "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-start",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -90,
+        "spacing_mobile": 0,
+        "fix_zindex": 0
+      }
+    },
     "e5086e97-5399-4448-ace4-e3cb612cccdd": {
       "type": "section-collage",
       "blocks": {
@@ -1184,6 +1239,7 @@
     "a73296f0-f170-4c5b-885d-b98039090205",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
+    "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
     "c44666b7-f00b-4316-839b-77d8cf2bf64c",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
