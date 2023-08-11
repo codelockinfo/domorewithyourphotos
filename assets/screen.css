@@ -4854,6 +4854,7 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 }
 [data-whatin=mouse] .link-btn a:hover{
 	box-shadow: none !important;
+	color: #000 !important;
 }
 [data-whatin=mouse] .link-btn a:hover:before{
 	background:transparent!important;
@@ -4998,6 +4999,9 @@ a.text-center.read-more.text-link {
 }
 .how_work h3.ordertitle {
     margin-top: 0;
+}
+.blogtext  [data-whatin=mouse] .link-btn a:hover{
+	color:#000 !important;
 }
 .section_collist figure.img-multiply-bg:before{
 	background: none !important;
