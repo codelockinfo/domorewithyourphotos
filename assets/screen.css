@@ -5074,14 +5074,18 @@ a.text-center.read-more.text-link {
 	opacity: 1 !important;
 	overflow: hidden ;
   } */
-  #content .shopify-section h2 a , #content .shopify-section header h2 ,#content .shopify-section h2{
+  /* #content .shopify-section h2 a , #content .shopify-section header h2 ,#content .shopify-section h2{
 	color:#aa1617;
-  }
-  .palette-white.module-color-palette.main .ff-primary  {
+  } */
+  /* .palette-white.module-color-palette.main .ff-primary  {
 	color:#000 !important;
-  }
+  } */
   .m6as[class^=palette-]:before{
-	background: #aa1617!important;
+	background: #d13540!important;
+  }
+  .collage_img ul li .s1lb.label.plain span{
+	background: #d13540 !important;
+    color: #ffffff !important;
   }
 /* cls015 end */
 .with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
