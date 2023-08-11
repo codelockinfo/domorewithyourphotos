@@ -83,6 +83,7 @@
     "trustbadge_text": "<p>Order Today, <strong>Get a Preview in 24hrs<\/strong><\/p>",
     "search_drawer_enable_pages": false,
     "search_drawer_enable_articles": false,
+    "show_sale_label": true,
     "show_stock_label": false,
     "stock_label_qty": 2,
     "product_custom_label": "custom.label",
