@@ -5157,3 +5157,9 @@ a.text-center.read-more.text-link {
 #main-product .buttonPersonalize{
 	display: none;
 }
+[data-whatin=mouse] #root .cart-initialized .submit button.overlay-tertiary:hover{
+	-webkit-animation:unset;
+	animation: unset;
+	background-color: #a12222;
+	color: #fff;
+}
