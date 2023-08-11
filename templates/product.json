@@ -33,11 +33,6 @@
             "product": "{{product}}"
           }
         },
-        "308a765e-2659-40c3-8aaf-59b33b89812d": {
-          "type": "product_ratings",
-          "settings": {
-          }
-        },
         "short_description": {
           "type": "short_description",
           "disabled": true,
@@ -175,7 +170,6 @@
       "block_order": [
         "c7259cb9-7235-4028-b6df-3a68077fed80",
         "90ce26a1-1041-4ad8-abc5-cf6592ed1b36",
-        "308a765e-2659-40c3-8aaf-59b33b89812d",
         "short_description",
         "variant_selection",
         "pickup",
