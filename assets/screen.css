@@ -5047,6 +5047,33 @@ a.text-center.read-more.text-link {
 [data-whatin=mouse] .link-btn a:hover{
 	color:#000 !important;
 }
+
+/* .custom-model-main {
+	text-align: center !important;
+	overflow: hidden ;
+	position: fixed !important;
+	top: 5% !important;
+	right: 0 !important;
+	bottom: 5% !important;
+	width:50%;
+	margin: 0 auto;
+	left: 0 ; /* z-index: 1050 !important; */
+	/* -webkit-overflow-scrolling: touch;
+	outline: 0 ;
+	opacity: 0 ;
+	-webkit-transition: opacity 0.15s linear, z-index 0.15 ;
+	-o-transition: opacity 0.15s linear, z-index 0.15 ;
+	transition: opacity 0.15s linear, z-index 0.15 ;
+	z-index: -1 ;
+	overflow-x: hidden ;
+	overflow-y: auto  ;
+  }
+  
+  .model-open {
+	z-index: 99999 !important;
+	opacity: 1 !important;
+	overflow: hidden ;
+  } */
 /* cls015 end */
 .with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
 	padding: 12px 20px;

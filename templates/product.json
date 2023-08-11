@@ -161,6 +161,7 @@
         },
         "e434d2f5-3a5d-45a1-966d-c97cccc7c52e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Frequently Asked Questions",
             "content": "",
@@ -301,6 +302,110 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "d89fbc6e-c7b2-4e51-8975-54c1215a6e7f": {
+      "type": "section-icon-text-blocks",
+      "blocks": {
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-1": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "image_height": 0,
+            "title": "",
+            "subtitle": "",
+            "text": "<p>3 Days Delivery<br\/>Order Monday, Receive  Thursday<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        },
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-2": {
+          "type": "text",
+          "settings": {
+            "icon": "group",
+            "image_height": 0,
+            "title": "",
+            "subtitle": "",
+            "text": "<p>700+ <br\/>5 Star Rating<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        },
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-3": {
+          "type": "text",
+          "settings": {
+            "icon": "delivery_box_1",
+            "image_height": 0,
+            "title": "",
+            "subtitle": "",
+            "text": "<p>Largest Selection OF Personalised<br\/>Framed Gifts in Ireland<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        },
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "image_height": 55,
+            "title": "Column",
+            "subtitle": "",
+            "text": "<p>Pair text with an icon or image to focus on services, products, blog posts or collections.<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-1",
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-2",
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-3",
+        "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "items_width": 3,
+        "text_alignment": "center",
+        "title": "",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "blocks_text_alignment": "center",
+        "blocks_title_font": "primary",
+        "blocks_title_size": "h2",
+        "blocks_subtitle_font": "secondary",
+        "blocks_subtitle_size": "h2",
+        "blocks_title_color_palette": "black",
+        "blocks_title_weight": "700",
+        "blocks_subtitle_color_palette": "black",
+        "blocks_subtitle_weight": "400",
+        "blocks_font_size": "16px",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -309,6 +414,7 @@
     "recommendations",
     "reviews",
     "16917252008198981c",
-    "recently-viewed"
+    "recently-viewed",
+    "d89fbc6e-c7b2-4e51-8975-54c1215a6e7f"
   ]
 }
