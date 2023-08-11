@@ -4968,7 +4968,7 @@ a.text-center.read-more.text-link {
 	box-shadow: -2px 2px 5px #0003;
 	font-size: 16px;
     font-weight: 700;
-    font-family: serif ,'Bitter';
+    font-family: 'Bitter',serif ;
 }
 .container.ppdm_layout{
 	max-width: 1200px;
@@ -4999,6 +4999,15 @@ a.text-center.read-more.text-link {
 .how_work h3.ordertitle {
     margin-top: 0;
 }
+.section_collist figure.img-multiply-bg:before{
+	background: none !important;
+}
+.section_collist .l4cl figure picture{
+	width: 85% !important;
+}
+.section_collist .l4cl figure picture{
+	padding-top: calc(var(--ratio) * 85%) !important;
+}
 @media only screen and (max-width: 991px) {
 	.how_work .col-48.paddtb30{
 		flex-wrap: wrap;
@@ -5013,6 +5022,11 @@ a.text-center.read-more.text-link {
 		padding-right: 0;
 	}
 }
+@media only screen and (max-width: 760px) {
+	.section_collist .swiper-slide li{
+		padding: 10%;
+	}
+} 
 @media only screen and (max-width: 620px) {
 	.how_work .top-banner-content{
 		width: 100%;
@@ -5034,6 +5048,9 @@ a.text-center.read-more.text-link {
   .how_work .top-banner-container .read-more.text-link{
     width: 100%;
   }
+  .section_collist .swiper-slide li{
+		padding: 8%;
+	}
 }
 @media only screen and (max-width: 420px) {
 	.how_work .orderflex{
@@ -5042,6 +5059,9 @@ a.text-center.read-more.text-link {
 	.how_work .orderdetail{
 		width:98%;
 		margin: 4% 0;
+	}
+	.section_collist .swiper-slide li{
+		padding: 5%;
 	}
 	a.text-center.read-more.text-link ,.how_work .top-banner-container .read-more.text-link{
 		font-size: 20px;
@@ -5102,7 +5122,7 @@ a.text-center.read-more.text-link {
   .module-color-palette  .link-btn a{
 	color: #ffffff !important;
   }
-  #root #nav-user>ul>li>a i span:before{
+  #root #nav-user>ul>li>a i span:before ,.l4sc.strong[class*=button-palette] [class*=icon-]{
 	background: #d13540 !important;
 	border-color:#d13540;
   }
@@ -5132,6 +5152,11 @@ p.text-center.size-s ,a.close{
     font-size: 20px;
     letter-spacing: -.02em;
     font-family: Georgia Pro,serif;
+}
+.shopify-section-footer ul.l4pm.box li:nth-child(1), 
+.shopify-section-footer ul.l4pm.box li:nth-child(7),
+.shopify-section-footer ul.l4pm.box li:nth-child(8){
+    display: none;
 }
 /* cls015 end */
 .with-mobile-tab .bold_option_uploadfile input,.bold_option_element input,.bold_option_element select{
