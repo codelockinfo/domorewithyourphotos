@@ -4945,7 +4945,7 @@ a.text-center.read-more.text-link {
     background: #d13540;
 }
 .shopify-section-footer .l4sc.strong[class*=button-palette] [class*=icon-] {
-    
+    border-color: #d13540;
     background: #d13540 !important;
 }
 .how_work .top-banner-content p{

@@ -6,7 +6,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website2_2048x_3628b794-c0c9-4fe8-ae77-b32a294c5616.webp",
+            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -35,8 +35,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Personalised Party Banners"
           }
         },
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
@@ -119,6 +119,43 @@
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "78299fd1-6827-43db-ab49-638c52de8a86": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "10-little-fingers-sentiment-gift-frame",
+          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
+          "kenro-minimax-100-photos-6x4-black-photo-album",
+          "kenro-minimax-100-photos-6x4-red-photo-album",
+          "kenro-candy-series-100-photos-6x4-memo-photo-album",
+          "kenro-candy-series-100-photos-6x4-photo-album-polka-dot"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "dark",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -1228,6 +1265,7 @@
   "order": [
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "d5ebf098-d235-421e-b752-e943669e183d",
+    "78299fd1-6827-43db-ab49-638c52de8a86",
     "16602912025c583cc8",
     "1660291177d9f45101",
     "16605537948e81aa7a",
