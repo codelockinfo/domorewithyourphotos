@@ -102,7 +102,7 @@
         "collection": "most-popular-products",
         "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "center",
+        "text_alignment": "start",
         "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
         "title_font": "primary",
         "title_size": "h2",
@@ -173,7 +173,7 @@
         "fill_images": true,
         "layout": "slider",
         "number_of_items": 6,
-        "text_alignment": "center",
+        "text_alignment": "start",
         "title": "Shop Trending Categories",
         "title_font": "primary",
         "title_size": "h2",
@@ -428,6 +428,7 @@
         },
         "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-content-1": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "page": "",
             "text": "",
@@ -438,6 +439,7 @@
         },
         "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "",
             "link_url": "\/",
@@ -476,13 +478,13 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-end",
-            "title": "Traditional Photo Album",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700",
-            "subtitle": "from $14.90",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
@@ -491,7 +493,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Buy Now",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/traditional-wedding-albums",
             "show_link": true,
             "show_look": false,
@@ -500,8 +502,8 @@
             ],
             "look_btn_color_palette": "white",
             "look_position": "start",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Traditional Photo Album"
           }
         },
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
@@ -512,13 +514,13 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-start",
-            "title": "Print Your Photos",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700",
-            "subtitle": "from $13.90",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
@@ -527,17 +529,17 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Buy now",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/traditional-photo-albums",
-            "show_link": true,
+            "show_link": false,
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Print Your Photos"
           }
         }
       },
@@ -608,13 +610,13 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-start",
-            "title": "Fujifilm Instax",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "dark",
             "title_weight": "700",
-            "subtitle": "Cameras",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
@@ -623,7 +625,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Buy Now",
+            "link_text": "",
             "link_url": "shopify:\/\/collections",
             "show_link": true,
             "show_look": false,
@@ -632,8 +634,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Fujifilm Instax"
           }
         }
       },
@@ -865,7 +867,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Book Print",
+            "title": "",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
@@ -889,8 +891,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Book Print"
           }
         },
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2": {
@@ -901,7 +903,7 @@
             "color_palette": "white",
             "button_color_palette": "white",
             "text_position": "align-top text-start",
-            "title": "Anniversary",
+            "title": "",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
@@ -925,8 +927,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Anniversary"
           }
         },
         "af6f22e0-5ce4-4a37-980f-46ec4384a59c": {
@@ -937,7 +939,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Gifts",
+            "title": "",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
@@ -961,8 +963,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Gifts"
           }
         },
         "546221aa-1bd5-4e91-a8c3-f0fb8153e753": {
@@ -973,7 +975,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Baby Gifts",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -997,8 +999,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Baby Gifts"
           }
         }
       },
@@ -1029,7 +1031,7 @@
       "settings": {
         "blog": "news",
         "number_of_items": 3,
-        "text_alignment": "center",
+        "text_alignment": "start",
         "title": "Ideas & Advice",
         "title_font": "primary",
         "title_size": "h2",
