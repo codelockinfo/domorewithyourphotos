@@ -100,7 +100,7 @@
         "blocks_subtitle_color_palette": "black",
         "blocks_subtitle_weight": "400",
         "blocks_font_size": "16px",
-        "spacing_desktop": -40,
+        "spacing_desktop": 0,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
