@@ -41,7 +41,7 @@
               <li><a href="tel:{{ shop.phone }}"><i aria-hidden="true" class="icon-phone"></i> {{ shop.phone }}</a></li>
             {% endif %}
             {% if shop.email != empty and block.settings.show_mail_link %}
-              <li><a href="mailto:{{ shop.email }}" class="email"><i aria-hidden="true" class="icon-envelope"></i> {{ shop.email }}</a></li>
+              <li><a href="mailto:{{- shop.email -}}" class="email"><i aria-hidden="true" class="icon-envelope"></i> {{ shop.email }}</a></li>
             {% endif %}
             {% if settings.whatsapp != empty and settings.whatsapp != 0 and block.settings.show_whatsapp_link %}
               <li><a href="https://wa.me/{{ settings.whatsapp }}"><i aria-hidden="true" class="icon-whatsapp-overlay"></i> {{ 'footer.whatsapp_html' | t }}</a></li>
