@@ -4854,7 +4854,8 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 }
 [data-whatin=mouse] .link-btn a:hover{
 	box-shadow: none !important;
-	color: #000 !important;
+	color: #fff !important;
+	background: #d43342 !important ;
 }
 [data-whatin=mouse] .link-btn a:hover:before{
 	background:transparent!important;
