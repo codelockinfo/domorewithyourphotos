@@ -5117,7 +5117,7 @@ a.text-center.read-more.text-link {
 background:#d13540 !important;
 }
 p.text-center.size-s ,a.close{
-    color: #fff;
+    color: #fff !important;
 }
   .l4cl>.swiper-custom-pagination .swiper-button-next:after, .l4cl>.swiper-custom-pagination .swiper-button-prev:after, #root .l4pr .swiper-button-next:after, #root .l4pr .swiper-button-prev:after{
 	background:#d13540 !important;
