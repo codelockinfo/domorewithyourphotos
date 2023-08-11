@@ -1155,7 +1155,7 @@
         "show_image": true,
         "show_date": false,
         "show_author": true,
-        "show_excerpt": false,
+        "show_excerpt": true,
         "button_color_palette_post": "accent",
         "show_link_post": true,
         "spacing_desktop": 50,
