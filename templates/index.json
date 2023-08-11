@@ -418,7 +418,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Framed-Prints_Desktop-1_1.jpg",
+            "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -454,7 +454,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Canvas-Prints_new.jpg",
+            "image": "shopify:\/\/shop_images\/SFYoutube01a2.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -514,18 +514,18 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Skyline-Wall-Art_Desktop.jpg",
+            "image": "shopify:\/\/shop_images\/Customa.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Plain Frames",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700",
-            "subtitle": "Free Print with Every Frame",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
@@ -534,7 +534,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Buy now",
+            "link_text": "",
             "link_url": "shopify:\/\/products\/selfie-frames",
             "show_link": true,
             "show_look": false,
@@ -550,7 +550,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo-Tiles_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -807,7 +807,7 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Skyline-Wall-Art_Desktop_b04e2fae-97c3-4758-a806-35bae028484c.jpg",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -843,7 +843,7 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ornament_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/anniversries.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -879,7 +879,7 @@
         "af6f22e0-5ce4-4a37-980f-46ec4384a59c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pillow_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/Surprise_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -915,7 +915,7 @@
         "546221aa-1bd5-4e91-a8c3-f0fb8153e753": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Canvas-Prints_new.jpg",
+            "image": "shopify:\/\/shop_images\/BABY_girlA.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",

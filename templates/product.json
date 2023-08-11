@@ -17,12 +17,12 @@
             "show_vendor_brand": false,
             "show_vendor_name": false,
             "show_product_rating": true,
-            "share_whatsapp": false,
-            "share_facebook": false,
-            "share_twitter": false,
-            "share_pinterest": false,
-            "share_messenger": false,
-            "share_email": false,
+            "share_whatsapp": true,
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true,
+            "share_messenger": true,
+            "share_email": true,
             "layout_mobile": "title-top",
             "mobile_title_size": "h2"
           }
