@@ -56,6 +56,7 @@
         {% if section.settings.enable_custom_height %}style="--mih: {{ section.settings.custom_height }}px"{% endif %}
       >
       <h2>{{block.settings.animationtitle}}</h2>
+      <h4>{{block.settings.animationdes}}</h4>
         <div class="palette-{{ block.settings.color_palette }}
             module-color-palette
             main">
@@ -399,6 +400,11 @@
           "id": "animationtitle",
           "type": "text",
           "label": "Heading"
+        },
+        {
+          "id": "animationdes",
+          "type": "text",
+          "label": "Sub-Heading"
         },
         {
           "id": "image",
