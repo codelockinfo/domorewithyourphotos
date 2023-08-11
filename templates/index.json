@@ -941,6 +941,9 @@
         "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-content-1",
         "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-button-1"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 760px) {article.palette-white.module-color-palette.text-start.mobile-text-start {text-align: center;} }"
+      ],
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -950,7 +953,7 @@
         "custom_height": 250,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": -90,
+        "spacing_desktop": -120,
         "spacing_mobile": 0,
         "fix_zindex": 0
       }
