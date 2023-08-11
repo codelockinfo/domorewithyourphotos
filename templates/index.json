@@ -98,6 +98,9 @@
     },
     "d5ebf098-d235-421e-b752-e943669e183d": {
       "type": "section-featured-collection",
+      "custom_css": [
+        ".link-btn a:before {background:#d13540 !important;}"
+      ],
       "settings": {
         "collection": "most-popular-products",
         "limit": 8,
