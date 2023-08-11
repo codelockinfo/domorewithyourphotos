@@ -47,7 +47,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-end",
-            "title": "CELEBRATE YOUR MEMORIES",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -62,7 +62,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Canvas Print",
+            "link_text": "",
             "link_url": "shopify:\/\/collections",
             "show_link": true,
             "show_look": false,
@@ -71,8 +71,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "CELEBRATE YOUR MEMORIES"
           }
         }
       },
