@@ -6,12 +6,12 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Evergreen.jpg",
+            "image": "shopify:\/\/shop_images\/Website2_2048x_3628b794-c0c9-4fe8-ae77-b32a294c5616.webp",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-center",
-            "title": "PERSONALIZED BANNERS & SELFIE EFREMES",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -26,9 +26,9 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "shop best sellers",
+            "link_text": "",
             "link_url": "shopify:\/\/products\/18th-birthday-framed-photo-collage",
-            "show_link": true,
+            "show_link": false,
             "show_look": false,
             "product_list": [
 
