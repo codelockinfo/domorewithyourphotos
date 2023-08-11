@@ -412,6 +412,59 @@
         "fix_zindex": 0
       }
     },
+    "52069349-33bd-423e-9a0f-bf86f5ef8c56": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Wall Art Decor",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-title-1",
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-content-1",
+        "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-start",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -150,
+        "spacing_mobile": -300,
+        "fix_zindex": 0
+      }
+    },
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f": {
       "type": "section-collage",
       "blocks": {
@@ -1124,6 +1177,7 @@
     "1662644641662a3424",
     "166029123538307d80",
     "1660291186859914cb",
+    "52069349-33bd-423e-9a0f-bf86f5ef8c56",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
