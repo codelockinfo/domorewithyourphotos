@@ -7,7 +7,7 @@
       }
     },
     "main-page": {
-      "type": "main-page",
+      "type": "main-page-new",
       "blocks": {
         "title": {
           "type": "title",
