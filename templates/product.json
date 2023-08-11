@@ -161,6 +161,7 @@
         },
         "e434d2f5-3a5d-45a1-966d-c97cccc7c52e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Frequently Asked Questions",
             "content": "",
