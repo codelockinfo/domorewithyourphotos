@@ -5032,7 +5032,7 @@ a.text-center.read-more.text-link {
 		height: 200px !important;
 	}
   .how_work .top-banner-container .read-more.text-link{
-    width: 80%;
+    width: 100%;
   }
 }
 @media only screen and (max-width: 420px) {
