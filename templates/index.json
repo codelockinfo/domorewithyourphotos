@@ -1137,7 +1137,7 @@
       "type": "section-blog-posts",
       "custom_css": [
         "[data-whatin=\"mouse\"] .link-btn a:hover {background: red; color: #000 !important;}",
-        " #root .link-btn a {background: unset;}"
+        "#root .link-btn a {background: unset !important;}"
       ],
       "settings": {
         "blog": "news",
