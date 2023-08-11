@@ -1136,7 +1136,7 @@
     "c44666b7-f00b-4316-839b-77d8cf2bf64c": {
       "type": "section-blog-posts",
       "custom_css": [
-
+        "[data-whatin=\"mouse\"] .link-btn a:hover {color: #000 !important;}"
       ],
       "settings": {
         "blog": "news",
