@@ -175,6 +175,7 @@
         "faq_2",
         "faq_3"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "left",
         "compact": false,
@@ -340,6 +341,7 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "start",
