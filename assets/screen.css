@@ -4872,10 +4872,10 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 .how_work a.text-center.read-more.text-link ,
 .how_work .top-banner-container a.read-more.text-link{
     /* font-family: sans-serif , 'Inter'; */
-    background: transparent !important;
+    color: #ffffff!important;
+    outline: 1px solid #d43342!important;
+    background: #d13540;
     box-shadow: none !important;
-    color: #020202 !important;
-    outline: 1px solid #d43342 !important;
 }
 .how_work a.read-more.text-link {
     text-align: center;
