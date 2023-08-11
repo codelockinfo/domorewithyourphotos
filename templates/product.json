@@ -369,6 +369,7 @@
         "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-3",
         "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-4"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 3,
         "text_alignment": "center",
