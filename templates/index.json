@@ -128,6 +128,7 @@
     },
     "78299fd1-6827-43db-ab49-638c52de8a86": {
       "type": "section-featured-products",
+      "disabled": true,
       "settings": {
         "products": [
           "10-little-fingers-sentiment-gift-frame",
