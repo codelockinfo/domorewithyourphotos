@@ -128,6 +128,7 @@
     },
     "78299fd1-6827-43db-ab49-638c52de8a86": {
       "type": "section-featured-products",
+      "disabled": true,
       "settings": {
         "products": [
           "10-little-fingers-sentiment-gift-frame",
@@ -584,6 +585,9 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1",
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 760px) {.collage_img ul {width: 100%; margin-top: 24% !important; display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}"
+      ],
       "settings": {
         "mirrored": false,
         "width": "boxed",
@@ -679,6 +683,9 @@
       "block_order": [
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 760px) {.collage_img ul {margin-top: 0% !important; display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
       ],
       "settings": {
         "mirrored": true,
@@ -934,6 +941,9 @@
         "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-content-1",
         "template--19423284199754__e4401d1a-bfe5-40c3-9622-4ff73e51cef4-button-1"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 760px) {article.palette-white.module-color-palette.text-start.mobile-text-start {text-align: center;} }"
+      ],
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -943,7 +953,7 @@
         "custom_height": 250,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": -90,
+        "spacing_desktop": -120,
         "spacing_mobile": 0,
         "fix_zindex": 0
       }
