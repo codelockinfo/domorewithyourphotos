@@ -323,7 +323,7 @@
           "type": "text",
           "settings": {
             "icon": "group",
-            "image_height": 55,
+            "image_height": 0,
             "title": "",
             "subtitle": "",
             "text": "<p>700+ <br\/>5 Star Rating<\/p>",
@@ -336,11 +336,11 @@
         "template--19423284625738__d89fbc6e-c7b2-4e51-8975-54c1215a6e7f-text-3": {
           "type": "text",
           "settings": {
-            "icon": "none",
-            "image_height": 55,
-            "title": "Column",
+            "icon": "delivery_box_1",
+            "image_height": 0,
+            "title": "",
             "subtitle": "",
-            "text": "<p>Pair text with an icon or image to focus on services, products, blog posts or collections.<\/p>",
+            "text": "<p>Largest Selection OF Personalised<br\/>Framed Gifts in Ireland<\/p>",
             "link_text": "Button",
             "link_url": "",
             "button_color_palette": "accent",
