@@ -431,7 +431,7 @@
             "title_weight": "700",
             "subtitle": "from $14.90",
             "subtitle_font": "secondary",
-            "subtitle_size": "h3",
+            "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
             "subtitle_color_palette": "black",
             "subtitle_weight": "400",
