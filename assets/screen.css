@@ -5057,7 +5057,7 @@ a.text-center.read-more.text-link {
     justify-content: center;
 }
 [data-whatin=mouse] .link-btn a:hover{
-	color:#000 !important;
+	/* color:#000 !important; */
 }
 
 /* .custom-model-main {
