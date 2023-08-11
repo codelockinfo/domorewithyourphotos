@@ -14,8 +14,8 @@
           "settings": {
             "layout": "title-right",
             "title_size": "h2",
-            "show_vendor_brand": true,
-            "show_vendor_name": true,
+            "show_vendor_brand": false,
+            "show_vendor_name": false,
             "show_product_rating": true,
             "share_whatsapp": true,
             "share_facebook": true,
