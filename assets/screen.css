@@ -4908,6 +4908,7 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 }
 .how_work .text-center.read-more.text-link {
     text-align: center;
+  display:none;
 }
 a.text-center.read-more.text-link {
     text-decoration: none;
