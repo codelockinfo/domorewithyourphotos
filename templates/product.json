@@ -131,6 +131,7 @@
         },
         "ee5e9f1c-a80a-4244-950f-03806a509775": {
           "type": "shipping_timer",
+          "disabled": true,
           "settings": {
           }
         },
