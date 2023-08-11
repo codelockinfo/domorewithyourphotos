@@ -6,12 +6,12 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Evergreen.jpg",
+            "image": "shopify:\/\/shop_images\/Website2_2048x_3628b794-c0c9-4fe8-ae77-b32a294c5616.webp",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-bottom text-center",
-            "title": "PERSONALIZED BANNERS & SELFIE EFREMES",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -26,9 +26,9 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "shop best sellers",
+            "link_text": "",
             "link_url": "shopify:\/\/products\/18th-birthday-framed-photo-collage",
-            "show_link": true,
+            "show_link": false,
             "show_look": false,
             "product_list": [
 
@@ -42,11 +42,11 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo-Tiles_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/b04_photos.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "align-bottom text-center",
+            "text_position": "align-top text-end",
             "title": "CELEBRATE YOUR MEMORIES",
             "title_font": "primary",
             "title_size": "h2",
@@ -107,7 +107,7 @@
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "title_color_palette": "black",
+        "title_color_palette": "dark",
         "title_weight": "700",
         "subtitle": "",
         "subtitle_font": "secondary",
@@ -172,7 +172,7 @@
         "show_in_circle": true,
         "fill_images": true,
         "layout": "slider",
-        "number_of_items": 8,
+        "number_of_items": 6,
         "text_alignment": "center",
         "title": "Shop Trending Categories",
         "title_font": "primary",
@@ -193,7 +193,7 @@
         "collection_title_position": "center",
         "show_collection_titles": true,
         "collection_title_size": "p",
-        "mobile_layout": "slider",
+        "mobile_layout": "grid",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -238,7 +238,6 @@
     },
     "1662644641662a3424": {
       "type": "section-promo-gallery",
-      "disabled": true,
       "blocks": {
         "1662644641f8605a6c-0": {
           "type": "image",
@@ -327,6 +326,7 @@
         "1662644641f8605a6c-0",
         "1662644641f8605a6c-1"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 3,
         "width": "boxed",
@@ -374,7 +374,6 @@
     },
     "1660291186859914cb": {
       "type": "section-usp-bar",
-      "disabled": true,
       "blocks": {
         "166029118628eefa48-0": {
           "type": "usp",
@@ -400,6 +399,7 @@
         "166029118628eefa48-1",
         "166029118628eefa48-2"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
@@ -418,11 +418,11 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Framed-Prints_Desktop-1_1.jpg",
+            "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "align-top text-start",
+            "text_position": "align-bottom text-end",
             "title": "Traditional Photo Album",
             "title_font": "primary",
             "title_size": "h2",
@@ -454,11 +454,11 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Canvas-Prints_new.jpg",
+            "image": "shopify:\/\/shop_images\/SFYoutube01a2.jpg",
             "overlay_opacity": 0,
-            "color_palette": "white",
+            "color_palette": "light_2",
             "button_color_palette": "accent",
-            "text_position": "align-top text-start",
+            "text_position": "align-bottom text-start",
             "title": "Print Your Photos",
             "title_font": "primary",
             "title_size": "h2",
@@ -514,18 +514,18 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Skyline-Wall-Art_Desktop.jpg",
+            "image": "shopify:\/\/shop_images\/Customa.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Plain Frames",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700",
-            "subtitle": "Free Print with Every Frame",
+            "subtitle": "",
             "subtitle_font": "secondary",
             "subtitle_size": "h4",
             "enable_custom_subtext_styling": false,
@@ -534,7 +534,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "Buy now",
+            "link_text": "",
             "link_url": "shopify:\/\/products\/selfie-frames",
             "show_link": true,
             "show_look": false,
@@ -550,16 +550,16 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo-Tiles_Desktop-1.jpg",
-            "overlay_opacity": 0,
+            "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
+            "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "align-top text-start",
+            "text_position": "align-bottom text-start",
             "title": "Fujifilm Instax",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
-            "title_color_palette": "black",
+            "title_color_palette": "dark",
             "title_weight": "700",
             "subtitle": "Cameras",
             "subtitle_font": "secondary",
@@ -794,7 +794,7 @@
         "image_zoom": false,
         "image_move": false,
         "content_on_hover_color_palette": "dark",
-        "layout_mobile": "compact",
+        "layout_mobile": "rows",
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
@@ -807,12 +807,12 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Skyline-Wall-Art_Desktop_b04e2fae-97c3-4758-a806-35bae028484c.jpg",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-start",
-            "title": "Blankets",
+            "title": "Book Print",
             "title_font": "primary",
             "title_size": "h3",
             "enable_custom_text_styling": false,
@@ -827,7 +827,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "->",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/2023",
             "show_link": false,
             "show_look": false,
@@ -843,10 +843,10 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ornament_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/anniversries.png",
             "overlay_opacity": 0,
             "color_palette": "white",
-            "button_color_palette": "accent",
+            "button_color_palette": "white",
             "text_position": "align-top text-start",
             "title": "Anniversary",
             "title_font": "primary",
@@ -863,7 +863,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "->",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/1st-year-anniversary",
             "show_link": false,
             "show_look": false,
@@ -879,7 +879,7 @@
         "af6f22e0-5ce4-4a37-980f-46ec4384a59c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pillow_Desktop-1.jpg",
+            "image": "shopify:\/\/shop_images\/Surprise_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -899,7 +899,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "->",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/birthday-gifts",
             "show_link": false,
             "show_look": false,
@@ -915,7 +915,7 @@
         "546221aa-1bd5-4e91-a8c3-f0fb8153e753": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Canvas-Prints_new.jpg",
+            "image": "shopify:\/\/shop_images\/BABY_girlA.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -935,7 +935,7 @@
             "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "link_text": "->",
+            "link_text": "",
             "link_url": "shopify:\/\/collections\/baby-gifts",
             "show_link": false,
             "show_look": false,
