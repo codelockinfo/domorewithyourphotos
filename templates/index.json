@@ -598,8 +598,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Selfie  Frame"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
