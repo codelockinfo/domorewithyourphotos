@@ -4833,7 +4833,7 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	color:#000!important;
 }
 .animated_column ul li h2{
-	text-align: center;
+	text-align: left;
     color: #000;
     text-transform: capitalize;
 }
