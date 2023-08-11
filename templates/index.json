@@ -1223,6 +1223,43 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "78299fd1-6827-43db-ab49-638c52de8a86": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "10-little-fingers-sentiment-gift-frame",
+          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
+          "kenro-minimax-100-photos-6x4-black-photo-album",
+          "kenro-minimax-100-photos-6x4-red-photo-album",
+          "kenro-candy-series-100-photos-6x4-memo-photo-album",
+          "kenro-candy-series-100-photos-6x4-photo-album-polka-dot"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured products",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about these products<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1243,6 +1280,7 @@
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
     "c44666b7-f00b-4316-839b-77d8cf2bf64c",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
-    "e2b723d0-bda6-440a-ac73-1e4756308c04"
+    "e2b723d0-bda6-440a-ac73-1e4756308c04",
+    "78299fd1-6827-43db-ab49-638c52de8a86"
   ]
 }
