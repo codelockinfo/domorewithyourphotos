@@ -59,6 +59,7 @@
         },
         "pickup": {
           "type": "pickup",
+          "disabled": true,
           "settings": {
           }
         },
