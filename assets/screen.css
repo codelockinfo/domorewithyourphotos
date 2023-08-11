@@ -5089,9 +5089,23 @@ a.text-center.read-more.text-link {
 	color:#000 !important;
   } */
   .m6as[class^=palette-]:before{
-	background: #d13540!important;
+	/* background: #d13540!important; */
   }
   .collage_img ul li .s1lb.label.plain span{
+	background: #d13540 !important;
+    color: #ffffff !important;
+  }
+  .module-color-palette  .link-btn a{
+	color: #ffffff !important;
+  }
+  #root #nav-user>ul>li>a i span:before{
+	background: #d13540 !important;
+	border-color:#d13540;
+  }
+  .blogtext a.no-before.strong {
+	color:#d13540;
+  }
+  .module-color-palette  .link-btn a:before{
 	background: #d13540 !important;
     color: #ffffff !important;
   }
