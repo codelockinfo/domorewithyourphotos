@@ -5246,3 +5246,6 @@ p.text-center.size-s ,a.close{
 	background-color: #a12222;
 	color: #fff;
 }
+.main-page-new .align-center{
+	text-align: center;
+}
