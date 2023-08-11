@@ -4940,6 +4940,14 @@ a.text-center.read-more.text-link {
     text-align: left;
     line-height: 28px;
 }
+.shopify-section-footer .shopify-section-footer .link-btn a:before, .shopify-section-footer button:before {
+    border-color: #d13540;
+    background: #d13540;
+}
+.shopify-section-footer .l4sc.strong[class*=button-palette] [class*=icon-] {
+    
+    background: #d13540 !important;
+}
 .how_work .top-banner-content p{
 	margin-top:0;
 	margin-bottom: 1em;
