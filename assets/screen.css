@@ -5059,7 +5059,7 @@ a.text-center.read-more.text-link {
 	width: 100%;
 } 
 #main-product .bold_options.bold_options_loaded{
-	display: none;
+	/* display: none; */
 }
 #main-product .bold_options.bold_options_loaded.show{
 	display: block;
