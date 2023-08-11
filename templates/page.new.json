@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "hide_mobile": false
       }
@@ -12,7 +13,8 @@
         "title": {
           "type": "title",
           "settings": {
-            "title_size": "h2"
+            "title_size": "h2",
+            "title_text_alignment": "center"
           }
         },
         "content": {
