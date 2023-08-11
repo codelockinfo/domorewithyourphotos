@@ -6,7 +6,7 @@
     {%- case block.type -%}
       {%- when 'title' -%}
         <header>
-          <{{ block.settings.title_size }} class="m20" {{ block.shopify_attributes }}>{{ page.title }}</{{ block.settings.title_size }}>
+          <{{ block.settings.title_size }} class="m20 {% if block.settings.title_text_alignment == 'center' %}text-center{% endif %}{% if block.settings.title_text_alignment == 'center' %} align-center{% endif %}" {{ block.shopify_attributes }}>{{ page.title }}</{{ block.settings.title_size }}>
         </header>
       {%- when 'content' -%}
         <div {{ block.shopify_attributes }}>
@@ -136,6 +136,22 @@
             }
           ],
           "default": "h2"
+        },
+        {
+          "type": "select",
+          "id": "title_text_alignment",
+          "label": "t:main.page.settings.text_alignment.label",
+          "options": [
+            {
+              "value": "start",
+              "label": "t:main.page.settings.text_alignment.options__1.label"
+            },
+            {
+              "value": "center",
+              "label": "t:main.page.settings.text_alignment.options__2.label"
+            }
+          ],
+          "default": "start"
         }
       ]
     },
