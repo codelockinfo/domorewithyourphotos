@@ -5310,6 +5310,7 @@ p.text-center.size-s ,a.close{
     background: #d43342 !important;
     border-color: #d43342 !important;
 }
+<<<<<<< HEAD
 /* contact page css start */
 .palette-light_2.overlay.m6bx h2, .palette-light_2.overlay.m6bx p, .palette-light_2.overlay.m6bx a {
     color: #fff !important;
@@ -5322,3 +5323,7 @@ p.text-center.size-s ,a.close{
 	border-color:#d43342 !important ;
 }
 /* contact page css end */
+
+i.icon-cart-bag-rounded {
+    border-radius: 50% !important;
+}
