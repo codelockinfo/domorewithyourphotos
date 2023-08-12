@@ -5390,6 +5390,3 @@ p.videomain{
 	margin:4% 0 2% 0;
 }
 /* video section end */
-.imagetext article picture img {
-	object-fit: contain !important;
-  }
