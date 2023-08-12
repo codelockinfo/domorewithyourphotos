@@ -271,7 +271,7 @@
         "cart_icon_color": "accent",
         "menubar_menu": "new-mega-menu",
         "menubar_height": "45px",
-        "menu_layout": "mega",
+        "menu_layout": "dropdown",
         "show_dropdown_images": false,
         "show_dropdown_images_autofill": false,
         "menubar_alignment": "center",
