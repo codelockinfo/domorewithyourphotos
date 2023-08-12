@@ -196,7 +196,7 @@
       "settings": {
         "media_layout": "slider",
         "images_grid_spacing": 16,
-        "fill_images": true,
+        "fill_images": false,
         "show_thumbs_desktop": true,
         "show_thumbs_mobile": true,
         "thumbs_layout": "bottom",
@@ -220,7 +220,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "custom_css": [
-        ".link-btn a:before{background: #d43342 !important ;border-color:#d43342 !important ;}"
+        ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}"
       ],
       "settings": {
         "recommended_products_qty": 8,
