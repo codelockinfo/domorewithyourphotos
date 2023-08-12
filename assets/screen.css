@@ -4879,6 +4879,9 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	background: #d43342 !important ;
 	border-color:#d43342 !important ;
 }
+#load-more-button:before{
+	background: #d43342 !important ;
+}
 .how_work  .read-more {
 	background: #d43342;
 	 border-radius: 100px;
