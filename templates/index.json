@@ -581,7 +581,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Print Your Photos"
+            "look_label_text": "Print Your Photos",
+            "image_mobile": "shopify:\/\/shop_images\/pic_example_07.webp"
           }
         }
       },
