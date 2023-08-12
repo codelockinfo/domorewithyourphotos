@@ -163,164 +163,6 @@
         "fix_zindex": 0
       }
     },
-    "16600579852f4017d4": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "1660057985549a4c95-0": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Image with text",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "1660057985549a4c95-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
-          }
-        },
-        "usp_1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "usp_2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "usp_3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "1660057985549a4c95-3": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1660057985549a4c95-0",
-        "1660057985549a4c95-1",
-        "usp_1",
-        "usp_2",
-        "usp_3",
-        "1660057985549a4c95-3"
-      ],
-      "settings": {
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 0,
-        "layout": "image-right",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "1660058006badb14d4": {
-      "type": "section-logo-list",
-      "blocks": {
-        "166005800624ee1e13-0": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        },
-        "166005800624ee1e13-1": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        },
-        "166005800624ee1e13-2": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        },
-        "166005800624ee1e13-3": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        },
-        "166005800624ee1e13-4": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        },
-        "166005800624ee1e13-5": {
-          "type": "logo",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166005800624ee1e13-0",
-        "166005800624ee1e13-1",
-        "166005800624ee1e13-2",
-        "166005800624ee1e13-3",
-        "166005800624ee1e13-4",
-        "166005800624ee1e13-5"
-      ],
-      "settings": {
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "Brand logo slider",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "Button",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "main-page": {
       "type": "main-page",
       "blocks": {
@@ -340,6 +182,7 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "start",
@@ -347,14 +190,99 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30
       }
+    },
+    "45d56185-372d-4b7a-a151-5d0aacdb90ce": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Image with text",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-1": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-2": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-3": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-title-1",
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-text-1",
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-1",
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-2",
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-usp-3",
+        "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-buttons-1"
+      ],
+      "settings": {
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "166005794226b48f03",
     "16600579701b9ea466",
-    "16600579852f4017d4",
-    "1660058006badb14d4",
-    "main-page"
+    "main-page",
+    "45d56185-372d-4b7a-a151-5d0aacdb90ce"
   ]
 }
