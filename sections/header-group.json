@@ -29,7 +29,6 @@
       "blocks": {
         "df399deb-b366-4aa3-bd2b-9a8c680d9a74": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
             "menu_item": "Shop by Occasion",
             "height": "size-s",
@@ -91,7 +90,6 @@
         },
         "header-block-usp-1": {
           "type": "usp",
-          "disabled": true,
           "settings": {
             "usp": "<p>Give your customers details about your online store<\/p>",
             "show_check": true
@@ -99,7 +97,6 @@
         },
         "header-block-usp-2": {
           "type": "usp",
-          "disabled": true,
           "settings": {
             "usp": "<p>Give your customers more details about your online store<\/p>",
             "show_check": true
@@ -117,7 +114,6 @@
         },
         "f9ff7e7c-c1a5-47ec-b3d5-92a2feb0b767": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
             "menu_item": "Shop by Recipient",
             "height": "size-m",
@@ -179,7 +175,6 @@
         },
         "b72d4069-24f9-4503-b56b-bb02e16ee0c6": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
             "menu_item": "Binocular, Instax, Frames & Accessories",
             "height": "size-m",
@@ -274,10 +269,10 @@
         "sticky": "sticky-header",
         "cart_icon": "cart|e903",
         "cart_icon_color": "accent",
-        "menubar_menu": "new-mega-menu",
+        "menubar_menu": "main-menu-2021",
         "menubar_height": "45px",
         "menu_layout": "mega",
-        "show_dropdown_images": false,
+        "show_dropdown_images": true,
         "show_dropdown_images_autofill": false,
         "menubar_alignment": "center",
         "menubar_border": false,
