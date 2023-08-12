@@ -315,6 +315,100 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Frames and Photo Albums",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>We stock a large range of ready made frames and photo albums in all sizes from the very small to the extra large A1 size from wood and silver. Stock is updated on a daily basis so it is not possible to make these products available online. Official stockist of Newbridge silverware, Galway crystal, Genesis fine art, Tipperary Crystal and Belleek pottery Our personalised photobooks can only be created online<\/p>"
+          }
+        },
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-title-1",
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-text-1",
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-1",
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-2",
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-3",
+        "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-buttons-1"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums_new.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -322,6 +416,7 @@
     "main-page",
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab",
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
-    "e881e35e-f58a-4e20-bcae-4632f201c683"
+    "e881e35e-f58a-4e20-bcae-4632f201c683",
+    "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e"
   ]
 }
