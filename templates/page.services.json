@@ -221,12 +221,107 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "e881e35e-f58a-4e20-bcae-4632f201c683": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Framing Services",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>A traditional personal service giving you access to over 2000 options. We can find any framing solution to suit all your photographs and budgets. From your family wedding photos to your holiday in the sun – we can frame it! We can offer you expert advice in a relaxed, friendly atmosphere.Bespoke framing service available where we can cater for any size including multi aperture options. Yuo name it, we can frame it.<\/p>"
+          }
+        },
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-title-1",
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-text-1",
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-1",
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-2",
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-3",
+        "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-buttons-1"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Framing_Services_e3069e62-04a0-4266-bec5-189ecde1f9e0.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab",
-    "634cc43a-4488-4a31-b024-d9bbd52f2e53"
+    "634cc43a-4488-4a31-b024-d9bbd52f2e53",
+    "e881e35e-f58a-4e20-bcae-4632f201c683"
   ]
 }
