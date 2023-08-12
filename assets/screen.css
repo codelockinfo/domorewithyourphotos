@@ -5327,3 +5327,36 @@ p.text-center.size-s ,a.close{
 i.icon-cart-bag-rounded {
     border-radius: 50% !important;
 }
+/* video section start */
+.videoslidebg{
+    padding: 40px 0;
+  }
+
+  
+h2.video-slider-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 120px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #000000;
+} 
+
+  .video-wrapper {
+    width: 100%;
+}
+  .video-wrapper iframe {
+    width: 100%;
+    height: 400px;
+}
+  ul.slick-dots {
+    display: none;
+}
+.video_content p{
+        margin-bottom: 5px;
+        padding-bottom: 0;
+}
+/* video section end */
