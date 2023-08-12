@@ -1,0 +1,138 @@
+<div class="videoslidebg">
+  <div class="container" >
+    <div class="videoslidmaintitle">
+     
+    </div>
+    <div class="video-slide-content videoitem">
+       <div class="videoslide-inner-conten">
+         <div class="video-wrapper">
+            <iframe src="{{section.settings.videos}}" allowfullscreen="" allow="autoplay" frameborder="0"></iframe>
+        </div> 
+       </div>
+       <div class="video_content">
+        <p>{{section.settings.Videodes}}</p>
+        <p>{{section.settings.videotext}}</p>
+        <p><span>{{section.settings.Videocontent}}</span></p>
+        <p><span>{{section.settings.Videocontent1}}</span></p>
+    </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+"name": "video-slider",
+
+"settings": [
+{
+        "type": "range",
+       "id": "container",
+       "label": "container",
+       "default": 1150,
+       "min": 1000,
+       "max": 1800,
+       "step": 50
+
+      },
+  {
+          "id" : "heading1",
+          "type" : "text",
+          "label" : "ALTEREGO",
+          "default" : "Heading"
+        },
+        
+          {
+            "type": "text",
+            "id": "videos",
+            "label": "Video URL",
+            "default": "video url"
+          },
+          {
+            "id" : "Videodes",
+            "type" : "text",
+            "label" : "Video Description"
+        },
+        {
+            "id" : "videotext",
+            "type" : "text",
+            "label" : "Video Description"
+        },
+        {
+            "id" : "Videocontent",
+            "type" : "text",
+            "label" : "Text"
+        },
+        {
+            "id" : "Videocontent1",
+            "type" : "text",
+            "label" : "Text"
+        }
+
+],
+"blocks":[
+  {
+  "type" : "block",
+  "name" : "block",
+  "settings" : [
+     {
+        "type": "text",
+        "id": "videos",
+        "label": "Video URL",
+        "default": "video url"
+      },
+     {
+          "id" : "heading",
+          "type" : "text",
+          "label" : "Video Text",
+          "default" : "Heading"
+        }
+
+  ]
+  }
+
+  ],
+"presets" : [
+{
+  "name" : "video-slider",
+  "category" : "video-slider"
+
+  }
+]
+}
+{% endschema %}
+
+{% stylesheet %}
+  .videoslidebg{
+    <!-- background-color: white; -->
+    padding: 40px 0;
+  }
+
+  
+h2.video-slider-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 120px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #000000;
+} 
+
+  .video-wrapper {
+    width: 100%;
+}
+  .video-wrapper iframe {
+    width: 100%;
+    height: 400px;
+}
+  ul.slick-dots {
+    display: none;
+}
+.video_content p{
+        margin-bottom: 5px;
+        padding-bottom: 0;
+}
+
+{% endstylesheet %}

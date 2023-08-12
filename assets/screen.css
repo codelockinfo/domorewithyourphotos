@@ -5310,3 +5310,15 @@ p.text-center.size-s ,a.close{
     background: #d43342 !important;
     border-color: #d43342 !important;
 }
+/* contact page css start */
+.palette-light_2.overlay.m6bx h2, .palette-light_2.overlay.m6bx p, .palette-light_2.overlay.m6bx a {
+    color: #fff !important;
+}
+.contact_form  button[disabled]{
+	opacity: 0.8 !important;
+}
+.contact_form  button.last-child:before{
+	background: #d43342 !important ;
+	border-color:#d43342 !important ;
+}
+/* contact page css end */
