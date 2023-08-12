@@ -11,6 +11,7 @@
       "blocks": {
         "166005794296ae0ec5-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/photo-centre-photo-prints.jpg",
             "layout": "left",
@@ -105,6 +106,7 @@
       "blocks": {
         "166005796961cc60d8-0": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
@@ -118,37 +120,14 @@
           "type": "text",
           "settings": {
             "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<p>"
-          }
-        },
-        "usp_1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "usp_2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "usp_3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
+            "font_weight": "600",
+            "font_size": "18px",
+            "text": "<p>So who are we, We are proud to consider ourselves a leading provider of high quality digital images and personalised photography gifts.<\/p><p>We began almost 20 years ago as a small family business processing films and printing millions of cherished memories in Killybegs, Co. Donegal, a small village along the wild atlantic way . While we no longer have the same need to process film rolls, ensuring your most treasured moments are given the special attention they deserve is still our number one priority.<\/p><p>Using only the best in Digital technology, we can guartantee all our work is printed on fine art long life fujifilm paper to ensure it lasts the test of time.<\/p><p><\/p>"
           }
         },
         "166005796961cc60d8-3": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -166,12 +145,10 @@
       "block_order": [
         "166005796961cc60d8-0",
         "166005796961cc60d8-1",
-        "usp_1",
-        "usp_2",
-        "usp_3",
         "166005796961cc60d8-3"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/about-img-2_09cb7a38-762c-44c8-a724-c97e2312fecb.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 0,
@@ -180,7 +157,7 @@
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "text_position": "text-start",
+        "text_position": "text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
