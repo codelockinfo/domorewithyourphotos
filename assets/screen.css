@@ -5367,7 +5367,10 @@ p.videomain span{
 	letter-spacing: -.02em;
 	font-weight: 600;
 	font-size: 18px;
-	text-align:center;
+	
+}
+p.videomain{
+  text-align:center;
 }
 .videotext{
 	color: #d43342;
