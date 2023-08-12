@@ -5359,4 +5359,34 @@ h2.video-slider-title {
         margin-bottom: 5px;
         padding-bottom: 0;
 }
+.videomain span{
+	font-family: Georgia Pro,serif;
+	text-transform: none;
+	font-style: normal;
+	--main_fw_strong: 700;
+	letter-spacing: -.02em;
+	font-weight: 600;
+	font-size: 18px;
+	text-align:center;
+}
+.videotext{
+	color: #d43342;
+	/* text-align: left !important; */
+}
+.videodes ,.videotext{
+	font-family: Georgia Pro,serif;
+	text-transform: none;
+	font-style: normal;
+	--main_fw_strong: 700;
+	letter-spacing: -.02em;
+	font-weight: 600;
+	font-size: 16px;
+	text-align: center;
+}
+.videodes{	
+	margin:4% 0 2% 0;
+}
 /* video section end */
+.imagetext article picture img {
+	object-fit: contain !important;
+  }
