@@ -282,6 +282,18 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "d665dfc1-2b95-4c77-988b-0b5c0e3088fe": {
+      "type": "ourstory_video",
+      "settings": {
+        "container": 1150,
+        "heading1": "Heading",
+        "videos": "https:\/\/www.youtube.com\/embed\/gwwMP9BWdOk",
+        "Videodes": "domore.ie is an extension of our business, an independant online store where our focus is to make people Do More With Your Pictures in this digital age so they can be enjoyed for years and generations to come. It is run by myself, Declan and my small fantastic team.",
+        "videotext": "Dont hesitate to contact us if you have any questions or queries, we would love to hear from you.",
+        "Videocontent": "Regards",
+        "Videocontent1": "Declan & Co"
+      }
     }
   },
   "order": [
@@ -289,6 +301,7 @@
     "166005794226b48f03",
     "16600579701b9ea466",
     "main-page",
-    "45d56185-372d-4b7a-a151-5d0aacdb90ce"
+    "45d56185-372d-4b7a-a151-5d0aacdb90ce",
+    "d665dfc1-2b95-4c77-988b-0b5c0e3088fe"
   ]
 }
