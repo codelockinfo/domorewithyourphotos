@@ -5158,7 +5158,8 @@ a.text-center.read-more.text-link {
 	border-color: #d13540 !important;
     color: #ffffff !important;
   }
-  #root #nav-user>ul>li>a i span:before ,.l4sc.strong[class*=button-palette] [class*=icon-]{
+  #root #nav-user>ul>li>a i span:before ,.l4sc.strong[class*=button-palette] [class*=icon-],
+  .icon-cart-bag-rounded{
 	background: #d13540 !important;
 	border-color:#d13540;
   }
@@ -5287,4 +5288,21 @@ p.text-center.size-s ,a.close{
 }
 .main-page-new .align-center{
 	text-align: center;
+}
+.main_collections .mobile .l4cl:not(.list,.hr) figure .link-btn, .mobile .l4cl:not(.list,.hr) figure form {
+    /* display: none !important;
+    opacity: 0 !important; */
+}
+/* .main_collections .l4cl.w100-mobile li.dynamic-quickshop .link-btn.visible {
+    display: block !important;
+} */
+.main_collections .form-card.cart-initialized{
+	display: block !important;
+}
+.main_collections .bold_options.bold_options_loaded {
+    display: none;
+}
+.main_collections button.overlay-tertiary.bold_clone:before{
+	background: #d43342 !important ;
+	border-color:#d43342 !important ;
 }
