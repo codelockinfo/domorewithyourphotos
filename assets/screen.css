@@ -5310,3 +5310,6 @@ p.text-center.size-s ,a.close{
     background: #d43342 !important;
     border-color: #d43342 !important;
 }
+i.icon-cart-bag-rounded {
+    border-radius: 50% !important;
+}
