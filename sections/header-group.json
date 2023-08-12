@@ -272,7 +272,7 @@
         "menubar_menu": "new-mega-menu",
         "menubar_height": "45px",
         "menu_layout": "mega",
-        "show_dropdown_images": true,
+        "show_dropdown_images": false,
         "show_dropdown_images_autofill": false,
         "menubar_alignment": "center",
         "menubar_border": false,
