@@ -219,6 +219,9 @@
     },
     "recommendations": {
       "type": "product-recommendations",
+      "custom_css": [
+        ".link-btn a:before{background: #d43342 !important ;border-color:#d43342 !important ;}"
+      ],
       "settings": {
         "recommended_products_qty": 8,
         "number_of_items": 4,
