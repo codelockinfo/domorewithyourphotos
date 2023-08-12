@@ -64,6 +64,9 @@
         "beafb7ad-93ae-4230-8f31-5a5294e3acb2",
         "7558c328-300e-4d0b-98ff-cc812bc16637"
       ],
+      "custom_css": [
+        ".imagetext h2.ff-primary.m20 {color: #d43342;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/about-img-2.png",
         "overlay_opacity_img": 0,
