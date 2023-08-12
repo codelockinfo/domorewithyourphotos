@@ -238,31 +238,6 @@
             "layout_mobile": "rows",
             "mobile_height": "size-s"
           }
-        },
-        "36a7cca7-576c-4760-8ae8-667ede4928be": {
-          "type": "promo_collection_list",
-          "settings": {
-            "menu_item": "Gift Frames",
-            "collections": [
-              "18th-birthday-gift-ideas"
-            ],
-            "custom_image_ratio": 100,
-            "show_in_circle": true,
-            "fill_images": true,
-            "layout": "grid",
-            "number_of_items": 5,
-            "text_alignment": "start",
-            "title_size": "h2",
-            "title": "Collection list",
-            "link_text": "View all",
-            "link_url": "shopify:\/\/collections",
-            "button_color_palette": "accent",
-            "show_link": false,
-            "collection_title_position": "center",
-            "show_collection_titles": true,
-            "collection_title_size": "p",
-            "mobile_layout": "slider"
-          }
         }
       },
       "block_order": [
@@ -271,8 +246,7 @@
         "header-block-usp-2",
         "header-block-button-1",
         "f9ff7e7c-c1a5-47ec-b3d5-92a2feb0b767",
-        "b72d4069-24f9-4503-b56b-bb02e16ee0c6",
-        "36a7cca7-576c-4760-8ae8-667ede4928be"
+        "b72d4069-24f9-4503-b56b-bb02e16ee0c6"
       ],
       "settings": {
         "layout": "layout_4",
@@ -302,7 +276,7 @@
         "cart_icon_color": "accent",
         "menubar_menu": "new-mega-menu",
         "menubar_height": "45px",
-        "menu_layout": "dropdown",
+        "menu_layout": "mega",
         "show_dropdown_images": false,
         "show_dropdown_images_autofill": false,
         "menubar_alignment": "center",
