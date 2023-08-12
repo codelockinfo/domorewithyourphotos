@@ -222,7 +222,8 @@
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
         ".form-card.cart-initialized {display: block;}",
-        "button.overlay-tertiary:before {background: #d43342 !important ; border-color: #d43342 !important ;}"
+        "button.overlay-tertiary:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
+        ".icon-cart-bag-rounded{border-radious:50%;}"
       ],
       "settings": {
         "recommended_products_qty": 8,
