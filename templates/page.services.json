@@ -33,10 +33,105 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30
       }
+    },
+    "5c94fc0f-42ed-4bb4-98ae-23eb13babdab": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Passport & ID Photos",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Visit us in Killybegs where we offer the full range of Passport Photos and ID Photos for Adults, Kids and Babies.<br\/>We have recently installed a professional lighting system and now validate every photo on the official Department of Foreign Affairs website before providing it to you and can now guarantee you photos will never being rejected your online application making your online application faster.<br\/><br\/>Digital Photos now available for Online renewals<br\/><br\/><strong>We also provide photo ID for :<\/strong><\/p><ul><li>foreign Passport Renewals (such as USA, UK, Canada etc<\/li><li>All other forms of Photo ID is also supported, such as<\/li><li>Age Cards photos<\/li><li>Visa’s  photos, Any country, any size<\/li><li>Disability, bus pass Permits photos<\/li><li>PSV Licenses photos<\/li><li>SafePass photos<\/li><li>Driving Theory test photos<\/li><li>Children and baby photos<\/li><\/ul><p><br\/>All Photos are taken and printed while you wait – no appointment is necessary so pop down to us in today.<\/p>"
+          }
+        },
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-title-1",
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-text-1",
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-1",
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-2",
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-3",
+        "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-buttons-1"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Passport-idphotos.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
-    "main-page"
+    "main-page",
+    "5c94fc0f-42ed-4bb4-98ae-23eb13babdab"
   ]
 }
