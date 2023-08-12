@@ -221,7 +221,8 @@
       "type": "product-recommendations",
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
-        ".form-card.cart-initialized{display:block;}"
+        ".form-card.cart-initialized {display: block;}",
+        "button.overlay-tertiary{background: #d43342 !important ;border-color:#d43342 !important ;}"
       ],
       "settings": {
         "recommended_products_qty": 8,
