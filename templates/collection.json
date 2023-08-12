@@ -41,6 +41,9 @@
         "product_grid",
         "423fb7f6-2c97-4420-8211-d45378349d2a"
       ],
+      "custom_css": [
+        ".link-btn a:before{background: #d43342 !important ;border-color:#d43342 !important ;}"
+      ],
       "settings": {
         "pagination_qty": 12,
         "pagination_type": "button",
