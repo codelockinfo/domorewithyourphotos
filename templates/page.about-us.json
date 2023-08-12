@@ -6,6 +6,80 @@
         "hide_mobile": false
       }
     },
+    "7c5b0a7f-4a11-48b1-9d09-e763ef647d09": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19423284134218__7c5b0a7f-4a11-48b1-9d09-e763ef647d09-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Our Story",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19423284134218__7c5b0a7f-4a11-48b1-9d09-e763ef647d09-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>We are taking more photos than ever before. Our phones and computers are stacked with hundreds upon hundreds of images that we keep meaning to print but just never get around to it as we become more and more lost under an avalanche of unsorted, untitled and unfindable images.<\/p>"
+          }
+        },
+        "19971cfa-0268-47d1-84f8-5fbb6e244e47": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "beafb7ad-93ae-4230-8f31-5a5294e3acb2": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>At Domore.ie we want to change that and make sure that your photos are no longer lost forever in the digital abyss of your phone or pc, never to be seen again.<\/p>"
+          }
+        },
+        "7558c328-300e-4d0b-98ff-cc812bc16637": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire and enjoy in a beautiful and personalised framed keepsake.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284134218__7c5b0a7f-4a11-48b1-9d09-e763ef647d09-title-1",
+        "template--19423284134218__7c5b0a7f-4a11-48b1-9d09-e763ef647d09-text-1",
+        "19971cfa-0268-47d1-84f8-5fbb6e244e47",
+        "beafb7ad-93ae-4230-8f31-5a5294e3acb2",
+        "7558c328-300e-4d0b-98ff-cc812bc16637"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-img-2.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "166005794226b48f03": {
       "type": "section-slideshow",
       "blocks": {
@@ -147,6 +221,9 @@
         "166005796961cc60d8-1",
         "166005796961cc60d8-3"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/about-img-2_09cb7a38-762c-44c8-a724-c97e2312fecb.png",
         "overlay_opacity_img": 0,
@@ -286,8 +363,7 @@
     "d665dfc1-2b95-4c77-988b-0b5c0e3088fe": {
       "type": "ourstory_video",
       "settings": {
-        "container": 1150,
-        "heading1": "Heading",
+        "container": 1300,
         "videos": "https:\/\/www.youtube.com\/embed\/gwwMP9BWdOk",
         "Videodes": "domore.ie is an extension of our business, an independant online store where our focus is to make people Do More With Your Pictures in this digital age so they can be enjoyed for years and generations to come. It is run by myself, Declan and my small fantastic team.",
         "videotext": "Dont hesitate to contact us if you have any questions or queries, we would love to hear from you.",
@@ -298,6 +374,7 @@
   },
   "order": [
     "breadcrumbs",
+    "7c5b0a7f-4a11-48b1-9d09-e763ef647d09",
     "166005794226b48f03",
     "16600579701b9ea466",
     "main-page",
