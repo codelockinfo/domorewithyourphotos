@@ -4861,8 +4861,24 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 	background:transparent!important;
 	border:1px solid!important;
 }
+/* product page add to cart color change  */
+#root button.inv:before{
+	background: #d43342 !important ;
+	border-color:#d43342 !important ;
+}
+#root button.inv{
+	color: #fff !important;
+	
+}
 /* how work start section*/
-
+.feature_collection .form-card.cart-initialized{
+	display: block !important;
+}
+.feature_collection button.overlay-tertiary:before{
+	color: #fff !important;
+	background: #d43342 !important ;
+	border-color:#d43342 !important ;
+}
 .how_work  .read-more {
 	background: #d43342;
 	 border-radius: 100px;
@@ -5134,6 +5150,11 @@ a.text-center.read-more.text-link {
   .module-color-palette  .link-btn a{
 	color: #ffffff !important;
   }
+  .checkout_page button.overlay-quaternary.bold_clone.last-child:before{
+	background: #d13540 !important;
+	border-color: #d13540 !important;
+    color: #ffffff !important;
+  }
   #root #nav-user>ul>li>a i span:before ,.l4sc.strong[class*=button-palette] [class*=icon-]{
 	background: #d13540 !important;
 	border-color:#d13540;
@@ -5141,10 +5162,11 @@ a.text-center.read-more.text-link {
   .blogtext a.no-before.strong {
 	color:#d13540;
   }
-  .module-color-palette  .link-btn a:before{
-	background: #d13540 !important;
+  .module-color-palette  .link-btn a:before  ,.main_collections fieldset .listening:before{
+  background: #d13540 !important;
     color: #ffffff !important;
   }
+  
 .shopify-section-announcement-bar{
 background:#d13540 !important;
 }
@@ -5165,10 +5187,14 @@ p.text-center.size-s ,a.close{
     letter-spacing: -.02em;
     font-family: Georgia Pro,serif;
 }
-.shopify-section-footer ul.l4pm.box li:nth-child(1), 
-.shopify-section-footer ul.l4pm.box li:nth-child(7),
-.shopify-section-footer ul.l4pm.box li:nth-child(8){
+.shopify-section-footer ul.l4pm.box li:nth-child(1),
+.checkout_page ul.l4pm li:nth-child(1),
+.shopify-section-footer ul.l4pm.box li:nth-child(7),.checkout_page ul.l4pm li:nth-child(7),
+.shopify-section-footer ul.l4pm.box li:nth-child(8),.checkout_page ul.l4pm li:nth-child(8){
     display: none;
+}
+.checkout_page .l4pm li {
+	margin: 0 14px 10px 0;
 }
 .how_work .read_btn {
 	display: flex;
