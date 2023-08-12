@@ -191,7 +191,7 @@
         "e434d2f5-3a5d-45a1-966d-c97cccc7c52e"
       ],
       "custom_css": [
-        "#root button.inv:before{color: #fff; background: #d43342 !important ; border-color: #d43342 !important ;}"
+
       ],
       "settings": {
         "media_layout": "slider",
