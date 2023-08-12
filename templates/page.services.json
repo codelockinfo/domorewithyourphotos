@@ -136,7 +136,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Image with text",
+            "title": "Printing Services",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -148,11 +148,12 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+            "text": "<h4>1. Instant Prints form your phone or camera while you wait<\/h4><p>Pop into is in Killybegs and we can print your photos while you wait from your mobile phone or camera at no extra charge. Get expert advise options and help using our kiosks.<\/p><h4>2.  Copy Old Photos<\/h4><p>Bring in your prints and have them copied and or enlarged. Dont loose your family history, we can copy, repair and restore store your old photos.<\/p><h4>3. Enlargements and Poster prints<\/h4><p>Your beautiful, meaningful photos are something to be proud of so show them off as large A1 framed prints on your walls. We can help you transform your own personal experiences and memories into picture perfect wall art<\/p><h4>4. Canvas Prints and Photoblocks<\/h4><p>Create stunning wall art from your memories by turning your precious photos into canvas prints or photoblocks. All our canvas prints comes finished using large 2inch stretcher frames and 100% cotton canvas. Guaranteed to last a lifetime wiht no fading overtime.<\/p>"
           }
         },
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-usp-1": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -161,6 +162,7 @@
         },
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-usp-2": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -169,6 +171,7 @@
         },
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-usp-3": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -177,6 +180,7 @@
         },
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-buttons-1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -200,7 +204,7 @@
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-buttons-1"
       ],
       "custom_css": [
-        ".imagetext article picture img {object-fit: contain !important; }"
+        ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Printing-Services.png",
