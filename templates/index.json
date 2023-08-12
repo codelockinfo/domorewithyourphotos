@@ -544,7 +544,8 @@
             "look_btn_color_palette": "white",
             "look_position": "start",
             "show_look_label": true,
-            "look_label_text": "Traditional Photo Album"
+            "look_label_text": "Traditional Photo Album",
+            "image_mobile": "shopify:\/\/shop_images\/wedding_photo_booth_frame.jpg"
           }
         },
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
@@ -1136,7 +1137,7 @@
     "c44666b7-f00b-4316-839b-77d8cf2bf64c": {
       "type": "section-blog-posts",
       "custom_css": [
-
+        "[data-whatin=\"mouse\"] .link-btn a:hover {color: #000 !important;}"
       ],
       "settings": {
         "blog": "news",
