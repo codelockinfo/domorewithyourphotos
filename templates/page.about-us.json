@@ -147,6 +147,9 @@
         "166005796961cc60d8-1",
         "166005796961cc60d8-3"
       ],
+      "custom_css": [
+        "#root .m6as > figure img{height:auto !important;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/about-img-2_09cb7a38-762c-44c8-a724-c97e2312fecb.png",
         "overlay_opacity_img": 0,
@@ -286,8 +289,7 @@
     "d665dfc1-2b95-4c77-988b-0b5c0e3088fe": {
       "type": "ourstory_video",
       "settings": {
-        "container": 1150,
-        "heading1": "Heading",
+        "container": 1300,
         "videos": "https:\/\/www.youtube.com\/embed\/gwwMP9BWdOk",
         "Videodes": "domore.ie is an extension of our business, an independant online store where our focus is to make people Do More With Your Pictures in this digital age so they can be enjoyed for years and generations to come. It is run by myself, Declan and my small fantastic team.",
         "videotext": "Dont hesitate to contact us if you have any questions or queries, we would love to hear from you.",
