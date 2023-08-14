@@ -6155,4 +6155,7 @@ h3.servicehed {
     padding: 20px 10px;
 }  
 }
+.noUi-connect:before{
+	background-color: #d43342 !important;
+}
 /* 18th birthday end */
