@@ -174,7 +174,8 @@
                   prev_button: true
                 %}
               {%- endif -%}
-              <ul id="collection" class="l4cl {{ width_class }}{% unless show_filters_and_menu %} mobile-wide{% endunless %} mobile-scroll" {{ block.shopify_attributes }}>
+              <!-- <div id="Huratips-Loop" > -->
+              <ul id=" collection" class="l4cl {{ width_class }}{% unless show_filters_and_menu %} mobile-wide{% endunless %} mobile-scroll" {{ block.shopify_attributes }}>
                 {%- for product in collection.products -%}
                   {%- liquid
                     capture placeholder_int
@@ -193,12 +194,15 @@
                   -%}
                 {%- endfor -%}
               </ul>
+            <!-- </div> -->
+              <!-- <div id="Huratips-Pagination"> -->
               {% render 'pagination',
                 paginate: paginate,
                 pagination_type: section.settings.pagination_type,
                 show_amount: section.settings.show_amount_of_products_in_collection
               %}
             {%- endpaginate -%}
+          <!-- </div> -->
           {%- else -%}
             <p>{{ 'collection.empty_collection_html' | t }}</p>
           {%- endif -%}
@@ -261,10 +265,10 @@
       "type": "range",
       "id": "pagination_qty",
       "label": "t:main.collection.settings.layout.pagination_qty.label",
-      "min": 12,
-      "max": 48,
+      "min": 100,
+      "max": 1000,
       "step": 12,
-      "default": 12
+      "default":100
     },
     {
       "id": "pagination_type",
@@ -591,3 +595,11 @@
   ]
 }
 {% endschema %}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var endlessScroll = new Ajaxinate({
+      container: '#Huratips-Loop',
+      pagination: '#Huratips-Pagination'
+    });
+  });
+</script>

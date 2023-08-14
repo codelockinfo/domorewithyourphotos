@@ -1,0 +1,44 @@
+{% assign image = section.settings.image %}{% assign html = section.settings.html %}
+{% assign bg_color = section.settings.bg_color %}{% assign bg_text = section.settings.bg_text %}
+<div class="bg_img_with_text">
+{% if image != "blank" %}
+  <img src="{{ image | img_url: 'master' }}" />
+{% endif %}  
+<div class="container">
+  {% if html != blank %}<div class="desc" style="background-color:{{ bg_color }};color:{{ bg_text }};">{{ html }}</div>{% endif %}
+</div>
+</div>
+{% schema %}
+  {
+    "name": "Text With Background",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "html",
+        "id": "html",
+        "label": "Content"
+      },
+      {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Text Background"
+      },
+      {
+        "type": "color",
+        "id": "bg_text",
+        "label": "Text Color"
+      } 
+    ],
+    "presets": [
+      {
+      "name": "Text With Background",
+          "category": "Content",
+          "settings": {}
+      }
+    ]
+  }
+{% endschema %}

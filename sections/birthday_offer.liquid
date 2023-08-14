@@ -1,0 +1,118 @@
+<div class="bithday_off_products">
+    <div class="container">
+    <div class="blocks">
+      <div class="left_block">  
+        <div class="off_prod_slider">  
+        {% for block in section.blocks %}
+          {% assign main_product = block.settings.product %}
+          {% assign product2 = block.settings.product2 %}
+          {% if main_product != blank %}
+          <div class="item">  
+            {% if main_product != blank %}  
+            {% include "birthday_product", birth_pro: main_product %}
+            {% endif %}{% if product2 != blank %}
+            {% include "birthday_product", birth_pro: product2 %}
+            {% endif %}
+          </div>
+          {% endif %}
+        {% endfor %} 
+        </div>  
+      </div>   
+      <div class="right_block">
+          {% assign title = section.settings.title %}
+          {% assign main_product_sec = section.settings.main_product %}
+          {% assign main2_product = section.settings.main2_product %}
+          {% assign right_text = section.settings.right_text %}
+        <div class="per_off_offers">
+          {% if right_text != blank %}
+            <div class="right_text">{{ right_text }}</div>
+          {% else %}
+          {% if main_product_sec != blank %}
+          {% include "birthday_product", birth_pro: main_product_sec %}
+          {% endif %}{% if main2_product != blank %}
+          {% include "birthday_product", birth_pro: main2_product %}{% endif %}
+          {% endif %}
+        </div>
+        
+      </div>
+    </div>
+      
+    </div>
+    </div>  
+    {% schema %}
+      {
+        "name": "Birthday Offer Product",
+        "settings": [
+          {
+             "type": "text",
+             "id": "right_text",
+             "label": "Right Text"
+          },
+          {
+             "type": "product",
+             "id": "main_product",
+             "label": "First Product"
+          },
+          {
+             "type": "product",
+             "id": "main2_product",
+             "label": "Second Product"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "block",
+            "name": "Block",
+            "settings": [
+              {
+                "type": "product",
+                 "id": "product",
+                "label": "First Product"
+              },
+              {
+                "type": "product",
+                 "id": "product2",
+                "label": "Second Product"
+              }
+            ]
+          }
+        ],
+        "presets": [
+          {
+            "name": "Birthday Offer Product",
+            "category": "product",
+            "settings": {
+            },
+            "blocks": [
+            ]
+          }
+        ]
+      }
+    {% endschema %}
+    
+    <script>
+    // $('.bithday_off_products .off_prod_slider').slick({
+    //   infinite: true,
+    //   slidesToShow: 2,
+    //   slidesToScroll: 1,
+    //         arrows: true,
+    //   responsive: [
+    //     {
+    //       breakpoint: 640,
+    //       settings: {
+    
+    //         slidesToShow: 2,
+    //         slidesToScroll: 1
+    //       }
+    //     },
+    //     {
+    //       breakpoint: 480,
+    //       settings: {
+    //         slidesToShow: 1,
+    //         slidesToScroll: 1
+    //       }
+    //     }
+    //   ]
+    // });
+      
+    </script>

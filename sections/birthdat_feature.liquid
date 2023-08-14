@@ -1,0 +1,179 @@
+<div class="bithday_featured_products">
+    <div class="container">
+    {% assign title = section.settings.title %}{% assign html = section.settings.html %}
+    {% assign main_product = section.settings.main_product %}
+    <div class="heading_section">
+        {% if title != blank %}<h2>{{ title }}</h2>{% endif %} 
+        {% if html != blank %}<p>{{ html }}</p>{% endif %}  
+    </div>
+    <div class="blocks">
+      <div class="left_block">
+        <div class="special_offers">
+          {% assign popular_title = section.settings.popular_title %}
+          {% assign pro_img = section.settings.pro_img %}
+          {% assign bottom_text = section.settings.bottom_text %}
+          {% assign button_text = section.settings.button_text %}
+          {% assign button_link = section.settings.button_link %}
+          <div class="main_pro_banner">
+            {% if popular_title != blank %}<h4>{{ popular_title }}</h4>{% endif %}
+            {% if pro_img != blank %}<img src="{{ pro_img | img_url: '800X' }}" />{% endif %}
+            <div class="bottom_text_sec">
+            {% if bottom_text != blank %}<div class="bottom_text">{{ bottom_text }}</div>{% endif %}
+            {% if button_link != blank %}
+              <div class="bottom_buttons"><a class="btn" href="{{ button_link }}">{{ button_text }}</a></div>
+            {% endif %}
+            </div>
+          </div>
+          {% if main_product != blank %}
+          {% include "birthday_product", birth_pro: main_product, pro_img: section.settings.pro_img %}
+          {% endif %}
+        </div>
+      </div>
+      <div class="right_block">  
+        <div class="featured_prod_slider">  
+        {% for block in section.blocks %}
+          {% assign main_product = block.settings.product %}
+          {% if main_product != blank %}
+          <div class="item">  
+            {% include "birthday_product", birth_pro: main_product %}
+          </div>
+          {% endif %}
+        {% endfor %} 
+        </div>  
+      </div>  
+    </div>
+      
+    </div>
+    </div>  
+    {% schema %}
+      {
+        "name": "Birthday Featured Products",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          },
+          {
+            "type": "html",
+            "id": "html",
+            "label": "Content"
+          },
+          {
+             "type": "product",
+             "id": "main_product",
+             "label": "Product"
+          },
+          {
+            "type": "header",
+            "content": "Most Popular Banner"
+          },
+          {
+             "type": "text",
+             "id": "popular_title",
+             "label": "Title"
+          },
+          {
+             "type": "image_picker",
+             "id": "pro_img",
+             "label": "Image"
+          },
+          {
+             "type": "html",
+             "id": "bottom_text",
+             "label": "Content"
+          },
+          {
+             "type": "text",
+             "id": "button_text",
+             "label": "Button Text"
+          },
+          {
+             "type": "url",
+             "id": "button_link",
+             "label": "Button Link"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "block",
+            "name": "Block",
+            "settings": [
+              {
+                "type": "product",
+                 "id": "product",
+                "label": "Product"
+              }
+            ]
+          }
+        ],
+        "presets": [
+          {
+            "name": "Birthday Featured Products",
+            "category": "product",
+            "settings": {
+            },
+            "blocks": [
+            ]
+          }
+        ]
+      }
+    {% endschema %}
+    
+    <script>
+    // $('.bithday_featured_products .featured_prod_slider').slick({
+    //   infinite: true,
+    //   slidesToShow: 2,
+    //   slidesToScroll: 1,
+    //   responsive: [
+    //     {
+    //       breakpoint: 640,
+    //       settings: {
+    //         slidesToShow: 2,
+    //         slidesToScroll: 1
+    //       }
+    //     },
+    //     {
+    //       breakpoint: 480,
+    //       settings: {
+    //         slidesToShow: 1,
+    //         slidesToScroll: 1
+    //       }
+    //     }
+    //   ]
+    // });
+      
+    </script>
+    
+    
+    
+    <script>
+    $('.bithday_featured_products .bottom_text_sec a[href*="#"]')
+      .not('[href="#"]')
+      .not('[href="#0"]')
+      .click(function(event) {
+        if (
+          location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+          && 
+          location.hostname == this.hostname
+        ) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+          if (target.length) {
+            event.preventDefault();
+            $('html, body').animate({
+              scrollTop: target.offset().top
+            }, 1000, function() {
+              var $target = $(target);
+              $target.focus();
+              if ($target.is(":focus")) {
+                return false;
+              } else {
+                $target.attr('tabindex','-1');
+                $target.focus();
+              };
+            });
+          }
+        }
+      });
+    </script>

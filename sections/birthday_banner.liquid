@@ -1,0 +1,132 @@
+<script type="text/javascript" src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
+{{ 'custom.css' | asset_url | stylesheet_tag }}
+<div class="birthday_banner">
+{% for block in section.blocks %}
+<div class="item">
+<div class="container">
+{% assign image = block.settings.image %}{% assign top_heading = block.settings.top_heading %}
+{% assign heading = block.settings.heading %}{% assign html = block.settings.html %}
+{% assign button_text = block.settings.button_text %}{% assign button_link = block.settings.button_link %}
+{% assign button_text_2 = block.settings.button_text_2 %}{% assign button_link_2 = block.settings.button_link_2 %}
+<div class="home-birthday-block">
+<div class="left_block">
+  {% if top_heading != blank %}<h5>{{ top_heading }}</h5>{% endif %}
+  {% if heading != blank %}<h2>{{ heading }}</h2>{% endif %}
+  {% if html != blank %}<div class="desc">{{ html }}</div>{% endif %}
+  <div class="btn_section">
+    {% if button_link != blank %}<a target="_blank" href="{{ button_link }}" class="btn">{{ button_text }}</a>{% endif %}
+    {% if button_link_2 != blank %}<a target="_blank" href="{{ button_link_2 }}" class="btn sec_btn">{{ button_text_2 }}</a>{% endif %}
+  </div>  
+</div>
+<div class="right_block">
+  {% if image != blank %}<img src="{{ image | img_url: 'master'  }}"  />{% endif %}
+</div>
+</div>
+
+</div>
+</div>
+{% endfor %}  
+</div>
+
+{% schema %}
+  {
+    "name": "Birthday Banner",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "block",
+        "name": "Block",
+        "settings": [
+		  {
+			"type": "image_picker",
+			 "id": "image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "top_heading",
+            "label": "Top Heading"
+          },
+          {
+            "type": "text",
+            "id": "heading",
+            "label": "Heading"
+          },
+          {
+            "type": "html",
+            "id": "html",
+            "label": "Content"
+          },
+          {
+            "type": "text",
+            "id": "button_text",
+            "label": "Button Text"
+          },
+          {
+            "type": "url",
+            "id": "button_link",
+            "label": "Button Link"
+          },
+          {
+            "type": "text",
+            "id": "button_text_2",
+            "label": "Second Button Text"
+          },
+          {
+            "type": "url",
+            "id": "button_link_2",
+            "label": "Second Button Link"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Birthday Banner",
+        "category": "Image",
+        "settings": {
+        },
+        "blocks": [
+        ]
+      }
+    ]
+  }
+{% endschema %}
+
+<script>
+$('.birthday_banner').slick({
+  infinite: true,
+  dots: true,
+  slidesToShow: 1,
+  slidesToScroll: 1
+});
+
+$('.birthday_banner .btn_section a[href*="#"]')
+  .not('[href="#"]')
+  .not('[href="#0"]')
+  .click(function(event) {
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+      && 
+      location.hostname == this.hostname
+    ) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      if (target.length) {
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) {
+            return false;
+          } else {
+            $target.attr('tabindex','-1');
+            $target.focus();
+          };
+        });
+      }
+    }
+  });
+</script>

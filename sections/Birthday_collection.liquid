@@ -1,0 +1,82 @@
+<div class="bithday_featured_collection ">
+    <div class="container">
+      {% assign title = section.settings.title %}
+      {% if title != blank %}<h4>{{ title }}</h4>{% endif %}
+    <div class="blocks">
+        <div class="off_prod_slider">  
+        {% for block in section.blocks %}
+          <div class="item">  
+            {% assign main_product = block.settings.product %}  
+            {% if main_product != blank %}  
+              {% include "birthday_product", birth_pro: main_product %}
+            {% endif %} 
+          </div>
+        {% endfor %} 
+        </div>
+    </div>
+      
+    </div>
+    </div>  
+    {% schema %}
+      {
+        "name": "Birthday Collection",
+        "max_blocks": 3,
+        "settings": [
+          {
+             "type": "text",
+             "id": "title",
+             "label": "Title"
+          } 
+        ],
+        "blocks": [
+          {
+            "type": "block",
+            "name": "Block",
+            "settings": [
+              {
+                "type": "product",
+                 "id": "product",
+                "label": "First Product"
+              }
+            ]
+          }
+        ],
+        "presets": [
+          {
+            "name": "Birthday Collection",
+            "category": "product",
+            "settings": {
+            },
+            "blocks": [
+            ]
+          }
+        ]
+      }
+    {% endschema %}
+    
+    <script>
+    $('.bithday_featured_collection .off_prod_slider').slick({
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      responsive: [
+        {
+          breakpoint: 640,
+          settings: {
+            arrows: true,
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            adaptiveHeight: true
+          }
+        }
+      ]
+    });
+      
+    </script>

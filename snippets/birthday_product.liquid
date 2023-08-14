@@ -1,0 +1,12 @@
+{% assign birth_pro = all_products[main_product] %}
+<div class="birthday_product">
+<div class="b_left">
+  <a href="{{ birth_pro.url }}"><img src="{{ birth_pro.featured_image.src | img_url: '250X' }}" /></a>
+</div>
+<div class="b_right">
+  <h5><a href="{{ birth_pro.url }}">{{ birth_pro.title }}</a></h5>
+  <div class="desc">{{ birth_pro.description |  strip_html | truncate: 100 }}</div>
+  <div class="price">{{ birth_pro.price | money }}</div>
+  <div class="btn_section"><a href="{{ birth_pro.url }}" class="btn" target="_blank">Add to cart</a></div>
+</div>
+</div>

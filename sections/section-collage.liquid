@@ -45,7 +45,8 @@
       -%}
       {% if block.settings.image_mobile %}
         {% capture mobile_image %}
-        <img
+       
+        <img 
                 src="{{ 'placeholder-pixel.png' | asset_img_url }}"
                 data-src="{{ block.settings.image_mobile | image_url: width: 620 }}"
                 data-srcset="{% render 'image-srcset', image: block.settings.image_mobile %}"
@@ -107,7 +108,8 @@
             {%- elsif block.settings.image -%}
               <picture>
                   {% if mobile_image %}{{ mobile_image }}{% endif %}
-                  <img
+                  <a href="{{block.settings.imgid}}">
+                  <img 
                     src="{{ 'placeholder-pixel.png' | asset_img_url }}"
                     data-src="{{ block.settings.image | image_url: width: 620 }}"
                     data-srcset="{% render 'image-srcset', image: block.settings.image %}"
@@ -123,7 +125,7 @@
                     alt="{{ block.settings.image.alt | default: block.settings.title | escape }}"
                     style="object-position: {{ block.settings.image.presentation.focal_point }}"
                      {% if block.settings.image_mobile %}class="mobile-hide"{% endif %}
-                  >
+                  ></a>
               </picture>
             {% else %}
               <picture>
@@ -363,6 +365,11 @@
       "type": "image",
       "name": "t:sections.collage.blocks.image.name",
       "settings": [
+      {
+        "id":"imgid",
+        "type":"text",
+        "label":"Image Url"
+      },
         {
           "id": "image",
           "type": "image_picker",

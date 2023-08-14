@@ -5393,6 +5393,7 @@ p.videomain{
     display: flex;
     justify-content: center;
     align-items: center;
+	margin-bottom: 5%;
 }
 .servicetext {
     margin-left: 3%;
@@ -5425,11 +5426,31 @@ h3.servicehed {
 	color:#fff;
     border-radius: 20px;
 }
+.our_services .Containers.logoblock {
+    padding: 20px 0;
+}
 .sidflex {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.serviceimg{
+	width: 40%;
+}
+.servicetext{
+	width: 60%;
+}
+.main_collections .cart-initialized .overlay-tertiary:before{
+	background: #d43342 !important;
+	color:#fff !important;
+}
+.cart-initialized .overlay-tertiary button:before{
+	background: #d43342 !important;
+	color:#fff !important;
+}
+/* .l4cl .swiper-button-next, .l4cl .swiper-button-prev{
+	color:#d43342 !important;
+} */
 @media only screen and (max-width: 991px) {
 	.servicedata{
 		width:100%;
@@ -5439,6 +5460,9 @@ h3.servicehed {
 @media only screen and (max-width: 760px) {
 	.serviceflex{
 		flex-wrap: wrap;
+	}
+	.servicetext ,.serviceimg{
+		width: 100%;
 	}
 	.servicedata{
 		width:50%;
@@ -5457,3 +5481,615 @@ h3.servicehed {
 
 
 /* video section end */
+/* 18th birthday start */
+
+.birthday_banner {
+    display: inline-block;
+    width: 100%;
+    padding: 60px 0;
+    position: relative;
+    z-index: 3;
+}
+.birthday_banner .btn_section {
+    padding-top: 20px;
+}
+.birthday_banner .btn_section a.btn.sec_btn {
+    margin: 0 0 0 10px;
+}
+.birthday_banner .btn_section a.btn {
+    cursor: pointer;
+}
+.birthday_banner .left_block {
+    width: 40%;
+    float: left;
+}
+.birthday_banner .right_block {
+    width: 60%;
+    float: right;
+    text-align: right;
+}
+.birthday_banner h5 {
+    color: #4A4A4A;
+    font-size: 34px;
+    line-height: 45px;
+}
+.birthday_banner h2 {
+    color: #B41717;
+    font-size: 90px;
+    line-height: 96px;
+}
+.birthday_banner h5 span {
+    color: #B41717;
+}
+.birthday_banner .desc {
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000D9;
+}
+.bg_img_with_text {
+    padding: 30px 0 0;
+    font-size: 30px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.bg_img_with_text img {
+    width: 100%;
+}
+.bithday_off_products {
+    padding: 100px 0 30px 0;
+}
+.bithday_off_products .blocks {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+.special_offers , .per_off_offers {
+    background: #B41717;
+    color: #fff;
+    text-align: left;
+    padding: 27px 40px;
+    border-radius: 8px;
+    margin-right: 50px;
+}
+.bithday_off_products .left_block .birthday_product {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 35px 10px;
+}
+.per_off_offers {
+  margin-right: 0;
+  margin-left: 50px;
+}
+.bithday_off_products .left_block .birthday_product {
+    display: flex;
+  flex-flow: row wrap;
+}
+.bithday_off_products .left_block .birthday_product .b_right {
+    width: 60%;
+}
+.bithday_off_products .left_block .birthday_product  .b_left {
+    width: 35%;
+    padding-right: 14px;
+}
+.per_off_offers .b_right a {
+    color: #fff !important;
+}
+.per_off_offers .btn_section a.btn {
+    background: #fff;
+    color: #b41717 !important;
+}
+.bithday_off_products .left_block .birthday_product img {
+    width: max-content;
+    height: auto;
+    object-fit: cover !important;
+    padding-right: 10px;
+}
+.special_offers a {
+    color: #fff !important;
+}
+.special_offers .btn_section  a {
+    background: #fff !important;
+    color: #b41717 !important;
+}
+.special_offers .birthday_product img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.bithday_off_products .blocks .left_block {
+    width: 66%;
+}
+.bithday_off_products .blocks .left_block .off_prod_slider {
+    width: 100%;
+    display: inline-block;
+}
+.bithday_off_products .blocks .left_block .off_prod_slider .item {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+}
+.bithday_off_products .blocks .right_block .per_off_offers {
+    position: sticky;
+    top: 0;
+}
+.bithday_featured_products .blocks {
+    display: flex;
+    flex-flow: row wrap;
+  padding-top: 30px;
+}
+.bithday_featured_products .birthday_product img {
+    height: 200px;
+    object-fit: contain;
+    width: auto;
+    margin-bottom: 20px;
+}
+.birthday_banner .right_block img {
+    height: 500px;
+    padding-left: 60px;
+}
+.bithday_featured_products .blocks .left_block {
+    width: 33%;
+}
+.bithday_featured_products .right_block .birthday_product {
+    border: 1px solid #E5E5E5;
+    padding: 30px;
+    margin: 0 30px;
+    height: 100%;
+    border-radius: 8px;
+}
+.bithday_featured_products .blocks .right_block {
+    width: 66%;
+    padding: 0 0 0 30px;
+    box-sizing: border-box;
+}
+.bithday_featured_products .featured_prod_slider {
+    display: inline-block;
+    width: 100%;
+}
+.bithday_off_products .blocks .right_block {
+    width: 33%;
+}
+.bg_img_with_text .desc {
+    max-width: 800px;
+    margin: 30px auto 0;
+    line-height: 50px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    font-size: 40px;
+    font-family: Bembo Book,serif;
+    width: 90%;
+}
+.how_it_work {
+    display: inline-block;
+    width: 100%;
+    padding: 0px 0 50px 0;
+    text-align: center;
+}
+.how_it_work h2, .bithday_featured_products .heading_section h2 {
+    font-size: 42px;
+    line-height: 62px;
+    margin: 0;
+    color: #000000;
+}
+.how_it_work h2 span, .bithday_featured_products .heading_section h2 span {
+    color: #B41717;
+}
+.how_it_work .blocks {
+    display: inline-block;
+    width: 100%;
+}
+
+.how_it_work .block img {
+    height: 48px;
+}
+.bithday_featured_products h2 , .bithday_featured_products p {
+    text-align: center;
+}
+.bithday_featured_products {
+    padding-bottom: 80px;
+}
+.bithday_featured_products p {
+    color: #000000D9;
+    width: 40%;
+    margin: 0 auto;
+}
+.how_it_work .blocks .block {
+    display: inline-block;
+    width: 100%;
+    padding: 40px 20px;
+    margin: 20px;
+    max-width: 200px;
+    background: #B417170A;
+    border-radius: 20px;
+}
+.how_it_work .blocks .block h4 {
+    color: #000;
+}
+  
+  .how_it_work .blocks .block .desc  {
+    line-height: 23px;
+}
+.bithday_featured_products {
+    display: inline-block;
+    width: 100%;
+    padding: 0 0 50px;
+    position: relative;
+    z-index: 2;
+}
+.bithday_featured_products h2 span {
+    color: #B41717;
+}
+.home-birthday-block {
+    display: flex;
+    align-items: center;
+}
+.how_it_work:before {
+    position: absolute;
+    content: "";
+    background-image: url(https://cdn.shopify.com/s/files/1/0099/8693/2814/t/24/assets/Polygon%205.png?v=1670318718);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    left: -35%;
+    bottom: -298px;
+    background-size: 1000px;
+    transform: rotate(90deg);
+    z-index: 1;
+}
+.how_it_work {
+    position: relative;
+}
+.how_it_work .container {
+    position: relative;
+    z-index: 2;
+}
+.bithday_off_products .per_off_offers .right_text {
+    font-size: 25px;
+    line-height: 33px;
+    text-align: center;
+    padding: 100px 10px;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+}
+.bithday_off_products .per_off_offers .right_text span {
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 900;
+    display: inline-block;
+    width: 100%;
+}
+
+.bithday_featured_collection {
+    display: inline-block;
+    width: 100%;
+    padding: 70px 0;
+}
+.bithday_featured_collection h4 {
+    text-align: center;
+    font-size: 42px;
+    line-height: 62px;
+    margin: 0 0 40px 0;
+    color: #000;
+}
+.bithday_featured_collection .blocks .off_prod_slider {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 10px;
+    justify-content: space-between;
+}
+.bithday_featured_collection .off_prod_slider .item {
+    width: 32%;
+}
+.bithday_featured_collection .birthday_product {
+    padding: 0 10px;
+}
+.bithday_featured_products .left_block .birthday_product .b_left img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+}
+.slick-slider button.slick-arrow {
+    z-index: 9999;
+    width: 30px;
+    height: 30px;
+}
+.slick-slider button.slick-arrow:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    transform: rotate(135deg);
+}
+.slick-slider button.slick-arrow.slick-next:before {
+    transform: rotate(-45deg);
+}
+.slick-slider button.slick-arrow.slick-prev {
+    left: -15px;
+}
+.slick-slider button.slick-arrow.slick-next {
+    right: -15px;
+}
+.bithday_featured_products .main_pro_banner {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.bithday_featured_products .special_offers {
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+.bithday_featured_products .main_pro_banner h4 {
+    color: #fff;
+    font-size: 35px;
+    line-height: 40px;
+    position: relative;
+    top: 40px;
+}
+.bithday_featured_products .main_pro_banner .bottom_text_sec {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    top: -50px;
+}
+.bithday_featured_products .main_pro_banner .bottom_text {
+    font-weight: 900;
+}
+.bithday_featured_products .main_pro_banner .bottom_buttons a.btn {
+    display: inline-block;
+    padding: 3px 20px;
+    background: #fff;
+    color: #b41717!important;
+    border-radius: 0px;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 900;
+}
+.bithday_featured_products .main_pro_banner img {
+    max-width: 500px;
+    width: 100%;
+}
+.off_prod_slider .b_right h5 {
+    margin: 10px 0 5px;
+}
+
+
+.bithday_featured_products .featured_prod_slider {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 60px;
+}
+.bithday_featured_products .featured_prod_slider .item {
+    margin: 0 0 60px 0;
+}
+.bithday_featured_products .right_block .birthday_product {
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+
+/* Start Responsive */
+@media screen and (max-width: 1500px) {
+.birthday_banner h5 {
+    font-size: 24px;
+    line-height: 35px;
+}
+.birthday_banner h2 {
+    font-size: 60px;
+    line-height: 66px;
+}
+.birthday_banner .desc {
+    font-size: 18px;
+    line-height: 28px;
+}
+}
+
+@media screen and (max-width: 1100px) {
+.birthday_banner .btn_section a.btn {
+    width: 60%;
+    text-align: center;
+}
+.birthday_banner .btn_section a.btn.sec_btn {
+    margin: 10px 0 0;
+}  
+}
+@media screen and (max-width: 991px) {
+.bg_img_with_text {
+    padding: 60px 0;
+}
+}
+
+@media screen and (max-width: 767px) {
+.birthday_banner .right_block,
+.birthday_banner .left_block {
+    width: 100% !important;
+    float: none !important;
+}
+.per_off_offers {
+    margin-left: 0px;
+}
+#pagefooter .copyright .copy {
+    white-space: pre-wrap;
+}
+.bithday_featured_products .blocks, 
+.home-birthday-block {
+    flex-flow: column;
+}
+.bithday_featured_products .blocks .left_block,
+.bithday_off_products .left_block .birthday_product .b_left, 
+.bithday_off_products .left_block .birthday_product .b_right,
+.bithday_off_products .blocks .right_block, 
+.bithday_featured_products .blocks .right_block , 
+.bithday_off_products .blocks .left_block {
+    width: 100% !important;
+}
+.birthday_banner .right_block img {
+    height: auto !important;
+}
+.bithday_off_products .per_off_offers .right_text {
+    padding: 70px 10px;
+}
+.how_it_work:before {
+  display:none;
+}
+.birthday_banner .btn_section {
+    max-width: 300px;
+    width: 100%;
+}
+.bithday_featured_products .left_block .special_offers {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.special_offers .b_right {
+    min-height: auto;
+}
+.bithday_featured_products .right_block .birthday_product {
+    margin: 0;
+    width: 100%;
+}
+.bithday_featured_products .blocks .right_block {
+    padding: 0;
+    margin: 40px 0 0;
+}
+.how_it_work h2, .bithday_featured_products .heading_section h2 {
+    font-size: 30px!important;
+    line-height: 40px!important;
+}
+
+  
+}
+
+@media screen and (max-width: 640px) {
+.bithday_featured_collection .off_prod_slider .item {
+    width: 100%;
+    margin: 10px 0;
+}
+.bithday_featured_collection .off_prod_slider .b_right h5 {
+    min-height: auto;
+    margin: 10px 0 10px;
+}
+.bithday_featured_collection h4 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0 0 20px;
+}
+.bithday_featured_collection {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.bithday_featured_collection .birthday_product img,
+.bithday_featured_products .right_block img,
+.bithday_off_products .left_block img {
+    margin: auto;
+    height: auto;
+}
+.bithday_featured_products .right_block,
+.bithday_off_products .blocks .left_block {
+    text-align: center;
+}
+
+.bithday_off_products .left_block .birthday_product .b_left {
+    padding-right: 0;
+}
+.off_prod_slider .b_right h5 {
+    min-height: auto;
+}
+.slick-slider button.slick-arrow.slick-prev {
+    left:0;
+}
+.slick-slider button.slick-arrow.slick-next {
+    right:0;
+}
+.birthday_banner {
+    text-align: center;
+}
+.birthday_banner .btn_section {
+    margin: 0 auto;
+}
+.bithday_featured_products .featured_prod_slider .item {
+    margin: 0 0 20px;
+}
+.bithday_featured_products .featured_prod_slider {
+    column-gap: 20px;
+}
+.how_it_work h2, .bithday_featured_products .heading_section h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.birthday_banner h2 {
+    font-size: 40px;
+    line-height: 46px;
+}  
+.bg_img_with_text .desc {
+    line-height: 40px;
+    padding: 10px 20px;
+    font-size: 30px;
+    width: 100%;
+}
+.bg_img_with_text .desc br {
+    display: none;
+}
+.bg_img_with_text {
+    padding: 0;
+}  
+}
+
+
+@media screen and (max-width: 480px) {
+.birthday_banner .btn_section a.btn {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+.birthday_banner .btn_section a.btn.sec_btn {
+    margin: 15px 0 0 0;
+}
+.bithday_off_products .per_off_offers .right_text {
+    padding: 30px 10px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.bithday_off_products .per_off_offers .right_text span {
+    font-size: 40px;
+    line-height: 40px;
+}
+.bithday_featured_products .main_pro_banner h4 {
+    font-size: 28px;
+    line-height: 35px;
+}
+.bithday_featured_products .main_pro_banner .bottom_buttons a.btn {
+    font-size: 25px;
+    line-height: 35px;
+}
+.bithday_featured_products .featured_prod_slider {
+    grid-template-columns: 1fr;
+}
+.bithday_off_products .blocks .left_block .off_prod_slider .item {
+    grid-template-columns: 1fr;
+}  
+.bg_img_with_text .desc {
+    line-height: 35px;
+    padding: 10px 20px;
+    font-size: 25px;
+    margin: 15px 0 0 0;
+}
+.bithday_off_products .blocks .right_block .per_off_offers {
+    padding: 20px 10px;
+}  
+}
+/* 18th birthday end */
