@@ -34,6 +34,34 @@
         "spacing_mobile": 30
       }
     },
+    "f4967af3-7096-44a8-b537-7d85206a99fa": {
+      "type": "our_services",
+      "blocks": {
+        "52123fc2-241a-478b-92d7-4db0e2a56aa1": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "Passport",
+            "data_text": "Passport & ID Photos"
+          }
+        },
+        "bdec646f-22bc-4d0c-bca4-508fd3627da1": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#printing-services",
+            "data_text": "Printing Services"
+          }
+        }
+      },
+      "block_order": [
+        "52123fc2-241a-478b-92d7-4db0e2a56aa1",
+        "bdec646f-22bc-4d0c-bca4-508fd3627da1"
+      ],
+      "settings": {
+        "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
+        "servicehead": "Our Services",
+        "servicetitle": "Visit us in main st, Killybegs where we can offer"
+      }
+    },
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab": {
       "type": "section-image-with-text",
       "blocks": {
@@ -113,6 +141,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "Passport",
         "image": "shopify:\/\/shop_images\/Passport-idphotos.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -207,6 +236,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "printing-services",
         "image": "shopify:\/\/shop_images\/Printing-Services.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -301,6 +331,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "",
         "image": "shopify:\/\/shop_images\/Framing_Services_e3069e62-04a0-4266-bec5-189ecde1f9e0.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -415,6 +446,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "",
         "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums_new.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -474,6 +506,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "",
         "image": "shopify:\/\/shop_images\/Layer_18.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -521,6 +554,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "",
         "image": "shopify:\/\/shop_images\/Layer_17.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -658,6 +692,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "f4967af3-7096-44a8-b537-7d85206a99fa",
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab",
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
     "e881e35e-f58a-4e20-bcae-4632f201c683",
