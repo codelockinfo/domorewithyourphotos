@@ -221,6 +221,36 @@
           "settings": {
             "product": "just-plain-birthday-party-personalised-photo-banner"
           }
+        },
+        "2281f0f7-3f05-439e-87c3-e7feec0d0eb5": {
+          "type": "block",
+          "settings": {
+            "product": "swirl-30th-birthday-personalised-photo-banner"
+          }
+        },
+        "77eed960-d6e5-4756-86a8-a0ed72188576": {
+          "type": "block",
+          "settings": {
+            "product": "large-text-filtered-30th-birthday-party-personalised-photo-banner"
+          }
+        },
+        "da05ec01-abb7-429f-9730-f3c3862438c5": {
+          "type": "block",
+          "settings": {
+            "product": "just-blue-30th-birthday-party-personalised-photo-banner"
+          }
+        },
+        "121bbd13-fe89-4fa1-952d-6f9a528aef77": {
+          "type": "block",
+          "settings": {
+            "product": "60s-america-diner-personalised-photo-banner"
+          }
+        },
+        "05b0caf8-bcd6-48a8-824a-fafc8d21a2f2": {
+          "type": "block",
+          "settings": {
+            "product": "pink-roses-2-personalised-birthday-selfie-frame"
+          }
         }
       },
       "block_order": [
@@ -245,7 +275,12 @@
         "aadf34e0-ea4d-4d00-b3f2-d82b568457a7",
         "dcd71a50-e507-4c13-9e9d-74b613bf1368",
         "7395a02c-9db0-496c-8c72-e790d1be974d",
-        "14e2ae48-9419-415d-b7aa-2d6b9c373b19"
+        "14e2ae48-9419-415d-b7aa-2d6b9c373b19",
+        "2281f0f7-3f05-439e-87c3-e7feec0d0eb5",
+        "77eed960-d6e5-4756-86a8-a0ed72188576",
+        "da05ec01-abb7-429f-9730-f3c3862438c5",
+        "121bbd13-fe89-4fa1-952d-6f9a528aef77",
+        "05b0caf8-bcd6-48a8-824a-fafc8d21a2f2"
       ],
       "settings": {
         "title": "30th Birthday Personalised Banners",
