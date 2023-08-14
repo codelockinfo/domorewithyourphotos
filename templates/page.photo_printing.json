@@ -282,12 +282,93 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "8b52b352-eeae-479a-b148-546f04576bb4": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Order photos from your phone with our new Fujifilm Imagine Ireland App",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<h2><\/h2><h5>Use \"mcgees\" as our store code to get started.Dont forget to use DOPRINT22 at checkout to get 20% Off.Available on both :<\/h5>"
+          }
+        },
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        },
+        "16de7876-65c4-449c-9da4-b26773899623": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-title-1",
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-text-1",
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1",
+        "16de7876-65c4-449c-9da4-b26773899623"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/mockup_apple_iphone_14_pro_max_2022_df75cf0876_940ed3d6-47f9-4f6a-88b7-4697ff3f25f4.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "2cda9383-0261-442d-b3f4-9c653dd483f6",
-    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d"
+    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
+    "8b52b352-eeae-479a-b148-546f04576bb4"
   ]
 }
