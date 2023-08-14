@@ -450,6 +450,9 @@
         "258dd2e8-a750-4bac-800f-3a989f5918a4",
         "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-text-1"
       ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Layer_18.png",
         "overlay_opacity_img": 0,
@@ -493,6 +496,9 @@
       "block_order": [
         "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1",
         "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Layer_17.png",
