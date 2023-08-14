@@ -5780,6 +5780,26 @@ h3.servicehed {
     margin: 0 0 40px 0;
     color: #000;
 }
+.slick-prev, .slick-next {
+    position: absolute;
+    z-index: 1;
+    display: block;
+    height: 80px;
+    width: 80px;
+    line-height: 0px;
+    font-size: 0px;
+    cursor: pointer;
+    background: transparent;
+    color: transparent;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    padding: 0;
+    border: none;
+    outline: none;
+    min-width: 0;
+}
 .bithday_featured_collection .blocks .off_prod_slider {
     width: 100%;
     display: flex;
@@ -5811,6 +5831,7 @@ h3.servicehed {
     border-bottom: 2px solid #000;
     display: inline-block;
     transform: rotate(135deg);
+	background-color: none;
 }
 .slick-slider button.slick-arrow.slick-next:before {
     transform: rotate(-45deg);
@@ -5881,22 +5902,27 @@ h3.servicehed {
     box-sizing: border-box;
     margin: 0;
 }
-.bithday_off_products .btn_section ,.bithday_featured_collection .btn_section {
+.bithday_off_products .btn_section ,.bithday_featured_collection .btn_section ,.birthday_banner .btn_section,
+.bithday_featured_products .btn_section  {
     margin-top: 10px;
 }
-.bithday_off_products .btn_section a.btn ,.bithday_featured_collection .btn_section a.btn{
+.bithday_off_products .btn_section a.btn ,.bithday_featured_collection .btn_section a.btn ,.birthday_banner .btn_section  a.btn 
+,.bithday_featured_products .btn_section a.btn {
     background: #d43342;
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 3px;
 }
-.bithday_off_products .btn_section a.btn:hover ,.bithday_featured_collection .btn_section a.btn:hover{
+.bithday_off_products .btn_section a.btn:hover ,.bithday_featured_collection .btn_section a.btn:hover  ,.birthday_banner .btn_section  a.btn:hover
+,.bithday_featured_products .btn_section a.btn:hover{
 	color:#d43342;
 	border:1px solid #d43342;
 	background-color: transparent;
 }
-
+.bithday_featured_products .bottom_buttons a{
+	text-decoration: none;
+}
 
 
 /* Start Responsive */
@@ -5917,7 +5943,7 @@ h3.servicehed {
 
 @media screen and (max-width: 1100px) {
 .birthday_banner .btn_section a.btn {
-    width: 60%;
+    width: 75%;
     text-align: center;
 }
 .birthday_banner .btn_section a.btn.sec_btn {
@@ -5927,6 +5953,10 @@ h3.servicehed {
 @media screen and (max-width: 991px) {
 .bg_img_with_text {
     padding: 60px 0;
+}
+.birthday_banner .btn_section{
+	display: flex;
+	flex-wrap: wrap;
 }
 }
 
@@ -5959,6 +5989,15 @@ h3.servicehed {
 }
 .bithday_off_products .per_off_offers .right_text {
     padding: 70px 10px;
+}
+.birthday_banner .left_block{
+	order: 2;
+}
+.birthday_banner h2{
+	text-align: center	;
+}
+.birthday_banner .right_block img{
+	padding-left: 0;
 }
 .how_it_work:before {
   display:none;
