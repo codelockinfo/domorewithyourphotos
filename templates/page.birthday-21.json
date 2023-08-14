@@ -89,6 +89,94 @@
     },
     "3c09dfde-8d01-4b05-b753-5715ea16c173": {
       "type": "birthdat_feature",
+      "blocks": {
+        "2003e4d4-ce35-442e-902e-21a180bbd283": {
+          "type": "block",
+          "settings": {
+            "product": "21st-number-photo-collage-birthday-party-personalised-banner"
+          }
+        },
+        "3506e31a-1f7e-438e-b00b-c970e6fc7029": {
+          "type": "block",
+          "settings": {
+            "product": "21st-friends-birthday-party-personalised-photo-banner"
+          }
+        },
+        "585fca61-dc29-4b17-860b-184d056df101": {
+          "type": "block",
+          "settings": {
+            "product": "its-a-21st-photo-kind-of-birthday-party-personalised-banner"
+          }
+        },
+        "d41a7d13-5e65-42e9-9906-b5acea5378fc": {
+          "type": "block",
+          "settings": {
+            "product": "gold-pink-balloon-party-personalised-birthday-selfie-frame"
+          }
+        },
+        "c8d2e8e8-ce60-487b-9024-39f1e0ab169d": {
+          "type": "block",
+          "settings": {
+            "product": "its-my-21st-party-personalised-photo-banner"
+          }
+        },
+        "1b2164bd-b499-45a1-a41a-601da310edfe": {
+          "type": "block",
+          "settings": {
+            "product": "all-wrapped-up-personalised-photo-banner"
+          }
+        },
+        "ecacee1a-a06b-40bf-8ba3-feb230fdc9bd": {
+          "type": "block",
+          "settings": {
+            "product": "it-a-balloon-21st-personalised-photo-collage-banner"
+          }
+        },
+        "daec1969-6402-4f64-ab81-4bc7df5f73b0": {
+          "type": "block",
+          "settings": {
+            "product": "tic-tok-personalised-birthday-selfie-frame"
+          }
+        },
+        "a2416b58-4146-48f1-9eb1-d19a8bd93e97": {
+          "type": "block",
+          "settings": {
+            "product": "my-21-years-in-pictures-love-hearts-photo-personalised-party-banner"
+          }
+        },
+        "fef34e06-7f3b-4418-87e7-34a63075728d": {
+          "type": "block",
+          "settings": {
+            "product": "irish-sun-21-today-headlines-personalised-birthday-photo-banner"
+          }
+        },
+        "22be99e9-2ce9-4d7d-92d7-6381bc2bb2bd": {
+          "type": "block",
+          "settings": {
+            "product": "just-black-21st-birthday-party-personalised-photo-banner"
+          }
+        },
+        "7161e108-0666-4d8b-a616-0b1970a3948a": {
+          "type": "block",
+          "settings": {
+            "product": "cake-presents-21st-birthday-party-personalised-photo-banner"
+          }
+        }
+      },
+      "block_order": [
+        "2003e4d4-ce35-442e-902e-21a180bbd283",
+        "3506e31a-1f7e-438e-b00b-c970e6fc7029",
+        "585fca61-dc29-4b17-860b-184d056df101",
+        "d41a7d13-5e65-42e9-9906-b5acea5378fc",
+        "c8d2e8e8-ce60-487b-9024-39f1e0ab169d",
+        "1b2164bd-b499-45a1-a41a-601da310edfe",
+        "ecacee1a-a06b-40bf-8ba3-feb230fdc9bd",
+        "daec1969-6402-4f64-ab81-4bc7df5f73b0",
+        "a2416b58-4146-48f1-9eb1-d19a8bd93e97",
+        "fef34e06-7f3b-4418-87e7-34a63075728d",
+        "22be99e9-2ce9-4d7d-92d7-6381bc2bb2bd",
+        "7161e108-0666-4d8b-a616-0b1970a3948a"
+      ],
       "settings": {
         "title": "21st Birthday Personalised Photo Banners",
         "html": "",
