@@ -18,8 +18,8 @@
   {{ section.settings.text_position }}
   {% if section.settings.layout == 'image-right' %}inv{% endif %}
   size-{{ section.settings.height }}
-  {% if section.settings.width == 'wide' %}wide{% else %}boxed{% endif %}
-  ">
+  {% if section.settings.width == 'wide' %}wide{% else %}boxed{% endif %} 
+  "id="{{section.settings.imagetextid}}">
   <figure {% unless section.settings.image %}class="no-img"{% endunless %}>
     <span class="img-overlay" style="opacity:{{ section.settings.overlay_opacity_img | divided_by: 100.0 }}"></span>
     {%- if section.settings.image -%}
@@ -147,6 +147,11 @@
     ]
   },
   "settings": [
+  {
+    "id":"imagetextid",
+    "type":"text",
+    "label":"Section_id"
+  },
     {
       "id": "image",
       "type": "image_picker",

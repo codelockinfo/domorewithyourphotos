@@ -5389,4 +5389,71 @@ p.videomain{
 .videodes{	
 	margin:4% 0 2% 0;
 }
+.serviceflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.servicetext {
+    margin-left: 3%;
+}
+h2.servicehed {
+    font-family: Bitter,serif;
+    text-transform: none;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: -.04em;
+	font-size: 36px;
+}
+h3.servicehed {
+    font-family: Bitter,serif;
+    text-transform: none;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: -.04em;
+    font-size: 30px;
+    margin-top: 16px;
+}
+.servicedata {
+    width: 50%;
+    margin: 2% 0;
+}
+.servicedata a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #d43342;
+	color:#fff;
+    border-radius: 20px;
+}
+.sidflex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+@media only screen and (max-width: 991px) {
+	.servicedata{
+		width:100%;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+	.serviceflex{
+		flex-wrap: wrap;
+	}
+	.servicedata{
+		width:50%;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.servicedata{
+		width:100%;
+	}
+}
+@media only screen and (max-width: 420px) {
+	.servicedata {
+		margin: 4% 0;
+	}
+}
+
+
 /* video section end */

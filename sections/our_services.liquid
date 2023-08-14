@@ -1,0 +1,77 @@
+<div class="Containers logoblock">
+    <div class="serviceflex">
+        <div class="serviceimg">
+                <img src="{{ section.settings.serviceimg|img_url: '800x' }}">
+        </div>
+        <div class="servicetext">
+            <h2 class="servicehed">{{section.settings.servicehead}}</h2>
+            <h3 class="servicehed">{{section.settings.servicetitle}}</h3>
+            <div class="sidflex">
+                {% for block in section.blocks %}
+                    <div class="servicedata">
+                        <a href="{{block.settings.data_id}}">{{block.settings.data_text}}</a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+  <!-- <div class="blockk11">
+    <div class="logoimagess productslider3">
+          {% for block in section.blocks %}
+              <div class="parterimg">
+                <img src="{{ block.settings.logourl|img_url: '800x' }}">
+              </div>
+           {% endfor %}
+    </div>
+  </div> -->
+</div>
+
+{% schema %}
+  {
+    "name": "our partner",
+    "class":"our_services",
+    "settings": [
+  {
+    "type": "image_picker",
+    "id": "serviceimg",
+    "label": "Image"
+  },
+  {
+    "type": "text",
+    "id": "servicehead",
+    "label": "Heading"
+  },
+  {
+    "type": "text",
+    "id": "servicetitle",
+    "label": "Title"
+  }
+      
+    ],
+    "blocks": [
+  {
+    "type": "blocks",
+    "name": "blocks",
+    "settings": [
+        {
+            "type": "text",
+            "id": "data_id",
+            "label": "Data-url"
+        },
+        {
+            "type": "text",
+            "id": "data_text",
+            "label": "Data-text"
+        }
+    ]
+  }
+    ],
+    "presets": [
+  {
+   "name": "our services"
+  }
+]
+  }
+{% endschema %}
+
+
