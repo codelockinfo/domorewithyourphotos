@@ -73,47 +73,10 @@
             "show_look_label": false,
             "look_label_text": "Label"
           }
-        },
-        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "Image banner",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s)<\/p>",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
         }
       },
       "block_order": [
-        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1",
-        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-2"
+        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1"
       ],
       "settings": {
         "mirrored": false,
@@ -130,11 +93,201 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d": {
+      "type": "section-promo-gallery",
+      "blocks": {
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b04_photos.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Print Photos",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/digital-print\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b02_Canvas.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Canvas Prints",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/canvas-print\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Print Posters",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/posters\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "ad65903e-4e6a-484e-bdd9-6f5c4b748890": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b05_photobook.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Photo Books",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/photo-books\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-1",
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-2",
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-3",
+        "ad65903e-4e6a-484e-bdd9-6f5c4b748890"
+      ],
+      "settings": {
+        "items_width": 4,
+        "width": "boxed",
+        "space_between": 16,
+        "image_zoom": true,
+        "layout_mobile": "rows",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "2cda9383-0261-442d-b3f4-9c653dd483f6"
+    "2cda9383-0261-442d-b3f4-9c653dd483f6",
+    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d"
   ]
 }
