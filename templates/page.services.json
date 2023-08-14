@@ -465,6 +465,50 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "4eae6704-5f77-424a-876d-bc2e9fa742d8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Memory Card Recovery",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>We are very experienced in data recovery and can recover deleted files, music and lost digital photos from failed or corrupt flash cards or any smart media. We can recover data from any smart media type ranging from USB Memory Stick, SD Cards, MMC Cards, XD Cards, Compact Flash Memory Cards, Sony memory sticks etc.<\/p><p>Pop into us today or contact us for more information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1",
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Layer_17.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -474,6 +518,7 @@
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
     "e881e35e-f58a-4e20-bcae-4632f201c683",
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e",
-    "7f490ebb-4d3e-4d91-9968-ef60b4550d37"
+    "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
+    "4eae6704-5f77-424a-876d-bc2e9fa742d8"
   ]
 }
