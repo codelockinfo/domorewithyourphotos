@@ -5424,7 +5424,13 @@ h3.servicehed {
     padding: 10px 20px;
     background: #d43342;
 	color:#fff;
-    border-radius: 20px;
+    border-radius: 3px;
+}
+.sidflex .servicedata a:hover{
+	background: transparent;
+    color: #d43342;
+    border-color: #d43342 !important;
+	border: 1px solid;
 }
 .our_services .Containers.logoblock {
     padding: 20px 0;
@@ -5971,7 +5977,11 @@ h3.servicehed {
 
   
 }
-
+@media screen and (max-width: 760px) {
+	.main_collections #root .l4cl.mobile-scroll > li, #root #content .l4cl.mobile-scroll > li{
+		width: 50% !important;
+	}
+}
 @media screen and (max-width: 640px) {
 .bithday_featured_collection .off_prod_slider .item {
     width: 100%;
