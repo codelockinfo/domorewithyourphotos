@@ -418,7 +418,18 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Image with text",
+            "title": "Digital Cameras & Accessories",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "258dd2e8-a750-4bac-800f-3a989f5918a4": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "fujifilm Instax mini 11 NOW in Stock",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -430,56 +441,14 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
-          }
-        },
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
+            "text": "<p>Official stockist of Sony, kodak digital cameras.<\/p><p>Full range of fujifilm Instax cameras, printers and film accessories in stock now Instax 11 now available in 5 colours .<\/p>"
           }
         }
       },
       "block_order": [
         "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-title-1",
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-text-1",
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-1",
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-2",
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-usp-3",
-        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-buttons-1"
+        "258dd2e8-a750-4bac-800f-3a989f5918a4",
+        "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Layer_18.png",
