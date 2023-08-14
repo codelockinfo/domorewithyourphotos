@@ -625,6 +625,7 @@
         "template--19449641533770__8106adf2-ec36-4f42-bf8a-40f5cd4fc33b-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "https:\/\/domore.ie\/pages\/personalisedphotobanners",
             "image": "shopify:\/\/shop_images\/banners01a.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -684,6 +685,7 @@
         "template--19449641533770__121f0efb-ba09-4338-9708-84f56cf1aaee-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "https:\/\/580.app.fujipix.ie\/",
             "image": "shopify:\/\/shop_images\/Layer_35.png",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -728,7 +730,7 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
