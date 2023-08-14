@@ -274,10 +274,10 @@
       ],
       "settings": {
         "items_width": 4,
-        "width": "boxed",
+        "width": "wide",
         "space_between": 16,
-        "image_zoom": true,
-        "layout_mobile": "rows",
+        "image_zoom": false,
+        "layout_mobile": "compact",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
