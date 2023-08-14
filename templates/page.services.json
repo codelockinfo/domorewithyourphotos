@@ -57,12 +57,52 @@
             "data_id": "#framing-services",
             "data_text": "Framing Services"
           }
+        },
+        "18ed6d9f-fc35-43d7-9e67-27a884b4c5f0": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#cameras-accessories",
+            "data_text": "Cameras & Accessories"
+          }
+        },
+        "3a6d21bb-8ccd-423a-bceb-d06df105121d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#frames-albums",
+            "data_text": "Frames and Photo Albums"
+          }
+        },
+        "f7bfb2a6-af61-4037-9042-7e3491f4c15d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#memory-card-recovery",
+            "data_text": "Memory Card Recovery"
+          }
+        },
+        "573b65c8-9c2b-4f10-9b45-6cf70083c927": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "https:\/\/photos.fujipix.ie\/imagine\/app.php?userGroupID=580",
+            "data_text": "Download Fujifilm Imagine App"
+          }
+        },
+        "85efa440-4976-4304-beda-1714b700ff69": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "https:\/\/photos.fujipix.ie\/imagine\/app.php?userGroupID=580",
+            "data_text": "Activate Our Online Kiosk"
+          }
         }
       },
       "block_order": [
         "52123fc2-241a-478b-92d7-4db0e2a56aa1",
         "bdec646f-22bc-4d0c-bca4-508fd3627da1",
-        "ae3a3793-b1f5-4da7-a742-3beae94e795d"
+        "ae3a3793-b1f5-4da7-a742-3beae94e795d",
+        "18ed6d9f-fc35-43d7-9e67-27a884b4c5f0",
+        "3a6d21bb-8ccd-423a-bceb-d06df105121d",
+        "f7bfb2a6-af61-4037-9042-7e3491f4c15d",
+        "573b65c8-9c2b-4f10-9b45-6cf70083c927",
+        "85efa440-4976-4304-beda-1714b700ff69"
       ],
       "settings": {
         "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
@@ -369,6 +409,7 @@
       "block_order": [
         "4b4c05ce-bce5-4e31-b316-af2f77557b4c"
       ],
+      "disabled": true,
       "settings": {
         "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
         "servicehead": "Our Services",
@@ -454,7 +495,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "frames-albums",
         "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums_new.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -514,7 +555,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "cameras-accessories",
         "image": "shopify:\/\/shop_images\/Layer_18.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -562,7 +603,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "memory-card-recovery",
         "image": "shopify:\/\/shop_images\/Layer_17.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
