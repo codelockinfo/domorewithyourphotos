@@ -87,6 +87,19 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "3c09dfde-8d01-4b05-b753-5715ea16c173": {
+      "type": "birthdat_feature",
+      "settings": {
+        "title": "21st Birthday Personalised Photo Banners",
+        "html": "",
+        "main_product": "",
+        "popular_title": "This Is Your Life Photo Collage Banner",
+        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "button_text": "Order HERE",
+        "button_link": "\/"
+      }
+    },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
@@ -193,6 +206,7 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "3c09dfde-8d01-4b05-b753-5715ea16c173",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369"
