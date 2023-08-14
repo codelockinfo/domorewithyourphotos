@@ -42,10 +42,10 @@
         "423fb7f6-2c97-4420-8211-d45378349d2a"
       ],
       "custom_css": [
-        ".link-btn a:before{background: #d43342 !important ;border-color:#d43342 !important ;}"
+        ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}"
       ],
       "settings": {
-        "pagination_qty": 12,
+        "pagination_qty": 1000,
         "pagination_type": "button",
         "show_amount_of_products_in_collection": true,
         "products_per_row": 3,
