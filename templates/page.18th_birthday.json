@@ -146,6 +146,15 @@
         "main_product": "18th-birthday-framed-photo-collage",
         "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
       }
+    },
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
+      "type": "birthdat_text_background",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "bg_color": "#d43342",
+        "bg_text": "#FFFFFF"
+      }
     }
   },
   "order": [
@@ -153,6 +162,7 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
-    "f2fa5824-b7b6-4f59-b330-cd15588e1da9"
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9"
   ]
 }
