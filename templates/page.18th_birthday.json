@@ -87,13 +87,26 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d": {
+      "type": "birthdat_feature",
+      "settings": {
+        "title": "18th Birthday Personalised Banners",
+        "html": "",
+        "main_product": "",
+        "popular_title": "This Is Your Life Photo Collage Banner",
+        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "button_text": "Order HERE",
+        "button_link": "shopify:\/\/products\/its-my-18th-party-personalised-photo-collage-banner"
+      }
+    },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
         "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
-        "bg_text": "#FFFFFF"
+        "bg_text": "#ffffff"
       }
     },
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
@@ -193,6 +206,7 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369"
