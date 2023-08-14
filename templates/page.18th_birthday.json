@@ -35,177 +35,33 @@
         "spacing_mobile": 30
       }
     },
-    "6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0": {
-      "type": "section-image-with-text",
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
+      "type": "birthday_banner",
       "blocks": {
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-title-1": {
-          "type": "title",
+        "39b16584-9986-4fc0-b814-6a11e219f5be": {
+          "type": "block",
           "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Image with text",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
-          }
-        },
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
+            "image": "shopify:\/\/shop_images\/18th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "18TH PHOTO BANNERS",
+            "button_link": "",
+            "button_text_2": "18TH FRAMED GIFTS",
+            "button_link_2": ""
           }
         }
       },
       "block_order": [
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-title-1",
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-text-1",
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-1",
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-2",
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-usp-3",
-        "template--19460111073610__6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0-buttons-1"
+        "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
-      "disabled": true,
       "settings": {
-        "imagetextid": "",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-right",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "aaf58e23-9944-48d4-981c-4e6d7fe6d117": {
-      "type": "section-image-hotspots",
-      "blocks": {
-        "template--19460111073610__aaf58e23-9944-48d4-981c-4e6d7fe6d117-hotspot-1": {
-          "type": "hotspot",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 70,
-            "position_top": 20,
-            "position_left_mobile": 70,
-            "position_top_mobile": 20
-          }
-        },
-        "template--19460111073610__aaf58e23-9944-48d4-981c-4e6d7fe6d117-hotspot-2": {
-          "type": "hotspot",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 30,
-            "position_top": 50,
-            "position_left_mobile": 30,
-            "position_top_mobile": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--19460111073610__aaf58e23-9944-48d4-981c-4e6d7fe6d117-hotspot-1",
-        "template--19460111073610__aaf58e23-9944-48d4-981c-4e6d7fe6d117-hotspot-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/18th_page_banner.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "light",
-        "overlay_opacity": 100,
-        "button_color_palette": "accent",
-        "hotspot_height": 33,
-        "hotspot_color_palette": "white",
-        "hotspot_hover_color_palette": "black",
-        "layout": "right",
-        "height": "m",
-        "width": "wide",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-center",
-        "title": "Give the Gift of Memories",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "18px",
-        "link_text": "Button",
-        "link_url": "shopify:\/\/collections\/all",
-        "show_link": false,
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
       }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "6a9edb4c-3efe-46d7-b055-1b13c8dd9ed0",
-    "aaf58e23-9944-48d4-981c-4e6d7fe6d117"
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e"
   ]
 }
