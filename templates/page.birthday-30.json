@@ -89,6 +89,164 @@
     },
     "df84cdb7-9b6b-43e8-ba40-e5b8b836ba22": {
       "type": "birthdat_feature",
+      "blocks": {
+        "1494ffca-3e7c-495b-8827-edf3d1c78d11": {
+          "type": "block",
+          "settings": {
+            "product": "30th-birthday-number-photo-collage-party-personalised-banner"
+          }
+        },
+        "1cca300d-a210-4559-90e0-0f47ac5e34df": {
+          "type": "block",
+          "settings": {
+            "product": "happy-30th-party-personalised-photo-banner"
+          }
+        },
+        "1f655eee-08e9-4262-8e2c-e461f198f679": {
+          "type": "block",
+          "settings": {
+            "product": "friends-birthday-party-personalised-photo-banner"
+          }
+        },
+        "8d5f6536-e4cf-49a8-a132-95ac31c501d2": {
+          "type": "block",
+          "settings": {
+            "product": "it-a-balloon-30th-personalised-photo-collage-banner"
+          }
+        },
+        "6d667c7f-91cc-467e-a002-b7f617ab7ad3": {
+          "type": "block",
+          "settings": {
+            "product": "its-my-30th-party-mega-24-photo-personalised-banner"
+          }
+        },
+        "02647daa-2812-4a9d-ba7b-caaca0b56378": {
+          "type": "block",
+          "settings": {
+            "product": "30th-birthday-circle-it-up-personalised-photo-banner"
+          }
+        },
+        "130cd0f5-2d3b-4e0f-9321-a7a7bdb05526": {
+          "type": "block",
+          "settings": {
+            "product": "irish-sun-30-today-headlines-personalised-birthday-photo-banner"
+          }
+        },
+        "f77b4a23-1062-407c-b5bf-b436d7025711": {
+          "type": "block",
+          "settings": {
+            "product": "cake-presents-30th-birthday-party-personalised-photo-banner"
+          }
+        },
+        "a6b6e642-801c-40bd-915b-628b7b7b71a3": {
+          "type": "block",
+          "settings": {
+            "product": "rose-gold-champagne-personalised-birthday-selfie-frame"
+          }
+        },
+        "30e38e2f-01f8-432d-94e9-5efce403c53e": {
+          "type": "block",
+          "settings": {
+            "product": "30th-birthday-james-bond-personalised-birthday-photo-banner"
+          }
+        },
+        "b52a453c-8459-44e7-a5b4-e29459a786cf": {
+          "type": "block",
+          "settings": {
+            "product": "instagram-social-media-personalised-party-selfie-frame"
+          }
+        },
+        "cdfb918d-fb8a-41c7-ad32-f63bceee0052": {
+          "type": "block",
+          "settings": {
+            "product": "champagne-bubbles-in-30th-birthday-rose-gold-personalised-photo-banner"
+          }
+        },
+        "d5b8e7ef-fcd0-453f-bdb4-7d434b2ccfd7": {
+          "type": "block",
+          "settings": {
+            "product": "lordy-lordy-look-whos-30-personalised-photo-banner"
+          }
+        },
+        "1b5cbcc2-d7c8-41b3-aad6-2d0c523cc522": {
+          "type": "block",
+          "settings": {
+            "product": "pink-roses-personalised-birthday-selfie-frame"
+          }
+        },
+        "b188322e-0bef-482e-9ec5-2d8aaf670aea": {
+          "type": "block",
+          "settings": {
+            "product": "30th-birthday-love-hearts-galore-13-photo-personalised-party-banner"
+          }
+        },
+        "66c00685-2a6c-4d96-8bed-75a91fda0360": {
+          "type": "block",
+          "settings": {
+            "product": "roll-the-dice-30th-birthday-personalised-photo-banner"
+          }
+        },
+        "c3b3d832-4047-4c3b-999a-9abeb80bc3c9": {
+          "type": "block",
+          "settings": {
+            "product": "all-wrapped-up-30th-birthday-personalised-photo-banner"
+          }
+        },
+        "fccfaa95-b673-4748-acff-7f3cff49c395": {
+          "type": "block",
+          "settings": {
+            "product": "blue-yellow-personalised-birthday-banner"
+          }
+        },
+        "aadf34e0-ea4d-4d00-b3f2-d82b568457a7": {
+          "type": "block",
+          "settings": {
+            "product": "60s-disco-sign-personalised-photo-banner"
+          }
+        },
+        "dcd71a50-e507-4c13-9e9d-74b613bf1368": {
+          "type": "block",
+          "settings": {
+            "product": "gold-celebration-personalised-birthday-selfie-frame"
+          }
+        },
+        "7395a02c-9db0-496c-8c72-e790d1be974d": {
+          "type": "block",
+          "settings": {
+            "product": "landscape-rose-gold-personalised-birthday-selfie-frame"
+          }
+        },
+        "14e2ae48-9419-415d-b7aa-2d6b9c373b19": {
+          "type": "block",
+          "settings": {
+            "product": "just-plain-birthday-party-personalised-photo-banner"
+          }
+        }
+      },
+      "block_order": [
+        "1494ffca-3e7c-495b-8827-edf3d1c78d11",
+        "1cca300d-a210-4559-90e0-0f47ac5e34df",
+        "1f655eee-08e9-4262-8e2c-e461f198f679",
+        "8d5f6536-e4cf-49a8-a132-95ac31c501d2",
+        "6d667c7f-91cc-467e-a002-b7f617ab7ad3",
+        "02647daa-2812-4a9d-ba7b-caaca0b56378",
+        "130cd0f5-2d3b-4e0f-9321-a7a7bdb05526",
+        "f77b4a23-1062-407c-b5bf-b436d7025711",
+        "a6b6e642-801c-40bd-915b-628b7b7b71a3",
+        "30e38e2f-01f8-432d-94e9-5efce403c53e",
+        "b52a453c-8459-44e7-a5b4-e29459a786cf",
+        "cdfb918d-fb8a-41c7-ad32-f63bceee0052",
+        "d5b8e7ef-fcd0-453f-bdb4-7d434b2ccfd7",
+        "1b5cbcc2-d7c8-41b3-aad6-2d0c523cc522",
+        "b188322e-0bef-482e-9ec5-2d8aaf670aea",
+        "66c00685-2a6c-4d96-8bed-75a91fda0360",
+        "c3b3d832-4047-4c3b-999a-9abeb80bc3c9",
+        "fccfaa95-b673-4748-acff-7f3cff49c395",
+        "aadf34e0-ea4d-4d00-b3f2-d82b568457a7",
+        "dcd71a50-e507-4c13-9e9d-74b613bf1368",
+        "7395a02c-9db0-496c-8c72-e790d1be974d",
+        "14e2ae48-9419-415d-b7aa-2d6b9c373b19"
+      ],
       "settings": {
         "title": "30th Birthday Personalised Banners",
         "html": "",
