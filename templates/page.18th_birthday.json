@@ -87,6 +87,15 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
+      "type": "birthdat_text_background",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "bg_color": "#d43342",
+        "bg_text": "#FFFFFF"
+      }
+    },
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
       "type": "birthday_offer",
       "blocks": {
@@ -147,13 +156,35 @@
         "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
       }
     },
-    "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
-      "type": "birthdat_text_background",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-banner-with-13-photos"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "custom-framed-collage-from-your-photos"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "custom-canvas-collage-from-your-photo"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
-        "bg_color": "#d43342",
-        "bg_text": "#FFFFFF"
+        "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
     }
   },
@@ -162,7 +193,8 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "5ecf0492-976d-4688-8332-3fcb15ba96b9"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
   ]
 }
