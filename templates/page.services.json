@@ -50,11 +50,19 @@
             "data_id": "#printing-services",
             "data_text": "Printing Services"
           }
+        },
+        "ae3a3793-b1f5-4da7-a742-3beae94e795d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#framing-services",
+            "data_text": "Framing Services"
+          }
         }
       },
       "block_order": [
         "52123fc2-241a-478b-92d7-4db0e2a56aa1",
-        "bdec646f-22bc-4d0c-bca4-508fd3627da1"
+        "bdec646f-22bc-4d0c-bca4-508fd3627da1",
+        "ae3a3793-b1f5-4da7-a742-3beae94e795d"
       ],
       "settings": {
         "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
@@ -331,7 +339,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "framing-services",
         "image": "shopify:\/\/shop_images\/Framing_Services_e3069e62-04a0-4266-bec5-189ecde1f9e0.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
