@@ -5881,7 +5881,21 @@ h3.servicehed {
     box-sizing: border-box;
     margin: 0;
 }
-
+.bithday_off_products .btn_section ,.bithday_featured_collection .btn_section {
+    margin-top: 10px;
+}
+.bithday_off_products .btn_section a.btn ,.bithday_featured_collection .btn_section a.btn{
+    background: #d43342;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+.bithday_off_products .btn_section a.btn:hover ,.bithday_featured_collection .btn_section a.btn:hover{
+	color:#d43342;
+	border:1px solid #d43342;
+	background-color: transparent;
+}
 
 
 
