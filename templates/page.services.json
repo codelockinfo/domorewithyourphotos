@@ -34,6 +34,82 @@
         "spacing_mobile": 30
       }
     },
+    "f4967af3-7096-44a8-b537-7d85206a99fa": {
+      "type": "our_services",
+      "blocks": {
+        "52123fc2-241a-478b-92d7-4db0e2a56aa1": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#Passport",
+            "data_text": "Passport & ID Photos"
+          }
+        },
+        "bdec646f-22bc-4d0c-bca4-508fd3627da1": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#printing-services",
+            "data_text": "Printing Services"
+          }
+        },
+        "ae3a3793-b1f5-4da7-a742-3beae94e795d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#framing-services",
+            "data_text": "Framing Services"
+          }
+        },
+        "18ed6d9f-fc35-43d7-9e67-27a884b4c5f0": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#cameras-accessories",
+            "data_text": "Cameras & Accessories"
+          }
+        },
+        "3a6d21bb-8ccd-423a-bceb-d06df105121d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#frames-albums",
+            "data_text": "Frames and Photo Albums"
+          }
+        },
+        "f7bfb2a6-af61-4037-9042-7e3491f4c15d": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#memory-card-recovery",
+            "data_text": "Memory Card Recovery"
+          }
+        },
+        "573b65c8-9c2b-4f10-9b45-6cf70083c927": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "https:\/\/photos.fujipix.ie\/imagine\/app.php?userGroupID=580",
+            "data_text": "Download Fujifilm Imagine App"
+          }
+        },
+        "85efa440-4976-4304-beda-1714b700ff69": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "https:\/\/photos.fujipix.ie\/imagine\/app.php?userGroupID=580",
+            "data_text": "Activate Our Online Kiosk"
+          }
+        }
+      },
+      "block_order": [
+        "52123fc2-241a-478b-92d7-4db0e2a56aa1",
+        "bdec646f-22bc-4d0c-bca4-508fd3627da1",
+        "ae3a3793-b1f5-4da7-a742-3beae94e795d",
+        "18ed6d9f-fc35-43d7-9e67-27a884b4c5f0",
+        "3a6d21bb-8ccd-423a-bceb-d06df105121d",
+        "f7bfb2a6-af61-4037-9042-7e3491f4c15d",
+        "573b65c8-9c2b-4f10-9b45-6cf70083c927",
+        "85efa440-4976-4304-beda-1714b700ff69"
+      ],
+      "settings": {
+        "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
+        "servicehead": "Our Services",
+        "servicetitle": "Visit us in main st, Killybegs where we can offer"
+      }
+    },
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab": {
       "type": "section-image-with-text",
       "blocks": {
@@ -113,6 +189,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "Passport",
         "image": "shopify:\/\/shop_images\/Passport-idphotos.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -207,6 +284,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "printing-services",
         "image": "shopify:\/\/shop_images\/Printing-Services.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -301,6 +379,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "framing-services",
         "image": "shopify:\/\/shop_images\/Framing_Services_e3069e62-04a0-4266-bec5-189ecde1f9e0.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -314,6 +393,27 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
+      }
+    },
+    "ef995478-84d7-4f44-9d3d-62a5f693ff66": {
+      "type": "our_services",
+      "blocks": {
+        "4b4c05ce-bce5-4e31-b316-af2f77557b4c": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "Passport",
+            "data_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "4b4c05ce-bce5-4e31-b316-af2f77557b4c"
+      ],
+      "disabled": true,
+      "settings": {
+        "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
+        "servicehead": "Our Services",
+        "servicetitle": "Visit us in main st, Killybegs where we can offer"
       }
     },
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e": {
@@ -395,6 +495,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "frames-albums",
         "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums_new.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -454,6 +555,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "cameras-accessories",
         "image": "shopify:\/\/shop_images\/Layer_18.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -501,6 +603,7 @@
         ".imagetext article picture img {object-fit: contain !important;}"
       ],
       "settings": {
+        "imagetextid": "memory-card-recovery",
         "image": "shopify:\/\/shop_images\/Layer_17.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -638,9 +741,11 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "f4967af3-7096-44a8-b537-7d85206a99fa",
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab",
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
     "e881e35e-f58a-4e20-bcae-4632f201c683",
+    "ef995478-84d7-4f44-9d3d-62a5f693ff66",
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e",
     "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
     "4eae6704-5f77-424a-876d-bc2e9fa742d8",
