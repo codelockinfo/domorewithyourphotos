@@ -512,6 +512,9 @@
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1",
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
       ],
+      "custom_css": [
+        "span.palette-dark.module-color-palette {background: #dad1d1; color: #000;}"
+      ],
       "settings": {
         "width": "wide",
         "first_image_width": 65,
