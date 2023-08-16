@@ -514,7 +514,7 @@
       ],
       "custom_css": [
         ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
-        ".no-bg {background: #000 !important;}"
+        ".no-bg {background: #fff !important;}"
       ],
       "settings": {
         "width": "boxed",
