@@ -273,43 +273,57 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "18th-birthday-framed-photo-collage",
-            "product2": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
+            "product": "50th-birthday-sentiment-gift-frame",
+            "product2": "happy-50th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
           }
         },
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
           "type": "block",
           "settings": {
-            "product": "18th-birthday-celebration-framed-photo-collage",
-            "product2": "this-is-your-life-18th-birthday-blended-memories-framed-collage"
+            "product": "50th-birthday-celebration-framed-photo-collage",
+            "product2": "this-is-your-50th-birthday-wall-art"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
-            "product": "shattered-glass-18th-birthday-this-is-your-life-framed-collage",
-            "product2": "its-all-circles-18th-birthday-this-is-your-life-framed-collage"
+            "product": "this-is-your-life-50th-birthday-blended-memories-framed-collage",
+            "product2": "best-friends-are-the-diamonds-framed-photo-collage"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
             "product": "your-life-photos-framed-photo-collage-birthday-gift",
-            "product2": "this-is-your-life-sentiment-frame"
+            "product2": "its-all-circles-50th-birthday-this-is-your-life-framed-collage"
           }
         },
         "91efe3ab-7124-4463-9a23-9064c1717a62": {
           "type": "block",
           "settings": {
-            "product": "best-friends-are-the-diamonds-framed-photo-collage",
+            "product": "its-here-50th-birthday-gift-this-is-your-life-framed-photo-collage",
             "product2": "live-laugh-love-friends-framed-photo-collage"
           }
         },
         "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
           "type": "block",
           "settings": {
-            "product": "this-is-your-life-18th-birthday-hearts-framed-photo-collage",
-            "product2": "sparkly-wishes-18th-birthday-framed-photo-collage"
+            "product": "love-for-grandchildren-framed-photo-collage-1",
+            "product2": "sparkly-wishes-on-your-50th-birthday-framed-photo-collage"
+          }
+        },
+        "86640051-c42e-4269-8bc4-34bcac80b4d9": {
+          "type": "block",
+          "settings": {
+            "product": "mammy-to-the-worlds-collage-framed-photo-collage",
+            "product2": "my-dad-the-greatest-frame-photo-collage-framed-gift"
+          }
+        },
+        "28541412-a93d-4d51-9a0c-9539a4f1a78a": {
+          "type": "block",
+          "settings": {
+            "product": "dad-we-love-you-photo-slate",
+            "product2": "mum-your-my-anchor"
           }
         }
       },
@@ -319,12 +333,14 @@
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
         "2bc58445-1e65-40f6-95c0-ddb5227aac18",
         "91efe3ab-7124-4463-9a23-9064c1717a62",
-        "d4e5eee4-860b-495c-80e9-5b16dc238b55"
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55",
+        "86640051-c42e-4269-8bc4-34bcac80b4d9",
+        "28541412-a93d-4d51-9a0c-9539a4f1a78a"
       ],
       "settings": {
         "right_text": "50th Photo CollagesCombining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "18th-birthday-framed-photo-collage",
-        "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
+        "main_product": "50th-birthday-sentiment-gift-frame",
+        "main2_product": "happy-50th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
