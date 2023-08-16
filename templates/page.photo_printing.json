@@ -41,6 +41,7 @@
         "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -362,6 +363,421 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "just-print",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Put Your Photo On Canvas or  Slate",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "Now with 30% OFF for 1 Month Only",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h4",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -130,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1"
+      ],
+      "settings": {
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "48871519-20cc-41ba-8fc8-826660591fe0": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "photo-album",
+            "link_url": "shopify:\/\/pages\/photo-album",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -120,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "79807ed4-9e37-4514-ac1d-653ef4c50901": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "FREE Print with every frame.Visit us instore to see our our extensive range of photo frames that will suit any taste.",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Browse Photo Frames",
+            "link_url_1": "shopify:\/\/collections\/photo-frames",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/free_print_with_frame.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "153f1e2d-3ded-4895-abb8-36320769bbcc": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Pricelist",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "page": "",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "792ebfbb-e638-437b-b8a2-b9646f12d36c": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "6\" x 4\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>70c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>25c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>20c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "5\" x 7\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>80c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>35c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>25c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 6\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€2c<\/td>\n<\/tr>\n<tr>\n<td>4-9+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 10\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 12\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-1",
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-2",
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-3",
+        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15",
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d"
+      ],
+      "settings": {
+        "alignment": "center",
+        "compact": false,
+        "title": "Standard Prints",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -369,6 +785,13 @@
     "main-page",
     "2cda9383-0261-442d-b3f4-9c653dd483f6",
     "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
-    "8b52b352-eeae-479a-b148-546f04576bb4"
+    "8b52b352-eeae-479a-b148-546f04576bb4",
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e",
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92",
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
+    "48871519-20cc-41ba-8fc8-826660591fe0",
+    "79807ed4-9e37-4514-ac1d-653ef4c50901",
+    "153f1e2d-3ded-4895-abb8-36320769bbcc",
+    "792ebfbb-e638-437b-b8a2-b9646f12d36c"
   ]
 }

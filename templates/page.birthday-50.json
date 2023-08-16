@@ -1,0 +1,388 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
+      "type": "birthday_banner",
+      "blocks": {
+        "39b16584-9986-4fc0-b814-6a11e219f5be": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/50th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 50th Birthday framed Gift, 50th Birthday Personalised Photo Photo Banner or Selfie Frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "50TH PHOTO BANNERS",
+            "button_link": "\/",
+            "button_text_2": "50TH FRAMED GIFTS",
+            "button_link_2": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "39b16584-9986-4fc0-b814-6a11e219f5be"
+      ],
+      "settings": {
+      }
+    },
+    "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5": {
+      "type": "birthday_work",
+      "blocks": {
+        "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        },
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deadline.png",
+            "heading": "Day for Delivery",
+            "html": "1 - 2 Days for delivery nationwide with An Post"
+          }
+        }
+      },
+      "block_order": [
+        "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+      ],
+      "settings": {
+        "title": "HOW WE WORK",
+        "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
+      }
+    },
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d": {
+      "type": "birthdat_feature",
+      "blocks": {
+        "60c69138-e02f-4169-9092-6c26e856e782": {
+          "type": "block",
+          "settings": {
+            "product": "its-my-party-mega-24-photo-personalised-banner"
+          }
+        },
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
+          "type": "block",
+          "settings": {
+            "product": "sparkle-shine-gold-personalised-birthday-selfie-frame"
+          }
+        },
+        "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
+          "type": "block",
+          "settings": {
+            "product": "all-wrapped-up-50th-personalised-photo-banner"
+          }
+        },
+        "c13e5bda-c542-4107-97bf-f441dcb9212d": {
+          "type": "block",
+          "settings": {
+            "product": "irish-sun-headlines-personalised-birthday-photo-banner"
+          }
+        },
+        "5860f50e-fa03-4e46-a972-e373c9eded9a": {
+          "type": "block",
+          "settings": {
+            "product": "natures-way-50th-birthday-floral-personalised-photo-banner"
+          }
+        },
+        "4eb3840e-ce2a-49a6-ba90-f163e299963c": {
+          "type": "block",
+          "settings": {
+            "product": "it-a-balloon-50th-personalised-photo-collage-banner"
+          }
+        },
+        "bd250022-2275-46aa-8c06-6ab59e0501a6": {
+          "type": "block",
+          "settings": {
+            "product": "bows-and-sparkle-personalised-photo-banner"
+          }
+        },
+        "44dbb300-471f-4be5-83bc-4781fb185079": {
+          "type": "block",
+          "settings": {
+            "product": "champagne-bubbles-in-50th-birthday-pink-personalised-photo-banner"
+          }
+        },
+        "ce3405c9-0cdb-4f96-bd09-03d93813571b": {
+          "type": "block",
+          "settings": {
+            "product": "pink-roses-2-personalised-birthday-selfie-frame"
+          }
+        },
+        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7": {
+          "type": "block",
+          "settings": {
+            "product": "50th-birthday-number-photo-collage-party-personalised-banner"
+          }
+        },
+        "3a28c4f6-a05e-4645-b61c-8761c8d779cd": {
+          "type": "block",
+          "settings": {
+            "product": "cake-presents-50th-birthday-party-personalised-photo-banner"
+          }
+        },
+        "2e9c4225-a2cc-4d81-a368-242e00aa0deb": {
+          "type": "block",
+          "settings": {
+            "product": "instagram-social-media-personalised-party-selfie-frame"
+          }
+        },
+        "503afe8c-8754-4dee-a657-f97144b5c8bc": {
+          "type": "block",
+          "settings": {
+            "product": "swirl-50th-birthday-personalised-photo-banner"
+          }
+        },
+        "4531fdc6-6b39-4e09-96be-2c92981023c2": {
+          "type": "block",
+          "settings": {
+            "product": "james-bond-personalised-50th-birthday-photo-banner"
+          }
+        },
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
+          "type": "block",
+          "settings": {
+            "product": "silver-balloon-party-personalised-birthday-selfie-frame"
+          }
+        },
+        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
+          "type": "block",
+          "settings": {
+            "product": "black-gold-50th-birthday-personalised-birthday-banner"
+          }
+        },
+        "0686a5b2-c5d8-4d18-83d4-985c14b2ae08": {
+          "type": "block",
+          "settings": {
+            "product": "50th-birthday-blue-circle-it-up-personalised-photo-banner"
+          }
+        },
+        "63fea1d5-cd2c-4dcd-846f-0425ed9ef67c": {
+          "type": "block",
+          "settings": {
+            "product": "lordy-lordy-look-whos-50-personalised-photo-banner"
+          }
+        },
+        "19ceef0b-fab1-44b0-8aa7-04604eddb72d": {
+          "type": "block",
+          "settings": {
+            "product": "roll-the-dice-personalised-photo-banner"
+          }
+        },
+        "430f5f58-18d3-43c4-9051-13db71650c64": {
+          "type": "block",
+          "settings": {
+            "product": "60s-america-diner-50th-birthday-personalised-photo-banner"
+          }
+        },
+        "9d57c829-e913-4852-91bc-7a41bf87de7b": {
+          "type": "block",
+          "settings": {
+            "product": "60s-disco-sign-personalised-50th-birthday-photo-banner"
+          }
+        },
+        "9fa23f9c-3c9f-43a8-8a33-626decd9ab25": {
+          "type": "block",
+          "settings": {
+            "product": "local-hurling-club-birthday-banner"
+          }
+        }
+      },
+      "block_order": [
+        "60c69138-e02f-4169-9092-6c26e856e782",
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3",
+        "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd",
+        "c13e5bda-c542-4107-97bf-f441dcb9212d",
+        "5860f50e-fa03-4e46-a972-e373c9eded9a",
+        "4eb3840e-ce2a-49a6-ba90-f163e299963c",
+        "bd250022-2275-46aa-8c06-6ab59e0501a6",
+        "44dbb300-471f-4be5-83bc-4781fb185079",
+        "ce3405c9-0cdb-4f96-bd09-03d93813571b",
+        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7",
+        "3a28c4f6-a05e-4645-b61c-8761c8d779cd",
+        "2e9c4225-a2cc-4d81-a368-242e00aa0deb",
+        "503afe8c-8754-4dee-a657-f97144b5c8bc",
+        "4531fdc6-6b39-4e09-96be-2c92981023c2",
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
+        "a8a9a669-3cae-417c-ad8c-c617548cb385",
+        "0686a5b2-c5d8-4d18-83d4-985c14b2ae08",
+        "63fea1d5-cd2c-4dcd-846f-0425ed9ef67c",
+        "19ceef0b-fab1-44b0-8aa7-04604eddb72d",
+        "430f5f58-18d3-43c4-9051-13db71650c64",
+        "9d57c829-e913-4852-91bc-7a41bf87de7b",
+        "9fa23f9c-3c9f-43a8-8a33-626decd9ab25"
+      ],
+      "settings": {
+        "title": "Personalised 50th Birthday Banners",
+        "html": "",
+        "main_product": "",
+        "popular_title": "This Is Your Life Photo Collage Banner",
+        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "button_text": "Order HERE",
+        "button_link": "shopify:\/\/products\/50th-birthday-blue-circle-it-up-personalised-photo-banner"
+      }
+    },
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
+      "type": "birthdat_text_background",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/50_page_runner.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 50th Birthday Photo Collage, Framed Gift Or Canvas",
+        "bg_color": "#d43342",
+        "bg_text": "#ffffff"
+      }
+    },
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
+      "type": "birthday_offer",
+      "blocks": {
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
+          "type": "block",
+          "settings": {
+            "product": "50th-birthday-sentiment-gift-frame",
+            "product2": "happy-50th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
+          }
+        },
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
+          "type": "block",
+          "settings": {
+            "product": "50th-birthday-celebration-framed-photo-collage",
+            "product2": "this-is-your-50th-birthday-wall-art"
+          }
+        },
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
+          "type": "block",
+          "settings": {
+            "product": "this-is-your-life-50th-birthday-blended-memories-framed-collage",
+            "product2": "best-friends-are-the-diamonds-framed-photo-collage"
+          }
+        },
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
+          "type": "block",
+          "settings": {
+            "product": "your-life-photos-framed-photo-collage-birthday-gift",
+            "product2": "its-all-circles-50th-birthday-this-is-your-life-framed-collage"
+          }
+        },
+        "91efe3ab-7124-4463-9a23-9064c1717a62": {
+          "type": "block",
+          "settings": {
+            "product": "its-here-50th-birthday-gift-this-is-your-life-framed-photo-collage",
+            "product2": "live-laugh-love-friends-framed-photo-collage"
+          }
+        },
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
+          "type": "block",
+          "settings": {
+            "product": "love-for-grandchildren-framed-photo-collage-1",
+            "product2": "sparkly-wishes-on-your-50th-birthday-framed-photo-collage"
+          }
+        },
+        "86640051-c42e-4269-8bc4-34bcac80b4d9": {
+          "type": "block",
+          "settings": {
+            "product": "mammy-to-the-worlds-collage-framed-photo-collage",
+            "product2": "my-dad-the-greatest-frame-photo-collage-framed-gift"
+          }
+        },
+        "28541412-a93d-4d51-9a0c-9539a4f1a78a": {
+          "type": "block",
+          "settings": {
+            "product": "dad-we-love-you-photo-slate",
+            "product2": "mum-your-my-anchor"
+          }
+        }
+      },
+      "block_order": [
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887",
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18",
+        "91efe3ab-7124-4463-9a23-9064c1717a62",
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55",
+        "86640051-c42e-4269-8bc4-34bcac80b4d9",
+        "28541412-a93d-4d51-9a0c-9539a4f1a78a"
+      ],
+      "settings": {
+        "right_text": "50th Photo CollagesCombining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "50th-birthday-sentiment-gift-frame",
+        "main2_product": "happy-50th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
+      }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-banner-with-13-photos"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "custom-framed-collage-from-your-photos"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "custom-canvas-collage-from-your-photo"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
+      "settings": {
+        "title": "Cant find what you are looking for?    Order a custom collage or banner here"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-page",
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
+    "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d",
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9",
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+  ]
+}

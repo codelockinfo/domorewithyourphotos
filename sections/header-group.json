@@ -29,6 +29,7 @@
       "blocks": {
         "df399deb-b366-4aa3-bd2b-9a8c680d9a74": {
           "type": "promo_banners",
+          "disabled": true,
           "settings": {
             "menu_item": "Shop by Occasion",
             "height": "size-s",
@@ -97,6 +98,7 @@
         },
         "header-block-usp-2": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "usp": "<p>Give your customers more details about your online store<\/p>",
             "show_check": true
@@ -115,8 +117,8 @@
         "f9ff7e7c-c1a5-47ec-b3d5-92a2feb0b767": {
           "type": "promo_banners",
           "settings": {
-            "menu_item": "Shop by Recipient",
-            "height": "size-m",
+            "menu_item": "Frame Album",
+            "height": "size-s",
             "enable_custom_height": true,
             "custom_height": 300,
             "image_zoom": false,
@@ -176,7 +178,7 @@
         "b72d4069-24f9-4503-b56b-bb02e16ee0c6": {
           "type": "promo_banners",
           "settings": {
-            "menu_item": "Binocular, Instax, Frames & Accessories",
+            "menu_item": "Gift Frames Photo Collage",
             "height": "size-m",
             "enable_custom_height": false,
             "custom_height": 300,
@@ -269,7 +271,7 @@
         "sticky": "sticky-header",
         "cart_icon": "cart|e903",
         "cart_icon_color": "accent",
-        "menubar_menu": "main-menu-2021",
+        "menubar_menu": "new-mega-menu",
         "menubar_height": "45px",
         "menu_layout": "mega",
         "show_dropdown_images": true,
