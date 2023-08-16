@@ -515,6 +515,98 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "79807ed4-9e37-4514-ac1d-653ef4c50901": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "FREE Print with every frame.Visit us instore to see our our extensive range of photo frames that will suit any taste.",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Browse Photo Frames",
+            "link_url_1": "shopify:\/\/collections\/photo-frames",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/free_print_with_frame.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -526,6 +618,7 @@
     "ee1e06a4-76b4-4619-a255-2df4db238c1e",
     "4c653c31-7e8e-43e0-9f31-957ec63dac92",
     "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
-    "48871519-20cc-41ba-8fc8-826660591fe0"
+    "48871519-20cc-41ba-8fc8-826660591fe0",
+    "79807ed4-9e37-4514-ac1d-653ef4c50901"
   ]
 }
