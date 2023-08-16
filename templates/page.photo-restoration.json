@@ -513,7 +513,7 @@
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
       ],
       "settings": {
-        "width": "boxed",
+        "width": "wide",
         "first_image_width": 65,
         "height": "l",
         "enable_custom_height": false,
