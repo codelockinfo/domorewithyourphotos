@@ -920,14 +920,14 @@
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
       ],
       "settings": {
-        "items_width": 2,
+        "items_width": 1,
         "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
-        "image_move": true,
+        "image_zoom": false,
+        "image_move": false,
         "content_on_hover_color_palette": "dark",
         "layout_mobile": "compact",
         "mobile_height": "size-s",
