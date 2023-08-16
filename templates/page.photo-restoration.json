@@ -106,6 +106,9 @@
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-3",
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-buttons-1"
       ],
+      "custom_css": [
+        "img{object-fit:contain !important;}"
+      ],
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/restore2.gif",
@@ -304,6 +307,7 @@
         },
         "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "Button",
             "link_url": "\/",
