@@ -6233,4 +6233,25 @@ h3.servicehed {
 .yotpo-default-button.yotpo-icon-btn.pull-right.yotpo-hidden-mobile.write-button.write-review-button {
     background: #d43342 !important;
 }
+.price_section th{
+	background: #d43342 !important;
+	color:#fff !important;
+}
+.price_section .table_html{
+	border: 0;
+    padding: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.5s cubic-bezier(.97,.86,.09,.23);
+    border-radius: 4px;
+}
+.price_section .price_section_blocks{
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin: 40px 0 0;
+    gap: 30px;
+    width: 100%;
+}
+.price_section .price_section_blocks .blocks h5{
+	text-align: center;
+}
 /* 18th birthday end */

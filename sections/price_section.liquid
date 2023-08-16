@@ -1,0 +1,69 @@
+<div class="price_section">
+    <div class="container">
+    <div class="pricehead">
+        <h2>{{section.settings.pricehead}}</h2>
+    </div>
+    <h2>{{section.settings.title}}</h2>
+    <div class="price_section_blocks">
+    {% for block in section.blocks %}
+    {% assign titl = block.settings.title %}{% assign html = block.settings.html %}
+    <div class="blocks">
+      {% if titl != blank %}<h5>{{ titl }}</h5>{% endif %}
+      {% if html != blank %}
+        <div class="table_html">
+          <table>
+            <thead><tr><th>Quantity</th><th>Price</th></tr></thead>
+          </table>
+          {{ html }}
+        </div>
+      {% endif %}
+    </div>
+    {% endfor %}  
+    </div>
+    </div>  
+    </div>
+    {% schema %}
+      {
+        "name": "Price Section",
+        "settings": [
+            {
+            "type": "text",
+            "id": "pricehead",
+            "label": "Heading"
+            },
+              {
+                "type": "text",
+                "id": "title",
+                "label": "Title"
+              }
+        ],
+        "blocks": [
+          {
+            "type": "block",
+            "name": "Block",
+            "settings": [
+              {
+                "type": "text",
+                "id": "title",
+                "label": "Title"
+              },
+              {
+                "type": "html",
+                "id": "html",
+                "label": "Content"
+              }          
+            ]
+          }
+        ],
+        "presets": [
+          {
+            "name": "Price Section",
+            "category": "Image",
+            "settings": {
+            },
+            "blocks": [
+            ]
+          }
+        ]
+      }
+    {% endschema %}
