@@ -118,7 +118,7 @@
           "type": "promo_banners",
           "settings": {
             "menu_item": "Frame Album",
-            "height": "size-m",
+            "height": "size-s",
             "enable_custom_height": true,
             "custom_height": 300,
             "image_zoom": false,
