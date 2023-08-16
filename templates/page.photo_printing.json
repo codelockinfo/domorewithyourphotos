@@ -437,7 +437,7 @@
         "width": "wide",
         "height_mobile": "xs",
         "spacing_desktop": -130,
-        "spacing_mobile": 30,
+        "spacing_mobile": -80,
         "fix_zindex": 0
       }
     },
