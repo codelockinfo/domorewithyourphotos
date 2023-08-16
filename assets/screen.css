@@ -4822,14 +4822,16 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 }
 .animated_column .link-btn a:before ,.collage_img .link-btn a:before{
 	background-color: transparent;
-	border-radius: 50%;
-	border:1px solid #000;
+	/* border-radius: 50%; */
+	/* border:1px solid #000; */
 }
 .animated_column .link-btn a ,.collage_img .link-btn a{
 	padding: 16px!important;
 	
 }
-.animated_column  [class^=palette-] .link-btn a:not(.loading) ,.collage_img  [class^=palette-] .link-btn a:not(.loading){
+.animated_column  [class^=palette-] .link-btn a:not(.loading) 
+/* ,.collage_img  [class^=palette-] .link-btn a:not(.loading) */
+{
 	color:#000!important;
 }
 .animated_column ul li h2{
@@ -6279,4 +6281,25 @@ h3.servicehed {
 	.price_section .price_section_blocks{
 		grid-template-columns: 1fr 1fr;
 }
+}
+.categories-main .row {
+	display: flex;
+    flex-wrap: wrap;
+}
+.col-sm-3{
+	width:50%;
+}
+.blocks_cate_main{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.blocks_cate_main .collection_block {
+    width: 25%;
+}
+.category-sub-content h2{
+	display: none;
+}
+.collage_img  [class^=palette-] .link-btn a:not(.loading){
+	background-color: #fff !important;
 }
