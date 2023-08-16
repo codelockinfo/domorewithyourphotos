@@ -6,6 +6,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/b01_enlarge.png",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -42,6 +43,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/b04_photos.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -514,6 +516,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -551,6 +554,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/SFYoutube01a2.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -615,6 +619,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/Customa.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -652,6 +657,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
@@ -817,6 +823,7 @@
             "animationtitle": "Birthday Framed Gifts",
             "animationdes": "Garden Flage from $14.95",
             "image": "shopify:\/\/shop_images\/b01_enlarge.png",
+            "imglinkurl": "shopify:\/\/collections\/gifts-from-you",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -855,6 +862,7 @@
             "animationtitle": "Mugs Similar",
             "animationdes": "Coffe Mugs From $15.80",
             "image": "shopify:\/\/shop_images\/pic_features_point02_01.png",
+            "imglinkurl": "",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -973,6 +981,7 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -1009,6 +1018,7 @@
         "template--19423284199754__e5086e97-5399-4448-ace4-e3cb612cccdd-image-2": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/anniversries.png",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -1045,6 +1055,7 @@
         "af6f22e0-5ce4-4a37-980f-46ec4384a59c": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/Surprise_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -1081,6 +1092,7 @@
         "546221aa-1bd5-4e91-a8c3-f0fb8153e753": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/BABY_girlA.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -1268,6 +1280,7 @@
         "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1"
       ],
       "settings": {
+        "imagetextid": "",
         "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "black",
