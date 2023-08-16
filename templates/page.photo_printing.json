@@ -664,6 +664,7 @@
         "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1",
         "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -777,13 +778,13 @@
       "settings": {
         "alignment": "center",
         "compact": false,
-        "title": "Standard Prints",
+        "title": "Pricelist",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
         "title_color_palette": "black",
         "title_weight": "700",
-        "subtitle": "",
+        "subtitle": "Standard Prints",
         "subtitle_font": "secondary",
         "subtitle_size": "h2",
         "enable_custom_subtext_styling": false,
