@@ -527,7 +527,7 @@
         "width": "wide",
         "height_mobile": "xs",
         "spacing_desktop": -120,
-        "spacing_mobile": 30,
+        "spacing_mobile": -60,
         "fix_zindex": 0
       }
     },
@@ -667,14 +667,14 @@
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
-        "text_position": "text-center",
+        "text_position": "align-top text-center",
         "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
+        "spacing_desktop": -170,
+        "spacing_mobile": -120,
         "fix_zindex": 0
       }
     },
