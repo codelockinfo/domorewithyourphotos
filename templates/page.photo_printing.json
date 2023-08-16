@@ -607,6 +607,61 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "153f1e2d-3ded-4895-abb8-36320769bbcc": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Pricelist",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "page": "",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -619,6 +674,7 @@
     "4c653c31-7e8e-43e0-9f31-957ec63dac92",
     "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
     "48871519-20cc-41ba-8fc8-826660591fe0",
-    "79807ed4-9e37-4514-ac1d-653ef4c50901"
+    "79807ed4-9e37-4514-ac1d-653ef4c50901",
+    "153f1e2d-3ded-4895-abb8-36320769bbcc"
   ]
 }
