@@ -919,6 +919,9 @@
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1",
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
       ],
+      "custom_css": [
+        ".no-mobile .l4ft.hover-out > li:after{background-color:unset !important}"
+      ],
       "settings": {
         "items_width": 1,
         "width": "boxed",
