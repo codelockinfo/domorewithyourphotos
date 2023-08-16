@@ -4884,7 +4884,7 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 }
 .how_work  .read-more {
 	background: #d43342;
-	 border-radius: 100px;
+	 border-radius: 3px;
 	  padding: 8px 40px 8px 40px !important; 
 	  margin-top: 30px; 
 	  margin-bottom: 30px;
@@ -6229,5 +6229,8 @@ h3.servicehed {
 	.canvas_list{
 		flex-wrap: wrap !important;
 	}
+}
+.yotpo-default-button.yotpo-icon-btn.pull-right.yotpo-hidden-mobile.write-button.write-review-button {
+    background: #d43342 !important;
 }
 /* 18th birthday end */

@@ -101,7 +101,7 @@
                         class="mobile-only"
                     >
                   {% endif %}
-                  <img
+                  <a href ="{{block.settings.imglinkurl}}"><img
                     src="{{ 'placeholder-pixel.png' | asset_img_url }}"
                     data-src="{{ block.settings.image | image_url: width: 620 }}"
                     data-srcset="{% render 'image-srcset', image: block.settings.image %}"
@@ -117,7 +117,7 @@
                     alt="{{ block.settings.image.alt | default: block.settings.title | escape }}"
                     style="object-position: {{ block.settings.image.presentation.focal_point }}"
                      {% if block.settings.image_mobile %}class="mobile-hide"{% endif %}
-                  >
+                  ></a>
               </picture>
             {% else %}
               <picture>
@@ -410,6 +410,11 @@
           "id": "image",
           "type": "image_picker",
           "label": "t:sections.image_columns_text.blocks.image.settings.image.label"
+        },
+        {
+          "id": "imglinkurl",
+          "type": "url",
+          "label": "Image Url"
         },
         {
           "type": "video",
