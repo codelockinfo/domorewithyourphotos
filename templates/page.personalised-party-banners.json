@@ -158,15 +158,46 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "title2": "description",
-            "button_link": ""
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/childrens_birthdays.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-children"
+          }
+        },
+        "855060e1-59c9-4ba7-83cf-00dc86ed15bb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/baby.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-new-babies-christenings-baby-showers"
+          }
+        },
+        "61f8f28f-dc91-476e-9f67-4b90a2c657de": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/b_gradualtion.jpg",
+            "button_link": "shopify:\/\/collections\/graduation-reunion-debs-personal-photo-banners"
+          }
+        },
+        "8122afa1-1b19-4845-bf85-319a7dc7548a": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/anniversaries.jpg",
+            "button_link": "shopify:\/\/collections\/banners-for-anniversaries"
           }
         }
       },
       "block_order": [
         "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-1",
         "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-2",
-        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-3"
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-3",
+        "855060e1-59c9-4ba7-83cf-00dc86ed15bb",
+        "61f8f28f-dc91-476e-9f67-4b90a2c657de",
+        "8122afa1-1b19-4845-bf85-319a7dc7548a"
       ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
