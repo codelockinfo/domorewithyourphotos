@@ -441,11 +441,12 @@
     "5f9fc417-836a-48af-b6be-421a6931ea93": {
       "type": "section-image-comparison",
       "settings": {
+        "image_before": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
         "drag_color_palette": "white",
         "drag_direction": "horizontal",
         "drag_position": 30,
         "labels": true,
-        "label_before": "Before",
+        "label_before": "",
         "label_after": "After",
         "text_alignment": "start",
         "title": "Give The Gift Of Memories",
