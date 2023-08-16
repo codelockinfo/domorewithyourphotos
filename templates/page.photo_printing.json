@@ -778,6 +778,43 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "130443cd-790e-48e9-ab0c-893cdbe403a6": {
+      "type": "canvas_print",
+      "blocks": {
+        "0c29f183-064b-451f-bd82-275b004e7627": {
+          "type": "block",
+          "settings": {
+            "heading": "Standard Canvases",
+            "price_1": "€39",
+            "title_1": "12\" x 16\"",
+            "price_2": "€59",
+            "title_2": "16\" x 24\"",
+            "price_3": "€80 ",
+            "title_3": "20\" x 30\""
+          }
+        },
+        "48e1848a-da9f-46bc-a756-f4e7db2105fb": {
+          "type": "block",
+          "settings": {
+            "heading": "Square Canvases",
+            "price_1": "€40",
+            "title_1": "12\" x 12\"",
+            "price_2": "€55",
+            "title_2": "16\" x 16\"",
+            "price_3": "€69",
+            "title_3": "20\" x 20\""
+          }
+        }
+      },
+      "block_order": [
+        "0c29f183-064b-451f-bd82-275b004e7627",
+        "48e1848a-da9f-46bc-a756-f4e7db2105fb"
+      ],
+      "settings": {
+        "canvas_image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
+        "top_heading": "CANVAS PRINTS"
+      }
     }
   },
   "order": [
@@ -792,6 +829,7 @@
     "48871519-20cc-41ba-8fc8-826660591fe0",
     "79807ed4-9e37-4514-ac1d-653ef4c50901",
     "153f1e2d-3ded-4895-abb8-36320769bbcc",
-    "792ebfbb-e638-437b-b8a2-b9646f12d36c"
+    "792ebfbb-e638-437b-b8a2-b9646f12d36c",
+    "130443cd-790e-48e9-ab0c-893cdbe403a6"
   ]
 }
