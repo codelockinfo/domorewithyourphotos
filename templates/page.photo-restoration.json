@@ -513,7 +513,7 @@
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
       ],
       "custom_css": [
-        ".module-color-palette[class^=palette-]{background: #dad1d1 !important; color: #000 !important;}"
+        ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}"
       ],
       "settings": {
         "width": "boxed",
