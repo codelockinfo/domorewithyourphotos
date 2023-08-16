@@ -123,6 +123,60 @@
         "fix_zindex": 0
       }
     },
+    "849adeae-df17-4c2f-bf4d-025f7bf3a78a": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Sounds good, So what does it cost?",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<p>Prices vary acordingly depending on the amount of damage on the original photograph Additional charges for repair, renovation, colouring etc. are dependent upon the condition of your originals. Generally it will cost €10 per hour . We are happy to inspect your pictures, advise on what work is required and give a free, no-strings quotation at any time. Additional copies start from 0.20c depending on quantity (your only paying for restoration once).<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-title-1",
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-content-1",
+        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "6fb7007e-595c-48d9-951d-4d47d4298a79": {
       "type": "section-collage",
       "blocks": {
@@ -209,7 +263,7 @@
         "img {object-fit: contain !important;}"
       ],
       "settings": {
-        "mirrored": false,
+        "mirrored": true,
         "width": "boxed",
         "height": "size-m",
         "enable_custom_height": false,
@@ -229,6 +283,7 @@
     "breadcrumbs",
     "main-page",
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7",
+    "849adeae-df17-4c2f-bf4d-025f7bf3a78a",
     "6fb7007e-595c-48d9-951d-4d47d4298a79"
   ]
 }
