@@ -91,7 +91,11 @@
           <ul class="l4ch ff-{{ block.settings.font }}" style="font-size:{{ block.settings.font_size }};" {{ block.shopify_attributes }}>
             {%- if block.settings.usp != empty -%}<li>{{ block.settings.usp }}</li>{%- endif -%}
           </ul>
+          
+          
         {% when 'buttons' -%}
+      
+       
           {%- liquid
             if block.settings.link_text_1 != empty and block.settings.link_url_1 != blank
               assign show_buttons = true
@@ -104,12 +108,34 @@
             <p {% unless block.settings.show_link %}class="link-btn"{% endunless %} {{ block.shopify_attributes }}>
               {%- if block.settings.link_text_1 != empty and block.settings.link_url_1 != blank -%}
                 <a href="{{ block.settings.link_url_1 }}" class="{% if block.settings.show_link_1 %}strong inline{% elsif block.settings.button_style_1 == 'inv' %} inv{% endif %} button-palette-{{ block.settings.button_color_palette_1 }}">{{ block.settings.link_text_1 }}&nbsp;<i aria-hidden="true" class="icon-chevron-right{% unless block.settings.show_link_1 %}mobile-only{% endunless %}"></i></a>
-              {%- endif %}
+                
+              {% endif %} 
               {%- if block.settings.link_text_2 != empty and block.settings.link_url_2 != blank -%}
-                <a href="{{ block.settings.link_url_2 }}" class="{% if block.settings.show_link_2 %}strong inline{% elsif block.settings.button_style_2 == 'inv' %} inv{% endif %} button-palette-{{ block.settings.button_color_palette_2 }}">{{ block.settings.link_text_2 }}&nbsp;<i aria-hidden="true" class="icon-chevron-right{% unless block.settings.show_link_2 %}mobile-only{% endunless %}"></i></a>
-              {%- endif %}
+               <a href="{{ block.settings.link_url_2 }}" class="{% if block.settings.show_link_2 %}strong inline{% elsif block.settings.button_style_2 == 'inv' %} inv{% endif %} button-palette-{{ block.settings.button_color_palette_2 }}">{{ block.settings.link_text_2 }}&nbsp;<i aria-hidden="true" class="icon-chevron-right{% unless block.settings.show_link_2 %}mobile-only{% endunless %}"></i></a>
+               {% endif %}
             </p>
           {%- endif -%}
+
+          {% when 'image_button' -%}
+      {%- liquid
+        if block.settings.app_link_url != empty and block.settings.app_link_image != blank
+          assign show_buttons = true
+        endif
+        if block.settings.google_link_image != empty and block.settings.google_link_image != blank
+          assign show_buttons = true
+        endif
+      -%}
+      {%- if show_buttons -%}
+        <p {% unless block.settings.show_link %}class="link-btn"{% endunless %} {{ block.shopify_attributes }}>
+          {%- if block.settings.app_link_url != empty and block.settings.app_link_image != blank -%}
+             <a href="{{ block.settings.app_link_url }}" class="imgbtn {% if block.settings.show_link_1 %}strong inline{% elsif block.settings.button_style_1 == 'inv' %} inv{% endif %} button-palette-{{ block.settings.button_color_palette_1 }}"><img src="{{ block.settings.app_link_image | img_url: 'master'  }}" /></a>
+          
+          {% endif %} 
+          {%- if block.settings.google_link_image != empty and block.settings.google_link_url != blank -%}
+             <a href="{{ block.settings.google_link_url }}" class="imgbtn {% if block.settings.show_link_2 %}strong inline{% elsif block.settings.button_style_2 == 'inv' %} inv{% endif %} button-palette-{{ block.settings.button_color_palette_2 }}"><img src="{{ block.settings.google_link_image | img_url: 'master'  }}" /></a>
+            {% endif %} 
+        </p>
+      {%- endif -%}
       {%- endcase -%}
     {%- endfor -%}
   </div>
@@ -790,6 +816,16 @@
           "label": "t:sections.image_with_text.blocks.buttons.settings.link_url_2.label"
         },
         {
+          "type": "image_picker",
+           "id": "app_link_image",
+          "label": "Apple Store Image"
+        },
+        {
+          "type": "image_picker",
+           "id": "google_link_image",
+            "label": "Google Store Image"
+          },
+        {
           "type": "select",
           "id": "button_color_palette_2",
           "label": "t:global.button_color_palette.label",
@@ -842,6 +878,37 @@
           "type": "checkbox",
           "label": "t:sections.image_with_text.blocks.buttons.settings.show_link_2.label"
         }
+      ]
+    },
+    {
+      "type": "image_button",
+      "name": "Image Buttons",
+      "settings": [
+       
+          {
+            "type": "image_picker",
+             "id": "app_link_image",
+            "label": "Apple Store Image"
+          },
+          {
+            "type": "image_picker",
+             "id": "google_link_image",
+              "label": "Google Store Image"
+          },
+          {
+            "id": "app_link_url",
+            "type": "url",
+            "label": "apple link",
+            "default": "/"
+          },
+        
+          {
+            "id": "google_link_url",
+            "type": "url",
+            "label": "google link",
+            "default": "/"
+          }
+      
       ]
     }
   ],

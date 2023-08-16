@@ -6196,4 +6196,16 @@ h3.servicehed {
     /* background: #fff; */
     border-top: 1px solid #d43342;
 }
+.imagetext a.imgbtn.button-palette- {
+    padding: 0;
+    margin-left: 0;
+    width:40%;
+    border: none;
+}
+.module-color-palette .link-btn a.imgbtn.button-palette-:before{
+	background: transparent !important;
+}
+.imagetext a.imgbtn.button-palette- img{
+	margin-left: 0 !important;
+}
 /* 18th birthday end */
