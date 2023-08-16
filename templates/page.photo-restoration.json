@@ -206,7 +206,7 @@
         "template--19475072647498__6fb7007e-595c-48d9-951d-4d47d4298a79-image-2"
       ],
       "custom_css": [
-
+        "img {object-fit: contain !important;}"
       ],
       "settings": {
         "mirrored": false,
