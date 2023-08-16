@@ -43,7 +43,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Image with text",
+            "title": "Sounds good, So what does it cost?",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -55,11 +55,12 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+            "text": "<p>Prices vary acordingly depending on the amount of damage on the original photograph Additional charges for repair, renovation, colouring etc. are dependent upon the condition of your originals. Generally it will cost €10 per hour . We are happy to inspect your pictures, advise on what work is required and give a free, no-strings quotation at any time. Additional copies start from 0.20c depending on quantity (your only paying for restoration once).<\/p>"
           }
         },
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-1": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -68,6 +69,7 @@
         },
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-2": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -76,6 +78,7 @@
         },
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-3": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "secondary",
             "usp": "Tell a unique detail about this image",
@@ -84,6 +87,7 @@
         },
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-buttons-1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -107,7 +111,7 @@
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-buttons-1"
       ],
       "custom_css": [
-        "img{object-fit:contain !important;}"
+        "img {object-fit: contain !important;}"
       ],
       "settings": {
         "imagetextid": "",
@@ -116,8 +120,8 @@
         "color_palette": "white",
         "overlay_opacity": 100,
         "layout": "image-left",
-        "width": "wide",
-        "height": "l",
+        "width": "boxed",
+        "height": "m",
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
