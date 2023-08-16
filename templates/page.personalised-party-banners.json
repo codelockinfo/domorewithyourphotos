@@ -189,6 +189,123 @@
             "imgs2": "shopify:\/\/shop_images\/anniversaries.jpg",
             "button_link": "shopify:\/\/collections\/banners-for-anniversaries"
           }
+        },
+        "d96efe27-2e67-42a8-a8d8-22eca626eeae": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/Wedding_6360d9d0-04e2-43a8-a27f-a22a12c31d82.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-weddings-hen-partys"
+          }
+        },
+        "27c2cbcc-4561-4711-9f82-7903c082b391": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/b_engagment.jpg",
+            "button_link": "shopify:\/\/collections\/engagement-banners"
+          }
+        },
+        "e3f64777-77d7-44f5-ac6e-9acbdb5cbfbc": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/b_welcome.jpg",
+            "button_link": "shopify:\/\/collections\/welcome-home-goodbye-personal-banners"
+          }
+        },
+        "48c4041d-3e42-420f-b3a2-2dd0aaa78bcb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/confimation.jpg",
+            "button_link": "shopify:\/\/collections\/confirmation-personalised-photo-banners"
+          }
+        },
+        "ac328af5-5f5f-431c-a14b-6a006f0fb8a2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/memorial_banners.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home"
+          }
+        },
+        "6b053f8c-cf46-4de1-bb99-eb0ca006055f": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/selfie_frame.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-selfie-frame-collection"
+          }
+        },
+        "25e9d2b4-0744-4c21-800a-c445f5a6df47": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas"
+          }
+        },
+        "d5261411-1feb-4925-8934-d9c0d688a282": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/21st.jpg",
+            "button_link": "shopify:\/\/pages\/21st-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "5a080e0c-2b77-48d0-a2e0-17283c52ff0d": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "dad3e4d6-117b-40e1-b343-595d3a69c77b": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "59d051e0-0c6e-4599-8593-3b5a31f77b69": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/50th.jpg",
+            "button_link": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "648b8059-331c-4af7-9169-ef5d572354cc": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/60th.jpg",
+            "button_link": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "1d5ea53c-c3f8-49b3-b5ba-1e4e551980fa": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "2c05e525-32b6-45e1-be4c-e1991012ddfc": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/80th.jpg",
+            "button_link": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "d7a32c75-5b83-42df-a32c-cd60756de1c6": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/90th.jpg",
+            "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
+          }
         }
       },
       "block_order": [
@@ -197,7 +314,22 @@
         "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-3",
         "855060e1-59c9-4ba7-83cf-00dc86ed15bb",
         "61f8f28f-dc91-476e-9f67-4b90a2c657de",
-        "8122afa1-1b19-4845-bf85-319a7dc7548a"
+        "8122afa1-1b19-4845-bf85-319a7dc7548a",
+        "d96efe27-2e67-42a8-a8d8-22eca626eeae",
+        "27c2cbcc-4561-4711-9f82-7903c082b391",
+        "e3f64777-77d7-44f5-ac6e-9acbdb5cbfbc",
+        "48c4041d-3e42-420f-b3a2-2dd0aaa78bcb",
+        "ac328af5-5f5f-431c-a14b-6a006f0fb8a2",
+        "6b053f8c-cf46-4de1-bb99-eb0ca006055f",
+        "25e9d2b4-0744-4c21-800a-c445f5a6df47",
+        "d5261411-1feb-4925-8934-d9c0d688a282",
+        "5a080e0c-2b77-48d0-a2e0-17283c52ff0d",
+        "dad3e4d6-117b-40e1-b343-595d3a69c77b",
+        "59d051e0-0c6e-4599-8593-3b5a31f77b69",
+        "648b8059-331c-4af7-9169-ef5d572354cc",
+        "1d5ea53c-c3f8-49b3-b5ba-1e4e551980fa",
+        "2c05e525-32b6-45e1-be4c-e1991012ddfc",
+        "d7a32c75-5b83-42df-a32c-cd60756de1c6"
       ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
