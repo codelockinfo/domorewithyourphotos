@@ -206,16 +206,16 @@
         "template--19475072647498__6fb7007e-595c-48d9-951d-4d47d4298a79-image-2"
       ],
       "custom_css": [
-        "img{object-fit:contain !important;}"
+        "img {object-fit: contain !important;}"
       ],
       "settings": {
         "mirrored": false,
         "width": "boxed",
-        "height": "size-l",
+        "height": "size-m",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
