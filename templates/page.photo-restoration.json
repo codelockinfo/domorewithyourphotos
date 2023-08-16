@@ -277,6 +277,59 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "fb9adf5e-7a15-48fb-9574-d1749d84bbd6": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "How do I send you photograph?",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<p>Download and print the service form<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0099\/8693\/2814\/files\/restoration.pdf?6719\" target=\"_blank\" title=\"download Restoration form\"><strong>here<\/strong><\/a>, fill it out clearly and accurately (You may need to download Acrobat Reader) then simply post the form and your photographs to us using registered post<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-title-1",
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-content-1",
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -284,6 +337,7 @@
     "main-page",
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7",
     "849adeae-df17-4c2f-bf4d-025f7bf3a78a",
-    "6fb7007e-595c-48d9-951d-4d47d4298a79"
+    "6fb7007e-595c-48d9-951d-4d47d4298a79",
+    "fb9adf5e-7a15-48fb-9574-d1749d84bbd6"
   ]
 }
