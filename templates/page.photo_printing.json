@@ -41,6 +41,7 @@
         "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1": {
           "type": "image",
           "settings": {
+            "imgid": "",
             "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -362,6 +363,36 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "just-print",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Put Your Photo On Canvas or  Slate",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "Now with 30% OFF for 1 Month Only",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h4",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -369,6 +400,7 @@
     "main-page",
     "2cda9383-0261-442d-b3f4-9c653dd483f6",
     "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
-    "8b52b352-eeae-479a-b148-546f04576bb4"
+    "8b52b352-eeae-479a-b148-546f04576bb4",
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e"
   ]
 }
