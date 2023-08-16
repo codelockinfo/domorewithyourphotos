@@ -393,6 +393,128 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -130,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1"
+      ],
+      "settings": {
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "48871519-20cc-41ba-8fc8-826660591fe0": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "photo-album",
+            "link_url": "shopify:\/\/pages\/photo-album",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -120,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -401,6 +523,9 @@
     "2cda9383-0261-442d-b3f4-9c653dd483f6",
     "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
     "8b52b352-eeae-479a-b148-546f04576bb4",
-    "ee1e06a4-76b4-4619-a255-2df4db238c1e"
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e",
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92",
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
+    "48871519-20cc-41ba-8fc8-826660591fe0"
   ]
 }
