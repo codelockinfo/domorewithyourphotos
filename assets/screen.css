@@ -6303,3 +6303,28 @@ h3.servicehed {
 .collage_img  [class^=palette-] .link-btn a:not(.loading){
 	background-color: #fff !important;
 }
+.categories-heading{
+	margin: auto;
+    padding-bottom: 50px;
+    width: 100%!important;
+    float: none!important;
+    text-align: center;
+	max-width: 910px;
+}
+.categories-heading h3 {
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 25px;
+	font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #333;
+}
+.categories-heading p {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+	color: #333;
+	margin: 0 0 10px;
+}
