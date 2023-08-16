@@ -775,6 +775,9 @@
         "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15",
         "7dc4df6f-f1aa-482b-840e-6a466c2f510d"
       ],
+      "custom_css": [
+        "h2.w900.text-center.align-center.ff-secondary{margin-top:2%;}"
+      ],
       "settings": {
         "alignment": "center",
         "compact": false,
