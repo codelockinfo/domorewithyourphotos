@@ -312,6 +312,7 @@
         },
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -327,6 +328,7 @@
         },
         "16de7876-65c4-449c-9da4-b26773899623": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -339,13 +341,23 @@
             "button_style_2": "fill",
             "show_link_2": false
           }
+        },
+        "4a464ec0-abc3-48fa-b43d-a0c59af4b37f": {
+          "type": "image_button",
+          "settings": {
+            "app_link_image": "shopify:\/\/shop_images\/app-store-icon.png",
+            "google_link_image": "shopify:\/\/shop_images\/google-play-icon.png",
+            "app_link_url": "https:\/\/apps.apple.com\/ie\/app\/fujifilm-imagine-ireland\/id820621932",
+            "google_link_url": "https:\/\/play.google.com\/store\/apps\/details?id=air.au.whitech.mobile.imagine.generic.ireland&hl=en_IE&gl=US&pli=1"
+          }
         }
       },
       "block_order": [
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-title-1",
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-text-1",
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1",
-        "16de7876-65c4-449c-9da4-b26773899623"
+        "16de7876-65c4-449c-9da4-b26773899623",
+        "4a464ec0-abc3-48fa-b43d-a0c59af4b37f"
       ],
       "custom_css": [
         ".imagetext article picture img {object-fit: contain !important;}"
@@ -425,7 +437,7 @@
         "width": "wide",
         "height_mobile": "xs",
         "spacing_desktop": -130,
-        "spacing_mobile": 30,
+        "spacing_mobile": -80,
         "fix_zindex": 0
       }
     },
@@ -515,7 +527,7 @@
         "width": "wide",
         "height_mobile": "xs",
         "spacing_desktop": -120,
-        "spacing_mobile": 30,
+        "spacing_mobile": -60,
         "fix_zindex": 0
       }
     },
@@ -655,14 +667,14 @@
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
-        "text_position": "text-center",
+        "text_position": "align-top text-center",
         "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
+        "spacing_desktop": -170,
+        "spacing_mobile": -120,
         "fix_zindex": 0
       }
     },
