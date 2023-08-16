@@ -409,6 +409,112 @@
         "fix_zindex": 0
       }
     },
+    "d375c9b2-92e9-42ee-a210-8e4ff7079572": {
+      "type": "section-image-columns-text",
+      "blocks": {
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "imglinkurl": "shopify:\/\/collections\/traditional-photo-albums",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "animationtitle": "",
+            "animationdes": "",
+            "imglinkurl": "",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1",
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
+      ],
+      "custom_css": [
+        ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}"
+      ],
+      "settings": {
+        "items_width": 1,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "compact",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "4c653c31-7e8e-43e0-9f31-957ec63dac92": {
       "type": "section-rich-text",
       "blocks": {
@@ -427,6 +533,7 @@
       "block_order": [
         "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -485,6 +592,7 @@
       "block_order": [
         "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1"
       ],
+      "disabled": true,
       "settings": {
         "mirrored": false,
         "width": "boxed",
@@ -517,6 +625,7 @@
       "block_order": [
         "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -834,110 +943,6 @@
         "canvas_image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
         "top_heading": "CANVAS PRINTS"
       }
-    },
-    "d375c9b2-92e9-42ee-a210-8e4ff7079572": {
-      "type": "section-image-columns-text",
-      "blocks": {
-        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1": {
-          "type": "image",
-          "settings": {
-            "animationtitle": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
-            "animationdes": "",
-            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "animationtitle": "",
-            "animationdes": "",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "Image banner",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        }
-      },
-      "block_order": [
-        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1",
-        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
-      ],
-      "custom_css": [
-        ".no-mobile .l4ft.hover-out > li:after{background-color:unset !important}"
-      ],
-      "settings": {
-        "items_width": 1,
-        "width": "boxed",
-        "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "space_between": 16,
-        "image_zoom": false,
-        "image_move": false,
-        "content_on_hover_color_palette": "dark",
-        "layout_mobile": "compact",
-        "mobile_height": "size-s",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
@@ -947,13 +952,13 @@
     "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
     "8b52b352-eeae-479a-b148-546f04576bb4",
     "ee1e06a4-76b4-4619-a255-2df4db238c1e",
+    "d375c9b2-92e9-42ee-a210-8e4ff7079572",
     "4c653c31-7e8e-43e0-9f31-957ec63dac92",
     "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
     "48871519-20cc-41ba-8fc8-826660591fe0",
     "79807ed4-9e37-4514-ac1d-653ef4c50901",
     "153f1e2d-3ded-4895-abb8-36320769bbcc",
     "792ebfbb-e638-437b-b8a2-b9646f12d36c",
-    "130443cd-790e-48e9-ab0c-893cdbe403a6",
-    "d375c9b2-92e9-42ee-a210-8e4ff7079572"
+    "130443cd-790e-48e9-ab0c-893cdbe403a6"
   ]
 }
