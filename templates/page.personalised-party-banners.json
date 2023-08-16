@@ -437,6 +437,40 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "5f9fc417-836a-48af-b6be-421a6931ea93": {
+      "type": "section-image-comparison",
+      "settings": {
+        "drag_color_palette": "white",
+        "drag_direction": "horizontal",
+        "drag_position": 30,
+        "labels": true,
+        "label_before": "Before",
+        "label_after": "After",
+        "text_alignment": "start",
+        "title": "Image comparison",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about these images<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -445,6 +479,7 @@
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
-    "1d219c60-9888-433d-a5ba-fff2bfb18ca5"
+    "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
+    "5f9fc417-836a-48af-b6be-421a6931ea93"
   ]
 }
