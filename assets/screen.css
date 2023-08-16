@@ -6208,4 +6208,26 @@ h3.servicehed {
 .imagetext a.imgbtn.button-palette- img{
 	margin-left: 0 !important;
 }
+[data-whatin=mouse] .link-btn a.imgbtn.button-palette-:hover{
+	background-color: transparent !important;
+}
+.canvas_list {
+	padding-left:0 !important;
+}
+@media screen and (max-width: 991px) {
+		.canvas_flex {
+			flex-wrap: wrap;
+		}
+		.canvas_img, .canvas_datail{
+			width:100% !important;
+		}
+		.canvas_img img{
+			width:100%;
+		}
+}
+@media screen and (max-width: 520px) {
+	.canvas_list{
+		flex-wrap: wrap !important;
+	}
+}
 /* 18th birthday end */
