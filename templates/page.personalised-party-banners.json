@@ -443,6 +443,9 @@
     },
     "5f9fc417-836a-48af-b6be-421a6931ea93": {
       "type": "section-image-comparison",
+      "custom_css": [
+        ".link-btn a:before{background-color:#d43342 !important; color:#fff !important;}"
+      ],
       "settings": {
         "image_before": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
         "drag_color_palette": "white",
