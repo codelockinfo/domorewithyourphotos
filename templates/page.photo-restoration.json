@@ -170,6 +170,7 @@
         "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-content-1",
         "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -266,6 +267,7 @@
         "template--19475072647498__6fb7007e-595c-48d9-951d-4d47d4298a79-image-1",
         "template--19475072647498__6fb7007e-595c-48d9-951d-4d47d4298a79-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: contain !important;}"
       ],
@@ -325,6 +327,7 @@
         "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-content-1",
         "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -338,6 +341,101 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "48b46886-38a2-4590-a812-f51097ddb79a": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "How do I send you photograph?",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Download and print the service form<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0099\/8693\/2814\/files\/restoration.pdf?6719\" target=\"_blank\" title=\"download Restoration form\"><strong>here<\/strong><\/a>, fill it out clearly and accurately (You may need to download Acrobat Reader) then simply post the form and your photographs to us using registered post<\/p>"
+          }
+        },
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-title-1",
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-text-1",
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-1",
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-2",
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-3",
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-buttons-1"
+      ],
+      "custom_css": [
+        "img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/restore01.gif",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -346,6 +444,7 @@
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7",
     "849adeae-df17-4c2f-bf4d-025f7bf3a78a",
     "6fb7007e-595c-48d9-951d-4d47d4298a79",
-    "fb9adf5e-7a15-48fb-9574-d1749d84bbd6"
+    "fb9adf5e-7a15-48fb-9574-d1749d84bbd6",
+    "48b46886-38a2-4590-a812-f51097ddb79a"
   ]
 }
