@@ -427,6 +427,7 @@
       "block_order": [
         "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -485,6 +486,7 @@
       "block_order": [
         "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1"
       ],
+      "disabled": true,
       "settings": {
         "mirrored": false,
         "width": "boxed",
@@ -517,6 +519,7 @@
       "block_order": [
         "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -844,6 +847,7 @@
             "animationtitle": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
             "animationdes": "",
             "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "imglinkurl": "shopify:\/\/collections\/traditional-photo-albums",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -882,6 +886,7 @@
           "settings": {
             "animationtitle": "",
             "animationdes": "",
+            "imglinkurl": "",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -920,7 +925,7 @@
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
       ],
       "custom_css": [
-        ".no-mobile .l4ft.hover-out > li:after{background-color:unset !important}"
+        ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}"
       ],
       "settings": {
         "items_width": 1,
