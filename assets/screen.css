@@ -6158,4 +6158,42 @@ h3.servicehed {
 .noUi-connect:before{
 	background-color: #d43342 !important;
 }
+.feature_collection .link-btn a:before{
+	background-color: #d43342 !important;
+	color: #fff !important;
+}
+.canvas_list li{
+	list-style: none;
+}
+.canvas_list{
+	display: flex;
+}
+.canvas_flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.canvas_img ,.canvas_datail{
+	width:48%;
+}
+.canvas_title{
+	text-align: center;
+}
+.canvas_list li{
+	width: 300px;
+    position: relative;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+    -o-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+    padding: 30px;
+    font-size: 25px;
+    line-height: 1.6;
+    padding: 25px;
+    width: -webkit-fill-available;
+    background-image: linear-gradient(to bottom right, #d43342, #7d0712);
+    color: #fff;
+    /* background: #fff; */
+    border-top: 1px solid #d43342;
+}
 /* 18th birthday end */

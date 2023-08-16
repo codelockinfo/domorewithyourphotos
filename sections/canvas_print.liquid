@@ -1,0 +1,94 @@
+<div class="container">
+    <div class="canvas_flex">
+        <div class="canvas_img">
+            {% if section.settings.canvas_image != 'blank' %}
+                <img src="{{ section.settings.canvas_image | img_url: '800x' }}" alt="{{ section.settings.canvas_image.alt | escape }}">
+            {% endif %}
+        </div>
+        <div class="canvas_datail">
+                <h2 class="canvas_title">{{section.settings.top_heading}}</h2>
+                {% for block in section.blocks %}
+                    <div>
+                        <h3>{{block.settings.heading}}</h3>
+                        <div class="canvas_detail">
+                          <ul class="canvas_list">
+                            <li><span class="price">{{ block.settings.price_1 }}</span><div class="title">{{ block.settings.title_1 }}</div></li>
+                            <li><span class="price">{{ block.settings.price_2 }}</span><div class="title">{{ block.settings.title_2 }}</div></li>
+                            <li><span class="price">{{ block.settings.price_3 }}</span><div class="title">{{ block.settings.title_3 }}</div></li>
+                          </ul>    
+                        </div>
+                    </div>
+                {% endfor %}  
+        </div>
+    </div>
+ 
+</div>
+
+{% schema %}
+  {
+    "name": "canvas print",
+    "settings": [
+        {
+			"type": "image_picker",
+			 "id": "canvas_image",
+            "label": "Image"
+        },
+        {
+            "type": "text",
+            "id": "top_heading",
+            "label": "Top Heading"
+          }
+    ],
+    "blocks": [
+      {
+        "type": "block",
+        "name": "Block",
+        "settings": [
+		  {
+            "type": "text",
+            "id": "heading",
+            "label": "Heading"
+          },
+          {
+            "type": "text",
+            "id": "price_1",
+            "label": "Price"
+          },
+          {
+            "type": "text",
+            "id": "title_1",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "price_2",
+            "label": "Price"
+          },
+          {
+            "type": "text",
+            "id": "title_2",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "price_3",
+            "label": "Price"
+          },
+          {
+            "type": "text",
+            "id": "title_3",
+            "label": "Title"
+          }
+          
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "canvas print",
+        "category": "Image"
+       
+      }
+    ]
+  }
+{% endschema %}
