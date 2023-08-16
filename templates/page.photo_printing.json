@@ -675,7 +675,7 @@
             "collection": "",
             "products_limit": 5,
             "number_of_items": 4,
-            "text": "<p>Content of first tab<\/p>",
+            "text": "",
             "page": "",
             "image_width": 460,
             "liquid": "<table>\n<tbody>\n<tr>\n<td>0-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>70c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>25c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>20c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
@@ -692,7 +692,7 @@
             "collection": "",
             "products_limit": 5,
             "number_of_items": 4,
-            "text": "<p>Content of second tab<\/p>",
+            "text": "",
             "page": "",
             "image_width": 460,
             "liquid": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>80c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>35c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>25c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
@@ -729,7 +729,24 @@
             "text": "",
             "page": "",
             "image_width": 460,
-            "liquid": "",
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 12\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
             "html": "",
             "show_contact_form": false
           }
@@ -739,12 +756,13 @@
         "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-1",
         "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-2",
         "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-3",
-        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15"
+        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15",
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d"
       ],
       "settings": {
         "alignment": "left",
         "compact": false,
-        "title": "Content tabs",
+        "title": "Standard Prints",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
