@@ -75,6 +75,7 @@
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-content-1",
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -91,6 +92,7 @@
     },
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5": {
       "type": "section-collection-list",
+      "disabled": true,
       "settings": {
         "collections": [
           "first-holy-communion-confirmation-banners",
@@ -130,12 +132,56 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46": {
+      "type": "personlized_banner",
+      "blocks": {
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "",
+            "imgs2": "shopify:\/\/shop_images\/Communion_confirmation_099ffa95-60a9-4d54-bbff-907f681499cd.jpg",
+            "button_link": "shopify:\/\/collections\/first-holy-communion-confirmation-banners"
+          }
+        },
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "button_link": ""
+          }
+        },
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title2": "description",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-1",
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-2",
+        "template--19474218615114__0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46-collection-3"
+      ],
+      "settings": {
+        "title": "Personalised Photo Banners & Selfie Frames",
+        "textarea1": "<p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "show_text_over_image": false,
+        "show_number_products": false,
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
-    "b3caf7fe-ebf1-4c49-a119-198b864a55a5"
+    "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
+    "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46"
   ]
 }
