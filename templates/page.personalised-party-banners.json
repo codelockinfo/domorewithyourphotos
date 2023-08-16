@@ -339,6 +339,104 @@
         "alignment": "center center",
         "background_color": "#f9f9f9"
       }
+    },
+    "1d219c60-9888-433d-a5ba-fff2bfb18ca5": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Dont see what you are looking for",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>We can create a personalised bespoke banner or selfie frame to suit your individual needs. <br\/>Any theme , Any character at no extra cost.<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Order a Customised Banner or Selfie Frame",
+            "link_url": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "imgid": "",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1",
+        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2"
+      ],
+      "settings": {
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -346,6 +444,7 @@
     "main-page",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
-    "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46"
+    "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
+    "1d219c60-9888-433d-a5ba-fff2bfb18ca5"
   ]
 }
