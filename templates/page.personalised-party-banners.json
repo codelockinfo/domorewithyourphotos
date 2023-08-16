@@ -422,6 +422,9 @@
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1",
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2"
       ],
+      "custom_css": [
+        ".collage_img [class^=palette-] .link-btn a:not(.loading):hover {background-color: green !important;}"
+      ],
       "settings": {
         "mirrored": false,
         "width": "boxed",
