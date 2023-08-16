@@ -437,6 +437,142 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "5f9fc417-836a-48af-b6be-421a6931ea93": {
+      "type": "section-image-comparison",
+      "settings": {
+        "image_before": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
+        "drag_color_palette": "white",
+        "drag_direction": "horizontal",
+        "drag_position": 30,
+        "labels": true,
+        "label_before": "",
+        "label_after": "",
+        "text_alignment": "start",
+        "title": "Give The Gift Of Memories",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Bring a tear to their eye and present them with their history hidden  within our number collages<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Order Now",
+        "link_url": "shopify:\/\/collections\/number-photo-collages",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "2dff711a-0c20-491f-bccb-b88230f6738e": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "The New Fujifilm Instax Mini 12",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "The New Fujifilm Instax Mini 12"
+          }
+        },
+        "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-2": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Your photo on Canvas or Slate"
+          }
+        }
+      },
+      "block_order": [
+        "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-1",
+        "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-2"
+      ],
+      "custom_css": [
+        "img {object-fit: contain !important; }"
+      ],
+      "settings": {
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 910,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -445,6 +581,8 @@
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
-    "1d219c60-9888-433d-a5ba-fff2bfb18ca5"
+    "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
+    "5f9fc417-836a-48af-b6be-421a6931ea93",
+    "2dff711a-0c20-491f-bccb-b88230f6738e"
   ]
 }
