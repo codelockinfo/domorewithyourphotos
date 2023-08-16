@@ -177,9 +177,8 @@
         },
         "b72d4069-24f9-4503-b56b-bb02e16ee0c6": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
-            "menu_item": "Binocular, Instax, Frames & Accessories",
+            "menu_item": "Gift Frames Photo Collage",
             "height": "size-m",
             "enable_custom_height": false,
             "custom_height": 300,
