@@ -1,0 +1,199 @@
+<div class="categories-main">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12 col-xs-12 categories-heading">
+         <h3>{{ section.settings.title }}</h3>
+            <p>{{ section.settings.textarea1 }}</p>
+        </div>
+      </div>
+     </div>  
+  <div class="row">  
+{%- for block in section.blocks limit:4 %}
+{% if block.type == "collection" %}  
+  <div class="col-sm-3 col-xs-12 category-sub">
+    <a class="img-link" href="{{ block.settings.button_link }}"> 
+      <img src=" {{ block.settings.imgs2 | img_url: '2014x2014' }}" />
+      <div class="category-sub-content">
+        <h2>{{ block.settings.title2 }}</h2><p>{{ block.settings.title | escape }}</p>
+      </div>
+    </a> 
+  </div>
+{% endif %}    
+{%- endfor -%}
+
+<div class="blocks_cate_main">
+{%- for block in section.blocks %}
+{% if block.type == "collection_block" %}
+<div class="collection_block">
+    <a class="img-link" href="{{ block.settings.button_link }}"> 
+      <img src=" {{ block.settings.imgs2 | img_url: '200X' }}" />
+    </a> 
+</div>  
+{% endif %}  
+{%- endfor -%}
+</div> 
+
+{%- for block in section.blocks %}
+{% if forloop.index > 4 %}  
+{% if block.type == "collection" %}  
+  <div class="col-sm-3 col-xs-12 category-sub">
+    <a class="img-link" href="{{ block.settings.button_link }}"> 
+      <img src=" {{ block.settings.imgs2 | img_url: '2014x2014' }}" />
+      <div class="category-sub-content">
+        <h2>{{ block.settings.title2 }}</h2><p>{{ block.settings.title | escape }}</p>
+      </div>
+    </a> 
+  </div>
+{% endif %}    
+{% endif %}      
+{%- endfor -%}
+
+    
+    </div>   
+</div>
+
+{% schema %} 
+{
+  "name": "personlized banner",
+  "class": "index-section",
+  "settings": [ 
+    {
+      "type": "text",
+      "id": "title",
+      "label":"title"
+    },
+{
+      "type": "textarea",
+      "id": "textarea1",
+      "label": "Heading",
+      "default": "description"
+    },  
+        
+    {
+      "type": "checkbox",
+      "id": "show_text_over_image",
+      "label": "Text over image",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_number_products",
+      "label":"Show number of products",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Image alignment",
+      "default": "center center",
+      "options": [
+        {
+          "label": "Top Left",
+          "value": "top left"
+        },
+        {
+          "label": "top center",
+          "value": "top center"
+        },
+        {
+          "label":"top right",
+          "value": "top right"
+        },
+        {
+          "label": "center left",
+          "value": "center left"
+        },
+        {
+          "label": "center center",
+          "value": "center center"
+        },
+        {
+          "label": "center right",
+          "value": "center right"
+        },
+        {
+          "label": "bottom left",
+          "value": "bottom left"
+        },
+        {
+          "label": "bottom center",
+          "value": "bottom center"
+        },
+        {
+          "label":"bottom right",
+          "value": "bottom right"
+        }
+      ]
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "bottom right",
+      "default": "#f9f9f9"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "collection",
+      "name": "Collection",
+      "settings": [
+       {
+          "type": "collection",
+          "id": "collection",
+          "label": "Collection"
+        }, 
+        
+        {
+      "type": "text",
+      "id": "title2",
+      "label": "Heading",
+      "default": "description"
+    }, 
+         {
+      "type": "image_picker",
+      "id": "imgs2",
+      "label": "image"
+    }, 
+{
+        "type": "url",
+        "id": "button_link",
+        "label": "Image link"  
+      }
+      ]
+    },
+    {
+      "type": "collection_block",
+      "name": "Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "imgs2",
+          "label": "image"
+        }, 
+        {
+            "type": "url",
+            "id": "button_link",
+            "label": "Image link"  
+        }
+      ]
+    }
+  ],
+    "presets": [
+    {
+      "name":"personlized banner",
+      "category": "personlized banner",
+      "blocks": [
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

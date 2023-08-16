@@ -1860,7 +1860,7 @@ table { display: table; width: 100%; border-collapse: collapse; border-spacing: 
 		tr > *:first-child { border-left-width: 1px; }
 		tr > *:last-child { border-right-width: 1px; }
 		tr:first-child > * { border-top-width: 1px; }
-		tr:nth-child(2n) > td { background: var(--porcelain); }
+		/* tr:nth-child(2n) > td { background: var(--porcelain); } */
 	h1 + table, h2 + table, h3 + table, h4 + table, h5 + table, h6 + table, h1 + .table-wrapper, h2 + .table-wrapper, h3 + .table-wrapper, h4 + .table-wrapper, h5 + .table-wrapper, h6 + .table-wrapper { margin-top: 22px; }
 table.size-s tr > * { padding-top: 3px; padding-bottom: 3px; }
 table.size-m tr > * { padding-top: 12px; padding-bottom: 12px; }
@@ -6248,10 +6248,35 @@ h3.servicehed {
 	display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     margin: 40px 0 0;
-    gap: 30px;
+    gap: 25px;
     width: 100%;
+	margin-bottom: 5%;
+
 }
 .price_section .price_section_blocks .blocks h5{
 	text-align: center;
 }
 /* 18th birthday end */
+.price_section .pricehead h2 {
+    text-align: center;
+    color: #d43342;
+    margin-top: 2%;
+}
+.price_section h2{
+	text-align: center;
+}
+@media screen and (max-width: 1200px) {
+	.price_section .price_section_blocks{
+		grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+}
+@media screen and (max-width: 991px) {
+	.price_section .price_section_blocks{
+		grid-template-columns: 1fr 1fr 1fr ;
+}
+}
+@media screen and (max-width: 768px) {
+	.price_section .price_section_blocks{
+		grid-template-columns: 1fr 1fr;
+}
+}
