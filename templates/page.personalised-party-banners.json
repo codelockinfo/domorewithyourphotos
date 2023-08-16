@@ -479,7 +479,7 @@
         "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "",
+            "imgid": "shopify:\/\/collections\/fujifilm-instax-camera-range",
             "image": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -516,7 +516,7 @@
         "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "",
+            "imgid": "shopify:\/\/collections\/just-print",
             "image": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
