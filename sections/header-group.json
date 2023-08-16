@@ -116,9 +116,8 @@
         },
         "f9ff7e7c-c1a5-47ec-b3d5-92a2feb0b767": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
-            "menu_item": "Shop by Recipient",
+            "menu_item": "Frame Album",
             "height": "size-m",
             "enable_custom_height": true,
             "custom_height": 300,
