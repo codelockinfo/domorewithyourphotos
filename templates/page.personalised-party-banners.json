@@ -556,7 +556,7 @@
         "template--19474218615114__2dff711a-0c20-491f-bccb-b88230f6738e-image-2"
       ],
       "custom_css": [
-        "img {object-fit: contain;}"
+        "img {object-fit: contain !important; }"
       ],
       "settings": {
         "mirrored": false,
