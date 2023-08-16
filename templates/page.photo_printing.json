@@ -312,6 +312,7 @@
         },
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
@@ -327,6 +328,7 @@
         },
         "16de7876-65c4-449c-9da4-b26773899623": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "link_text_1": "Button",
             "link_url_1": "\/",
