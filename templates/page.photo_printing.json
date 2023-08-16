@@ -80,7 +80,7 @@
         "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1"
       ],
       "custom_css": [
-        "img{object-fit: fill;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "mirrored": false,
