@@ -573,6 +573,7 @@
         "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-content-1",
         "template--19423284199754__52069349-33bd-423e-9a0f-bf86f5ef8c56-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -1357,7 +1358,7 @@
         "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1"
       ],
       "custom_css": [
-        ".m6as{margin-bottom:0 ;}"
+        ".m6as {margin-bottom: 0;}"
       ],
       "settings": {
         "imagetextid": "",
