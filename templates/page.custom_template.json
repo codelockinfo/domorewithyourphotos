@@ -177,6 +177,9 @@
         "8133514a-8c98-4e13-85c6-c061626ef783",
         "22036a1a-5984-4d4f-b5b0-3ee4ee9a6d02"
       ],
+      "custom_css": [
+        "header h2.ff-primary {color:#d43342}"
+      ],
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
