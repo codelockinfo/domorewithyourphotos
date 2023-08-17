@@ -202,6 +202,7 @@
     },
     "1660291177d9f45101": {
       "type": "section-collection-list",
+      "disabled": true,
       "settings": {
         "collections": [
           "18th-birthday-gift-ideas",
@@ -277,6 +278,29 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
+      }
+    },
+    "dbeb16ac-64e6-4360-b817-6bf26eefd03f": {
+      "type": "section_frame",
+      "blocks": {
+        "template--19423284199754__dbeb16ac-64e6-4360-b817-6bf26eefd03f-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify:\/\/shop_images\/but_dad1_b89297be-8294-44f2-b23f-e08f3ce12d99.jpg",
+            "link_url": "shopify:\/\/collections\/gifts-for-dad",
+            "text": "Gifts for Dad",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__dbeb16ac-64e6-4360-b817-6bf26eefd03f-image-1"
+      ],
+      "settings": {
+        "alignment": "middle"
       }
     },
     "1662644641662a3424": {
@@ -1304,6 +1328,7 @@
     "16602912025c583cc8",
     "1660291177d9f45101",
     "16605537948e81aa7a",
+    "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
     "1662644641662a3424",
     "166029123538307d80",
     "1660291186859914cb",
