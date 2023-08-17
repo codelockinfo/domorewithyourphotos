@@ -49,6 +49,60 @@
     },
     "e7ac7629-58d9-4ed1-a2bf-f5dd49899bd1": {
       "type": "photo_album_section",
+      "blocks": {
+        "715bb96e-b851-429b-99a2-fc1e2acf3734": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Classic",
+            "collection_limit": 21,
+            "title": "traditional-6x4-classic-photo-albums"
+          }
+        },
+        "0c1baa6d-5d2b-42fb-9438-d6b105d5f23f": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Lifestlyle",
+            "collection_limit": 21,
+            "title": "traditional-6x4-lifestyle-photo-albums"
+          }
+        },
+        "e818c9f9-9ebb-4c3d-a802-1bdf75f683bc": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Wedding",
+            "collection_limit": 21,
+            "title": "taditional-6x4-wedding-photo-albums"
+          }
+        },
+        "b715a81d-a5b0-4769-9448-91dff839c600": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4 New Baby",
+            "last_title": "",
+            "collection_limit": 21,
+            "title": "traditional-6x4-baby-photo-albums"
+          }
+        },
+        "a3fc46ca-64ca-4ba7-a02f-837325535d0d": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Holiday",
+            "collection_limit": 16,
+            "title": "traditional-6x4-holiday-photo-albums"
+          }
+        }
+      },
+      "block_order": [
+        "715bb96e-b851-429b-99a2-fc1e2acf3734",
+        "0c1baa6d-5d2b-42fb-9438-d6b105d5f23f",
+        "e818c9f9-9ebb-4c3d-a802-1bdf75f683bc",
+        "b715a81d-a5b0-4769-9448-91dff839c600",
+        "a3fc46ca-64ca-4ba7-a02f-837325535d0d"
+      ],
       "settings": {
         "heading": "Need Photos Printed?",
         "image_1": "shopify:\/\/shop_images\/unnamed.png",
