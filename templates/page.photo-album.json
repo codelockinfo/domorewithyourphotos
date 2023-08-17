@@ -46,11 +46,25 @@
         "button_2": "Album Photo Size 7X5",
         "button_url_2": "shopify:\/\/pages\/7x5-traditional-photo-albums"
       }
+    },
+    "e7ac7629-58d9-4ed1-a2bf-f5dd49899bd1": {
+      "type": "photo_album_section",
+      "settings": {
+        "heading": "Need Photos Printed?",
+        "image_1": "shopify:\/\/shop_images\/unnamed.png",
+        "sub_heading": "<h4>Get 20% OFF<\/h4>\n<h6>ALL PHOTO PRINTING<\/h6>",
+        "content": "<p>Use Code<br><span>DOPRINT22<\/span>at checkout on<br>either our<br>Online Kiosk?<br>or App<\/p>",
+        "image_2": "shopify:\/\/shop_images\/img-link.webp",
+        "image_link_2": "https:\/\/580.app.fujipix.ie\/products\/digital-print\/all-products-of-category\/12\/1\/none",
+        "image_3": "shopify:\/\/shop_images\/img-wrap.webp",
+        "image_link_3": "https:\/\/apps.apple.com\/ie\/app\/fujifilm-imagine-ireland\/id820621932"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "c0645126-ab63-46ec-9534-65edb293a7ac"
+    "c0645126-ab63-46ec-9534-65edb293a7ac",
+    "e7ac7629-58d9-4ed1-a2bf-f5dd49899bd1"
   ]
 }
