@@ -58,7 +58,8 @@
       "custom_css": [
         ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
         ".ff-primary {color: #000;}",
-        ".no-bg {background: #fff !important;}"
+        ".no-bg {background: #fff !important;}",
+        "img{object-fit: fill !important;}"
       ],
       "settings": {
         "width": "boxed",
