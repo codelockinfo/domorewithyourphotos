@@ -1356,6 +1356,9 @@
         "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-3",
         "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1"
       ],
+      "custom_css": [
+        ".m6as{margin-bottom:0 ;}"
+      ],
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
