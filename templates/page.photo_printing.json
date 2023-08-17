@@ -417,7 +417,7 @@
           "settings": {
             "animationtitle": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
             "animationdes": "",
-            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "image": "shopify:\/\/shop_images\/Landing_page4asm_922f69e1-1207-41ec-a9cb-32f90a666b24.jpg",
             "imglinkurl": "shopify:\/\/collections\/traditional-photo-albums",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -496,7 +496,8 @@
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
       ],
       "custom_css": [
-        ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}"
+        ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
+        "img{object-fit:none !important;}"
       ],
       "settings": {
         "items_width": 1,
