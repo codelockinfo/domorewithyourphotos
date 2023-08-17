@@ -37,6 +37,9 @@
     },
     "c0645126-ab63-46ec-9534-65edb293a7ac": {
       "type": "photo_album_banner",
+      "custom_css": [
+        "main#content {width: 100%; max-width: 100%;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo_albums.jpg",
         "heading": "6X4 Traditional Photo Albums",
