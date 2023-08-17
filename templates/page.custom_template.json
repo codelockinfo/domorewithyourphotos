@@ -59,7 +59,7 @@
         ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
         ".ff-primary {color: #000;}",
         ".no-bg {background: #fff !important;}",
-        "img{object-fit: fill !important;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "width": "boxed",
@@ -101,11 +101,93 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "405fd21e-d2c2-4ea6-b858-0a5579139cc6": {
+      "type": "section-contact-form",
+      "blocks": {
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-1": {
+          "type": "text",
+          "settings": {
+            "title": "Name",
+            "placeholder": "Name",
+            "required": true
+          }
+        },
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-email-1": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "placeholder": "Email"
+          }
+        },
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-tel-1": {
+          "type": "tel",
+          "settings": {
+            "title": "Phone number",
+            "placeholder": "Phone number",
+            "required": false
+          }
+        },
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-2": {
+          "type": "text",
+          "settings": {
+            "title": "Company name",
+            "placeholder": "Text",
+            "required": false
+          }
+        },
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-3": {
+          "type": "text",
+          "settings": {
+            "title": "Subject",
+            "placeholder": "Text",
+            "required": false
+          }
+        },
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-textarea-1": {
+          "type": "textarea",
+          "settings": {
+            "title": "Description of Job",
+            "placeholder": "Message",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-1",
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-email-1",
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-tel-1",
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-2",
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-text-3",
+        "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-textarea-1"
+      ],
+      "settings": {
+        "alignment": "center",
+        "title": "Contact form",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "button_color_palette": "accent",
+        "show_placeholder": true,
+        "compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "1e009efa-b398-4698-9839-bc814b8f1fb6"
+    "1e009efa-b398-4698-9839-bc814b8f1fb6",
+    "405fd21e-d2c2-4ea6-b858-0a5579139cc6"
   ]
 }
