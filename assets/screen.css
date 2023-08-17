@@ -6333,3 +6333,168 @@ span.palette-black.module-color-palette{
     padding: 20px;
     margin: 0 auto;
 }
+/* photo album start */
+.photo-album-banner {
+    background: url(https://cdn.shopify.com/s/files/1/0099/8693/2814/t/22/assets/dreamstime_m_101890976.jpg?v=1673349510) no-repeat center 15%;
+    padding: 100px 0;
+    position: relative;
+    z-index: 1;
+}
+.photo-album-banner:after {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    content: "";
+    background: #000;
+    top: 0;
+    left: 0;
+    opacity: 0.6;
+    z-index: -1;
+}
+.photo-album-content {
+    text-align: center;
+    color: #fff;
+}
+.photo-album-content h1 {
+    font-size: 50px;
+    line-height: 60px;
+    color: #fff;
+}
+.photo-album-content p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 6px;
+}
+.photo-album-content h3 {
+    font-size: 30px;
+    color: #fff;
+    margin: 15px 0;
+}
+.photo-btn-wrap a:hover {
+    color: #d43342;
+    border-color: #d43342;
+    background: transparent;
+    text-decoration: none;
+    transition: 0.3s all ease-in-out 0s;
+}
+.photo-btn-wrap a {
+    background: #d43342;
+    color: #fff !important;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 10px 30px;
+    display: inline-block;
+    border: 2px solid #d43342;
+}
+.photo-main-wrap {
+    display: flex;
+    position: relative;
+}
+.photo-main-wrap .photo-left-cont {
+    width: 75%;
+    padding-right: 10px;
+}
+.photo-main-wrap .photo-right-cont {
+    width: 25%;
+    position: relative;
+}
+.photo-sidebar-wrap {
+    border: 3px solid #e73f4e;
+    border-radius: 20px;
+    position: sticky;
+    top: 0;
+}
+.photo-sidebar-wrap .sidebar-head {
+    background: #e73f4e;
+    border-radius: 15px 14px 0 0;
+    padding: 30px 5px;
+}
+.photo-sidebar-wrap .sidebar-head h2 {
+    color: #fff;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+}
+.sidebar-body {
+    padding: 10px 10px 0;
+}
+.sidebar-body h4 {
+    color: #e73f4e;
+    font-size: 45px;
+    font-family: arial;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+    line-height: 45px;
+}
+.sidebar-body h6 {
+    font-size: 18px;
+    font-family: arial;
+    color: #000;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+}
+img.img-fuji {
+    width: 70%;
+    object-fit: contain;
+    margin: 0 auto;
+    display: block;
+}
+.sidebar-body p {
+    font-size: 25px;
+    color: #e03552;
+    font-family: 'Bembo Book';
+    font-weight: 100;
+    text-align: center;
+    line-height: 26px;
+}
+.sidebar-body p span {
+    font-size: 28px;
+    font-weight: 600;
+}
+.bt-img-link {
+    position: relative;
+}
+.bt-img-link .download-wrap {
+    display: flex;
+    position: absolute;
+    bottom: 10px;
+    justify-content: end;
+    grid-gap: 10px;
+}
+.bt-img-link .download-wrap a {
+    width: 30%;
+}
+.bt-img-link .download-wrap a img {
+    object-fit: contain;
+}
+.photo-left-cont .container.uncontain-desktop-down {
+    padding: 0;
+}
+.photo-left-cont .container.uncontain-desktop-down .product-list {
+    margin: 0;
+    text-align: left;
+}
+.photo-title-wrap h1 span {
+    background: #e03552;
+    padding: 10px;
+    color: #fff;
+    min-width: 250px;
+    display: inline-block;
+    text-align: center;
+}
+.photo-title-wrap h1 {
+    border: 2px solid #e03552;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000;
+    margin-right: 20px;
+    letter-spacing: 3px;
+    font-family: arial;
+    font-weight: 600;
+}
+.photo-title-wrap {
+    clear: both;
+}
+/* photo album end */
