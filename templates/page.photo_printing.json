@@ -497,7 +497,7 @@
       ],
       "custom_css": [
         ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
-        "img{object-fit:none !important;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "items_width": 1,
