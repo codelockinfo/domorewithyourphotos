@@ -6385,6 +6385,7 @@ span.palette-black.module-color-palette{
     padding: 10px 30px;
     display: inline-block;
     border: 2px solid #d43342;
+	text-decoration: none;
 }
 .photo-main-wrap {
     display: flex;
@@ -6498,3 +6499,210 @@ img.img-fuji {
     clear: both;
 }
 /* photo album end */
+/* photo album section start */
+.product-info .title {
+    font-size: 18px;
+    line-height: 22px;
+    margin: 15px 0;
+    font-weight: 600;
+}
+.product-block.detail-mode-permanent .product-info > .inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+.product-block .product-info {
+    display: block;
+    color: inherit;
+    margin: 5px 5px 20px;
+}
+.hometitle.h4-style {
+    font-size: 25.5px;
+    margin: 0 0 20px;
+    font-family: "Bembo Book", serif;
+}
+.collection-listing {
+    text-align: center;
+    line-height: 0;
+}
+.price {
+    margin: 5px 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+.product-block .product-info .price {
+    margin: 0 5px;
+}
+.product-block .product-info .reducedfrom .amount {
+    text-decoration: line-through;
+}
+.product-block .product-info .reducedfrom {
+    font-style: italic;
+    opacity: 0.7;
+    margin: 0 5px;
+    display: inline;
+}
+.product-block .product-info .dash {
+    display: none;
+}
+.product-block {
+    text-align: center;
+}
+.product-block.fixed-width {
+    width: 255px;
+}
+.collection-listing .product-block {
+    display: inline-block;
+    max-width: 100%;
+    margin-left: 8px;
+    margin-right: 8px;
+    vertical-align: top;
+    line-height: 1.6em;
+}
+.rimage-outer-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+}
+.product-block .image-label-wrap {
+    position: relative;
+}
+.product-block .image-cont {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.product-block .product-link {
+    display: block;
+    position: relative;
+    color: inherit;
+}
+.product-block .block-inner {
+    position: relative;
+    margin: 0 0 20px;
+}
+.rimage-wrapper {
+    position: relative;
+    transition: background 150ms;
+}
+.rimage-wrapper {
+    justify-content: center;
+    display: flex;
+}
+.image-cont img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+.rimage-wrapper .rimage__image {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.rimage-wrapper .rimage__image.fade-in {
+    opacity: 1;
+    transition: opacity 500ms;
+}
+.rimage-wrapper .rimage__image.fade-in.lazyloaded {
+    opacity: 1;
+}
+/* photo album section end */
+/* video section start */
+ .shopify-section.video-section {
+    position: relative;
+}
+/* .shopify-section.video-section:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 970px;
+    margin-top: -200px;
+    transform: skew(0,-46deg);
+    z-index: -1;
+    background-color: #d43342;
+} */
+.video-container {
+    border-radius: 20px;
+}
+.video-section .container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.fully-spaced-row {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.rimage-outer-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+}
+.video-container__cover .rimage-outer-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+.video-container__cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: #eee;
+}
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.video-container {
+    padding-bottom: 35.25%;
+}
+.video-section .video-container__cover .rimage-outer-wrapper:before {
+    position: absolute;
+    content: " ";
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: .1;
+    background-color: #000;
+}
+.video-container iframe, .video-container object, .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.video-container__play svg {
+    width: 80px;
+    height: 80px;
+    fill: transparent;
+    stroke: #fff;
+}
+.video-container__play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -40px 0 0 -40px;
+    transition: transform 150ms;
+}
+a.video-container__play {
+    box-shadow: 0 0 0 10px #b41717;
+    border-radius: 50%;
+    background-color: #b41717;
+}
+/* video section end */
