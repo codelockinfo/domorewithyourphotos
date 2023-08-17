@@ -663,6 +663,9 @@
       "block_order": [
         "template--19449641533770__8106adf2-ec36-4f42-bf8a-40f5cd4fc33b-image-1"
       ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
+      ],
       "settings": {
         "mirrored": false,
         "width": "boxed",
@@ -722,6 +725,9 @@
       },
       "block_order": [
         "template--19449641533770__121f0efb-ba09-4338-9708-84f56cf1aaee-image-1"
+      ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "mirrored": false,
