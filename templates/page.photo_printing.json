@@ -716,6 +716,9 @@
         "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3",
         "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
       ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
+      ],
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/ad04.jpg",
