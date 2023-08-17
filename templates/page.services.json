@@ -190,7 +190,7 @@
       ],
       "settings": {
         "imagetextid": "Passport",
-        "image": "shopify:\/\/shop_images\/Passport-idphotos.png",
+        "image": "shopify:\/\/shop_images\/custom_resized_4b21e67a-0570-4242-9b8c-977e0cdf28c8.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -626,7 +626,7 @@
           "type": "image",
           "settings": {
             "imgid": "https:\/\/domore.ie\/pages\/personalisedphotobanners",
-            "image": "shopify:\/\/shop_images\/banners01a.jpg",
+            "image": "shopify:\/\/shop_images\/Landing_page1sm_c52f092e-c052-4ca3-b93e-d5abb823558c.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -686,7 +686,7 @@
           "type": "image",
           "settings": {
             "imgid": "https:\/\/580.app.fujipix.ie\/",
-            "image": "shopify:\/\/shop_images\/Layer_35.png",
+            "image": "shopify:\/\/shop_images\/Landing_page3a.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
