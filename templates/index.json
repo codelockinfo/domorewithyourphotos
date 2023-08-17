@@ -817,45 +817,6 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb": {
       "type": "section-image-columns-text",
       "blocks": {
-        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-1": {
-          "type": "image",
-          "settings": {
-            "animationtitle": "Birthday Framed Gifts",
-            "animationdes": "Garden Flage from $14.95",
-            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
-            "imglinkurl": "shopify:\/\/collections\/gifts-from-you",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "align-top text-start",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h3",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h4",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "",
-            "link_url": "\/",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-              "10-little-fingers-sentiment-gift-frame"
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2": {
           "type": "image",
           "settings": {
@@ -894,11 +855,50 @@
             "show_look_label": false,
             "look_label_text": "Label"
           }
+        },
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-1": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Birthday Framed Gifts",
+            "animationdes": "Garden Flage from $14.95",
+            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
+            "imglinkurl": "shopify:\/\/collections\/family",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-top text-start",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h3",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h4",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "",
+            "link_url": "\/",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+              "10-little-fingers-sentiment-gift-frame"
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
         }
       },
       "block_order": [
-        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-1",
-        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2"
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-1"
       ],
       "settings": {
         "items_width": 2,
