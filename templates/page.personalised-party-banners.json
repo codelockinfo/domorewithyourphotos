@@ -425,7 +425,7 @@
       ],
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
-        "img{background-size:contain !important }"
+        "img {object-fit:none !important;}"
       ],
       "settings": {
         "mirrored": false,
