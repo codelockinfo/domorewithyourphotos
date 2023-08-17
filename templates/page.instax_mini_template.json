@@ -213,6 +213,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "c2fbc570-8ba2-40ca-b0cf-a09eb98043e3": {
+      "type": "instax_image_text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pic_hero_main.png",
+        "image_link_url": "shopify:\/\/blogs\/news\/the-difference-between-the-instax-11-and-instax-12-camera",
+        "layout": "left",
+        "title": "The New Fujifilm Instax Mini 12 Is HERE",
+        "text": "",
+        "cta_text": "Whats New",
+        "cta_url": "shopify:\/\/blogs\/news\/the-difference-between-the-instax-11-and-instax-12-camera",
+        "alignment": "middle"
+      }
     }
   },
   "order": [
@@ -221,6 +234,7 @@
     "52281629-95e8-47e4-8274-ebaf20882903",
     "587295ee-f5bc-4628-9342-8c39040caa4f",
     "1205ff21-4ee0-46a3-a4ac-63c1285e291f",
-    "5c607109-3c80-4fdb-a734-7acdcfdb5dfc"
+    "5c607109-3c80-4fdb-a734-7acdcfdb5dfc",
+    "c2fbc570-8ba2-40ca-b0cf-a09eb98043e3"
   ]
 }
