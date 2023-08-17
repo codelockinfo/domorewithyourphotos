@@ -153,12 +153,43 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "1205ff21-4ee0-46a3-a4ac-63c1285e291f": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "fujifilm-instax-film-range",
+        "limit": 8,
+        "number_of_items": 3,
+        "text_alignment": "start",
+        "title": "Choose Your Film",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "52281629-95e8-47e4-8274-ebaf20882903",
-    "587295ee-f5bc-4628-9342-8c39040caa4f"
+    "587295ee-f5bc-4628-9342-8c39040caa4f",
+    "1205ff21-4ee0-46a3-a4ac-63c1285e291f"
   ]
 }
