@@ -55,6 +55,11 @@
         "template--19481356730698__1e009efa-b398-4698-9839-bc814b8f1fb6-image-1",
         "template--19481356730698__1e009efa-b398-4698-9839-bc814b8f1fb6-image-2"
       ],
+      "custom_css": [
+        ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
+        ".ff-primary {color: #000;}",
+        ".no-bg {background: #fff !important;}"
+      ],
       "settings": {
         "width": "boxed",
         "first_image_width": 65,
