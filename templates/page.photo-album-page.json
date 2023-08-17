@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "c0645126-ab63-46ec-9534-65edb293a7ac": {
+      "type": "photo_album_banner",
+      "custom_css": [
+        "main#content {width: 100%; max-width: 100%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo_albums.jpg",
+        "heading": "6X4 Traditional Photo Albums",
+        "html": "<p>(10x15cm)<\/p><p>The best way to store your photos and preserve your most precious memories is with a traditional photo album. Relive your best memories, opening a photo album makes time stand still. As you flip through images from days gone by, you can’t help but get lost in memories, reliving family stories and reminiscing about the good times.<\/p>\n<p>Domore.ie your local photo print &amp; photo album store, Choose a 6X4 (10x15cm) album for a special occasion, Wedding, New Baby, Holiday or perhaps an archiving an album as a family heirloom, You can choose between a variety of different photo album styles and colours.<\/p><p>\nNeed photos ? You can select the prepaid option when purchasing your album and we will contact you with instructions on how to send us your photos.<\/p>\n<h3>Choose Your Photo Album Size<\/h3>",
+        "button_1": "Album Photo Size 6X4",
+        "button_url_1": "shopify:\/\/pages\/6x4-traditional-photo-albums",
+        "button_2": "Album Photo Size 7X5",
+        "button_url_2": "shopify:\/\/pages\/7x5-traditional-photo-albums"
+      }
+    },
+    "e7ac7629-58d9-4ed1-a2bf-f5dd49899bd1": {
+      "type": "photo_album_section",
+      "blocks": {
+        "715bb96e-b851-429b-99a2-fc1e2acf3734": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Classic",
+            "collection_limit": 21,
+            "title": "traditional-6x4-classic-photo-albums"
+          }
+        },
+        "0c1baa6d-5d2b-42fb-9438-d6b105d5f23f": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Lifestlyle",
+            "collection_limit": 21,
+            "title": "traditional-6x4-lifestyle-photo-albums"
+          }
+        },
+        "e818c9f9-9ebb-4c3d-a802-1bdf75f683bc": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Wedding",
+            "collection_limit": 21,
+            "title": "taditional-6x4-wedding-photo-albums"
+          }
+        },
+        "b715a81d-a5b0-4769-9448-91dff839c600": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4 New Baby",
+            "last_title": "",
+            "collection_limit": 21,
+            "title": "traditional-6x4-baby-photo-albums"
+          }
+        },
+        "a3fc46ca-64ca-4ba7-a02f-837325535d0d": {
+          "type": "image",
+          "settings": {
+            "highlight": "6X4",
+            "last_title": "Holiday",
+            "collection_limit": 16,
+            "title": "traditional-6x4-holiday-photo-albums"
+          }
+        }
+      },
+      "block_order": [
+        "715bb96e-b851-429b-99a2-fc1e2acf3734",
+        "0c1baa6d-5d2b-42fb-9438-d6b105d5f23f",
+        "e818c9f9-9ebb-4c3d-a802-1bdf75f683bc",
+        "b715a81d-a5b0-4769-9448-91dff839c600",
+        "a3fc46ca-64ca-4ba7-a02f-837325535d0d"
+      ],
+      "settings": {
+        "heading": "Need Photos Printed?",
+        "image_1": "shopify:\/\/shop_images\/unnamed.png",
+        "sub_heading": "<h4>Get 20% OFF<\/h4>\n<h6>ALL PHOTO PRINTING<\/h6>",
+        "content": "<p>Use Code<br><span>DOPRINT22<\/span>at checkout on<br>either our<br>Online Kiosk?<br>or App<\/p>",
+        "image_2": "shopify:\/\/shop_images\/img-link.webp",
+        "image_link_2": "https:\/\/580.app.fujipix.ie\/products\/digital-print\/all-products-of-category\/12\/1\/none",
+        "image_3": "shopify:\/\/shop_images\/img-wrap.webp",
+        "image_link_3": "https:\/\/apps.apple.com\/ie\/app\/fujifilm-imagine-ireland\/id820621932"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-page",
+    "c0645126-ab63-46ec-9534-65edb293a7ac",
+    "e7ac7629-58d9-4ed1-a2bf-f5dd49899bd1"
+  ]
+}
