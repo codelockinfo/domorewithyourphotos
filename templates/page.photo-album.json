@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "hide_mobile": false
       }
@@ -25,15 +26,31 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
         "text_alignment": "start",
         "spacing_desktop": 50,
         "spacing_mobile": 30
+      }
+    },
+    "c0645126-ab63-46ec-9534-65edb293a7ac": {
+      "type": "photo_album_banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo_albums.jpg",
+        "heading": "6X4 Traditional Photo Albums",
+        "html": "<p>(10x15cm)<\/p><p>The best way to store your photos and preserve your most precious memories is with a traditional photo album. Relive your best memories, opening a photo album makes time stand still. As you flip through images from days gone by, you can’t help but get lost in memories, reliving family stories and reminiscing about the good times.<\/p>\n<p>Domore.ie your local photo print &amp; photo album store, Choose a 6X4 (10x15cm) album for a special occasion, Wedding, New Baby, Holiday or perhaps an archiving an album as a family heirloom, You can choose between a variety of different photo album styles and colours.<\/p><p>\nNeed photos ? You can select the prepaid option when purchasing your album and we will contact you with instructions on how to send us your photos.<\/p>\n<h3>Choose Your Photo Album Size<\/h3>",
+        "button_1": "Album Photo Size 6X4",
+        "button_url_1": "shopify:\/\/pages\/6x4-traditional-photo-albums",
+        "button_2": "Album Photo Size 7X5",
+        "button_url_2": "shopify:\/\/pages\/7x5-traditional-photo-albums"
       }
     }
   },
   "order": [
     "breadcrumbs",
-    "main-page"
+    "main-page",
+    "c0645126-ab63-46ec-9534-65edb293a7ac"
   ]
 }
