@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "hide_mobile": false
       }
@@ -25,15 +26,139 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
         "text_alignment": "start",
         "spacing_desktop": 50,
         "spacing_mobile": 30
+      }
+    },
+    "52281629-95e8-47e4-8274-ebaf20882903": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Image with text",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-1": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-2": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-3": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-title-1",
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-text-1",
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-1",
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-2",
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-usp-3",
+        "template--19479491772746__52281629-95e8-47e4-8274-ebaf20882903-buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/pic_hero_main.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "587295ee-f5bc-4628-9342-8c39040caa4f": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "fujifilm-instax-camera",
+        "limit": 8,
+        "number_of_items": 3,
+        "text_alignment": "start",
+        "title": "See The Cameras",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     }
   },
   "order": [
     "breadcrumbs",
-    "main-page"
+    "main-page",
+    "52281629-95e8-47e4-8274-ebaf20882903",
+    "587295ee-f5bc-4628-9342-8c39040caa4f"
   ]
 }
