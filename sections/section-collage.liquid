@@ -24,8 +24,8 @@
       assign widths = widths | reverse
     endif
 -%}
-
 <article>
+  <h2 class="collageimg">{{section.settings.collageimg}}</h2>
   <ul class="l4ft
     {% if section.settings.width == 'wide' %}fullwidth{% endif %}
     {% if section.settings.image_zoom %}zoom{% endif %}
@@ -198,6 +198,11 @@
     ]
   },
   "settings": [
+  {
+"type":"text",
+"id":"collageimg",
+"label":"heaading"
+  },
     {
       "type": "header",
       "content": "t:sections.collage.settings.layout.header"

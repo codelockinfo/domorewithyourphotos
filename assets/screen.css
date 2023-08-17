@@ -5408,6 +5408,7 @@ h2.servicehed {
     letter-spacing: -.04em;
 	font-size: 36px;
 }
+
 h3.servicehed {
     font-family: Bitter,serif;
     text-transform: none;
@@ -6310,7 +6311,7 @@ h3.servicehed {
     float: none!important;
     text-align: center;
 }
-.categories-heading h3 {
+.categories-heading h3 ,.collageimg {
 	font-family: Bitter,serif;
     text-transform: none;
     font-weight:400;
