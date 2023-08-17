@@ -1,0 +1,37 @@
+{%- assign product_limit = collection_limit -%}
+{%- assign bg_alpha = section.settings.background_color | color_extract: 'alpha' -%}
+<div class="{% if section.settings.use_carousel %}collection-slider-row{% else %}padded-row{% endif %} {% if section.settings.background_color == settings.bg_col or bg_alpha == 0 %}no-bg{% endif %} section-id-{{ section.id }}" data-section-type="featured-collection">
+  {% unless settings.use_fullwidth_layout %}<div class="container {% unless section.settings.use_carousel %}uncontain-desktop-down{% endunless %}">{% endunless %}
+<div class="{% if section.settings.use_carousel %}collection-slider{% endif %}">      
+  <h4 class="card-title hometitle h4-style align-center has-paging shashi"><span>{{ section.settings.title | escape }}</span></h4> 
+      {% if section.settings.use_carousel %}<a class="prev" href="#">{% include 'svg-chevron-left' %}</a>{% endif %}
+<!--       <a href="{{ collection.url }}"></a> -->
+      {% if section.settings.use_carousel %}<a class="next" href="#">{% include 'svg-chevron-right' %}</a>{% endif %}
+  
+<!--     <div class="view-all align-center">
+      <a href="{{ collection.url }}">{{ 'home_page.products.see_all' | t }}</a>
+    </div> -->
+    <div class="collection-listing">
+      <div class="product-list {% if section.settings.use_carousel %}carousel {% unless settings.use_fullwidth_layout %}fixed-mode{% endunless %}{% endif %}">
+        {% for product in collection.products limit: product_limit %}
+        {%- include 'bold-product' with product, hide_action: 'skip' -%}
+        {% include 'product-block' with product, manual_image_load: section.settings.use_carousel %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% unless settings.use_fullwidth_layout %}</div>{% endunless %}
+
+  {% if settings.prod_thumb_detail_show and section.settings.use_carousel %}
+  <div class="collection-listing slider-collection-listing">
+    <div class="product-detail"></div>
+  </div>
+  {% endif %}
+</div>
+
+<style type="text/css">
+  .section-id-{{ section.id }} {
+    background-color: {{ section.settings.background_color }};
+  }
+</style>

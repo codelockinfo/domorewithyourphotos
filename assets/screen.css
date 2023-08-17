@@ -6328,3 +6328,8 @@ h3.servicehed {
 	color: #333;
 	margin: 0 0 10px;
 }
+span.palette-black.module-color-palette{
+	width: 60%;
+    padding: 20px;
+    margin: 0 auto;
+}
