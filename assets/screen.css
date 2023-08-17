@@ -6339,6 +6339,7 @@ span.palette-black.module-color-palette{
     padding: 100px 0;
     position: relative;
     z-index: 1;
+	background-size: auto;
 }
 .photo-album-banner:after {
     width: 100%;
@@ -6706,3 +6707,173 @@ a.video-container__play {
     background-color: #b41717;
 }
 /* video section end */
+section.photo-main-sec {
+    margin-top: 3%;
+}
+.instaxtimg{
+	position: relative;
+	background-color: #f7e8e8;
+}
+.instaxtimg::before{
+	position: absolute;
+    content: " ";
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url(/cdn/shop/files/web-pattern_800x.png?v=1679383609);
+    background-repeat: repeat;
+    background-size: contain;
+    opacity: .6;
+}
+.layout-content-with-image-left .image-cont, .layout-content-with-image-right .image-cont {
+    display: inline-block;
+    width: 33.333%;
+    text-align: center;
+}
+.layout-content-with-image-left .content, .layout-content-with-image-right .content {
+    display: inline-block;
+    width: 60%;
+}
+.layout-content-with-image-left .content {
+    margin-left: 5%;
+    margin-right: 0;
+}
+.layout-content-with-image-left.valign-middle .content{
+	vertical-align: middle;
+}
+.image-cont img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+.majortitle {
+    margin-top: 30px !important;
+    color: #d43342;
+    font-weight: bold;
+    font-family: "Bembo Book", serif;
+    font-size: 34px;
+    /* float: left; */
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.spaced-row-above {
+    margin-top: 40px;
+}
+.button.altcolour {
+    background: #b41717;
+    color: #ffffff;
+    border: 1px solid #b41717;
+}
+.content .button, .content a.button {
+    background: #b41717;
+    border: 1px solid #b41717;
+    color: #ffffff;
+    font-size: 13.6px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    height: auto;
+    margin: 0;
+    text-decoration: none !important;
+    cursor: pointer;
+    padding: 11px 25px;
+    vertical-align: middle;
+    text-align: center;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-transition: background-color 100ms, color 100ms, border-color 100ms;
+    -webkit-transition: background-color 100ms, color 100ms, border-color 100ms;
+    transition: background-color 100ms, color 100ms, border-color 100ms;
+    display: inline-block;
+}
+.container.strongly-spaced-row.layout-content-with-image-left.valign-middle.cf{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+	padding:4%;
+}
+/* section frame start */
+.flexible-layout {
+    margin-left: -16px;
+    margin-bottom: -16px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    -webkit-align-items: stretch;
+    -moz-align-items: stretch;
+    -ms-align-items: stretch;
+    -o-align-items: stretch;
+    align-items: stretch;
+}
+.flexible-layout.valign-middle > [class^="column"] {
+    -ms-flex-item-align: center;
+    -webkit-align-self: center;
+    align-self: center;
+}
+.flexible-layout .column-quarter {
+    width: calc(25% - 16px);
+    -webkit-flex-basis: calc(25% - 16px);
+    flex-basis: calc(25% - 16px);
+}
+.col9-3.home-frm-sec{
+	margin-bottom: 5%;
+}
+/* section frame end */
+@media(max-width: 767px) {
+
+	.photo-main-wrap {
+	  flex-wrap: wrap;
+	  flex-direction: column;
+  }
+  .photo-main-wrap .photo-left-cont, .photo-main-wrap .photo-right-cont {
+	  width: unset;
+	  padding: 0;
+  }
+  .photo-title-wrap h1 span {
+    min-width: unset;
+    padding: 5px;
+    width: 100%;
+	margin-right: 0;
+}
+.container.strongly-spaced-row.layout-content-with-image-left.valign-middle.cf{
+	flex-wrap: wrap;
+}
+.layout-content-with-image-left .image-cont, .layout-content-with-image-right .image-cont,
+.layout-content-with-image-left .content, .layout-content-with-image-right .content{
+	width:100%;
+}
+.layout-content-with-image-left.valign-middle .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+}
+@media(max-width: 620px) {
+	.collection-listing .product-block{
+		max-width: 45%;
+	}
+}
+@media(max-width: 540px) {
+	.photo-btn-wrap a{
+		margin: 2% 0;
+	}
+}
+/* @media(max-width: 380px) {
+	.collection-listing .product-block{
+		max-width: 100%;
+	}
+} */
