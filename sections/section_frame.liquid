@@ -1,6 +1,6 @@
 <div class="container new-frames fully-spaced-row cf section-id-{{ section.id }}" data-section-type="custom-row">
     <div class="categories-heading">
-  <h3 class="style2" style=" width:100%;">Most Popular Personalised Gift Fames</h3>
+  <h3 class="style2" style=" width:100%;">{{section.settings.tradinghead}}</h3>
     </div>
     <div class="col9-3 home-frm-sec">
       <div class="col9">
@@ -9,7 +9,8 @@
   
               {% if block.type == 'image' %}
               {% assign text_scale_mult = '1' %}
-              {% if block.settings.width == 'quarter' %}{% assign text_scale_mult = '4' %}
+              {% if block.settings.width == 'half-quarter' %}{% assign text_scale_mult = '5' %}
+              {% elsif block.settings.width == 'quarter' %}{% assign text_scale_mult = '4' %}
               {% elsif block.settings.width == 'third' %}{% assign text_scale_mult = '3' %}
               {% elsif block.settings.width == 'half' %}{% assign text_scale_mult = '2' %}
               {% elsif block.settings.width == 'two-thirds' %}{% assign text_scale_mult = '1.5' %}
@@ -31,7 +32,7 @@
                     <div class="inner">
                       <div class="text">
                         <div class="snap-text">
-                          <div>{{ block.settings.text | escape }}</div>
+                          <h5>{{ block.settings.text | escape }}</h5>
                           {% if block.settings.subtext != blank %}<div class="second-line">{{ block.settings.subtext | escape }}</div>{% endif %}
                         </div>
                       </div>
@@ -92,6 +93,11 @@
       "class":"home-page-frames",
       "max_blocks": 10,
       "settings": [
+      {
+        "type":"text",
+        "id":"tradinghead",
+        "label":"Heading"
+      },
         {
           "type": "select",
           "id": "alignment",
@@ -124,7 +130,10 @@
               "label": "Width",
               "default": "half",
               "options": [
-               
+              {
+                "value": "half-quarter",
+                "label": "20%"
+              },
                 {
                   "value": "quarter",
                   "label": "25%"
@@ -199,6 +208,10 @@
               "label": "Width",
               "default": "half",
               "options": [
+              {
+                "value": "half-quarter",
+                "label": "20%"
+              },
                 {
                   "value": "quarter",
                   "label": "25%"
@@ -247,6 +260,10 @@
               "label": "Width",
               "default": "half",
               "options": [
+              {
+                "value": "half-quarter",
+                "label": "20%"
+              },
                 {
                   "value": "quarter",
                   "label": "25%"
@@ -293,6 +310,10 @@
               "label": "Width",
               "default": "half",
               "options": [
+              {
+                "value": "half-quarter",
+                "label": "20%"
+              },
                 {
                   "value": "quarter",
                   "label": "25%"
