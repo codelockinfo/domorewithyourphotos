@@ -178,7 +178,7 @@
         "22036a1a-5984-4d4f-b5b0-3ee4ee9a6d02"
       ],
       "custom_css": [
-        "header h2.ff-primary {color:#d43342}"
+        "header h2.ff-primary ,header h4.ff-primary {color: #d43342;}"
       ],
       "settings": {
         "color_palette": "white",
