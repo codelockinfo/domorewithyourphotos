@@ -347,11 +347,11 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
+            "image": "shopify:\/\/shop_images\/Couch3SM_2e500171-0c5e-40e8-bbbe-ce4e1c20ff75.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-center",
+            "text_position": "text-end",
             "title": "Dont see what you are looking for",
             "title_font": "primary",
             "title_size": "h2",
@@ -377,7 +377,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/Couch3fg.jpg"
           }
         },
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2": {
@@ -423,7 +424,8 @@
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2"
       ],
       "custom_css": [
-        ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}"
+        ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
+        "img{background-size:contain !important }"
       ],
       "settings": {
         "mirrored": false,
@@ -444,7 +446,7 @@
     "5f9fc417-836a-48af-b6be-421a6931ea93": {
       "type": "section-image-comparison",
       "custom_css": [
-        ".link-btn a:before{background-color:#d43342 !important; color:#fff !important;}"
+        ".link-btn a:before {background-color: #d43342 !important; color: #fff !important;}"
       ],
       "settings": {
         "image_before": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
