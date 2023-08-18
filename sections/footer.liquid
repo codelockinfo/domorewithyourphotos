@@ -166,7 +166,7 @@
               {%- if link.links != blank -%}
                 <ul>
                   {%- for sub in link.links -%}
-                    <li class="{% if sub.links !=  blank %} subMenullink {% endif%}"><a href="{{ sub.url }}" title="{{ sub.title }}">{{ sub.title }}{% if sub.links !=  blank %} <span>+</span> {% endif%}</a>
+                    <li class="{% if sub.links !=  blank %} subMenullink {% endif%}"><a class="forCollapse" href="{{ sub.url }}" title="{{ sub.title }}">{{ sub.title }}{% if sub.links !=  blank %} <span>+</span> {% endif%}</a>
                     {%- if sub.links != blank -%}
                       <ul class="submenu clsHidemenu">
                         {%- for subsub in sub.links -%}
