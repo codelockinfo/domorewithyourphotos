@@ -6896,3 +6896,22 @@ section.photo-main-sec {
 		max-width: 100%;
 	}
 } */
+.main_collections .bold_hidden{
+	display: block !important;
+}
+.main_collections button.overlay-tertiary.bold_clone{
+	display: none!important;
+}
+.product_page .bold_option_value:hover .bold_option_swatch_title{
+	margin-bottom: 2em !important;
+}
+.product_page span.bold_option_element {
+    margin-top: 3%;
+}
+.product_page label span, .label span{
+	margin-left: 0;
+}
+/* add to cart icon on mobile view */
+.l4cl.dynamic-quickshop .link-btn.visible, .l4cl li.dynamic-quickshop .link-btn.visible{
+	display: none;
+}
