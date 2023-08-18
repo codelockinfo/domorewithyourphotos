@@ -361,7 +361,8 @@
         "4a464ec0-abc3-48fa-b43d-a0c59af4b37f"
       ],
       "custom_css": [
-        ".imagetext article picture img {object-fit: contain !important;}"
+        ".imagetext article picture img {object-fit: contain !important;}",
+        "[data-whatin=mouse] .link-btn a:hover:before{border:none;}"
       ],
       "settings": {
         "imagetextid": "",
