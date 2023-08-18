@@ -347,7 +347,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/Couch3SM_2e500171-0c5e-40e8-bbbe-ce4e1c20ff75.jpg",
+            "image": "shopify:\/\/shop_images\/CPD1b.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -489,7 +489,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/fujifilm-instax-camera-range",
-            "image": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
+            "image": "shopify:\/\/shop_images\/fujifilm_app_1.png",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -526,7 +526,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/just-print",
-            "image": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_210109338.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
