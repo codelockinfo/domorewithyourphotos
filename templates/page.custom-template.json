@@ -484,7 +484,7 @@
         "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-textarea-1"
       ],
       "custom_css": [
-        "h2.w900.text-center.align-center.ff-primary {color: #d43342 ;}"
+        "h2.w900.text-center.align-center.ff-primary {color: #d43342;}"
       ],
       "settings": {
         "alignment": "center",
@@ -499,7 +499,7 @@
         "subtitle_size": "h2",
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
+        "subtitle_weight": "600",
         "button_color_palette": "accent",
         "show_placeholder": true,
         "compact": true,
