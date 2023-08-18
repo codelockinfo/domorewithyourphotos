@@ -1,0 +1,189 @@
+<div class="videoslidebg ">
+  <div class="box-video">
+    <div class="bg-video" style="background-image: url('{{section.settings.videoimg   | img_url: 'master'}}');">
+      <div class="bt-play"></div>
+    </div>
+    <div class="video-container">
+      <iframe width="590" height="332"  src="{{section.settings.videos}}" allowfullscreen="" allow="autoplay" frameborder="0"></iframe>
+    </div> 
+  </div>
+</div>
+{% schema %}
+{
+"name": "video",
+
+"settings": [
+{
+        "type": "range",
+       "id": "container",
+       "label": "container",
+       "default": 1150,
+       "min": 1000,
+       "max": 1800,
+       "step": 50
+
+      },
+    {
+            "type": "text",
+            "id": "videos",
+            "label": "Video URL",
+            "default": "video url"
+          },
+          {
+            "id": "videoimg",
+            "type": "image_picker",
+            "label": "Cover image"
+          }
+          
+
+],
+
+"presets" : [
+{
+  "name" : "video",
+  "category" : "video-slider"
+
+  }
+]
+}
+{% endschema %}
+
+  <style>
+    body {
+  background: rgba(246,242,231,1);
+}
+
+.video-wrapper.YouTube { 
+  width: 100%; 
+  height: auto; 
+  position: relative;
+  margin: 25px auto;
+  padding: 15px;
+}
+  .YouTube iframe {
+    margin-left: 180px;
+    border: 20px solid rgba(255,255,255,1);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    display: block;
+    margin: 0 auto;
+  }
+.FloatingImage { 
+  position: absolute; 
+  top: 100px; 
+  left: 135px; 
+  height: 50px; 
+  width: 25px; 
+}
+  .FloatingImage img {
+    max-width: 200px;
+    height: auto;
+  }
+.wrap{
+  position: relative;
+  max-width: 1000px;
+  width: 90%;
+  margin: 100px auto;
+}
+.box-video{
+  position: relative;
+  width: 100%;
+  margin:0 auto 20px auto;
+  cursor: pointer;
+  overflow: hidden;
+}
+.box-video .bg-video{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 2;
+}
+.bg-video::after{ 
+	content:'';
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  	background-color: rgba(0,0,0,0.1);
+  	z-index: 3;
+  	}
+.box-video .bt-play {
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin:-30px 0 0 -30px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: #d43342;
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 50%;
+  text-indent: -999em;
+  cursor: pointer;
+  z-index:2;
+  -webkit-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+  border: 10px solid #d43342;
+
+}
+.box-video .bt-play:after {
+  content: '';
+  position: absolute;
+  left: 37%;
+  top: 37%;
+  height: 0;
+  width: 0;
+  margin: -12px 0 0 -6px;
+  border: solid transparent;
+  border-left-color: #fff;
+    border-width: 23px 42px;
+  -webkit-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+}
+
+.box-video:hover .bt-play {
+  transform: scale(1.1);
+}
+.box-video.open .bg-video{
+  visibility: hidden;
+  opacity: 0;
+  transition: all .6s .8s;  
+}
+.box-video.open .video-container{
+  opacity: 1;
+  -webkit-transition: all .6s .8s;
+  transition: all .6s .8s;
+}
+.video-container {
+	position: relative;
+	width: 100%;
+	height: 0;
+  margin: 0;
+  z-index: 1;
+	padding-bottom: 56.27198%;
+}
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $(".box-video").click(function(){
+      $('iframe',this)[0].src += "?autoplay=1";
+      $(this).addClass('open');
+    });
+    });
+    
+  </script>
