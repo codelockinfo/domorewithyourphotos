@@ -191,7 +191,7 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "boxed",
+        "width": "wide",
         "height": "size-l",
         "enable_custom_height": true,
         "custom_height": 600,
