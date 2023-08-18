@@ -110,7 +110,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/PhotoPrint-Banner.jpg",
+            "image": "shopify:\/\/shop_images\/FamilyIsLaughterLoveappynesscollageOnCanvas_8.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -193,7 +193,7 @@
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
+        "enable_custom_height": false,
         "custom_height": 600,
         "space_between": 16,
         "image_zoom": false,
