@@ -483,6 +483,9 @@
         "d40e5535-21ed-4b68-bcf0-b1cc748a19e3",
         "9797f930-24b3-4e27-a155-8a855b122ce9"
       ],
+      "custom_css": [
+        "img{object-fit:contain;}"
+      ],
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/sample-new.png",
