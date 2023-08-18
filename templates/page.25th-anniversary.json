@@ -41,13 +41,13 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail.jpg",
+            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "With a 30th Anniversary framed Gift, 1st Personalised Photo Banner  selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "1ST PHOTO BANNERS",
+            "html": "With a 25th Anniversary framed Gift, 1st Personalised Photo Banner  selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "25TH PHOTO BANNERS",
             "button_link": "\/",
-            "button_text_2": "1ST FRAMED GIFTS",
+            "button_text_2": "25TH FRAMED GIFTS",
             "button_link_2": "\/"
           }
         }
@@ -93,25 +93,25 @@
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "30th-pearl-wedding-anniversary-photo-collage"
+            "product": "25th-silver-wedding-anniversary-sentiment"
           }
         },
         "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
           "type": "block",
           "settings": {
-            "product": "30th-pearl-wedding-anniversary-banner"
+            "product": "photo-collage-engagement-personalised-banner"
           }
         },
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "30th-pearl-wedding-anniversary-photo-collage"
+            "product": "a-promise-to-love-and-cherish-wedding-collage-framed"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
           "type": "block",
           "settings": {
-            "product": "personalised-picture-collage-30th-wedding-anniversary"
+            "product": "cancun-wedding-framed-photo-collage"
           }
         },
         "5860f50e-fa03-4e46-a972-e373c9eded9a": {
@@ -154,21 +154,21 @@
         "44dbb300-471f-4be5-83bc-4781fb185079"
       ],
       "settings": {
-        "title": "30th  Anniversary Personalised Banners",
+        "title": "25th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
         "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
         "bottom_text": "Our Most Popular Birthday Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/collections\/1st-year-anniversary"
+        "button_link": "shopify:\/\/collections\/25th-year-silver-wedding-anniversary"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1st_anniversary_Landing_page.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 30th Anniversary Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/25th_anniversary_Landing_page.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 25th Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -179,8 +179,8 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "30th-pearl-wedding-anniversary-banner",
-            "product2": "30th-pearl-wedding-anniversary-photo-collage"
+            "product": "25th-silver-wedding-anniversary-sentiment",
+            "product2": "photo-collage-engagement-personalised-banner"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
@@ -200,7 +200,7 @@
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
-            "product": "our-anniversary-photo-collage-framed-gift",
+            "product": "dream-catcher-wedding-collage-on-canvas",
             "product2": "from-this-day-wedding-framed-photo-collage"
           }
         },
@@ -216,7 +216,7 @@
           "type": "block",
           "settings": {
             "product": "retirement-party-celebration-banner",
-            "product2": ""
+            "product2": "love-cloud-photo-collage-wall-art-1"
           }
         }
       },
@@ -229,9 +229,9 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "right_text": "30th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "30th-pearl-wedding-anniversary-banner",
-        "main2_product": "30th-pearl-wedding-anniversary-photo-collage"
+        "right_text": "25th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "25th-silver-wedding-anniversary-sentiment",
+        "main2_product": "photo-collage-engagement-personalised-banner"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
