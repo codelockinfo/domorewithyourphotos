@@ -6804,7 +6804,7 @@ section.photo-main-sec {
 }
 /* section frame start */
 .flexible-layout {
-    margin-left: -16px;
+    /* margin-left: -16px; */
     margin-bottom: -16px;
     display: -webkit-box;
     display: -moz-box;
