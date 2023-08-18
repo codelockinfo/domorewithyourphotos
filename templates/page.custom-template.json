@@ -63,7 +63,7 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
-        "width": "boxed",
+        "width": "wide",
         "first_image_width": 65,
         "height": "l",
         "enable_custom_height": false,
