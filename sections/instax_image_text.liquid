@@ -1,4 +1,4 @@
-<div class="container strongly-spaced-row layout-content-with-image-{{ section.settings.layout }} valign-{{ section.settings.alignment}} cf">
+<div class="container strongly-spaced-row  layout-content-with-image-{{ section.settings.layout }} valign-{{ section.settings.alignment}} cf">
     {% if section.settings.layout == 'left' %}
     <div class="image-cont">
       {% if section.settings.image_link_url != blank %}<a href="{{ section.settings.image_link_url }}">{% endif %}
@@ -38,7 +38,7 @@
   {% schema %}
     {
       "name": "InstaxImage with text",
-      "class":"instaxtimg",
+      "class":"instaxtimg l4ft fullwidth",
       "settings": [
         {
           "type": "image_picker",

@@ -6736,7 +6736,7 @@ section.photo-main-sec {
 }
 .layout-content-with-image-left .content, .layout-content-with-image-right .content {
     display: inline-block;
-    width: 60%;
+    width: 45%;
 }
 .layout-content-with-image-left .content {
     margin-left: 5%;
@@ -6798,8 +6798,9 @@ section.photo-main-sec {
 .container.strongly-spaced-row.layout-content-with-image-left.valign-middle.cf{
 	display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 	padding:4%;
+	margin: 0 auto;
 }
 /* section frame start */
 .flexible-layout {
@@ -6914,4 +6915,7 @@ section.photo-main-sec {
 /* add to cart icon on mobile view */
 .l4cl.dynamic-quickshop .link-btn.visible, .l4cl li.dynamic-quickshop .link-btn.visible{
 	display: none;
+}
+.shopify-section.l4ft.fullwidth.instaxtimg{
+	margin:calc(0px - var(--content_p));
 }
