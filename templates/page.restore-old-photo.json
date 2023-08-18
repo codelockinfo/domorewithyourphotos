@@ -35,6 +35,73 @@
         "spacing_mobile": 30
       }
     },
+    "d79ecb01-0118-4636-add8-04c8b1f2f45f": {
+      "type": "section-two-images-text",
+      "blocks": {
+        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/contact-bg-new.png",
+            "image_mobile": "shopify:\/\/shop_images\/contact-bg-new1.png"
+          }
+        },
+        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1",
+        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
+      ],
+      "custom_css": [
+        ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
+        ".ff-primary {color: #000;}",
+        ".no-bg {background: #fff !important;}"
+      ],
+      "settings": {
+        "width": "boxed",
+        "first_image_width": 65,
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "image_zoom": false,
+        "overlay_opacity": 0,
+        "color_palette": "black",
+        "button_color_palette": "black",
+        "text_position": "text-center",
+        "title": "Restore Your Family history",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Photo Restoration<\/p><p>Using a combination of traditional photography, digital technology and careful, expert hand-retouching and coloring, we are able to undertake virtually any level of renovation, from cleaning up marks and scratches to fixing major damage, changing backgrounds, removing unwanted people, making combinations of more than one photograph- you name it!<\/p><p>Digital restoration ensures that your original photographs will not be damaged or altered in any way. Prints can be any size up to around 36 X24 inches  and may be toned or subtly hand colored, as you desire. We also offer a full mounting and framing service to ensure that your restored photographs look their absolute best. Additional prints may be ordered at any time.<\/p><p>By capturing your photo electronically the digital copy can be enhanced & manipulated by one of our restoration artists using specialist computer software. The original photograph is not altered and returned in its original condition. The restored photograph is printed at the required size along with any extra copies or enlargements requested. We can also archive the finished job to CD-ROM so you will always have a digital copy. Your treasured photograph is now safe for many years to come.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View all",
+        "link_url": "",
+        "show_link": false,
+        "show_look": false,
+        "product_list": [
+
+        ],
+        "look_btn_color_palette": "buy_button",
+        "look_position": "end",
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7": {
       "type": "section-image-with-text",
       "blocks": {
@@ -272,6 +339,7 @@
         "img {object-fit: contain !important;}"
       ],
       "settings": {
+        "collageimg": "",
         "mirrored": true,
         "width": "boxed",
         "height": "size-m",
@@ -490,84 +558,17 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "d79ecb01-0118-4636-add8-04c8b1f2f45f": {
-      "type": "section-two-images-text",
-      "blocks": {
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/contact-bg-new.png",
-            "image_mobile": "shopify:\/\/shop_images\/contact-bg-new1.png"
-          }
-        },
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1",
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
-      ],
-      "custom_css": [
-        ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
-        ".ff-primary{color:#000;}",
-        ".no-bg {background: #fff !important;}"
-      ],
-      "settings": {
-        "width": "boxed",
-        "first_image_width": 65,
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "image_zoom": false,
-        "overlay_opacity": 0,
-        "color_palette": "black",
-        "button_color_palette": "black",
-        "text_position": "text-center",
-        "title": "Restore Your Family history",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Photo Restoration<\/p><p>Using a combination of traditional photography, digital technology and careful, expert hand-retouching and coloring, we are able to undertake virtually any level of renovation, from cleaning up marks and scratches to fixing major damage, changing backgrounds, removing unwanted people, making combinations of more than one photograph- you name it!<\/p><p>Digital restoration ensures that your original photographs will not be damaged or altered in any way. Prints can be any size up to around 36 X24 inches  and may be toned or subtly hand colored, as you desire. We also offer a full mounting and framing service to ensure that your restored photographs look their absolute best. Additional prints may be ordered at any time.<\/p><p>By capturing your photo electronically the digital copy can be enhanced & manipulated by one of our restoration artists using specialist computer software. The original photograph is not altered and returned in its original condition. The restored photograph is printed at the required size along with any extra copies or enlargements requested. We can also archive the finished job to CD-ROM so you will always have a digital copy. Your treasured photograph is now safe for many years to come.<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "View all",
-        "link_url": "",
-        "show_link": false,
-        "show_look": false,
-        "product_list": [
-
-        ],
-        "look_btn_color_palette": "buy_button",
-        "look_position": "end",
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
+    "d79ecb01-0118-4636-add8-04c8b1f2f45f",
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7",
     "849adeae-df17-4c2f-bf4d-025f7bf3a78a",
     "6fb7007e-595c-48d9-951d-4d47d4298a79",
     "fb9adf5e-7a15-48fb-9574-d1749d84bbd6",
     "48b46886-38a2-4590-a812-f51097ddb79a",
-    "49f8356d-f061-4131-a6f5-16e078c50d82",
-    "d79ecb01-0118-4636-add8-04c8b1f2f45f"
+    "49f8356d-f061-4131-a6f5-16e078c50d82"
   ]
 }
