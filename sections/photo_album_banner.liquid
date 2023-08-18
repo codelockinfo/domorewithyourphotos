@@ -1,4 +1,4 @@
-<section class="photo-album-banner" {% if section.settings.image != blank %}style="background-image:url('{{ section.settings.image | img_url: "master"  }}')"{% endif %}}>
+<section class="photo-album-banner l4ft fullwidth" {% if section.settings.image != blank %}style="background-image:url('{{ section.settings.image | img_url: "master"  }}')"{% endif %}}>
     <div class="container">
       <div class="photo-album-content">
         {% if section.settings.heading != blank %}<h1>{{section.settings.heading }}</h1>{% endif %}
