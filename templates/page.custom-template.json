@@ -485,7 +485,8 @@
       ],
       "custom_css": [
         "h2.w900.text-center.align-center.ff-primary {color: #d43342;}",
-        ".contact_form{border: 2px solid #d43342; border-radius: 3px;}"
+        ".contact_form {border: 2px solid #d43342; border-radius: 3px;}",
+        "fieldset {padding: 10px;}"
       ],
       "settings": {
         "alignment": "center",
