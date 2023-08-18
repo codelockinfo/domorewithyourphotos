@@ -484,8 +484,8 @@
         "template--19481356730698__405fd21e-d2c2-4ea6-b858-0a5579139cc6-textarea-1"
       ],
       "custom_css": [
-        "h2.w900.text-center.align-center.ff-primary {color: #fff;}",
-        ".contact_form{background: #d43342; color: white;}"
+        "h2.w900.text-center.align-center.ff-primary {color: #d43342;}",
+        ".contact_form{border: 2px solid #d43342; border-radius: 3px;}"
       ],
       "settings": {
         "alignment": "center",
