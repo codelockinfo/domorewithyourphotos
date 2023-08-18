@@ -56,6 +56,7 @@
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1",
         "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
         ".ff-primary {color: #000;}",
@@ -114,7 +115,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "text-center",
-            "title": "Image banner",
+            "title": "",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -126,7 +127,7 @@
             "enable_custom_subtext_styling": false,
             "subtitle_color_palette": "black",
             "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "Button",
