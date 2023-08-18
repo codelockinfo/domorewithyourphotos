@@ -362,7 +362,7 @@
       ],
       "custom_css": [
         ".imagetext article picture img {object-fit: contain !important;}",
-        "[data-whatin=\"mouse\"] .link-btn a:hover:before {border: none !important;}"
+        ".module-color-palette .link-btn a.imgbtn.button-palette-:before {border: none !important;}"
       ],
       "settings": {
         "imagetextid": "",
