@@ -6917,5 +6917,5 @@ section.photo-main-sec {
 	display: none;
 }
 .shopify-section.l4ft.fullwidth.instaxtimg{
-	margin-right:calc(0px - var(--content_p));
+	margin-right: min(calc(var(--rpn) + 1px), calc(-50vw + var(--glw) * 0.5) + 0px + var(--scrollbar_width) * 0.5);
 }
