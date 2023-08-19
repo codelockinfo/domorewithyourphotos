@@ -6919,6 +6919,6 @@ section.photo-main-sec {
 .shopify-section.l4ft.fullwidth.instaxtimg{
 	margin-right: min(calc(var(--rpn) + 1px), calc(-50vw + var(--glw) * 0.5) + 0px + var(--scrollbar_width) * 0.5);
 }
-.img-multiply-bg li:first-child .img-multiply-bg{
+.img-multiply-bg li:first-child {
   display:none;
 }
