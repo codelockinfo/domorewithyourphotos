@@ -6922,3 +6922,6 @@ section.photo-main-sec {
 #nav ul  li.sub:first-child .img-multiply-bg{
   display:none;
 }
+#nav > ul > li.active > a{
+  font-weight: var(--custom_top_nav_fw);
+}
