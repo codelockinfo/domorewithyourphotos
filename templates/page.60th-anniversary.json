@@ -93,19 +93,19 @@
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "ruby-anniversary-this-is-your-life-sentiment"
+            "product": "traditional-wedding-photo-album-pearl-series"
           }
         },
         "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
           "type": "block",
           "settings": {
-            "product": "40th-ruby-anniversary-framed-photo-collage"
+            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
           }
         },
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "40th-ruby-anniversary-banner"
+            "product": "custom-framed-collage-from-your-photos"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
@@ -167,8 +167,8 @@
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/25th_anniversary_Landing_page.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 40th Anniversary Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/60th_anniversary_Landing_page_e24a20ec-6a41-4f73-b85a-45590e954693.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 60th Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -179,14 +179,14 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "40th-ruby-anniversary-framed-photo-collage",
-            "product2": "40th-ruby-anniversary-banner"
+            "product": "traditional-wedding-photo-album-pearl-series",
+            "product2": "traditional-wedding-photo-album-white-satin-series-60-pages"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
-            "product": "ruby-anniversary-this-is-your-life-sentiment",
+            "product": "wedding-photo-album-200-photos-5x7-pearl-series",
             "product2": "cancun-wedding-canvas-artcollage"
           }
         },
@@ -194,7 +194,7 @@
           "type": "block",
           "settings": {
             "product": "floral-wedding-anniversary-party-personalised-banner",
-            "product2": "40th-ruby-wedding-anniversary-sentiment"
+            "product2": "from-this-day-wedding-collage-on-canvas"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
@@ -215,7 +215,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62": {
           "type": "block",
           "settings": {
-            "product": "ruby-anniversary-this-is-your-life-sentiment",
+            "product": "",
             "product2": "love-cloud-photo-collage-wall-art-1"
           }
         }
@@ -229,9 +229,9 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "right_text": "25th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "ruby-anniversary-this-is-your-life-sentiment",
-        "main2_product": "40th-ruby-anniversary-framed-photo-collage"
+        "right_text": "60th Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "our-life-photos-framed-photo-collage-anniversary-gift",
+        "main2_product": "traditional-wedding-photo-album-pearl-series"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
