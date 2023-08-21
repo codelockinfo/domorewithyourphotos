@@ -142,7 +142,7 @@
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-2"
       ],
       "custom_css": [
-        "img{object-fit:fill !important;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "collageimg": "",
@@ -284,6 +284,9 @@
     },
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960": {
       "type": "section-featured-products",
+      "custom_css": [
+        ".link-btn a:before{background: #b41717 !important;}"
+      ],
       "settings": {
         "products": [
           "30th-birthday-love-hearts-galore-13-photo-personalised-party-banner",
