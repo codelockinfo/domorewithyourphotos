@@ -6956,4 +6956,5 @@ section.photo-main-sec {
   }
 [data-whatin=mouse] .shopify-section-footer button:hover:before{
    background: #b41717 !important;
+  box-shadow:none !important;
 }
