@@ -368,6 +368,9 @@
         "c2302b80-10d8-43e5-a5da-176d6d78b3c3",
         "05fc02bb-f775-4e4b-837c-a1757f0e769f"
       ],
+      "custom_css": [
+        "h3{text-align:center;}"
+      ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
         "textarea1": "<p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
