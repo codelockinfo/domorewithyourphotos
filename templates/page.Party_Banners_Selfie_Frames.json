@@ -294,6 +294,89 @@
         "fix_zindex": 0
       }
     },
+    "6b3779a2-2686-464e-9a79-8df10319f9f5": {
+      "type": "personlized_banner",
+      "blocks": {
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalised-birthday-photo-banners-for-children",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/childrens_birthdays.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-children"
+          }
+        },
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/Miscellaneous.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home"
+          }
+        },
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "confirmation-personalised-photo-banners",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/ConfirmationCelebrationPersonalisedPhotoBanner.jpg",
+            "button_link": "shopify:\/\/collections\/confirmation-personalised-photo-banners"
+          }
+        },
+        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7": {
+          "type": "collection_block",
+          "disabled": true,
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f": {
+          "type": "collection",
+          "settings": {
+            "collection": "engagement-banners",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/Engagementa.jpg",
+            "button_link": "shopify:\/\/collections\/engagement-banners"
+          }
+        },
+        "c2302b80-10d8-43e5-a5da-176d6d78b3c3": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalised-photo-banners-for-weddings-hen-partys",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/Wedding_a9b0edad-2bdb-46f5-a368-38a92eb9fbc9.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-weddings-hen-partys"
+          }
+        },
+        "05fc02bb-f775-4e4b-837c-a1757f0e769f": {
+          "type": "collection",
+          "settings": {
+            "collection": "most-popular-banners",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/CelebratingALifeBanner.jpg",
+            "button_link": "shopify:\/\/collections\/most-popular-banners"
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-1",
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2",
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3",
+        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7",
+        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f",
+        "c2302b80-10d8-43e5-a5da-176d6d78b3c3",
+        "05fc02bb-f775-4e4b-837c-a1757f0e769f"
+      ],
+      "settings": {
+        "title": "Personalised Photo Banners & Selfie Frames",
+        "textarea1": "Order a banner or Selfie Frame today in three easy steps.\n- Select your theme below, Choose a design,\n fill in your info and check out- Once ordered, \nyou will receive a preview in 24 hours, please respond to this preview to speed up delivery",
+        "show_text_over_image": false,
+        "show_number_products": true,
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960": {
       "type": "section-featured-products",
       "custom_css": [
@@ -444,89 +527,6 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "6b3779a2-2686-464e-9a79-8df10319f9f5": {
-      "type": "personlized_banner",
-      "blocks": {
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "personalised-birthday-photo-banners-for-children",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/childrens_birthdays.jpg",
-            "button_link": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-children"
-          }
-        },
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/Miscellaneous.jpg",
-            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home"
-          }
-        },
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "confirmation-personalised-photo-banners",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/ConfirmationCelebrationPersonalisedPhotoBanner.jpg",
-            "button_link": "shopify:\/\/collections\/confirmation-personalised-photo-banners"
-          }
-        },
-        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7": {
-          "type": "collection_block",
-          "disabled": true,
-          "settings": {
-            "button_link": ""
-          }
-        },
-        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f": {
-          "type": "collection",
-          "settings": {
-            "collection": "engagement-banners",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/Engagementa.jpg",
-            "button_link": "shopify:\/\/collections\/engagement-banners"
-          }
-        },
-        "c2302b80-10d8-43e5-a5da-176d6d78b3c3": {
-          "type": "collection",
-          "settings": {
-            "collection": "personalised-photo-banners-for-weddings-hen-partys",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/Wedding_a9b0edad-2bdb-46f5-a368-38a92eb9fbc9.jpg",
-            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-weddings-hen-partys"
-          }
-        },
-        "05fc02bb-f775-4e4b-837c-a1757f0e769f": {
-          "type": "collection",
-          "settings": {
-            "collection": "most-popular-banners",
-            "title2": "description",
-            "imgs2": "shopify:\/\/shop_images\/CelebratingALifeBanner.jpg",
-            "button_link": "shopify:\/\/collections\/most-popular-banners"
-          }
-        }
-      },
-      "block_order": [
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-1",
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2",
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3",
-        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7",
-        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f",
-        "c2302b80-10d8-43e5-a5da-176d6d78b3c3",
-        "05fc02bb-f775-4e4b-837c-a1757f0e769f"
-      ],
-      "settings": {
-        "title": "",
-        "textarea1": "description",
-        "show_text_over_image": false,
-        "show_number_products": true,
-        "alignment": "center center",
-        "background_color": "#f9f9f9"
-      }
     }
   },
   "order": [
@@ -537,8 +537,8 @@
     "037bcf7a-b179-4ba3-956c-108c53ccdc05",
     "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334",
     "a0d5838b-3748-4b7b-8b46-23aa21659d26",
+    "6b3779a2-2686-464e-9a79-8df10319f9f5",
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
-    "528d4558-6cf5-43c5-99b5-65c9611f4604",
-    "6b3779a2-2686-464e-9a79-8df10319f9f5"
+    "528d4558-6cf5-43c5-99b5-65c9611f4604"
   ]
 }
