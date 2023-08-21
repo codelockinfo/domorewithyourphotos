@@ -424,8 +424,7 @@
       ],
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
-        "img {object-fit: fill !important;}",
-        "ul.l4ft.dont-move.mobile-compact{margin: 0 auto;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "collageimg": "",
