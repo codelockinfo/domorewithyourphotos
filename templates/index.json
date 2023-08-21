@@ -90,7 +90,7 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
@@ -982,7 +982,7 @@
           "type": "image",
           "settings": {
             "animationtitle": "Birthday Framed Gifts",
-            "animationdes": "Garden Flage From $14.95",
+            "animationdes": "Garden Flage from $14.95",
             "image": "shopify:\/\/shop_images\/shutterstock_1249023355.jpg",
             "imglinkurl": "shopify:\/\/pages\/10th-anniversary",
             "overlay_opacity": 0,
@@ -1111,7 +1111,7 @@
             "color_palette": "white",
             "button_color_palette": "accent",
             "text_position": "align-top text-center",
-            "title": "",
+            "title": "Don’t Miss Out On Our Newest Designs!",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -1136,7 +1136,7 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": ""
+            "look_label_text": "Label"
           }
         },
         "template--19423284199754__6aa04d2b-17ad-493b-8130-152f94105c18-image-2": {
@@ -1188,17 +1188,17 @@
         "@media (max-width: 760px) {.l4ft li.w100.size-m-mobile {--mih: 30vw !important; }}"
       ],
       "settings": {
-        "collageimg": "Don’t Miss Out On Our Newest Designs!",
+        "collageimg": "",
         "mirrored": false,
         "width": "boxed",
-        "height": "size-m",
+        "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": false,
+        "image_zoom": true,
         "image_move": false,
         "layout_mobile": "rows",
-        "mobile_height": "size-m",
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
