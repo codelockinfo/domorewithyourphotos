@@ -1184,7 +1184,7 @@
       "custom_css": [
         "img {object-fit: fill !important;}",
         ".collageimg {text-align: center;}",
-        "@media (max-width: 1000px) {img {object-fit: contain !important; }}",
+        "@media (max-width: 1000px) {img {object-fit: cover !important; }}",
         "@media (max-width: 760px) {.l4ft li.w100.size-m-mobile {--mih: 30vw !important; }}"
       ],
       "settings": {
