@@ -490,6 +490,24 @@
             "imgs2": "shopify:\/\/shop_images\/Engagementa.jpg",
             "button_link": "shopify:\/\/collections\/engagement-banners"
           }
+        },
+        "c2302b80-10d8-43e5-a5da-176d6d78b3c3": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalised-photo-banners-for-weddings-hen-partys",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/Wedding_a9b0edad-2bdb-46f5-a368-38a92eb9fbc9.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-weddings-hen-partys"
+          }
+        },
+        "05fc02bb-f775-4e4b-837c-a1757f0e769f": {
+          "type": "collection",
+          "settings": {
+            "collection": "most-popular-banners",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/CelebratingALifeBanner.jpg",
+            "button_link": "shopify:\/\/collections\/most-popular-banners"
+          }
         }
       },
       "block_order": [
@@ -497,7 +515,9 @@
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2",
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3",
         "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7",
-        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f"
+        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f",
+        "c2302b80-10d8-43e5-a5da-176d6d78b3c3",
+        "05fc02bb-f775-4e4b-837c-a1757f0e769f"
       ],
       "settings": {
         "title": "",
