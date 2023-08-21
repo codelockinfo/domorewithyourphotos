@@ -201,7 +201,7 @@
         "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-2": {
           "type": "tab",
           "settings": {
-            "title": "Anniversary Banner",
+            "title": "Anniversary Banners",
             "icon": "none",
             "header_image_width": 25,
             "collection": "banners-for-anniversaries",
@@ -275,6 +275,109 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "45c0da27-c250-4fc4-9b41-22d06488483f": {
+      "type": "section-image-columns-text",
+      "blocks": {
+        "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-1": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Anniversary",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/97b.jpg",
+            "imglinkurl": "shopify:\/\/collections\/banners-for-anniversaries",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-2": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Birthday",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/47b.jpg",
+            "imglinkurl": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-children",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-1",
+        "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-2"
+      ],
+      "settings": {
+        "items_width": 2,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": true,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "compact",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -283,6 +386,7 @@
     "b5ed7459-2755-410d-b09d-1f6f5b78f89c",
     "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac",
     "333e83ea-e302-451b-be75-2727c1b58857",
-    "167926c3-d5c1-48de-93f9-73effada4879"
+    "167926c3-d5c1-48de-93f9-73effada4879",
+    "45c0da27-c250-4fc4-9b41-22d06488483f"
   ]
 }
