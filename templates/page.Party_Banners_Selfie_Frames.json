@@ -460,24 +460,44 @@
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home",
             "title2": "description",
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/Miscellaneous.jpg",
+            "button_link": "shopify:\/\/collections\/personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home"
           }
         },
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "confirmation-personalised-photo-banners",
             "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/ConfirmationCelebrationPersonalisedPhotoBanner.jpg",
+            "button_link": "shopify:\/\/collections\/confirmation-personalised-photo-banners"
+          }
+        },
+        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7": {
+          "type": "collection_block",
+          "disabled": true,
+          "settings": {
             "button_link": ""
+          }
+        },
+        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f": {
+          "type": "collection",
+          "settings": {
+            "collection": "engagement-banners",
+            "title2": "description",
+            "imgs2": "shopify:\/\/shop_images\/Engagementa.jpg",
+            "button_link": "shopify:\/\/collections\/engagement-banners"
           }
         }
       },
       "block_order": [
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-1",
         "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-2",
-        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3"
+        "template--19502537441610__6b3779a2-2686-464e-9a79-8df10319f9f5-collection-3",
+        "283cf7cc-3e5a-4d42-8e52-cfd7ea11a1c7",
+        "dda41e2d-97ce-4e21-a4a8-67de4e413e0f"
       ],
       "settings": {
         "title": "",
