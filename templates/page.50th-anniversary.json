@@ -165,8 +165,8 @@
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/25th_anniversary_Landing_page.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 40th Anniversary Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/50th_anniversary_Landing_page_4a8ff0b7-b09a-47a1-896a-2c3d6920cab0.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 50th Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -177,29 +177,29 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "40th-ruby-anniversary-framed-photo-collage",
-            "product2": "40th-ruby-anniversary-banner"
+            "product": "personalised-picture-collage-50th-wedding-anniversary",
+            "product2": "50-years-together-sentiment-frame"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
-            "product": "ruby-anniversary-this-is-your-life-sentiment",
-            "product2": "cancun-wedding-canvas-artcollage"
+            "product": "50th-golden-anniversary-this-is-your-life-sentiment",
+            "product2": "50th-golden-wedding-anniversary-sentiment"
           }
         },
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
           "type": "block",
           "settings": {
             "product": "floral-wedding-anniversary-party-personalised-banner",
-            "product2": "40th-ruby-wedding-anniversary-sentiment"
+            "product2": "50th-golden-wedding-anniversary-photo-collage-wall-art"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
             "product": "dream-catcher-wedding-collage-on-canvas",
-            "product2": "our-life-photos-framed-photo-collage-anniversary-gift"
+            "product2": "cancun-wedding-canvas-artcollage"
           }
         },
         "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
@@ -227,9 +227,9 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "right_text": "25th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "ruby-anniversary-this-is-your-life-sentiment",
-        "main2_product": "40th-ruby-anniversary-framed-photo-collage"
+        "right_text": "50th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "50th-golden-anniversary-this-is-your-life-sentiment",
+        "main2_product": "50th-golden-wedding-anniversary-photo-collage-wall-art"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
