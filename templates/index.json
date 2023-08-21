@@ -1185,7 +1185,7 @@
         "img {object-fit: fill !important;}",
         ".collageimg {text-align: center;}",
         "@media (max-width: 1000px) {img {object-fit: cover !important; }}",
-        "@media (max-width: 760px) {.l4ft li {--mih: 30vw !important; }}"
+        "@media (max-width: 760px) {.l4ft li.w100.size-m-mobile {--mih: 30vw !important; }}"
       ],
       "settings": {
         "collageimg": "Don’t Miss Out On Our Newest Designs!",
