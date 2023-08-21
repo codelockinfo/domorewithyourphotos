@@ -6954,6 +6954,12 @@ section.photo-main-sec {
 		height: 110px !important;
 	}
   }
+@media only screen and (max-width: 520px){
+	
+	#distance-spacer{
+		height: 90px !important;
+	}
+  }
 [data-whatin=mouse] .shopify-section-footer button:hover:before{
    background: #b41717 !important;
   box-shadow:none !important;
