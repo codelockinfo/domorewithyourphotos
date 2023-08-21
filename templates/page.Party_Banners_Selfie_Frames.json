@@ -396,9 +396,9 @@
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-1": {
           "type": "image",
           "settings": {
-            "animationtitle": "Birthday Party",
+            "animationtitle": "Welcome Party",
             "animationdes": "",
-            "image": "shopify:\/\/shop_images\/birthdaybanner2_2.jpg",
+            "image": "shopify:\/\/shop_images\/55b.jpg",
             "imglinkurl": "",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -420,7 +420,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/confirmation-personalised-photo-banners",
+            "link_url": "shopify:\/\/collections\/welcome-home-goodbye-personal-banners",
             "show_link": false,
             "show_look": false,
             "product_list": [
@@ -435,7 +435,7 @@
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-2": {
           "type": "image",
           "settings": {
-            "animationtitle": "Anniversary Party",
+            "animationtitle": "Birthday Party",
             "animationdes": "",
             "image": "shopify:\/\/shop_images\/41b.jpg",
             "imglinkurl": "",
