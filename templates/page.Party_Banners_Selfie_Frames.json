@@ -141,6 +141,9 @@
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-1",
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-2"
       ],
+      "custom_css": [
+        "img{object-fit:fill !important;}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
