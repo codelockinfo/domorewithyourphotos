@@ -18,6 +18,9 @@
       "block_order": [
         "2e80a36d-6430-46c3-9e9d-1dee82e7df53"
       ],
+      "custom_css": [
+        "ul.l4pm.text-center.form-group {display: none;}"
+      ],
       "settings": {
         "title_size": "h2",
         "show_dynamic_buybutton": true,
