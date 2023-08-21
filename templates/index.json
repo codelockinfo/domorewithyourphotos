@@ -1185,7 +1185,7 @@
         "img {object-fit: fill !important;}",
         ".collageimg {text-align: center;}",
         "@media (max-width: 1000px) {img {object-fit: contain !important; }}",
-        " @media only screen and (max-width: 760px){#root .l4ft[class*=\"size-\"].size-s-mobile li, #root .l4ft li[class*=\"size-\"].size-s-mobile {--mih: 30vw !important;}}"
+        "@media only screen and (max-width: 760px) {#root .l4ft li[class*=\"size-\"].size-s-mobile {--mih: 30vw !important; }}"
       ],
       "settings": {
         "collageimg": "Don’t Miss Out On Our Newest Designs!",
