@@ -6925,3 +6925,32 @@ section.photo-main-sec {
 #nav > ul > li.active > a{
   font-weight: var(--custom_top_nav_fw);
 }
+ @media(min-width: 1000px) {
+	#nav > ul > li > ul, #nav-bar > ul > li > ul{
+		width: 60% !important;
+		margin-left: auto; 
+		margin-right: auto;
+	}
+}
+@media(max-width: 1450px) {
+	#nav > ul > li > ul, #nav-bar > ul > li > ul{
+		width: 70% !important;
+	}
+}
+@media(max-width: 1300px) {
+	#nav > ul > li > ul, #nav-bar > ul > li > ul{
+		width: 80% !important;
+	}
+}
+.home-page-frames .col9 .image-block.slide a{
+	text-decoration: none;
+}
+@media only screen and (max-width: 1000px){
+	[dir="ltr"] #root .l4ft.mobile-compact > li:last-child{
+  		border-right-width:unset !important; 
+	  	border-left-width: unset;
+	}
+	#distance-spacer{
+		height: 90px !important;
+	}
+  }
