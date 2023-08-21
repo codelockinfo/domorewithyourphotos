@@ -436,7 +436,7 @@
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
-        "layout_mobile": "compact",
+        "layout_mobile": "rows",
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
