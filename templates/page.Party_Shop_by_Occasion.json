@@ -136,11 +136,24 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac": {
+      "type": "birthdat_text_background",
+      "custom_css": [
+        "img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/92b.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A Occasion Anniversary, Birthday Or Engagement",
+        "bg_color": "#d43342",
+        "bg_text": "#FFFFFF"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "b5ed7459-2755-410d-b09d-1f6f5b78f89c"
+    "b5ed7459-2755-410d-b09d-1f6f5b78f89c",
+    "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac"
   ]
 }
