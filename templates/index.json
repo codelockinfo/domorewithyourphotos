@@ -1182,8 +1182,8 @@
         "template--19423284199754__6aa04d2b-17ad-493b-8130-152f94105c18-image-2"
       ],
       "custom_css": [
-        "img {object-fit: contain !important;}",
-        ".collageimg{text-align:center;}"
+        "img {object-fit: fill !important;}",
+        ".collageimg {text-align: center;}"
       ],
       "settings": {
         "collageimg": "Don’t Miss Out On Our Newest Designs!",
