@@ -1183,7 +1183,8 @@
       ],
       "custom_css": [
         "img {object-fit: fill !important;}",
-        ".collageimg {text-align: center;}"
+        ".collageimg {text-align: center;}",
+        "@media(max-width: 1000px) {img {object-fit: contain !important;}}"
       ],
       "settings": {
         "collageimg": "Don’t Miss Out On Our Newest Designs!",
