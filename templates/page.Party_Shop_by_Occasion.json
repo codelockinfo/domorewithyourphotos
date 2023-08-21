@@ -148,12 +148,42 @@
         "bg_color": "#d43342",
         "bg_text": "#FFFFFF"
       }
+    },
+    "333e83ea-e302-451b-be75-2727c1b58857": {
+      "type": "birthday_work",
+      "blocks": {
+        "b032c477-48a4-4d73-9a91-4e4ad4a1aefa": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        },
+        "9b2e6b7a-0cc6-42a3-9b4e-1638de165e43": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deadline.png",
+            "heading": "Day for Delivery",
+            "html": "1 - 2 Days for delivery nationwide with An Post"
+          }
+        }
+      },
+      "block_order": [
+        "b032c477-48a4-4d73-9a91-4e4ad4a1aefa",
+        "9b2e6b7a-0cc6-42a3-9b4e-1638de165e43"
+      ],
+      "settings": {
+        "title": "HOW WE WORK",
+        "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "b5ed7459-2755-410d-b09d-1f6f5b78f89c",
-    "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac"
+    "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac",
+    "333e83ea-e302-451b-be75-2727c1b58857"
   ]
 }
