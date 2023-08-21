@@ -128,7 +128,7 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
