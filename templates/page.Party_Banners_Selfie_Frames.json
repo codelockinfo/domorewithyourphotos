@@ -413,6 +413,9 @@
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-1",
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-2"
       ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
+      ],
       "settings": {
         "items_width": 2,
         "width": "boxed",
