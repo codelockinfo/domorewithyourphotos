@@ -125,7 +125,7 @@
         "collageimg": "",
         "mirrored": false,
         "width": "wide",
-        "height": "size-m",
+        "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
