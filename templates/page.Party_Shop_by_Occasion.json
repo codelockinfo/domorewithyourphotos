@@ -218,13 +218,30 @@
         "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-3": {
           "type": "tab",
           "settings": {
-            "title": "Third tab",
+            "title": "Most Popular Banners",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "",
+            "collection": "most-popular-banners",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "62de808f-6fb6-45b1-8634-b6dad780ed48": {
+          "type": "tab",
+          "settings": {
+            "title": "Confirmation Banners",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "confirmation-personalised-photo-banners",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Tab content<\/p>",
             "page": "",
             "image_width": 460,
             "liquid": "",
@@ -236,7 +253,8 @@
       "block_order": [
         "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-1",
         "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-2",
-        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-3"
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-3",
+        "62de808f-6fb6-45b1-8634-b6dad780ed48"
       ],
       "settings": {
         "alignment": "center",
