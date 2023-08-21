@@ -157,12 +157,104 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Get the party Started",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>With a Party Gift, 1st Personalised Photo Banner  selfie frame. This Party is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing party photos and we will do the rest.<\/p>"
+          }
+        },
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Party Banners",
+            "link_url_1": "shopify:\/\/collections\/personalised-selfie-frames-for-schools-and-graduations",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-title-1",
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-text-1",
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-1",
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-2",
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-3",
+        "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/Landing_page1a_f578900a-c886-4063-94a2-17ba2b5e86d0.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "ed18f2a6-21a8-4150-b5a2-3eb324384208",
-    "037bcf7a-b179-4ba3-956c-108c53ccdc05"
+    "037bcf7a-b179-4ba3-956c-108c53ccdc05",
+    "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334"
   ]
 }
