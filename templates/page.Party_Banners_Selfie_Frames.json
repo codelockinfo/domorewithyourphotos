@@ -248,6 +248,78 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "a0d5838b-3748-4b7b-8b46-23aa21659d26": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "personalised-photo-banners-for-weddings-hen-partys",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "0c13970e-7bc2-45bc-b11e-9e19bfaa9960": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "30th-birthday-love-hearts-galore-13-photo-personalised-party-banner",
+          "my-first-year-birthday-banner",
+          "60s-america-diner-90th-birthday-personalised-photo-banner",
+          "baby-shark-personalised-photo-birthday-banner",
+          "baby-elephant-first-birthday-personalised-banner",
+          "baby-shower-party-personalised-photo-banner",
+          "boys-batman-birthday-personalised-photo-banner",
+          "becoming-teenager-personalised-photo-banner",
+          "bon-voyage-house-party-personalised-banner",
+          "bride-to-be-party-personalised-banner",
+          "butterfly-birthday-party-personalised-photo-banner"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured products",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about these products<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -255,6 +327,8 @@
     "main-page",
     "ed18f2a6-21a8-4150-b5a2-3eb324384208",
     "037bcf7a-b179-4ba3-956c-108c53ccdc05",
-    "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334"
+    "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334",
+    "a0d5838b-3748-4b7b-8b46-23aa21659d26",
+    "0c13970e-7bc2-45bc-b11e-9e19bfaa9960"
   ]
 }
