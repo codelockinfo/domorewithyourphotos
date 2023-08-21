@@ -370,7 +370,7 @@
       ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
-        "textarea1": "Order a banner or Selfie Frame today in three easy steps.\n- Select your theme below, Choose a design,\n fill in your info and check out- Once ordered, \nyou will receive a preview in 24 hours, please respond to this preview to speed up delivery",
+        "textarea1": "<p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
         "show_text_over_image": false,
         "show_number_products": true,
         "alignment": "center center",
