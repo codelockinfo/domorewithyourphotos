@@ -6954,3 +6954,6 @@ section.photo-main-sec {
 		height: 90px !important;
 	}
   }
+[data-whatin=mouse] .shopify-section-footer button:hover:before{
+   background: #b41717 !important;
+}
