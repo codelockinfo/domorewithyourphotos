@@ -26,48 +26,13 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "center",
         "text_alignment": "center",
         "spacing_desktop": 50,
         "spacing_mobile": 30
-      }
-    },
-    "ed18f2a6-21a8-4150-b5a2-3eb324384208": {
-      "type": "birthday_banner",
-      "blocks": {
-        "15031da9-6ada-4f90-a0c6-39b3c15586e2": {
-          "type": "block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2021_bannersa.jpg",
-            "top_heading": "",
-            "heading": "",
-            "html": "",
-            "button_text": "",
-            "button_link": "",
-            "button_text_2": "",
-            "button_link_2": ""
-          }
-        }
-      },
-      "block_order": [
-        "15031da9-6ada-4f90-a0c6-39b3c15586e2"
-      ],
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "478f75e3-78cd-447f-92f6-d9d8005555f3": {
-      "type": "photo_album_banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2021_bannersa.jpg",
-        "heading": "",
-        "html": "",
-        "button_1": "",
-        "button_url_1": "",
-        "button_2": "",
-        "button_url_2": ""
       }
     },
     "037bcf7a-b179-4ba3-956c-108c53ccdc05": {
@@ -369,7 +334,7 @@
         "05fc02bb-f775-4e4b-837c-a1757f0e769f"
       ],
       "custom_css": [
-        "h3{text-align:center;}"
+        "h3 {text-align: center;}"
       ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
@@ -535,8 +500,6 @@
   "order": [
     "breadcrumbs",
     "main-page",
-    "ed18f2a6-21a8-4150-b5a2-3eb324384208",
-    "478f75e3-78cd-447f-92f6-d9d8005555f3",
     "037bcf7a-b179-4ba3-956c-108c53ccdc05",
     "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334",
     "a0d5838b-3748-4b7b-8b46-23aa21659d26",
