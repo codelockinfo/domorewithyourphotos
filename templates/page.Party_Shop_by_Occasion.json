@@ -472,6 +472,66 @@
     },
     "e388f5ee-3290-410b-b9f9-15f2f72aa086": {
       "type": "birthdat_feature",
+      "blocks": {
+        "1277ba20-afb0-40d9-b5a9-a112ecb33657": {
+          "type": "block",
+          "settings": {
+            "product": "celebrating-a-life-banner"
+          }
+        },
+        "c4fd2edb-7e5d-4a0c-88f0-4f2e50decc53": {
+          "type": "block",
+          "settings": {
+            "product": "all-wrapped-up-60th-personalised-photo-banner"
+          }
+        },
+        "ed979ebb-a1f7-4afe-94b5-8eedf2d371e7": {
+          "type": "block",
+          "settings": {
+            "product": "congratulation-on-your-graduations-personalised-photo-banner"
+          }
+        },
+        "ae8828b3-b8e3-485f-a41d-cd96d3e79850": {
+          "type": "block",
+          "settings": {
+            "product": "confirmation-party-personalised-banner-with-photos"
+          }
+        },
+        "a2f0aa05-371f-496c-bfcc-48cffad213cc": {
+          "type": "block",
+          "settings": {
+            "product": "circle-it-up-birthday-personalised-photo-banner"
+          }
+        },
+        "32b54068-d343-4393-97d2-79b1556aac04": {
+          "type": "block",
+          "settings": {
+            "product": "school-reunion-celebration-banner"
+          }
+        },
+        "acc3f6ae-3827-4355-a2aa-16ae449b4b11": {
+          "type": "block",
+          "settings": {
+            "product": "cake-presents-50th-birthday-party-personalised-photo-banner"
+          }
+        },
+        "b5847921-a148-4201-90f0-1c483aa7a12c": {
+          "type": "block",
+          "settings": {
+            "product": "butterfly-birthday-party-personalised-photo-banner"
+          }
+        }
+      },
+      "block_order": [
+        "1277ba20-afb0-40d9-b5a9-a112ecb33657",
+        "c4fd2edb-7e5d-4a0c-88f0-4f2e50decc53",
+        "ed979ebb-a1f7-4afe-94b5-8eedf2d371e7",
+        "ae8828b3-b8e3-485f-a41d-cd96d3e79850",
+        "a2f0aa05-371f-496c-bfcc-48cffad213cc",
+        "32b54068-d343-4393-97d2-79b1556aac04",
+        "acc3f6ae-3827-4355-a2aa-16ae449b4b11",
+        "b5847921-a148-4201-90f0-1c483aa7a12c"
+      ],
       "settings": {
         "title": "Personalised Banners",
         "html": "This Is Your Life Photo Collage Banner",
