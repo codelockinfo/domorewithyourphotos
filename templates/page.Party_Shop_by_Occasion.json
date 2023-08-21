@@ -469,6 +469,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "e388f5ee-3290-410b-b9f9-15f2f72aa086": {
+      "type": "birthdat_feature",
+      "settings": {
+        "title": "Personalised Banners",
+        "html": "This Is Your Life Photo Collage Banner",
+        "main_product": "",
+        "popular_title": "This Is Your Life Occasion Banner",
+        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "bottom_text": "This Is Your Life Photo Collage Banner",
+        "button_text": "Order HERE",
+        "button_link": "shopify:\/\/collections\/school"
+      }
     }
   },
   "order": [
@@ -479,6 +492,7 @@
     "333e83ea-e302-451b-be75-2727c1b58857",
     "167926c3-d5c1-48de-93f9-73effada4879",
     "45c0da27-c250-4fc4-9b41-22d06488483f",
-    "553c7052-fb04-4a69-8884-bb5132ed9239"
+    "553c7052-fb04-4a69-8884-bb5132ed9239",
+    "e388f5ee-3290-410b-b9f9-15f2f72aa086"
   ]
 }
