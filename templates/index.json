@@ -1186,7 +1186,7 @@
         "img {object-fit: fill !important;}",
         ".collageimg {text-align: center;}",
         "@media (max-width: 1000px) {img {object-fit: contain !important; }}",
-        "@media (max-width: 760px) {#root .l4ft[class*=\"size-\"].size-s-mobile li, #root .l4ft li[class*=\"size-\"].size-s-mobile {--mih: 30vw !important;}}"
+        "@media (max-width: 760px) {#root .l4ft[class*=\"size-\"].size-s-mobile li, #root .l4ft li[class*=\"size-\"].size-s-mobile {--mih: 30vw !important; }}"
       ],
       "settings": {
         "collageimg": "Don’t Miss Out On Our Newest Designs!",
@@ -1198,7 +1198,7 @@
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
-        "layout_mobile": "rows",
+        "layout_mobile": "compact",
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
