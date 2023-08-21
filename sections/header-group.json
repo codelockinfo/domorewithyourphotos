@@ -278,7 +278,7 @@
         "show_dropdown_images_autofill": false,
         "menubar_alignment": "center",
         "menubar_border": false,
-        "menubar_border_width": "wide",
+        "menubar_border_width": "boxed",
         "menubar_border_color": "#f4f4f4",
         "main_menu_items_clickable": true,
         "menubar_caps": false,
