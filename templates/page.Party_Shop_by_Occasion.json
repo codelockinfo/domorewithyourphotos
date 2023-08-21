@@ -140,10 +140,10 @@
     "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac": {
       "type": "birthdat_text_background",
       "custom_css": [
-        "img {object-fit: contain !important;}"
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/92b.jpg",
+        "image": "shopify:\/\/shop_images\/anniversaries.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A Occasion Anniversary, Birthday Or Engagement",
         "bg_color": "#d43342",
         "bg_text": "#FFFFFF"
