@@ -177,6 +177,86 @@
         "title": "HOW WE WORK",
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
+    },
+    "167926c3-d5c1-48de-93f9-73effada4879": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Adults Birthdays Banners",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "personalised-birthday-photo-banners-for-adults",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "Anniversary Banner",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "banners-for-anniversaries",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of second tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "Third tab",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-1",
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-2",
+        "template--19502640070986__167926c3-d5c1-48de-93f9-73effada4879-tab-3"
+      ],
+      "settings": {
+        "alignment": "center",
+        "compact": false,
+        "title": "Shop by Occasion",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -184,6 +264,7 @@
     "main-page",
     "b5ed7459-2755-410d-b09d-1f6f5b78f89c",
     "02905fdc-b0cd-45e8-ad7a-9f07c453e7ac",
-    "333e83ea-e302-451b-be75-2727c1b58857"
+    "333e83ea-e302-451b-be75-2727c1b58857",
+    "167926c3-d5c1-48de-93f9-73effada4879"
   ]
 }
