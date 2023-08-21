@@ -154,6 +154,9 @@
         "footer-block-menu-1",
         "footer-block-customer-support-1"
       ],
+      "custom_css": [
+        "[data-whatin=mouse] button:hover:before{background:#d43342 !important;}"
+      ],
       "settings": {
         "footer_color": "white",
         "column_text_alignment": "left",
