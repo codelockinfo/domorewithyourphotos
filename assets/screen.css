@@ -6358,6 +6358,7 @@ span.palette-black.module-color-palette{
 .photo-album-content {
     text-align: center;
     color: #fff;
+	padding: 0px 15%;
 }
 .photo-album-content h1 {
     font-size: 50px;
@@ -6843,6 +6844,12 @@ section.photo-main-sec {
 	text-align: center; 
 }
 /* section frame end */
+@media(max-width: 991px) {
+	.collection-listing .product-block{
+		margin-left: 0px; 
+     margin-right: 0px;
+	}
+}
 @media(max-width: 767px) {
 
 	.photo-main-wrap {
@@ -6858,6 +6865,29 @@ section.photo-main-sec {
     padding: 5px;
     width: 100%;
 	margin-right: 0;
+}
+.photo-title-wrap h1{
+	text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.photo-album-content h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.photo-album-content p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.photo-album-content{
+	padding: 0 2%;
+}
+.photo-album-content h3 {
+    font-size: 20px;
+}
+.photo-btn-wrap a{
+	width: 95%;
+	margin: 1%;
 }
 .container.strongly-spaced-row.layout-content-with-image-left.valign-middle.cf{
 	flex-wrap: wrap;
@@ -6875,6 +6905,9 @@ section.photo-main-sec {
     width: calc(33.33% - 16px);
     -webkit-flex-basis: calc(33.33% - 16px);
     flex-basis: calc(33.33% - 16px);
+}
+.photo-left-cont .container.uncontain-desktop-down .product-list{
+	text-align: center;
 }
 }
 @media(max-width: 620px) {
@@ -6974,4 +7007,10 @@ section.photo-main-sec {
 }
 h2.majortitle.in-content {
     color: #b41717;
+}
+section.photo-album-banner.l4ft.fullwidth{
+	background-size: cover;
+}		
+.collection-listing .block-inner  a.product-link {
+    text-decoration: none;
 }
