@@ -6964,3 +6964,6 @@ section.photo-main-sec {
    background: #b41717 !important;
   box-shadow:none !important;
 }
+.main_collections ul.l4vw.outline ,.main_collections ul.l4in{
+    display: none;
+}
