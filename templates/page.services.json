@@ -26,6 +26,7 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "center",
@@ -667,6 +668,7 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
+        "collageimg": "",
         "mirrored": false,
         "width": "boxed",
         "height": "size-m",
@@ -730,6 +732,7 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
+        "collageimg": "",
         "mirrored": false,
         "width": "boxed",
         "height": "size-m",
