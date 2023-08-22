@@ -64,30 +64,32 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb": {
       "disabled": false,
       "settings": {
-        "enable_custom_height": false,
-        "width": "wide",
         "items_width": 2,
-        "height": "size-l"
+        "width": "wide",
+        "height": "size-l",
+        "enable_custom_height": false
       },
       "blocks": {
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2": {
           "settings": {
             "animationtitle": "",
             "animationdes": "",
-            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg"
+            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg",
+            "imglinkurl": "shopify:\/\/collections\/photo-mugs"
           }
         },
         "a802db71-f904-465a-b30c-f788d030fe02": {
           "settings": {
             "animationtitle": "",
             "animationdes": "",
-            "image": "shopify:\/\/shop_images\/print2small.jpg"
+            "image": "shopify:\/\/shop_images\/print2small.jpg",
+            "imglinkurl": "https:\/\/580.app.fujipix.ie\/"
           }
         }
       },
       "block_order": [
-        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
-        "a802db71-f904-465a-b30c-f788d030fe02"
+        "a802db71-f904-465a-b30c-f788d030fe02",
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2"
       ]
     }
   },
