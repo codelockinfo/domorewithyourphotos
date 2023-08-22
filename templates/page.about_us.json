@@ -67,7 +67,8 @@
       ],
       "custom_css": [
         ".imagetext h2.ff-primary.m20 {color: #d43342;}",
-        ".imagetext article picture img {object-fit: contain !important;}"
+        ".imagetext article picture img {object-fit: contain !important;}",
+        "@media(max-width: 760px) {.imagetext h2.ff-primary.m20 , .ff-secondary{text-align:center;}}"
       ],
       "settings": {
         "imagetextid": "",
