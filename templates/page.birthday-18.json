@@ -46,9 +46,9 @@
             "heading": "Give the Gift of Memories",
             "html": "With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
             "button_text": "18TH PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas",
             "button_text_2": "18TH FRAMED GIFTS",
-            "button_link_2": "\/"
+            "button_link_2": "shopify:\/\/collections\/gifts-from-you"
           }
         }
       },
@@ -218,6 +218,9 @@
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
