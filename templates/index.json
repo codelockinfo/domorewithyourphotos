@@ -562,30 +562,13 @@
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864": {
       "type": "section-content-tabs",
       "blocks": {
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1": {
-          "type": "tab",
-          "settings": {
-            "title": "Binoculars",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "binoculars",
-            "products_limit": 5,
-            "number_of_items": 4,
-            "text": "<p>Content of first tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2": {
           "type": "tab",
           "settings": {
             "title": "Fujifilm Instax",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "fujifilm-instax-camera",
+            "collection": "fujifilm-instax-camera-range",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of second tab<\/p>",
@@ -629,13 +612,30 @@
             "html": "",
             "show_contact_form": false
           }
+        },
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Binoculars",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "binoculars",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
         }
       },
       "block_order": [
-        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1",
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2",
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3",
-        "8328db66-31e2-4af3-8b9d-e38487e16dac"
+        "8328db66-31e2-4af3-8b9d-e38487e16dac",
+        "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1"
       ],
       "settings": {
         "alignment": "center",
