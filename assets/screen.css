@@ -5834,7 +5834,7 @@ h3.servicehed {
     border-bottom: 2px solid #000;
     display: inline-block;
     transform: rotate(135deg);
-	background-color: none;
+	background: none;
 }
 .slick-slider button.slick-arrow.slick-next:before {
     transform: rotate(-45deg);
