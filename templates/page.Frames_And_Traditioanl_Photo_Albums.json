@@ -41,14 +41,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/18th_page_banner.jpg",
+            "image": "shopify:\/\/shop_images\/but_wed.png",
             "top_heading": "",
-            "heading": "Give the Gift of Memories",
-            "html": "With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "18TH PHOTO BANNERS",
-            "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas",
-            "button_text_2": "18TH FRAMED GIFTS",
-            "button_link_2": "shopify:\/\/collections\/gifts-from-you"
+            "heading": "Give the Gift of Traditional Photo",
+            "html": "With a Traditional  framed Gift, Traditional Photo Banner or selfie frame. This Traditional Photo is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "TRADITIONAL BABY PHOTO",
+            "button_link": "shopify:\/\/collections\/traditional-baby-photo-albums",
+            "button_text_2": "TRADITIONAL WEDDING PHOTO",
+            "button_link_2": "shopify:\/\/collections\/traditional-wedding-albums"
           }
         }
       },
@@ -206,14 +206,14 @@
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
       "settings": {
-        "title": "18th Birthday Personalised Banners",
+        "title": "Frames and Traditional Photo Album",
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
         "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
-        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "bottom_text": "Our Most Popular Traditional Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/products\/its-my-18th-party-personalised-photo-collage-banner"
+        "button_link": "shopify:\/\/collections\/traditional-baby-photo-albums"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
