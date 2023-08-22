@@ -376,6 +376,9 @@
     },
     "4e0b2ee4-12ba-4762-b273-1b3eec95b38c": {
       "type": "section-featured-products",
+      "custom_css": [
+        ".ff-primary{margin-top: 4%;}"
+      ],
       "settings": {
         "products": [
           "our-wedding-blocked-photo-collage-on-canvas",
