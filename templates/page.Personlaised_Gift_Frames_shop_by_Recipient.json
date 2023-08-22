@@ -357,6 +357,9 @@
         "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3",
         "c7de2230-62ba-4890-abd0-5c768ebc71a2"
       ],
+      "custom_css": [
+        ".ff-primary{margin-top: 3%;}"
+      ],
       "settings": {
         "alignment": "left",
         "compact": false,
