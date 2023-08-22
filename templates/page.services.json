@@ -26,6 +26,7 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "center",
@@ -500,7 +501,7 @@
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
-        "layout": "image-left",
+        "layout": "image-right",
         "width": "boxed",
         "height": "l",
         "enable_custom_height": false,
@@ -525,11 +526,27 @@
             "title_weight": "700"
           }
         },
+        "5499fb67-c811-43f1-beb2-ce5b6807ad5c": {
+          "type": "spacer",
+          "settings": {
+            "height": 0,
+            "height_mobile": 5
+          }
+        },
+        "813e14ee-86e0-43dc-b767-f377fca5e6a1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "primary",
+            "usp": "Fujifilm Instax mini 11 NOW in Stock",
+            "font_size": "18px"
+          }
+        },
         "258dd2e8-a750-4bac-800f-3a989f5918a4": {
           "type": "title",
           "settings": {
             "title_font": "primary",
-            "title_size": "h3",
+            "title_size": "h4",
             "title": "fujifilm Instax mini 11 NOW in Stock",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
@@ -542,12 +559,14 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Official stockist of Sony, kodak digital cameras.<\/p><p>Full range of fujifilm Instax cameras, printers and film accessories in stock now Instax 11 now available in 5 colours .<\/p>"
+            "text": "<p><\/p><p>Official stockist of Sony, kodak digital cameras.<\/p><p>Full range of fujifilm Instax cameras, printers and film accessories in stock now Instax 11 now available in 5 colours .<\/p>"
           }
         }
       },
       "block_order": [
         "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-title-1",
+        "5499fb67-c811-43f1-beb2-ce5b6807ad5c",
+        "813e14ee-86e0-43dc-b767-f377fca5e6a1",
         "258dd2e8-a750-4bac-800f-3a989f5918a4",
         "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-text-1"
       ],
@@ -608,7 +627,7 @@
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
-        "layout": "image-left",
+        "layout": "image-right",
         "width": "boxed",
         "height": "l",
         "enable_custom_height": false,
@@ -667,13 +686,14 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
+        "collageimg": "",
         "mirrored": false,
         "width": "boxed",
         "height": "size-m",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-xs",
@@ -730,6 +750,7 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
+        "collageimg": "",
         "mirrored": false,
         "width": "boxed",
         "height": "size-m",
