@@ -356,8 +356,8 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "",
-            "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
+            "imgid": "shopify:\/\/collections\/canvas-art",
+            "image": "shopify:\/\/shop_images\/collage.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -387,15 +387,15 @@
             "look_btn_color_palette": "white",
             "look_position": "start",
             "show_look_label": true,
-            "look_label_text": "Traditional Photo Album",
-            "image_mobile": "shopify:\/\/shop_images\/pic_example_22.webp"
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/collage.jpg"
           }
         },
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "",
-            "image": "shopify:\/\/shop_images\/16797931_1103867229741977_8861728968112806088_o.jpg",
+            "imgid": "shopify:\/\/collections\/memorial-gifts",
+            "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -416,7 +416,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/traditional-photo-albums",
+            "link_url": "",
             "show_link": false,
             "show_look": false,
             "product_list": [
@@ -425,8 +425,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Print Your Photos",
-            "image_mobile": "shopify:\/\/shop_images\/pic_example_07.webp"
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/memorial_slatessmall.jpg"
           }
         }
       },
@@ -444,7 +444,7 @@
         "width": "boxed",
         "height": "size-m",
         "enable_custom_height": false,
-        "custom_height": 300,
+        "custom_height": 310,
         "space_between": 16,
         "image_zoom": true,
         "image_move": false,
@@ -462,7 +462,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/photo-frames",
-            "image": "shopify:\/\/shop_images\/Customa.jpg",
+            "image": "shopify:\/\/shop_images\/albumall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -483,7 +483,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/photo-frames",
+            "link_url": "shopify:\/\/pages\/6x4-traditional-photo-albums",
             "show_link": true,
             "show_look": false,
             "product_list": [
@@ -492,15 +492,15 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Selfie  Frame",
-            "image_mobile": "shopify:\/\/shop_images\/SFWanter01a2.jpg"
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/albumall.jpg"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/collections\/fujifilm-instax-camera-range",
-            "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
+            "imgid": "shopify:\/\/collections\/birthday-gifts",
+            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -521,7 +521,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/fujifilm-instax-camera-range",
+            "link_url": "",
             "show_link": true,
             "show_look": false,
             "product_list": [
@@ -530,8 +530,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Fujifilm Instax",
-            "image_mobile": "shopify:\/\/shop_images\/SFCommunion04a2.jpg"
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/birthdayasmall.jpg"
           }
         }
       },
