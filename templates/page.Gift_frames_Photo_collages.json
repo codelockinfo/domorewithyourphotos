@@ -373,6 +373,47 @@
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
+    },
+    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "our-wedding-blocked-photo-collage-on-canvas",
+          "our-wedding-bubble-framed-photo-collage",
+          "our-wedding-bubble-photo-collage-on-canvas",
+          "our-wedding-day-as-sound-unique-framed-gift-with-spotify-code",
+          "our-wedding-day-bridal-party-caricature-portrait",
+          "our-wedding-day-happy-together-collage-on-canvas",
+          "our-wedding-day-happy-together-framed-photo-collage",
+          "our-wedding-day-sentiment-frame",
+          "our-wedding-day-upperbody-caricature-portrait",
+          "our-wedding-day-with-sound-cloud-spotify-code-wedding-gift"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Wedding Frame Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View",
+        "link_url": "shopify:\/\/collections\/wedding",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -384,6 +425,7 @@
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c"
   ]
 }
