@@ -70,14 +70,6 @@
         "enable_custom_height": false
       },
       "blocks": {
-        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2": {
-          "settings": {
-            "animationtitle": "",
-            "animationdes": "",
-            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg",
-            "imglinkurl": "shopify:\/\/collections\/photo-mugs"
-          }
-        },
         "a802db71-f904-465a-b30c-f788d030fe02": {
           "settings": {
             "animationtitle": "",
@@ -85,12 +77,28 @@
             "image": "shopify:\/\/shop_images\/print2small.jpg",
             "imglinkurl": "https:\/\/580.app.fujipix.ie\/"
           }
+        },
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2": {
+          "settings": {
+            "animationtitle": "",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg",
+            "imglinkurl": "shopify:\/\/collections\/photo-mugs"
+          }
         }
       },
       "block_order": [
         "a802db71-f904-465a-b30c-f788d030fe02",
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2"
       ]
+    },
+    "356e82f9-b1ba-4f35-8cd6-93a61aec3864": {
+      "settings": {
+        "alignment": "center",
+        "compact": false
+      },
+      "blocks": {
+      }
     }
   },
   "order": [
@@ -112,7 +120,6 @@
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "6aa04d2b-17ad-493b-8130-152f94105c18",
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
     "e2b723d0-bda6-440a-ac73-1e4756308c04"
   ]
