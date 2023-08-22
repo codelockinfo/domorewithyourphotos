@@ -149,39 +149,6 @@
           "settings": {
             "product": "grandad-our-hero-framed-photo-collage"
           }
-        },
-        "3a28c4f6-a05e-4645-b61c-8761c8d779cd": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "pink-gold-birthday-banner"
-          }
-        },
-        "2e9c4225-a2cc-4d81-a368-242e00aa0deb": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "18th-birthday-pink-party-birthday-personalised-photo-banner"
-          }
-        },
-        "503afe8c-8754-4dee-a657-f97144b5c8bc": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "rose-gold-sparkle-shine-personalised-birthday-selfie-frame"
-          }
-        },
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
-          "type": "block",
-          "settings": {
-            "product": "comic-book-personalised-18th-birthday-photo-banner"
-          }
-        },
-        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
-          "type": "block",
-          "settings": {
-            "product": "rose-gold-birthday-personalised-photo-banner"
-          }
         }
       },
       "block_order": [
@@ -194,12 +161,7 @@
         "bd250022-2275-46aa-8c06-6ab59e0501a6",
         "44dbb300-471f-4be5-83bc-4781fb185079",
         "ce3405c9-0cdb-4f96-bd09-03d93813571b",
-        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7",
-        "3a28c4f6-a05e-4645-b61c-8761c8d779cd",
-        "2e9c4225-a2cc-4d81-a368-242e00aa0deb",
-        "503afe8c-8754-4dee-a657-f97144b5c8bc",
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
-        "a8a9a669-3cae-417c-ad8c-c617548cb385"
+        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7"
       ],
       "settings": {
         "title": "Personalised Banners",
