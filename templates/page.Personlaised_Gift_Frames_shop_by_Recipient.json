@@ -180,8 +180,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/Landing_page3a_0fa1627f-1590-44d7-9da5-61713f9ced3f.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A Personalised Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -241,9 +241,9 @@
         "d4e5eee4-860b-495c-80e9-5b16dc238b55"
       ],
       "settings": {
-        "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "18th-birthday-framed-photo-collage",
-        "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
+        "right_text": "Personalised Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "gold-celebration-personalised-birthday-selfie-frame",
+        "main2_product": "its-a-blue-birthday-personalised-birthday-selfie-frame"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
@@ -276,6 +276,104 @@
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
+    },
+    "956591a0-84c1-4874-aa94-5210c5c6ac62": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Personalised Gifts",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "memorial-gifts",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "Personalised Frames For Weddings",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "personalised-selfie-frames-for-weddings-and-hen-parties",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of second tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "Personalised Frames For Anniversaries",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "personalised-selfie-frames-for-anniversaries",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "c7de2230-62ba-4890-abd0-5c768ebc71a2": {
+          "type": "tab",
+          "settings": {
+            "title": "Personalised Canvas Art",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "photo-collages",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Tab content<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1",
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2",
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3",
+        "c7de2230-62ba-4890-abd0-5c768ebc71a2"
+      ],
+      "settings": {
+        "alignment": "left",
+        "compact": false,
+        "title": "Personlaised Tab",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -286,6 +384,7 @@
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "956591a0-84c1-4874-aa94-5210c5c6ac62"
   ]
 }
