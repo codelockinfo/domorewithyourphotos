@@ -361,7 +361,7 @@
         "4a464ec0-abc3-48fa-b43d-a0c59af4b37f"
       ],
       "custom_css": [
-        ".imagetext article picture img {object-fit: contain !important;}",
+        ".imagetext article picture img {object-fit: fill !important;}",
         ".module-color-palette .link-btn a.imgbtn.button-palette-:before {border: none !important;}"
       ],
       "settings": {
@@ -372,7 +372,7 @@
         "overlay_opacity": 100,
         "layout": "image-left",
         "width": "boxed",
-        "height": "l",
+        "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",

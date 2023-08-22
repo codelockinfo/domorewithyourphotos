@@ -319,6 +319,9 @@
         "1aac02b6-6669-4da9-8318-348245b71f6a",
         "e40e00a1-f1c1-46de-84f4-9f8ac1ca29af"
       ],
+      "custom_css": [
+        "a{text-decoration:none;}"
+      ],
       "settings": {
       }
     },
