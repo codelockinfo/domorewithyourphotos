@@ -378,7 +378,7 @@
       "type": "section-featured-products",
       "custom_css": [
         ".ff-primary {margin-top: 4%;}",
-        ".link-btn a:before{background:red;}"
+        ".link-btn a:before {background: #d43342;}"
       ],
       "settings": {
         "products": [
