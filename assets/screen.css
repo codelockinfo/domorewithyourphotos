@@ -6967,3 +6967,8 @@ section.photo-main-sec {
 .main_collections ul.l4vw.outline ,.main_collections ul.l4in{
     display: none;
 }
+@media only screen and (max-width: 760px){
+	.checkout_page p.link-btn.m10.cols.submit.mobile-only.form-group {
+		display: none !important;
+	}
+}
