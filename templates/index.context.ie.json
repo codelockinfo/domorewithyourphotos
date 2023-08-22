@@ -28,12 +28,14 @@
       }
     },
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e": {
           "settings": {
-            "width": "half-quarter"
+            "width": "half-quarter",
+            "text": "Gifts For Grandparents"
           }
         }
       }
