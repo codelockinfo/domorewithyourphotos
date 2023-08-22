@@ -1104,42 +1104,6 @@
         "fix_zindex": 0
       }
     },
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c": {
-      "type": "section-blog-posts",
-      "custom_css": [
-        "[data-whatin=\"mouse\"] .link-btn a:hover {color: #000 !important;}"
-      ],
-      "settings": {
-        "blog": "news",
-        "number_of_items": 3,
-        "text_alignment": "start",
-        "title": "Ideas & Advice",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "300",
-        "subtitle": "Collection of the best gift ideas and home decor tips.",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h4",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "All Blogs",
-        "link_url": "shopify:\/\/blogs\/news",
-        "button_color_palette": "black",
-        "show_link": false,
-        "show_image": true,
-        "show_date": false,
-        "show_author": true,
-        "show_excerpt": false,
-        "button_color_palette_post": "accent",
-        "show_link_post": true,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1151,107 +1115,13 @@
         "orderdes": "To give the confidence to  consumer",
         "ordertext1": "Delivery",
         "orderdes1": "3 days for delivery to customers",
-        "animatedbanner1": "shopify:\/\/shop_images\/Untitled-1_e23.png",
+        "animatedbanner1": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
         "button-text": "Print Photos Online",
         "button-link": "https:\/\/580.app.fujipix.ie\/",
         "custom_text": "<p><strong>Who Are You Buying From<\/strong><\/p><p>We are a family business printing photos, gifts and framed gifts in Killybegs, Co Donegal for nearly 20 years. <\/p><p><\/p><p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire on your wall.<\/p><p><\/p>",
         "dri": "shopify:\/\/shop_images\/print_photos_mobile_1e041242-0fbb-4617-9690-d9bf8f7cecd7.png",
         "cta_text": "Read About Us",
         "cta_url": "shopify:\/\/pages\/about-us"
-      }
-    },
-    "e2b723d0-bda6-440a-ac73-1e4756308c04": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h4",
-            "title": "The Simpsons Caricature",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "white",
-            "title_weight": "200"
-          }
-        },
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "14px",
-            "text": "<p>Surprise your family with a one of a kind hand drawn simpson family portrait.<\/p><p>Choose between framed or Canvas.<\/p><p>Get in touch if you need hlep or have any questions.<\/p>"
-          }
-        },
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-1": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-2": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-3": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "Order Here",
-            "link_url_1": "shopify:\/\/products\/the-simpsons-family-portrait",
-            "button_color_palette_1": "light",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-title-1",
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-text-1",
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-1",
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-2",
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-usp-3",
-        "template--19423284199754__e2b723d0-bda6-440a-ac73-1e4756308c04-buttons-1"
-      ],
-      "custom_css": [
-        ".m6as {margin-bottom: 0;}"
-      ],
-      "settings": {
-        "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/SFbirthday23a2.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "black",
-        "overlay_opacity": 100,
-        "layout": "image-right",
-        "width": "wide",
-        "height": "m",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": -80,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
       }
     }
   },
@@ -1269,8 +1139,6 @@
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "6aa04d2b-17ad-493b-8130-152f94105c18",
     "e5086e97-5399-4448-ace4-e3cb612cccdd",
-    "c44666b7-f00b-4316-839b-77d8cf2bf64c",
-    "b19657d9-9ba4-42d2-9aac-094f50ec3905",
-    "e2b723d0-bda6-440a-ac73-1e4756308c04"
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
