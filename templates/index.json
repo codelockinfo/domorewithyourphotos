@@ -7,7 +7,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/CPD1b.jpg",
+            "image": "shopify:\/\/shop_images\/large001.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -44,7 +44,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/b04_photos.jpg",
+            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -108,7 +108,7 @@
         "collection": "most-popular-products",
         "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
         "title_font": "primary",
         "title_size": "h2",
@@ -127,155 +127,6 @@
         "link_text": "",
         "button_color_palette": "accent",
         "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "78299fd1-6827-43db-ab49-638c52de8a86": {
-      "type": "section-featured-products",
-      "disabled": true,
-      "settings": {
-        "products": [
-          "10-little-fingers-sentiment-gift-frame",
-          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
-          "kenro-minimax-100-photos-6x4-black-photo-album",
-          "kenro-minimax-100-photos-6x4-red-photo-album",
-          "kenro-candy-series-100-photos-6x4-memo-photo-album",
-          "kenro-candy-series-100-photos-6x4-photo-album-polka-dot"
-        ],
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "dark",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "\/",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "16602912025c583cc8": {
-      "type": "section-featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "",
-        "limit": 5,
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "Featured collection",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Share information and details about this collection<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "View all",
-        "button_color_palette": "accent",
-        "show_link": true,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "1660291177d9f45101": {
-      "type": "section-collection-list",
-      "disabled": true,
-      "settings": {
-        "collections": [
-          "18th-birthday-gift-ideas",
-          "21-today",
-          "30th-birthday-framed-gifts-personalised-photo-banners",
-          "40th-birthday-framed-gifts-personalised-photo-banners",
-          "60th-birthday-framed-gifts-personalised-photo-banners",
-          "50th-birthday-framed-gifts-personalised-photo-banners"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": true,
-        "fill_images": true,
-        "layout": "slider",
-        "number_of_items": 6,
-        "text_alignment": "start",
-        "title": "Shop Trending Categories",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": true,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "grid",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "16605537948e81aa7a": {
-      "type": "section-image-with-products",
-      "disabled": true,
-      "settings": {
-        "overlay_opacity": 0,
-        "color_palette": "white",
-        "button_color_palette": "accent",
-        "layout": "image-left",
-        "products": [
-
-        ],
-        "text_position": "text-center",
-        "title": "Image banner with products",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Give customers details about the banner image(s) or content and add related products<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Button",
-        "link_url": "",
-        "show_link": false,
-        "width_mobile": "boxed",
-        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -350,7 +201,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/but_gran.jpg",
             "link_url": "shopify:\/\/collections\/grandparents-gifts",
-            "text": "",
+            "text": "Gifts For Grandparents",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -368,108 +219,6 @@
       "settings": {
         "tradinghead": "Shop Trending Categories",
         "alignment": "middle"
-      }
-    },
-    "1662644641662a3424": {
-      "type": "section-promo-gallery",
-      "blocks": {
-        "1662644641f8605a6c-0": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity_img": 0,
-            "color_palette": "white",
-            "overlay_opacity": 0,
-            "button_color_palette": "accent",
-            "show_sale_label": false,
-            "sale_label_palette": "dark",
-            "sale_label_shape": "rounded",
-            "sale_label_position": "align-top\/align-start",
-            "sale_label_subheading": "Only today",
-            "sale_label_heading": "-50%",
-            "sale_label_information": "Tell a detail about this promotion",
-            "text_position": "text-center",
-            "title": "Promo banner",
-            "title_font": "primary",
-            "title_size": "h3",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "<p>Describe a product or make an announcement<\/p>",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "\/",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end"
-          }
-        },
-        "1662644641f8605a6c-1": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity_img": 0,
-            "color_palette": "white",
-            "overlay_opacity": 0,
-            "button_color_palette": "accent",
-            "show_sale_label": false,
-            "sale_label_palette": "dark",
-            "sale_label_shape": "rounded",
-            "sale_label_position": "align-top\/align-start",
-            "sale_label_subheading": "Only today",
-            "sale_label_heading": "-50%",
-            "sale_label_information": "Tell a detail about this promotion",
-            "text_position": "text-center",
-            "title": "Promo banner",
-            "title_font": "primary",
-            "title_size": "h3",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "<p>Describe a product or make an announcement<\/p>",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "\/",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end"
-          }
-        }
-      },
-      "block_order": [
-        "1662644641f8605a6c-0",
-        "1662644641f8605a6c-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "items_width": 3,
-        "width": "boxed",
-        "space_between": 16,
-        "image_zoom": true,
-        "layout_mobile": "rows",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
       }
     },
     "166029123538307d80": {
@@ -512,19 +261,19 @@
         "166029118628eefa48-0": {
           "type": "usp",
           "settings": {
-            "usp": "<p>Tell a unique detail about your online store<\/p>"
+            "usp": "<p>3 days Delivery <\/p><p>Order  Monday , Receive Friday<\/p>"
           }
         },
         "166029118628eefa48-1": {
           "type": "usp",
           "settings": {
-            "usp": "<p>Tell a unique detail about your online store<\/p>"
+            "usp": "<p>700+ 5* Rating<\/p>"
           }
         },
         "166029118628eefa48-2": {
           "type": "usp",
           "settings": {
-            "usp": "<p>Tell a unique detail about your online store<\/p>"
+            "usp": "<p>Largest Selection of Personalsied gifts in Ireland<\/p>"
           }
         }
       },
@@ -533,7 +282,6 @@
         "166029118628eefa48-1",
         "166029118628eefa48-2"
       ],
-      "disabled": true,
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
@@ -1551,12 +1299,7 @@
   "order": [
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "d5ebf098-d235-421e-b752-e943669e183d",
-    "78299fd1-6827-43db-ab49-638c52de8a86",
-    "16602912025c583cc8",
-    "1660291177d9f45101",
-    "16605537948e81aa7a",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
-    "1662644641662a3424",
     "166029123538307d80",
     "1660291186859914cb",
     "52069349-33bd-423e-9a0f-bf86f5ef8c56",
