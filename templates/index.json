@@ -343,6 +343,18 @@
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
           }
+        },
+        "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/but_gran.jpg",
+            "link_url": "shopify:\/\/collections\/grandparents-gifts",
+            "text": "",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
@@ -350,7 +362,8 @@
         "15cf5aad-a853-46d7-a76d-c1d7e98a8122",
         "5dcf6549-c6f9-47ac-a443-0f8ca8e12b3f",
         "26db7fd2-c23a-4025-89de-48610eb0d016",
-        "a5ac15a7-0e63-4970-8e6f-74da7aa38438"
+        "a5ac15a7-0e63-4970-8e6f-74da7aa38438",
+        "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
       "settings": {
         "tradinghead": "Shop Trending Categories",
