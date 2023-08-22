@@ -83,8 +83,8 @@
     "blogs_row": {
       "type": "section-blog-posts",
       "settings": {
-        "blog": "",
-        "number_of_items": 3,
+        "blog": "news",
+        "number_of_items": 4,
         "text_alignment": "start",
         "title": "Blog posts",
         "title_font": "primary",
