@@ -5231,8 +5231,9 @@ p.text-center.size-s ,a.close{
 	padding-bottom: 10px !important;
     color: #333;
     background-color: #fff;
-    border-color: #ccc;
+    /* border-color: #ccc; */
     padding: 8px 16px 7px;
+	border: 1px solid #efefef;
 }
 .bold_option_title{
 	margin-left: 2px;
