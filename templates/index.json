@@ -132,6 +132,45 @@
         "fix_zindex": 0
       }
     },
+    "1660291186859914cb": {
+      "type": "section-usp-bar",
+      "blocks": {
+        "166029118628eefa48-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>3 days Delivery <\/p><p>Order  Monday , Receive Friday<\/p>"
+          }
+        },
+        "166029118628eefa48-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>700+ 5* Rating<\/p>"
+          }
+        },
+        "166029118628eefa48-2": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Largest Selection of Personalsied gifts in Ireland<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166029118628eefa48-0",
+        "166029118628eefa48-1",
+        "166029118628eefa48-2"
+      ],
+      "settings": {
+        "color_palette": "light",
+        "overlay_opacity": 100,
+        "layout": "rows",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "show_arrows": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f": {
       "type": "section_frame",
       "blocks": {
@@ -250,45 +289,6 @@
         "show_excerpt": false,
         "button_color_palette_post": "accent",
         "show_link_post": true,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "1660291186859914cb": {
-      "type": "section-usp-bar",
-      "blocks": {
-        "166029118628eefa48-0": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p>3 days Delivery <\/p><p>Order  Monday , Receive Friday<\/p>"
-          }
-        },
-        "166029118628eefa48-1": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p>700+ 5* Rating<\/p>"
-          }
-        },
-        "166029118628eefa48-2": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p>Largest Selection of Personalsied gifts in Ireland<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "166029118628eefa48-0",
-        "166029118628eefa48-1",
-        "166029118628eefa48-2"
-      ],
-      "settings": {
-        "color_palette": "light",
-        "overlay_opacity": 100,
-        "layout": "rows",
-        "autoplay": false,
-        "autoplay_seconds": 3,
-        "show_arrows": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -565,10 +565,10 @@
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1": {
           "type": "tab",
           "settings": {
-            "title": "2023",
+            "title": "Binoculars",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "2023",
+            "collection": "binoculars",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of first tab<\/p>",
@@ -582,10 +582,10 @@
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2": {
           "type": "tab",
           "settings": {
-            "title": "Accessories",
+            "title": "Fujifilm Instax",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "accessoies",
+            "collection": "fujifilm-instax-camera",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of second tab<\/p>",
@@ -599,10 +599,10 @@
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-3": {
           "type": "tab",
           "settings": {
-            "title": "1st year Anniversary",
+            "title": "Silver Frames",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "21-today",
+            "collection": "silver-frames",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of third tab<\/p>",
@@ -616,10 +616,10 @@
         "8328db66-31e2-4af3-8b9d-e38487e16dac": {
           "type": "tab",
           "settings": {
-            "title": "80th Birthday Framed Gifts",
+            "title": "Frames",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "80th-birthday-framed-gifts-personalised-photo-banners",
+            "collection": "just-frames",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Tab content<\/p>",
@@ -638,9 +638,9 @@
         "8328db66-31e2-4af3-8b9d-e38487e16dac"
       ],
       "settings": {
-        "alignment": "left",
+        "alignment": "center",
         "compact": false,
-        "title": "Discover Our Best-Sellers!",
+        "title": "",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -1299,9 +1299,9 @@
   "order": [
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "d5ebf098-d235-421e-b752-e943669e183d",
+    "1660291186859914cb",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
     "166029123538307d80",
-    "1660291186859914cb",
     "52069349-33bd-423e-9a0f-bf86f5ef8c56",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
