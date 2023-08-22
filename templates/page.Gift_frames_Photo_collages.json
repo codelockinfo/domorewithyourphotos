@@ -41,14 +41,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/18th_page_banner.jpg",
+            "image": "shopify:\/\/shop_images\/frame01.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "18TH PHOTO BANNERS",
-            "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas",
-            "button_text_2": "18TH FRAMED GIFTS",
-            "button_link_2": "shopify:\/\/collections\/gifts-from-you"
+            "html": "With a Photo framed Gift, Gift  Photo Banner or selfie frame. This Day is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "FRAMED GIFTS",
+            "button_link": "shopify:\/\/collections\/gifts-from-you",
+            "button_text_2": "GIFTS FOR YOU",
+            "button_link_2": "shopify:\/\/collections\/gifts-for-you-missing-pieces"
           }
         }
       },
@@ -93,7 +93,7 @@
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "all-wrapped-up-18th-personalised-photo-banner"
+            "product": "gift-wrapping"
           }
         },
         "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
@@ -206,14 +206,14 @@
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
       "settings": {
-        "title": "18th Birthday Personalised Banners",
+        "title": "Gifts Frame Personalised Banners",
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
         "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
-        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "bottom_text": "Our Most Popular Gift Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/products\/its-my-18th-party-personalised-photo-collage-banner"
+        "button_link": "shopify:\/\/collections\/gifts-from-you"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
