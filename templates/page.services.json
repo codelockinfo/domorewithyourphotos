@@ -529,7 +529,7 @@
         "5499fb67-c811-43f1-beb2-ce5b6807ad5c": {
           "type": "spacer",
           "settings": {
-            "height": 10,
+            "height": 0,
             "height_mobile": 5
           }
         },
