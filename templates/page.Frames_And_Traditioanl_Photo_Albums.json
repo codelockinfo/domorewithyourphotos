@@ -128,23 +128,32 @@
         },
         "bd250022-2275-46aa-8c06-6ab59e0501a6": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "number-photo-collage-birthday-party-personalised-banner"
+            "product": "kenro-savoy-200-photos-6x4-memo-black-photo-album"
+          }
+        },
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
+          "type": "block",
+          "settings": {
+            "product": "6x4-200-photos-adventure-series-wanderlust-photo-album-by-kenro"
+          }
+        },
+        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
+          "type": "block",
+          "settings": {
+            "product": "daybreak-sky-200-photos-6x4-memo-photo-album"
           }
         },
         "44dbb300-471f-4be5-83bc-4781fb185079": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "it-a-balloon-18th-personalised-photo-collage-banner"
+            "product": "babys-best-new-born-photo-collage"
           }
         },
         "ce3405c9-0cdb-4f96-bd09-03d93813571b": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "love-hearts-galore-13-photo-personalised-party-banner"
+            "product": "kenro-holiday-memo-200-photos-6x4-photo-album-compass-design"
           }
         },
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7": {
@@ -181,19 +190,6 @@
           "settings": {
             "product": "18th-friends-birthday-party-personalised-photo-banner"
           }
-        },
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
-          "type": "block",
-          "settings": {
-            "product": "comic-book-personalised-18th-birthday-photo-banner"
-          }
-        },
-        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "rose-gold-birthday-personalised-photo-banner"
-          }
         }
       },
       "block_order": [
@@ -204,15 +200,15 @@
         "5860f50e-fa03-4e46-a972-e373c9eded9a",
         "4eb3840e-ce2a-49a6-ba90-f163e299963c",
         "bd250022-2275-46aa-8c06-6ab59e0501a6",
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
+        "a8a9a669-3cae-417c-ad8c-c617548cb385",
         "44dbb300-471f-4be5-83bc-4781fb185079",
         "ce3405c9-0cdb-4f96-bd09-03d93813571b",
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7",
         "3a28c4f6-a05e-4645-b61c-8761c8d779cd",
         "2e9c4225-a2cc-4d81-a368-242e00aa0deb",
         "503afe8c-8754-4dee-a657-f97144b5c8bc",
-        "4531fdc6-6b39-4e09-96be-2c92981023c2",
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
-        "a8a9a669-3cae-417c-ad8c-c617548cb385"
+        "4531fdc6-6b39-4e09-96be-2c92981023c2"
       ],
       "settings": {
         "title": "Frames and Traditional Photo Album",
