@@ -39,6 +39,56 @@
           }
         }
       }
+    },
+    "d5ebf098-d235-421e-b752-e943669e183d": {
+      "disabled": false,
+      "settings": {
+        "text_alignment": "center"
+      },
+      "blocks": {
+      }
+    },
+    "499a8478-0317-4105-aaf4-1a6d4c6aec9f": {
+      "disabled": false,
+      "settings": {
+        "custom_height": 360
+      },
+      "blocks": {
+        "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1": {
+          "settings": {
+            "image": "shopify:\/\/shop_images\/W11.jpg"
+          }
+        }
+      }
+    },
+    "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb": {
+      "disabled": false,
+      "settings": {
+        "enable_custom_height": false,
+        "width": "wide",
+        "items_width": 2,
+        "height": "size-l"
+      },
+      "blocks": {
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2": {
+          "settings": {
+            "animationtitle": "",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg"
+          }
+        },
+        "a802db71-f904-465a-b30c-f788d030fe02": {
+          "settings": {
+            "animationtitle": "",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/print2small.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
+        "a802db71-f904-465a-b30c-f788d030fe02"
+      ]
     }
   },
   "order": [
