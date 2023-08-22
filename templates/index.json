@@ -1183,7 +1183,7 @@
       ],
       "custom_css": [
         "img {object-fit: fill !important;}",
-        "#root .l4ft li.size-l {--mih: unset;}",
+        ".l4ft li.size-l {--mih: unset;}",
         ".collageimg {text-align: center;}",
         "@media (max-width: 1000px) {img {object-fit: cover !important; }}",
         "@media (max-width: 760px) {.l4ft li.w100.size-m-mobile {--mih: 30vw !important; } .l4ft li[class*=\"size-\"].size-s-mobile {--mih: 30vw !important; }}"
