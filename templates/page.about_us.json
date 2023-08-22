@@ -68,7 +68,7 @@
       "custom_css": [
         ".imagetext h2.ff-primary.m20 {color: #d43342;}",
         ".imagetext article picture img {object-fit: contain !important;}",
-        "@media(max-width: 760px) {.imagetext h2.ff-primary.m20 , .ff-secondary{text-align:center;}}"
+        "@media (max-width: 760px) {.imagetext h2.ff-primary.m20, .ff-secondary {text-align: center; }}"
       ],
       "settings": {
         "imagetextid": "",
@@ -353,7 +353,8 @@
         "template--19423284134218__45d56185-372d-4b7a-a151-5d0aacdb90ce-buttons-1"
       ],
       "custom_css": [
-        ".imagetext article picture img {object-fit: contain !important;}"
+        ".imagetext article picture img {object-fit: contain !important;}",
+        "@media(max-width: 760px) {.ff-secondary{text-align:center; }}"
       ],
       "settings": {
         "imagetextid": "",
