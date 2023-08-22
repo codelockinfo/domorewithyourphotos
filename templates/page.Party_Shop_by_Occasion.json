@@ -125,8 +125,8 @@
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
+        "enable_custom_height": true,
+        "custom_height": 700,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
@@ -143,10 +143,10 @@
         "img {object-fit: fill !important;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/anniversaries.jpg",
+        "image": "shopify:\/\/shop_images\/print-photos-for-desktop-top-banner.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A Occasion Anniversary, Birthday Or Engagement",
         "bg_color": "#d43342",
-        "bg_text": "#FFFFFF"
+        "bg_text": "#ffffff"
       }
     },
     "333e83ea-e302-451b-be75-2727c1b58857": {
@@ -455,7 +455,7 @@
       ],
       "settings": {
         "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/banner_02.jpg",
+        "image": "shopify:\/\/shop_images\/W15.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
