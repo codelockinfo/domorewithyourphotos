@@ -87,6 +87,59 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "39545c5a-7919-41a7-ab15-ecc2851f7029": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Wedding Gifts",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<h2>Personalised Framed Wedding Gifts<\/h2><p>Celebrate your wedding or give as a gift,  our <strong>personalised<\/strong> unique framed gifts, the best way to celebrate the big day is with photos so they will be cherished forever . All our <strong>wedding<\/strong> <strong>gifts<\/strong> are made to order and one of a kind  so we can personalise them to your exact requirements. <\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "Wedding Gifts",
+            "link_url": "shopify:\/\/collections\/wedding-gifts",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-title-1",
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-content-1",
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "bde49da4-efb9-4699-b4d8-5b292895eb4d": {
       "type": "birthdat_feature",
       "blocks": {
@@ -222,8 +275,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/Landing_page4asm.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A  Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -282,6 +335,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62",
         "d4e5eee4-860b-495c-80e9-5b16dc238b55"
       ],
+      "disabled": true,
       "settings": {
         "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "18th-birthday-framed-photo-collage",
@@ -315,6 +369,7 @@
         "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
         "632e8632-de80-4172-9d50-daf57345553b"
       ],
+      "disabled": true,
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
@@ -325,6 +380,7 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "39545c5a-7919-41a7-ab15-ecc2851f7029",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
