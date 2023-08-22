@@ -6,7 +6,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "",
+            "imgid": "shopify:\/\/pages\/personalised-party-banners",
             "image": "shopify:\/\/shop_images\/large001.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -28,7 +28,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/products\/18th-birthday-framed-photo-collage",
+            "link_url": "",
             "show_link": false,
             "show_look": false,
             "product_list": [
@@ -37,7 +37,7 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Personalised Party Banners"
+            "look_label_text": ""
           }
         },
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
