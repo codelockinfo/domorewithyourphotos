@@ -19,7 +19,8 @@
         "2e80a36d-6430-46c3-9e9d-1dee82e7df53"
       ],
       "custom_css": [
-        "ul.l4pm.text-center.form-group {display: none;}"
+        "ul.l4pm.text-center.form-group {display: none;}",
+        ".shopify-cleanslate .vKjZTx5He86dhWbWaFxE {background: #d13540 !important; border-color: #d13540 !important; color: #fff !important;}"
       ],
       "settings": {
         "title_size": "h2",
