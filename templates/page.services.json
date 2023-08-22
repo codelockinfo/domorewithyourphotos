@@ -528,6 +528,7 @@
         },
         "813e14ee-86e0-43dc-b767-f377fca5e6a1": {
           "type": "usp",
+          "disabled": true,
           "settings": {
             "font": "primary",
             "usp": "Fujifilm Instax mini 11 NOW in Stock",
@@ -536,7 +537,6 @@
         },
         "258dd2e8-a750-4bac-800f-3a989f5918a4": {
           "type": "title",
-          "disabled": true,
           "settings": {
             "title_font": "primary",
             "title_size": "h4",
