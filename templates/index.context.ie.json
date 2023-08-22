@@ -4,5 +4,28 @@
     "market": "ie"
   },
   "sections": {
+    "747e66cf-c2ec-4068-a3c1-19c06148cdec": {
+      "disabled": false,
+      "settings": {
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 590,
+        "spacing_desktop": -30
+      },
+      "blocks": {
+        "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1": {
+          "settings": {
+            "image": "shopify:\/\/shop_images\/large001.jpg",
+            "link_url": "shopify:\/\/pages\/personalised-party-banners"
+          }
+        },
+        "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary-gifts"
+          }
+        }
+      }
+    }
   }
 }
