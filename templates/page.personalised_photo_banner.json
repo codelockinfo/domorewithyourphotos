@@ -144,6 +144,9 @@
     },
     "71bfa90e-8da3-4950-a0b6-0acfeb8aebda": {
       "type": "section-collection-button-list",
+      "custom_css": [
+        ".link-btn a:before{background:#b41717 !important;}"
+      ],
       "settings": {
         "collections": [
           "personalised-selfie-frames-for-weddings-and-hen-parties",
