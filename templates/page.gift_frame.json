@@ -91,7 +91,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "link_text": "View all",
+        "link_text": "",
         "link_url": "shopify:\/\/collections",
         "button_color_palette": "accent",
         "show_link": false,
