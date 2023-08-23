@@ -37,18 +37,10 @@
     },
     "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
       "type": "section-collection-list",
+      "disabled": true,
       "settings": {
         "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
+
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
@@ -88,8 +80,21 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "link_url": "",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Mobile_Selfie_Picture.jpg",
+            "link_url": "shopify:\/\/collections\/personalised-selfie-frames-for-communion-and-confirmations",
+            "text": "Personalised Selfie Frames for Communion And Confirmations",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "d41492ec-8d82-495d-b466-5edf0bc30e57": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/but_freinds.png",
+            "link_url": "shopify:\/\/collections\/birthday-gifts",
+            "text": "Birthday Gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -97,9 +102,9 @@
         }
       },
       "block_order": [
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
+        "d41492ec-8d82-495d-b466-5edf0bc30e57"
       ],
-      "disabled": true,
       "settings": {
         "tradinghead": "",
         "alignment": "middle"
