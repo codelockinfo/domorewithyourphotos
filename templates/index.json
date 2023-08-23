@@ -43,7 +43,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "",
+            "imgid": "shopify:\/\/pages\/anniversaryday",
             "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -65,7 +65,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/family",
+            "link_url": "shopify:\/\/pages\/anniversaryday",
             "show_link": true,
             "show_look": false,
             "product_list": [
