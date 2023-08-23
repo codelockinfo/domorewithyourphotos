@@ -105,7 +105,7 @@
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "its-my-halloween-party-banner"
+            "product": "all-wrapped-up-personalised-photo-banner"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
@@ -129,19 +129,19 @@
         "bd250022-2275-46aa-8c06-6ab59e0501a6": {
           "type": "block",
           "settings": {
-            "product": "number-photo-collage-birthday-party-personalised-banner"
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
           }
         },
         "44dbb300-471f-4be5-83bc-4781fb185079": {
           "type": "block",
           "settings": {
-            "product": "it-a-balloon-18th-personalised-photo-collage-banner"
+            "product": "animal-aphdido-personalised-alphabet-latte-mugs"
           }
         },
         "ce3405c9-0cdb-4f96-bd09-03d93813571b": {
           "type": "block",
           "settings": {
-            "product": "love-hearts-galore-13-photo-personalised-party-banner"
+            "product": "a-good-friend-personalised-photo-mug"
           }
         },
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7": {
@@ -153,37 +153,7 @@
         "3a28c4f6-a05e-4645-b61c-8761c8d779cd": {
           "type": "block",
           "settings": {
-            "product": "pink-gold-birthday-banner"
-          }
-        },
-        "2e9c4225-a2cc-4d81-a368-242e00aa0deb": {
-          "type": "block",
-          "settings": {
-            "product": "18th-birthday-pink-party-birthday-personalised-photo-banner"
-          }
-        },
-        "503afe8c-8754-4dee-a657-f97144b5c8bc": {
-          "type": "block",
-          "settings": {
-            "product": "rose-gold-sparkle-shine-personalised-birthday-selfie-frame"
-          }
-        },
-        "4531fdc6-6b39-4e09-96be-2c92981023c2": {
-          "type": "block",
-          "settings": {
-            "product": "18th-friends-birthday-party-personalised-photo-banner"
-          }
-        },
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
-          "type": "block",
-          "settings": {
-            "product": "comic-book-personalised-18th-birthday-photo-banner"
-          }
-        },
-        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
-          "type": "block",
-          "settings": {
-            "product": "rose-gold-birthday-personalised-photo-banner"
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
           }
         }
       },
@@ -198,12 +168,7 @@
         "44dbb300-471f-4be5-83bc-4781fb185079",
         "ce3405c9-0cdb-4f96-bd09-03d93813571b",
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7",
-        "3a28c4f6-a05e-4645-b61c-8761c8d779cd",
-        "2e9c4225-a2cc-4d81-a368-242e00aa0deb",
-        "503afe8c-8754-4dee-a657-f97144b5c8bc",
-        "4531fdc6-6b39-4e09-96be-2c92981023c2",
-        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
-        "a8a9a669-3cae-417c-ad8c-c617548cb385"
+        "3a28c4f6-a05e-4645-b61c-8761c8d779cd"
       ],
       "settings": {
         "title": "Personalised Gifts Frames",
@@ -213,14 +178,14 @@
         "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
         "bottom_text": "Our Most Popular Birthday Banner from €29",
         "button_text": "Order HERE",
-        "button_link": ""
+        "button_link": "shopify:\/\/collections\/slate-memorial"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/Landing_page1a_f578900a-c886-4063-94a2-17ba2b5e86d0.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A Personalised Gift Frames Shop by Occasion",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -279,6 +244,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62",
         "d4e5eee4-860b-495c-80e9-5b16dc238b55"
       ],
+      "disabled": true,
       "settings": {
         "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "18th-birthday-framed-photo-collage",
@@ -313,7 +279,7 @@
         "632e8632-de80-4172-9d50-daf57345553b"
       ],
       "settings": {
-        "title": "Cant find what you are looking for?    Order a custom collage or banner here"
+        "title": "Cant find what you are looking for?    Order a custom Personalised Gift Frames Shop by Occasion here"
       }
     }
   },
