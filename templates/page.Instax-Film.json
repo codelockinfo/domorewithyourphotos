@@ -39,16 +39,7 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
+          "fujifilm-instax-film-range"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
