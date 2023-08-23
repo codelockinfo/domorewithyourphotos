@@ -55,7 +55,7 @@
     "body_font_size_mobile": "14px",
     "custom_product_image_ratio": 50,
     "fill_product_images": false,
-    "multiply_product_images": "multiply-bg",
+    "multiply_product_images": "none",
     "multiply_collection_images": "multiply-bg",
     "banners_clickable": true,
     "button_style": "plain",
