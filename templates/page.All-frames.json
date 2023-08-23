@@ -35,42 +35,25 @@
         "spacing_mobile": 30
       }
     },
-    "24484120-8f30-44c5-856d-5bfeb6a1be82": {
-      "type": "allanniversary",
-      "blocks": {
-        "template--19516658680138__24484120-8f30-44c5-856d-5bfeb6a1be82-image-1": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "link_url": "shopify:\/\/collections\/gifts-from-you",
-            "text": "Framed Gifts",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--19516658680138__24484120-8f30-44c5-856d-5bfeb6a1be82-image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "tradinghead": "",
-        "alignment": "middle"
-      }
-    },
-    "730a386f-a977-4d8f-a21d-ef9fae9bc508": {
+    "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "anniversary",
-          "birthdays",
-          "engagement",
-          "gifts-from-you",
-          "just-frames",
           "new-baby-collection",
+          "missing-pieces-jigsaw-frames",
+          "just-frames",
+          "memorial",
+          "personalised-selfie-frames-for-anniversaries",
+          "personalised-selfie-frame-collection",
+          "personalised-selfie-frames-for-childrens-birthdays",
+          "personalised-selfie-frames-for-christenings-naming-days",
+          "personalised-selfie-frames-for-communion-and-confirmations",
           "pets",
+          "photo-frames",
+          "sentiment-frames",
           "school",
+          "school-photo-collage",
+          "silver-frames",
           "wedding"
         ],
         "custom_image_ratio": 100,
@@ -103,12 +86,36 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "link_url": "",
+            "text": "",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "tradinghead": "",
+        "alignment": "middle"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "24484120-8f30-44c5-856d-5bfeb6a1be82",
-    "730a386f-a977-4d8f-a21d-ef9fae9bc508"
+    "811854c5-382a-40c4-a5cf-2ab5e51a5856",
+    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
   ]
 }

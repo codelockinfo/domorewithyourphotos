@@ -6,7 +6,7 @@
         <div class="col9">
             <div class="flexible-layout valign-{{ section.settings.alignment }}">
               {% for block in section.blocks %}
-  
+   
                   {% if block.type == 'image' %}
                     {% assign text_scale_mult = '1' %}
                     {% if block.settings.width == 'half-quarter' %}{% assign text_scale_mult = '5' %}
