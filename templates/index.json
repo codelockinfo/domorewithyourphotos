@@ -204,7 +204,7 @@
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e": {
           "type": "image",
           "settings": {
-            "width": "half",
+            "width": "quarter",
             "image": "shopify:\/\/shop_images\/but_gran.jpg",
             "link_url": "shopify:\/\/collections\/grandparents-gifts",
             "text": "Gifts For New Baby",
