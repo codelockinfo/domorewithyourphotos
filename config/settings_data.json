@@ -91,7 +91,7 @@
     "show_product_stock_always": false,
     "product_short_description": "product_description",
     "product_short_description_text": "",
-    "layout_productcard": "add_to_cart",
+    "layout_productcard": "standard",
     "quickshop_behavior": "static",
     "cart_icon_no_text": true,
     "image_behaviour": "slider",
