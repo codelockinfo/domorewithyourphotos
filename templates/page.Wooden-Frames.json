@@ -39,16 +39,7 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
+          "gifts-for-you"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
@@ -88,8 +79,9 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "link_url": "",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/photoslatee.jpg",
+            "link_url": "shopify:\/\/collections\/gifts-for-you",
+            "text": "Photo Collages",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
