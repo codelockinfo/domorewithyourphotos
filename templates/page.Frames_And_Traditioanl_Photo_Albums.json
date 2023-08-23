@@ -41,7 +41,7 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/but_wed.png",
+            "image": "shopify:\/\/shop_images\/wedding_photo_booth_frame.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Traditional Photo",
             "html": "With a Traditional  framed Gift, Traditional Photo Banner or selfie frame. This Traditional Photo is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
@@ -187,8 +187,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_page_runner.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 18th Birthday Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/kenro_albums.png",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A Frames and Traditional  Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -260,19 +260,19 @@
         "577caf9f-4efa-4ad0-8856-beb430de1397": {
           "type": "block",
           "settings": {
-            "product": "custom-personalised-banner-with-13-photos"
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
           }
         },
         "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
           "type": "block",
           "settings": {
-            "product": "custom-framed-collage-from-your-photos"
+            "product": "traditional-wedding-photo-album-pearl-series"
           }
         },
         "632e8632-de80-4172-9d50-daf57345553b": {
           "type": "block",
           "settings": {
-            "product": "custom-canvas-collage-from-your-photo"
+            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
           }
         }
       },
@@ -282,7 +282,7 @@
         "632e8632-de80-4172-9d50-daf57345553b"
       ],
       "settings": {
-        "title": "Cant find what you are looking for?    Order a custom collage or banner here"
+        "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
       }
     }
   },
