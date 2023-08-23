@@ -51,7 +51,7 @@
         "show_amount_of_products_in_collection": true,
         "products_per_row": 3,
         "secondary_products_per_row": 4,
-        "fill_images": true,
+        "fill_images": false,
         "enable_image_choice": true,
         "image_choice_1": "Model",
         "image_choice_2": "Product",
