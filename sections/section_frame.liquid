@@ -1,77 +1,77 @@
 <div class="container new-frames fully-spaced-row cf section-id-{{ section.id }}" data-section-type="custom-row">
     <div class="categories-heading">
-  <h3 class="style2" style=" width:100%;">{{section.settings.tradinghead}}</h3>
+      <h3 class="style2" style=" width:100%;">{{section.settings.tradinghead}}</h3>
     </div>
     <div class="col9-3 home-frm-sec">
-      <div class="col9">
-             <div class="flexible-layout valign-{{ section.settings.alignment }}">
+        <div class="col9">
+            <div class="flexible-layout valign-{{ section.settings.alignment }}">
               {% for block in section.blocks %}
   
-              {% if block.type == 'image' %}
-              {% assign text_scale_mult = '1' %}
-              {% if block.settings.width == 'half-quarter' %}{% assign text_scale_mult = '5' %}
-              {% elsif block.settings.width == 'quarter' %}{% assign text_scale_mult = '4' %}
-              {% elsif block.settings.width == 'third' %}{% assign text_scale_mult = '3' %}
-              {% elsif block.settings.width == 'half' %}{% assign text_scale_mult = '2' %}
-              {% elsif block.settings.width == 'two-thirds' %}{% assign text_scale_mult = '1.5' %}
-              {% elsif block.settings.width == 'three-quarters' %}{% assign text_scale_mult = '1.333' %}
-              {% endif %}   
-  
-  
-              <div class="column-{{ block.settings.width }} block-id-{{ block.id }}" {{ block.shopify_attributes }}>
-                    <div class="image-block slide">
-                  {% if block.settings.link_url != blank %}<a href="{{ block.settings.link_url }}">{% endif %}
-                  {% if block.settings.image == blank %}
-                  <div class="placeholder-image {% if block.settings.text != blank %}dark{% endif %}">{{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+                  {% if block.type == 'image' %}
+                    {% assign text_scale_mult = '1' %}
+                    {% if block.settings.width == 'half-quarter' %}{% assign text_scale_mult = '5' %}
+                      {% elsif block.settings.width == 'quarter' %}{% assign text_scale_mult = '4' %}
+                      {% elsif block.settings.width == 'third' %}{% assign text_scale_mult = '3' %}
+                      {% elsif block.settings.width == 'half' %}{% assign text_scale_mult = '2' %}
+                      {% elsif block.settings.width == 'two-thirds' %}{% assign text_scale_mult = '1.5' %}
+                      {% elsif block.settings.width == 'three-quarters' %}{% assign text_scale_mult = '1.333' %}
+                    {% endif %}   
+                    <div class="column-{{ block.settings.width }} block-id-{{ block.id }}" {{ block.shopify_attributes }}>
+                      <div class="image-block slide">
+                        {% if block.settings.link_url != blank %}<a href="{{ block.settings.link_url }}">{% endif %}
+                        {% if block.settings.image == blank %}
+                            <div class="placeholder-image {% if block.settings.text != blank %}dark{% endif %}">{{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+                        {% else %}
+                          {% include 'responsive-image', image: block.settings.image %}
+                        {% endif %}
+    
+                        {% if block.settings.text != blank %}
+                        <div class="overlay-text overlay-centre">
+                          <div class="inner">
+                            <div class="text">
+                              <div class="snap-text">
+                                <h5>{{ block.settings.text | escape }}</h5>
+                                {% if block.settings.subtext != blank %}<div class="second-line">{{ block.settings.subtext | escape }}</div>{% endif %}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        {% endif %}
+        
+                        {% if block.settings.link_url != blank %}</a>{% endif %}
+                      </div>
+                    </div>
                   {% else %}
-                    {% include 'responsive-image', image: block.settings.image %}
-                  {% endif %}
-  
-                  {% if block.settings.text != blank %}
-                  <div class="overlay-text overlay-centre">
-                    <div class="inner">
-                      <div class="text">
-                        <div class="snap-text">
-                          <h5>{{ block.settings.text | escape }}</h5>
-                          {% if block.settings.subtext != blank %}<div class="second-line">{{ block.settings.subtext | escape }}</div>{% endif %}
+          <!-- </div>
+      </div> -->
+                    <div class="col3">
+                      <div class="red-box">
+                        <div class="column-{{ block.settings.width }}" {{ block.shopify_attributes }}>
+                            {% if block.type == 'text' %}
+                                {% if block.settings.title != blank %}
+                                <h1 class="majortitle in-content">{{ block.settings.title | escape }}</h1>
+                                {% endif %}
+                                <div class="user-content">{{ block.settings.text }}</div>
+                
+                            {% elsif block.type == 'video' %}
+                              <div class="video-container" data-video-id="{{ block.settings.video_url.id }}" data-video-type="{{ block.settings.video_url.type }}">
+                              </div>
+                
+                            {% elsif block.type == 'html' %}
+                              <div class="custom-html">
+                                {{ block.settings.code }}
+                              </div>
+                
+                            {% endif %}
                         </div>
                       </div>
                     </div>
-                  </div>
                   {% endif %}
-  
-                  {% if block.settings.link_url != blank %}</a>{% endif %}
-                </div>
-              </div>
-              {% else %}
-          </div>
-      </div>
-      <div class="col3">
-        <div class="red-box">
-          <div class="column-{{ block.settings.width }}" {{ block.shopify_attributes }}>
-              {% if block.type == 'text' %}
-              {% if block.settings.title != blank %}
-              <h1 class="majortitle in-content">{{ block.settings.title | escape }}</h1>
-              {% endif %}
-              <div class="user-content">{{ block.settings.text }}</div>
-  
-              {% elsif block.type == 'video' %}
-              <div class="video-container" data-video-id="{{ block.settings.video_url.id }}" data-video-type="{{ block.settings.video_url.type }}">
-              </div>
-  
-              {% elsif block.type == 'html' %}
-              <div class="custom-html">
-                {{ block.settings.code }}
-              </div>
-  
-              {% endif %}
-          </div></div>
-      </div>
-      {% endif %}
-      {% endfor %}
+              {% endfor %}
+            </div>
+        </div>
     </div>
-  
-  </div>   
+</div>   
   
   
   <style type="text/css">
