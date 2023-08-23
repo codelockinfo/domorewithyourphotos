@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "hide_mobile": false
       }
@@ -25,6 +26,7 @@
         "title",
         "content"
       ],
+      "disabled": true,
       "settings": {
         "max_width": 980,
         "content_alignment": "start",
@@ -110,12 +112,128 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "1bca002e-376a-41f0-b5f2-88db42e4e1fb": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19516274901322__1bca002e-376a-41f0-b5f2-88db42e4e1fb-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_be642fb9-b232-467c-8236-2fcc9ad37e5e.jpg",
+            "link_url": "shopify:\/\/collections\/1st-year-anniversary",
+            "text": "1st year Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/10_anniversary_thumbnail_62fed5e6-6e60-4275-b1d0-37d685a68a26.jpg",
+            "link_url": "shopify:\/\/collections\/10th-year-wedding-anniversary",
+            "text": "10th Year Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "b3e2f3ed-747c-4e75-a407-780dec332126": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/20_anniversary_thumbnail_7d2a966e-8b3b-4080-9e6b-7651b40d0ff1.jpg",
+            "link_url": "shopify:\/\/collections\/20th-year-wedding-anniversary",
+            "text": "20th Year Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "b760ab6e-25dd-42f6-943c-de10acd9c364": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_3e6c352c-a754-440d-b714-6580d094ca2b.jpg",
+            "link_url": "shopify:\/\/collections\/25th-year-silver-wedding-anniversary",
+            "text": "25th Year Silver Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "e765d452-3a69-4fdf-ba94-b2562aafe416": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_3e6c352c-a754-440d-b714-6580d094ca2b.jpg",
+            "link_url": "shopify:\/\/collections\/30th-year-pearl-wedding-anniversary",
+            "text": "30th Year Pearl Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "4b8ce5b2-2ce7-4644-88ab-8f618c8377cf": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/50th_anniversary_thumbnail_a401ba35-3c13-4b8e-9049-962cce6a79f0.jpg",
+            "link_url": "shopify:\/\/collections\/40th-year-ruby-wedding-anniversary",
+            "text": "40th Year ruby Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "6cb8d905-593a-4eca-9808-954f98c3dd13": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/50th_anniversary_thumbnail_a401ba35-3c13-4b8e-9049-962cce6a79f0.jpg",
+            "link_url": "shopify:\/\/collections\/50th-year-gold-wedding-anniversary",
+            "text": "50th Year Gold Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/60th_anniversary_thumbnail_6c92fcf0-b5de-4b52-b6e2-b64c15285d14.jpg",
+            "link_url": "shopify:\/\/collections\/60th-year-diamond-wedding-anniversary",
+            "text": "60th Year Diamond Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19516274901322__1bca002e-376a-41f0-b5f2-88db42e4e1fb-image-1",
+        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea",
+        "b3e2f3ed-747c-4e75-a407-780dec332126",
+        "b760ab6e-25dd-42f6-943c-de10acd9c364",
+        "e765d452-3a69-4fdf-ba94-b2562aafe416",
+        "4b8ce5b2-2ce7-4644-88ab-8f618c8377cf",
+        "6cb8d905-593a-4eca-9808-954f98c3dd13",
+        "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7"
+      ],
+      "settings": {
+        "tradinghead": "",
+        "alignment": "middle"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "9e2599ec-1b8e-484b-add3-3ea418be02db",
-    "62e73c70-a9b9-45b9-8258-d1ea19c59e3a"
+    "62e73c70-a9b9-45b9-8258-d1ea19c59e3a",
+    "1bca002e-376a-41f0-b5f2-88db42e4e1fb"
   ]
 }

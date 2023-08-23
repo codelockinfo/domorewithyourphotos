@@ -1,0 +1,172 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "142b3359-83d6-452c-a9c7-78788c137197": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19516490940746__142b3359-83d6-452c-a9c7-78788c137197-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/18th_page_banner_75fd498f-3697-4ae7-8e8d-12b9e3d6dc44.jpg",
+            "link_url": "shopify:\/\/collections\/18th-birthday-gift-ideas",
+            "text": "18th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "a8b88f90-798a-4aba-aa2d-9f196ea1a990": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/21st_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/21-today",
+            "text": "21st Birthday Gift Ideas",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "bfe486c3-cb59-46fb-9d54-e518b63f9044": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/30th_page_banneD.jpg",
+            "link_url": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "30th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "e78c10b6-e392-4823-9f53-e54fe860d6e7": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/40th_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "40th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "6749cca5-061e-4bd9-a498-1b00daeb623c": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/50th_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "50th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "4b436b9a-41ff-4746-9af0-4592e1cf5c60": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/60_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "60th Birthday Framed Gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "78bcdb7f-483c-4f42-b386-2118a3121149": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/70_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "70th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "8e5ca56e-23fd-4c68-ae85-f7e6e1a77403": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/80_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "80th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "1e23d2c9-e0ef-47e7-a3d2-f78d44041136": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/90_page_bannerD.jpg",
+            "link_url": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners",
+            "text": "90th Birthday Framed gifts & Personalised Photo Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19516490940746__142b3359-83d6-452c-a9c7-78788c137197-image-1",
+        "a8b88f90-798a-4aba-aa2d-9f196ea1a990",
+        "bfe486c3-cb59-46fb-9d54-e518b63f9044",
+        "e78c10b6-e392-4823-9f53-e54fe860d6e7",
+        "6749cca5-061e-4bd9-a498-1b00daeb623c",
+        "4b436b9a-41ff-4746-9af0-4592e1cf5c60",
+        "78bcdb7f-483c-4f42-b386-2118a3121149",
+        "8e5ca56e-23fd-4c68-ae85-f7e6e1a77403",
+        "1e23d2c9-e0ef-47e7-a3d2-f78d44041136"
+      ],
+      "settings": {
+        "tradinghead": "Birthday",
+        "alignment": "middle"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-page",
+    "142b3359-83d6-452c-a9c7-78788c137197"
+  ]
+}
