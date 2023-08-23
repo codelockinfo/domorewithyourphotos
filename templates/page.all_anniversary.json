@@ -32,10 +32,48 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30
       }
+    },
+    "9e2599ec-1b8e-484b-add3-3ea418be02db": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": true,
+        "fill_images": false,
+        "layout": "slider",
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title": "Collection list",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "View all",
+        "link_url": "shopify:\/\/pages\/1st-anniversary",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
-    "main-page"
+    "main-page",
+    "9e2599ec-1b8e-484b-add3-3ea418be02db"
   ]
 }
