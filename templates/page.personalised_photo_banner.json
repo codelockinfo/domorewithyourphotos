@@ -75,11 +75,10 @@
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-content-1",
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-button-1"
       ],
-      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
-        "text_position": "text-start",
+        "text_position": "text-center",
         "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
