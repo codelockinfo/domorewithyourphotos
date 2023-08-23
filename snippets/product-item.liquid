@@ -534,7 +534,11 @@
   {%- endif -%}
   {% if layout == 'list-compact' %}<section>{% else %}<div>{% endif %}
     {%- if show_title or show_vendor -%}
-      <h3{% unless show_vendor %} class="p0"{% endunless %}>
+    <button type="submit" class="overlay-tertiary" aria-label="Buy Now" style="width:100%">
+        <a href="{{ product.url }}"><span>Buy Now</span></a>
+    </button> 
+   
+      <h3{% unless show_vendor %} class=" p0"{% endunless %}>
         {%- if show_vendor and vendor != "vendor-unknown" and vendor != shop.name -%}
           <span class="small">
               {{ vendor }}
@@ -549,6 +553,7 @@
                 {{ current_variant.title }}
             </span>
           {%- endif -%}
+          
         {%- endif -%}
       </h3>
     {%- endif -%}
@@ -595,6 +600,7 @@
           <span class="small">{{ 'product.unit_price_label' | t }}{{ current_variant.unit_price | money }}&nbsp;{{ 'product.unit_price_separator' | t }} {{ unit_price_base_unit }}</span>
         {%- endif -%}
       </p>
+      
     {%- endif -%}
     {% if layout == 'list-compact' %}<section>{% else %}<div class="static">{% endif %}
     {%- if color_picker and static_color_picker -%}

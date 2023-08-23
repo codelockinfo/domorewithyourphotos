@@ -62,7 +62,7 @@
                                     <a href="{{ sub.url }}" class="toggle">{{ 'header.navigation.toggle_submenu' | t: item: sub.title }}</a>
                                     <ul>
                                     {%- for subsub in sub.links -%}
-                                        <li>
+                                        <li >
                                             <a href="{{ subsub.url }}">
                                                 {%- if subsub.object[image] and show_dropdown_images -%}
                                                     <img
@@ -318,7 +318,7 @@
                     {%- for sub in link.links -%}
                     {% if split or forloop.first %}
                     {% assign split = false %}
-                    <li class="ff-{{ menu_subs_font }}">
+                    <li class="bb ff-{{ menu_subs_font }}">
                         <ul>
                             {% endif %}
                             <li>
@@ -329,7 +329,9 @@
                                         assign split = true
                                     endif
                                 -%}
-                                <a href="{{ sub.url }}">
+                                
+
+                                <a class ="aaa {{sub.title}}" href="{{ sub.url }}" {% if sub.url contains '580.app.fujipix.ie' %} target="_blank" {% endif %}>
                                     {%- if sub.object[image] and show_dropdown_images -%}
                                         <img
                                                 class="{% if settings.multiply_collection_images == 'multiply' %}img-multiply{% elsif settings.multiply_collection_images == 'multiply-bg' %}img-multiply-bg{% endif %}"
