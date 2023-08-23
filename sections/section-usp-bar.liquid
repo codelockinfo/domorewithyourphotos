@@ -17,7 +17,7 @@
 </ul>
 
 <style>
-  #shopify-section-{{ section.id }} .module-color-palette:before { opacity: {{ section.settings.overlay_opacity | divided_by: 100.0 }}; }
+  /* #shopify-section-{{ section.id }} .module-color-palette:before { opacity: {{ section.settings.overlay_opacity | divided_by: 100.0 }}; }
   #shopify-section-{{ section.id }} { z-index: {{ section.settings.fix_zindex }}!important; }
   @media only screen and (min-width: 47.5em) {
     #shopify-section-{{ section.id }} .l4us { margin-bottom: {{ section.settings.spacing_desktop }}px; }
@@ -30,12 +30,13 @@
     {% if section.settings.spacing_mobile < 0 %}
       #shopify-section-{{ section.id }} + *.has-kinetic-text { pointer-events: none; }
     {% endif %}
-  }
+  } */
 </style>
 
 {% schema %}
 {
   "name": "t:sections.usp_bar.name",
+  "class":"information",
   "disabled_on": {
     "groups": [
       "header"
