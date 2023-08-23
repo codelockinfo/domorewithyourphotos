@@ -127,7 +127,8 @@
         "166029118628eefa48-2"
       ],
       "custom_css": [
-        ".l4us li:before{color: #b41717 !important;}"
+        ".l4us li:before {color: #b41717 !important;}",
+        "@media only screen and (max-width: 760px) {.l4us-mobile {display: none !important; } .mobile-hide {display: block !important; position: unset !important; display: flex !important; overflow: scroll; flex-wrap: wrap; align-items: center; margin: 0; }}"
       ],
       "settings": {
         "color_palette": "light",
