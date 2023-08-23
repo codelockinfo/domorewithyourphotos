@@ -75,6 +75,7 @@
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-content-1",
         "template--19474218615114__108ad8f7-df30-4fbd-804a-899a9f833677-button-1"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -130,6 +131,15 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
+      }
+    },
+    "d807ee63-09fe-48a1-afbd-b16559aa5576": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h1>Personalised Selfie Frames For Any Occasion<\/h1><p>Capture Picture Perfection with our personalised Selfie Frames that are sure to make your next event or party stand out. A selfie frame leaves a lasting impact on potential customers or guests.\n<\/p><p><\/p>\nWhether it's for a Birthday, Baby Shower or a Wedding, a Customised Selfie Frame will make memories that last a lifetime, and is great at going viral on social media.<p><\/p><p> - Need a custom or branded selfie frame for an event or company, no problem get in touch and we can design one at no extra charge\nAll frames designs can be changed to suit any age or colour theme<\/p><p><\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
       }
     },
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46": {
@@ -332,7 +342,7 @@
       ],
       "settings": {
         "title": "",
-        "textarea1": "<h1>Personalised Selfie Frames For Any Occasion<\/h1><p>Capture Picture Perfection with our personalised Selfie Frames that are sure to make your next event or party stand out. A selfie frame leaves a lasting impact on potential customers or guests.\n<\/p><p><\/p>\nWhether it's for a Birthday, Baby Shower or a Wedding, a Customised Selfie Frame will make memories that last a lifetime, and is great at going viral on social media.<p><\/p><p> - Need a custom or branded selfie frame for an event or company, no problem get in touch and we can design one at no extra charge\nAll frames designs can be changed to suit any age or colour theme<\/p><p><\/p>",
+        "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
         "alignment": "center center",
@@ -626,6 +636,7 @@
     "main-page",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
+    "d807ee63-09fe-48a1-afbd-b16559aa5576",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
