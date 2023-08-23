@@ -128,6 +128,18 @@
             "overlay_bg": "rgba(0,0,0,0)"
           }
         },
+        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/10_anniversary_thumbnail_62fed5e6-6e60-4275-b1d0-37d685a68a26.jpg",
+            "link_url": "shopify:\/\/collections\/10th-year-wedding-anniversary",
+            "text": "10th Year Wedding Anniversary",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
         "b3e2f3ed-747c-4e75-a407-780dec332126": {
           "type": "image",
           "settings": {
@@ -203,6 +215,7 @@
       },
       "block_order": [
         "template--19516274901322__1bca002e-376a-41f0-b5f2-88db42e4e1fb-image-1",
+        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea",
         "b3e2f3ed-747c-4e75-a407-780dec332126",
         "b760ab6e-25dd-42f6-943c-de10acd9c364",
         "e765d452-3a69-4fdf-ba94-b2562aafe416",
