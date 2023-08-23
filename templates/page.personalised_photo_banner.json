@@ -142,6 +142,47 @@
         "background_color": "#f9f9f9"
       }
     },
+    "71bfa90e-8da3-4950-a0b6-0acfeb8aebda": {
+      "type": "section-collection-button-list",
+      "settings": {
+        "collections": [
+          "personalised-selfie-frames-for-weddings-and-hen-parties",
+          "personalised-selfie-frames-for-schools-and-graduations",
+          "personalised-selfie-frames-for-communion-and-confirmations",
+          "personalised-selfie-frames-for-christenings-naming-days",
+          "personalised-selfie-frames-for-childrens-birthdays",
+          "personalised-selfie-frames-for-birthdays",
+          "personalised-selfie-frame-collection",
+          "personalised-selfie-frames-for-anniversaries"
+        ],
+        "buttons_color_palette": "black",
+        "button_styling": "fill",
+        "text_alignment": "center",
+        "title": "<strong>Choose a Selfie Frame Theme<\/strong>",
+        "title_font": "primary",
+        "title_size": "h3",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46": {
       "type": "personlized_banner",
       "blocks": {
@@ -629,47 +670,6 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "71bfa90e-8da3-4950-a0b6-0acfeb8aebda": {
-      "type": "section-collection-button-list",
-      "settings": {
-        "collections": [
-          "personalised-selfie-frames-for-weddings-and-hen-parties",
-          "personalised-selfie-frames-for-schools-and-graduations",
-          "personalised-selfie-frames-for-communion-and-confirmations",
-          "personalised-selfie-frames-for-christenings-naming-days",
-          "personalised-selfie-frames-for-childrens-birthdays",
-          "personalised-selfie-frames-for-birthdays",
-          "personalised-selfie-frame-collection",
-          "personalised-selfie-frames-for-anniversaries"
-        ],
-        "buttons_color_palette": "black",
-        "button_styling": "fill",
-        "text_alignment": "center",
-        "title": "<strong>Choose a Selfie Frame Theme<\/strong>",
-        "title_font": "primary",
-        "title_size": "h3",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "shopify:\/\/collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
@@ -678,10 +678,10 @@
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "d807ee63-09fe-48a1-afbd-b16559aa5576",
+    "71bfa90e-8da3-4950-a0b6-0acfeb8aebda",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
-    "2dff711a-0c20-491f-bccb-b88230f6738e",
-    "71bfa90e-8da3-4950-a0b6-0acfeb8aebda"
+    "2dff711a-0c20-491f-bccb-b88230f6738e"
   ]
 }
