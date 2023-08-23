@@ -46,7 +46,7 @@
         "show_in_circle": false,
         "fill_images": false,
         "layout": "grid",
-        "number_of_items": 4,
+        "number_of_items": 5,
         "text_alignment": "start",
         "title": "Collection list",
         "title_font": "primary",
