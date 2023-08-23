@@ -126,6 +126,9 @@
         "166029118628eefa48-1",
         "166029118628eefa48-2"
       ],
+      "custom_css": [
+        ".l4us li:before{color: #b41717 !important;}"
+      ],
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
