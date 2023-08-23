@@ -39,8 +39,7 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "accessoies",
-          "fujifilm-instax-camera-accessories"
+          "accessoies"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
