@@ -41,19 +41,22 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Surprise_Gifts.jpg",
+            "image": "shopify:\/\/shop_images\/frame01.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "With a Personalised framed Gift,  Personalised Photo Banner or selfie frame. This gift is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "PERSONLAISED GIFT",
-            "button_link": "shopify:\/\/collections\/personalised-selfie-frame-collection",
-            "button_text_2": "PERSONLAISED FRAME",
-            "button_link_2": "shopify:\/\/collections\/slate-memorial"
+            "html": "With a Photo framed Gift, Gift  Photo Banner or selfie frame. This Day is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "FRAMED GIFTS",
+            "button_link": "shopify:\/\/collections\/gifts-from-you",
+            "button_text_2": "GIFTS FOR YOU",
+            "button_link_2": "shopify:\/\/collections\/gifts-for-you-missing-pieces"
           }
         }
       },
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.btn_section{display: flex;align-items: center;justify-content: center;max-width: unset;}}"
       ],
       "settings": {
       }
@@ -87,67 +90,156 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "39545c5a-7919-41a7-ab15-ecc2851f7029": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Wedding Gifts",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<h2>Personalised Framed Wedding Gifts<\/h2><p>Celebrate your wedding or give as a gift,  our <strong>personalised<\/strong> unique framed gifts, the best way to celebrate the big day is with photos so they will be cherished forever . All our <strong>wedding<\/strong> <strong>gifts<\/strong> are made to order and one of a kind  so we can personalise them to your exact requirements. <\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "Wedding Gifts",
+            "link_url": "shopify:\/\/collections\/wedding-gifts",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-title-1",
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-content-1",
+        "template--19510779445578__39545c5a-7919-41a7-ab15-ecc2851f7029-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "bde49da4-efb9-4699-b4d8-5b292895eb4d": {
       "type": "birthdat_feature",
       "blocks": {
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "avengers-personalised-childrens-birthday-selfie-frame"
+            "product": "gift-wrapping"
           }
         },
         "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
           "type": "block",
           "settings": {
-            "product": "cheers-beers-personalised-birthday-selfie-frame"
+            "product": "your-the-world-sentiment-gift-frame"
           }
         },
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "gold-pink-balloon-party-personalised-birthday-selfie-frame"
+            "product": "the-simpsons-family-portrait"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
           "type": "block",
           "settings": {
-            "product": "in-the-jungle-party-personalised-childrens-birthday-selfie-frame"
+            "product": "the-simpsons-family-caricature-portrait"
           }
         },
         "5860f50e-fa03-4e46-a972-e373c9eded9a": {
           "type": "block",
           "settings": {
-            "product": "irish-sun-18-today-headlines-personalised-birthday-photo-banner"
+            "product": "simpsons-family-caricature-personalised-photo-mug"
           }
         },
         "4eb3840e-ce2a-49a6-ba90-f163e299963c": {
           "type": "block",
           "settings": {
-            "product": "pink-roses-2-personalised-birthday-selfie-frame"
+            "product": "life-begins-family-caricature-portrait"
           }
         },
         "bd250022-2275-46aa-8c06-6ab59e0501a6": {
           "type": "block",
           "settings": {
-            "product": "silver-anniversary-selfie-frame"
+            "product": "love-with-grandchildren-framed-photo-collage"
           }
         },
         "44dbb300-471f-4be5-83bc-4781fb185079": {
           "type": "block",
           "settings": {
-            "product": "ultimate-beerfest-personalised-birthday-selfie-frame"
+            "product": "in-this-moment-time-stood-still-square-wall-art"
           }
         },
         "ce3405c9-0cdb-4f96-bd09-03d93813571b": {
           "type": "block",
           "settings": {
-            "product": "ultimate-beerfest-personalised-birthday-selfie-frame"
+            "product": "in-these-moments-time-stood-still-squre-wall-art"
           }
         },
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7": {
           "type": "block",
           "settings": {
-            "product": "grandad-our-hero-framed-photo-collage"
+            "product": "family-tree-framed-photo-collage"
+          }
+        },
+        "3a28c4f6-a05e-4645-b61c-8761c8d779cd": {
+          "type": "block",
+          "settings": {
+            "product": "the-big-family-tree-photo-collage-framed"
+          }
+        },
+        "2e9c4225-a2cc-4d81-a368-242e00aa0deb": {
+          "type": "block",
+          "settings": {
+            "product": "grandmother-the-day-you-became-my-sentiment-gift-frame"
+          }
+        },
+        "503afe8c-8754-4dee-a657-f97144b5c8bc": {
+          "type": "block",
+          "settings": {
+            "product": "tree-shaped-family-photo-collage-framed"
+          }
+        },
+        "4531fdc6-6b39-4e09-96be-2c92981023c2": {
+          "type": "block",
+          "settings": {
+            "product": "complete-life-circle-of-love-framed-photo-collage-1"
+          }
+        },
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda": {
+          "type": "block",
+          "settings": {
+            "product": "love-for-grandchildren-framed-photo-collage"
+          }
+        },
+        "a8a9a669-3cae-417c-ad8c-c617548cb385": {
+          "type": "block",
+          "settings": {
+            "product": "my-first-year-by-month-wall-art"
           }
         }
       },
@@ -161,17 +253,23 @@
         "bd250022-2275-46aa-8c06-6ab59e0501a6",
         "44dbb300-471f-4be5-83bc-4781fb185079",
         "ce3405c9-0cdb-4f96-bd09-03d93813571b",
-        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7"
+        "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7",
+        "3a28c4f6-a05e-4645-b61c-8761c8d779cd",
+        "2e9c4225-a2cc-4d81-a368-242e00aa0deb",
+        "503afe8c-8754-4dee-a657-f97144b5c8bc",
+        "4531fdc6-6b39-4e09-96be-2c92981023c2",
+        "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
+        "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
       "settings": {
-        "title": "Personalised Banners",
+        "title": "Gifts Frame Personalised Banners",
         "html": "",
         "main_product": "",
-        "popular_title": "This Is Your Life Photo Personalised Banner",
+        "popular_title": "This Is Your Life Photo Collage Banner",
         "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
-        "bottom_text": "Our Most Popular Personalised Banner from €29",
+        "bottom_text": "Our Most Popular Gift Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/collections\/photo-collages"
+        "button_link": "shopify:\/\/collections\/gifts-from-you"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
@@ -180,8 +278,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Landing_page3a_0fa1627f-1590-44d7-9da5-61713f9ced3f.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A Personalised Photo Collage, Framed Gift Or Canvas",
+        "image": "shopify:\/\/shop_images\/Landing_page4asm.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A  Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -242,9 +340,9 @@
       ],
       "disabled": true,
       "settings": {
-        "right_text": "Personalised Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "gold-celebration-personalised-birthday-selfie-frame",
-        "main2_product": "its-a-blue-birthday-personalised-birthday-selfie-frame"
+        "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "18th-birthday-framed-photo-collage",
+        "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
@@ -279,91 +377,28 @@
         "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
     },
-    "956591a0-84c1-4874-aa94-5210c5c6ac62": {
-      "type": "section-content-tabs",
-      "blocks": {
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1": {
-          "type": "tab",
-          "settings": {
-            "title": "Personalised Gifts",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "memorial-gifts",
-            "products_limit": 8,
-            "number_of_items": 4,
-            "text": "<p>Content of first tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2": {
-          "type": "tab",
-          "settings": {
-            "title": "Personalised Frames For Weddings",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "personalised-selfie-frames-for-weddings-and-hen-parties",
-            "products_limit": 8,
-            "number_of_items": 4,
-            "text": "<p>Content of second tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3": {
-          "type": "tab",
-          "settings": {
-            "title": "Personalised Frames For Anniversaries",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "personalised-selfie-frames-for-anniversaries",
-            "products_limit": 8,
-            "number_of_items": 4,
-            "text": "<p>Content of third tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
-        "c7de2230-62ba-4890-abd0-5c768ebc71a2": {
-          "type": "tab",
-          "settings": {
-            "title": "Personalised Canvas Art",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "photo-collages",
-            "products_limit": 8,
-            "number_of_items": 4,
-            "text": "<p>Tab content<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1",
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2",
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3",
-        "c7de2230-62ba-4890-abd0-5c768ebc71a2"
-      ],
+    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c": {
+      "type": "section-featured-products",
       "custom_css": [
-        ".ff-primary {margin-top: 3%;}"
+        ".ff-primary {margin-top: 4%;}",
+        ".link-btn a:before {background: #d43342;}"
       ],
       "settings": {
-        "alignment": "center",
-        "compact": false,
-        "title": "Personlaised Tab",
+        "products": [
+          "our-wedding-blocked-photo-collage-on-canvas",
+          "our-wedding-bubble-framed-photo-collage",
+          "our-wedding-bubble-photo-collage-on-canvas",
+          "our-wedding-day-as-sound-unique-framed-gift-with-spotify-code",
+          "our-wedding-day-bridal-party-caricature-portrait",
+          "our-wedding-day-happy-together-collage-on-canvas",
+          "our-wedding-day-happy-together-framed-photo-collage",
+          "our-wedding-day-sentiment-frame",
+          "our-wedding-day-upperbody-caricature-portrait",
+          "our-wedding-day-with-sound-cloud-spotify-code-wedding-gift"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Wedding Frame Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -375,6 +410,13 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View",
+        "link_url": "shopify:\/\/collections\/wedding",
+        "button_color_palette": "accent",
+        "show_link": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -386,10 +428,11 @@
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "39545c5a-7919-41a7-ab15-ecc2851f7029",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "956591a0-84c1-4874-aa94-5210c5c6ac62"
+    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c"
   ]
 }
