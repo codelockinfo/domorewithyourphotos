@@ -37,6 +37,7 @@
     },
     "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
       "type": "section-collection-list",
+      "disabled": true,
       "settings": {
         "collections": [
           "fathers-day-photo-slates",
@@ -84,12 +85,49 @@
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
       "type": "allanniversary",
       "blocks": {
+        "3444c0ab-e4d4-4861-b9a3-d39da286e871": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary-gifts",
+            "text": "Anniversary Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
           "type": "image",
           "settings": {
             "width": "half",
-            "link_url": "",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_127769392.jpg",
+            "link_url": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-adults",
+            "text": "Adults Birthdays Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "6afce477-1e1a-4720-bf0e-106040448c6f": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_9913995.jpg",
+            "link_url": "shopify:\/\/collections\/christening",
+            "text": "Christening Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "e4d7c70b-c22a-483f-b835-23672d936811": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/holy-confirmation.png",
+            "link_url": "shopify:\/\/collections\/first-holy-communion-confirmation-banners",
+            "text": "First Holy Communion Banners",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -97,9 +135,11 @@
         }
       },
       "block_order": [
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "3444c0ab-e4d4-4861-b9a3-d39da286e871",
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
+        "6afce477-1e1a-4720-bf0e-106040448c6f",
+        "e4d7c70b-c22a-483f-b835-23672d936811"
       ],
-      "disabled": true,
       "settings": {
         "tradinghead": "",
         "alignment": "middle"
