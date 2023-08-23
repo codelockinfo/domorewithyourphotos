@@ -133,6 +133,15 @@
         "fix_zindex": 0
       }
     },
+    "e107c66a-cb95-468d-aa6e-da3fdeb81983": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h1>Personalised  Welcome Boards<\/h1><p>Order a  Welcome Boards today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46": {
       "type": "personlized_banner",
       "blocks": {
@@ -333,7 +342,7 @@
       ],
       "settings": {
         "title": "",
-        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
         "alignment": "center center",
@@ -620,6 +629,44 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "58de30ed-2d4d-4225-be4d-2017a2c1a821": {
+      "type": "section-collection-button-list",
+      "custom_css": [
+        ".link-btn a:before {background: #b41717 !important;}"
+      ],
+      "settings": {
+        "collections": [
+          "personalised-welcome-boards-for-any-occasion",
+          "welcome-home-goodbye-personal-banners"
+        ],
+        "buttons_color_palette": "black",
+        "button_styling": "fill",
+        "text_alignment": "center",
+        "title": "<strong>Choose a Welcome Board Theme<\/strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -627,9 +674,11 @@
     "main-page",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
+    "e107c66a-cb95-468d-aa6e-da3fdeb81983",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
-    "2dff711a-0c20-491f-bccb-b88230f6738e"
+    "2dff711a-0c20-491f-bccb-b88230f6738e",
+    "58de30ed-2d4d-4225-be4d-2017a2c1a821"
   ]
 }
