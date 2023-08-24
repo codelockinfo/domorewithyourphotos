@@ -1046,7 +1046,7 @@
     "5a38595f-dfae-4df9-adaa-1759a75523fe": {
       "type": "section-featured-products",
       "custom_css": [
-        ".overlay-tertiary {display: none;}"
+
       ],
       "settings": {
         "products": [
