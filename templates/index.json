@@ -794,7 +794,6 @@
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
         "a802db71-f904-465a-b30c-f788d030fe02"
       ],
-      "disabled": true,
       "settings": {
         "items_width": 2,
         "width": "boxed",
@@ -1082,6 +1081,45 @@
         "fix_zindex": 0
       }
     },
+    "91785d11-bdca-4dcf-9184-f2eaa5be6bfb": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "21-today",
+          "18th-birthday-gift-ideas",
+          "30th-birthday-framed-gifts-personalised-photo-banners"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 3,
+        "text_alignment": "center",
+        "title": "Collection list",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "grid",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1118,6 +1156,7 @@
     "29bf0de8-5019-4650-8c3c-6fc821848712",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "5a38595f-dfae-4df9-adaa-1759a75523fe",
+    "91785d11-bdca-4dcf-9184-f2eaa5be6bfb",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
