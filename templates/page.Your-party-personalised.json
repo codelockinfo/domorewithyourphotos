@@ -80,7 +80,7 @@
         "template--19524200563018__bc7e2881-dac3-458a-b182-2195d35f4411-image-1"
       ],
       "custom_css": [
-        "img{objct-fit:Fill !important;}"
+        "img {object-fit: Fill !important;}"
       ],
       "settings": {
         "collageimg": "",
