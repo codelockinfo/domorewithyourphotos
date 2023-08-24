@@ -90,7 +90,7 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
@@ -406,7 +406,7 @@
       ],
       "settings": {
         "title": "",
-        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
         "alignment": "center center",
