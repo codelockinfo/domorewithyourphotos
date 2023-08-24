@@ -485,6 +485,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1",
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {\/* width: 100%; *\/ display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
         ".collageimg {color: #000; padding-top: 2%;}"
@@ -590,6 +591,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
       ],
@@ -1046,7 +1048,7 @@
     "5a38595f-dfae-4df9-adaa-1759a75523fe": {
       "type": "section-featured-products",
       "custom_css": [
-
+        ".overlay-tertiary {display: none;}"
       ],
       "settings": {
         "products": [
