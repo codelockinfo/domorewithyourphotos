@@ -935,12 +935,12 @@
       "type": "section-featured-products",
       "settings": {
         "products": [
+          "baby-animals-200-photos-6x4-blue-memo-photo-album",
+          "baby-animals-200-photos-6x4-pink-memo-photo-album",
+          "baby-sun-moon-stars-200-photos-6x4-pink-memo-photo-album",
           "kenro-geometric-white-celebrations-200-photos-6x4-memo-photo-album",
-          "daybreak-sky-200-photos-6x4-memo-photo-album",
-          "kenro-kusso-luggage-tag-memo-200-photos-6x4-photo-album",
-          "kenro-candy-series-200-photos-5x7-memo-photo-album-polka-dot",
-          "copy-of-kenro-traveller-memo-200-photos-5x7-photo-album-world-map-design",
-          "kenro-candy-series-200-photos-5x7-memo-photo-album-stripes"
+          "200-6x4-inca-series-grey-memo-photo-album-by-kenro",
+          "kenro-holiday-memo-200-photos-6x4-photo-album-compass-design"
         ],
         "number_of_items": 4,
         "text_alignment": "center",
