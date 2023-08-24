@@ -1284,6 +1284,176 @@
         "fix_zindex": 0
       }
     },
+    "d43d5b85-2658-4b10-9df3-a6e06fd51497": {
+      "type": "section-image-hotspots",
+      "blocks": {
+        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "family-is-framed-photo-collage",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 70,
+            "position_top": 20,
+            "position_left_mobile": 70,
+            "position_top_mobile": 20
+          }
+        },
+        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "family-branches-collage-on-canvas",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 12,
+            "position_top": 60,
+            "position_left_mobile": 30,
+            "position_top_mobile": 50
+          }
+        },
+        "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc": {
+          "type": "hotspot",
+          "settings": {
+            "product": "family-in-vacation-photo-collage",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 36,
+            "position_top": 30,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        },
+        "75841261-f264-4b4d-873f-ea2e52434ae5": {
+          "type": "hotspot",
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 50,
+            "position_top": 30,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1",
+        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2",
+        "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc",
+        "75841261-f264-4b4d-873f-ea2e52434ae5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "black",
+        "overlay_opacity": 100,
+        "button_color_palette": "accent",
+        "hotspot_height": 33,
+        "hotspot_color_palette": "white",
+        "hotspot_hover_color_palette": "black",
+        "layout": "right",
+        "height": "m",
+        "width": "wide",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-center",
+        "title": "Family Gift Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Shop NOW",
+        "link_url": "shopify:\/\/collections\/family",
+        "show_link": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7fefcbef-dde3-4f59-8a6d-c70388748ad0": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWedding14a.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "text": "Anniversary Gift Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWanted02a2.jpg",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "text": "Framed Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "93ca3974-d437-4700-932b-8e25fe397bb2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "width": "two-thirds",
+            "title": "SALE UPTO 50% OFF",
+            "text": ""
+          }
+        },
+        "8502fe75-d140-4b78-96b8-10b33781f7d2": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "text": "Birthday Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1",
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2",
+        "93ca3974-d437-4700-932b-8e25fe397bb2",
+        "8502fe75-d140-4b78-96b8-10b33781f7d2"
+      ],
+      "custom_css": [
+        ".column-third {width: 33%;}",
+        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
+      ],
+      "settings": {
+        "tradinghead": "",
+        "alignment": "top"
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1323,6 +1493,8 @@
     "91785d11-bdca-4dcf-9184-f2eaa5be6bfb",
     "28719162-8916-410f-9483-fd857ea7a7af",
     "64c3791c-5203-4ab0-a1d6-9a533845659d",
+    "d43d5b85-2658-4b10-9df3-a6e06fd51497",
+    "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
