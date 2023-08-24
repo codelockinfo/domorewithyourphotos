@@ -232,6 +232,145 @@
         "alignment": "middle"
       }
     },
+    "4f815cbf-6e84-4572-a51e-ddb8343a9f31": {
+      "type": "section-lookbook",
+      "blocks": {
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
+            "title": "Birthday Gifts",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/pages\/birthday",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-2": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-3": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-4": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-5": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-1",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-2",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-3",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-4",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-5"
+      ],
+      "custom_css": [
+        ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
+      ],
+      "settings": {
+        "number_of_items": 3,
+        "space_between": 16,
+        "text_alignment": "center",
+        "title": "Lookbook",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "title_position": "center",
+        "lookbook_title_font": "primary",
+        "lookbook_title_size": "h2",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "d5ebf098-d235-421e-b752-e943669e183d": {
       "type": "section-featured-collection",
       "custom_css": [
@@ -789,6 +928,7 @@
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "1660291186859914cb",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
+    "4f815cbf-6e84-4572-a51e-ddb8343a9f31",
     "d5ebf098-d235-421e-b752-e943669e183d",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
