@@ -1372,6 +1372,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "676e9463-983c-486f-b3f1-297bd8f0c36f": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "Who Are You Buying From",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p><\/p><p>We are a family business printing photos, gifts and framed gifts in Killybegs, Co Donegal for nearly 20 years. <\/p><p><\/p><p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire on your wall.<\/p><p><\/p>"
+          }
+        },
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Read About us",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-title-1",
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-text-1",
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1393,6 +1454,7 @@
     "0253b1fd-f527-45bd-9d35-357c80013019",
     "3a9696e7-e5ba-4065-a638-3bb2d74c6389",
     "d3f7a337-8ccb-4c70-a1e5-00706087edbc",
-    "3edd0575-ac0b-44a2-b41d-7d3433da871e"
+    "3edd0575-ac0b-44a2-b41d-7d3433da871e",
+    "676e9463-983c-486f-b3f1-297bd8f0c36f"
   ]
 }
