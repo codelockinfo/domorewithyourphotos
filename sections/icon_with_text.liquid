@@ -1,4 +1,4 @@
-<div style="padding:2% 0 0 0;">
+<div class="l4ft fullwidth" style="padding:1% 0;background: #efefef;">
     <div class="Containers blockslide4">
         <div class="maindivv productslider1">
         {% for block in section.blocks %}
@@ -81,5 +81,38 @@
     .blockslide{
         width:15%;
         margin-right:10px;
+    }
+    .slidebtn h2{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: Bitter , serif;
+        line-height: 1.8;
+        font-style: normal;
+        margin-bottom:0;
+        color:#000;
+    }
+    .Containers.blockslide4 {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    @media only screen and (max-width: 1200px) {
+        .blockslide4 .block-1 {
+            width: 28%;
+        }
+        .blockslide {
+            width: 20%;
+        }
+    }
+    @media only screen and (max-width: 767px) {
+        .maindivv.productslider1{
+            flex-wrap: wrap;
+        }
+        .blockslide4 .block-1 {
+            width: 95%;
+            margin:1% auto;
+        }
+        .blockslide {
+            width: 8%;
+        }
     }
   {% endstylesheet %}
