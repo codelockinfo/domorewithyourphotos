@@ -7034,3 +7034,11 @@ section.photo-album-banner.l4ft.fullwidth{
 		max-width: unset;
 	}
 }
+
+
+/* remove but button start */
+
+.overlay-tertiary{
+	display:none;
+  }
+/* remove but button end */
