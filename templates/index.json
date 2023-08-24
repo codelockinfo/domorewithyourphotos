@@ -485,7 +485,6 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1",
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {\/* width: 100%; *\/ display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
         ".collageimg {color: #000; padding-top: 2%;}"
@@ -591,7 +590,6 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
       ],
@@ -796,7 +794,6 @@
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
         "a802db71-f904-465a-b30c-f788d030fe02"
       ],
-      "disabled": true,
       "settings": {
         "items_width": 2,
         "width": "boxed",
@@ -1046,6 +1043,44 @@
         "fix_zindex": 0
       }
     },
+    "5a38595f-dfae-4df9-adaa-1759a75523fe": {
+      "type": "section-featured-products",
+      "custom_css": [
+        ".overlay-tertiary {display: none;}"
+      ],
+      "settings": {
+        "products": [
+          "baby-animals-200-photos-6x4-blue-memo-photo-album",
+          "6x4-200-photos-adventure-series-wanderlust-photo-album-by-kenro",
+          "fujifilm-instax-mini-instant-photo-film-20-pack-ireland",
+          "twilight-6x4-silver-plated-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1081,6 +1116,7 @@
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "29bf0de8-5019-4650-8c3c-6fc821848712",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
+    "5a38595f-dfae-4df9-adaa-1759a75523fe",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
