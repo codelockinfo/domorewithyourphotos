@@ -278,10 +278,11 @@
         "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-3": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
+            "title": "Canvas Art",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/canvas-art",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
