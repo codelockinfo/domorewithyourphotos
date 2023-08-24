@@ -79,12 +79,15 @@
       "block_order": [
         "template--19523619357002__e2c67036-89cf-4175-863e-f14a6a55d79e-image-1"
       ],
+      "custom_css": [
+        "img {object-fit: fill;}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
+        "enable_custom_height": false,
         "custom_height": 700,
         "space_between": 16,
         "image_zoom": false,
