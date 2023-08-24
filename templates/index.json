@@ -1454,6 +1454,137 @@
         "alignment": "top"
       }
     },
+    "7c1aa4fd-afc8-483d-a73a-c64bc169dc26": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "a-teacher-i-will-never-forget-thank-you-slate",
+          "floral-in-loving-memory-portrait-personalised-memorial-plaque",
+          "if-i-could-bring-dad-home-again-memorial-plaques",
+          "our-sentiment-anniversary-photo-slate",
+          "personalised-memorial-slate-plaque-remembrance",
+          "your-life-was-a-blessing-memorial-plaque"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Best Sellers",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "810a5104-f6f7-4a64-935d-3a285397bf19": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "1badf862-3279-457b-af70-7a2099ad53d7": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "Who Are You Buying From",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p><\/p><p>We are a family business printing photos, gifts and framed gifts in Killybegs, Co Donegal for nearly 20 years. <\/p><p><\/p><p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire on your wall.<\/p><p><\/p>"
+          }
+        },
+        "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Read About us",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1badf862-3279-457b-af70-7a2099ad53d7",
+        "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-text-1",
+        "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7eac19b8-6db2-4dbf-b041-63af46ad9c0e": {
+      "type": "section-blog-posts",
+      "settings": {
+        "blog": "news",
+        "number_of_items": 3,
+        "text_alignment": "start",
+        "title": "Blog posts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "All Blogs",
+        "link_url": "shopify:\/\/blogs\/news",
+        "button_color_palette": "black",
+        "show_link": false,
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "button_color_palette_post": "accent",
+        "show_link_post": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1495,6 +1626,9 @@
     "64c3791c-5203-4ab0-a1d6-9a533845659d",
     "d43d5b85-2658-4b10-9df3-a6e06fd51497",
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
+    "7c1aa4fd-afc8-483d-a73a-c64bc169dc26",
+    "810a5104-f6f7-4a64-935d-3a285397bf19",
+    "7eac19b8-6db2-4dbf-b041-63af46ad9c0e",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
