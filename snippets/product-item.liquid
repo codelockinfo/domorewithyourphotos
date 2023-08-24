@@ -598,11 +598,13 @@
           <span class="small">{{ 'product.unit_price_label' | t }}{{ current_variant.unit_price | money }}&nbsp;{{ 'product.unit_price_separator' | t }} {{ unit_price_base_unit }}</span>
         {%- endif -%}
       </p>
+      {%- if section.settings.buynowcheck -%}
       <div class="buybtn">
         <button type="submit" class="overlay-tertiary BuyNow" aria-label="Buy Now" >
           <a href="{{ product.url }}"><span>Buy Now</span></a>
         </button> 
       </div>
+      {%- endif -%}
     {%- endif -%}
     {% if layout == 'list-compact' %}<section>{% else %}<div class="static">{% endif %}
     {%- if color_picker and static_color_picker -%}
