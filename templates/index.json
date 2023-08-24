@@ -3,7 +3,7 @@
     "e062a8df-cf0f-405b-8bd2-781f19f03e7a": {
       "type": "section-collage",
       "blocks": {
-        "template--19518196482378__8ab68d3f-d2d7-435d-b51d-92a5797a47c7-image-2": {
+        "template--19423284199754__e062a8df-cf0f-405b-8bd2-781f19f03e7a-image-1": {
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/pages\/personalisedphotobanners",
@@ -39,8 +39,49 @@
             "show_look_label": false,
             "look_label_text": "Label"
           }
+        },
+        "template--19423284199754__e062a8df-cf0f-405b-8bd2-781f19f03e7a-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "imgid": "",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
         }
       },
+      "block_order": [
+        "template--19423284199754__e062a8df-cf0f-405b-8bd2-781f19f03e7a-image-1",
+        "template--19423284199754__e062a8df-cf0f-405b-8bd2-781f19f03e7a-image-2"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
