@@ -1,24 +1,21 @@
 <div class="l4ft fullwidth" style="padding:1% 0;background: #efefef;">
     <div class="Containers blockslide4">
         <div class="maindivv productslider1">
-        {% for block in section.blocks %}
-         <div class="block-1">
-            <div  class="image-box1 ">
-              <div class="blockslide">
-                <img src="{{ block.settings.imageurl |img_url: '800x'}}">
-              </div>
-               <div class="slidebtn"><h2>{{ block.settings.btntext }}</h2>  </div>
-            </div>
-            <div class="textdiv">
-              <div class="background-container">
-              <div class="image-container image-ready"></div>
-            </div>
-          </div>
+            {% for block in section.blocks %}
+                <div class="block-1">
+                    <div  class="image-box1 ">
+                        <div class="blockslide">
+                            <img src="{{ block.settings.imageurl |img_url: '800x'}}">
+                        </div>
+                        <div class="slidebtn">
+                            <h2>{{ block.settings.btntext }}</h2>  
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
         </div>
-        {% endfor %}
-      </div>
     </div>
-  </div>
+</div>
   {% schema %}
   {
     "name": "Icon With text",
