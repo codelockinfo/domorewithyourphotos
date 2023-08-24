@@ -148,6 +148,46 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "cad93469-5b02-43ec-adff-6e51a06e5017": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "sentiment-frames",
+          "silver-frames",
+          "photo-frames",
+          "frames-photoalbums"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Gift Frames By Type",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -155,6 +195,7 @@
     "main-page",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
-    "5fad9f9c-3ff7-43cf-9beb-0e13256767e9"
+    "5fad9f9c-3ff7-43cf-9beb-0e13256767e9",
+    "cad93469-5b02-43ec-adff-6e51a06e5017"
   ]
 }
