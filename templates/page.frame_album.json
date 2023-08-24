@@ -35,81 +35,990 @@
         "spacing_mobile": 30
       }
     },
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
-      "type": "section-collection-list",
+    "2cda9383-0261-442d-b3f4-9c653dd483f6": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1"
+      ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
+      ],
       "settings": {
-        "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": false,
-        "fill_images": false,
-        "layout": "grid",
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "Collection list",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "",
-        "link_url": "shopify:\/\/collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
+        "collageimg": "",
+        "mirrored": false,
+        "width": "wide",
+        "height": "size-l",
+        "enable_custom_height": true,
+        "custom_height": 800,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
     },
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
-      "type": "allanniversary",
+    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d": {
+      "type": "section-promo-gallery",
       "blocks": {
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-1": {
           "type": "image",
           "settings": {
-            "width": "half",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/b04_photos.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
             "text": "",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Print Photos",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/digital-print\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b02_Canvas.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Canvas Prints",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/canvas-print\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b01_enlarge.png",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Print Posters",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/posters\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "ad65903e-4e6a-484e-bdd9-6f5c4b748890": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b05_photobook.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Photo Books",
+            "link_url": "https:\/\/580.app.fujipix.ie\/products\/photo-books\/all-products-of-category\/12\/1\/none",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
           }
         }
       },
       "block_order": [
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-1",
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-2",
+        "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-3",
+        "ad65903e-4e6a-484e-bdd9-6f5c4b748890"
+      ],
+      "settings": {
+        "items_width": 4,
+        "width": "wide",
+        "space_between": 16,
+        "image_zoom": false,
+        "layout_mobile": "compact",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "8b52b352-eeae-479a-b148-546f04576bb4": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Order photos from your phone with our new Fujifilm Imagine Ireland App",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<h2><\/h2><h5>Use \"mcgees\" as our store code to get started.Dont forget to use DOPRINT22 at checkout to get 20% Off.Available on both :<\/h5>"
+          }
+        },
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        },
+        "16de7876-65c4-449c-9da4-b26773899623": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        },
+        "4a464ec0-abc3-48fa-b43d-a0c59af4b37f": {
+          "type": "image_button",
+          "settings": {
+            "app_link_image": "shopify:\/\/shop_images\/app-store-icon.png",
+            "google_link_image": "shopify:\/\/shop_images\/google-play-icon.png",
+            "app_link_url": "https:\/\/apps.apple.com\/ie\/app\/fujifilm-imagine-ireland\/id820621932",
+            "google_link_url": "https:\/\/play.google.com\/store\/apps\/details?id=air.au.whitech.mobile.imagine.generic.ireland&hl=en_IE&gl=US&pli=1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-title-1",
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-text-1",
+        "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1",
+        "16de7876-65c4-449c-9da4-b26773899623",
+        "4a464ec0-abc3-48fa-b43d-a0c59af4b37f"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: fill !important;}",
+        ".module-color-palette .link-btn a.imgbtn.button-palette-:before {border: none !important;}"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/mockup_apple_iphone_14_pro_max_2022_df75cf0876_acf803c7-c3bb-4c86-82dd-33ee22a59902.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "just-print",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Put Your Photo On Canvas or  Slate",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "Now with 30% OFF for 1 Month Only",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h4",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "d375c9b2-92e9-42ee-a210-8e4ff7079572": {
+      "type": "section-image-columns-text",
+      "blocks": {
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/Landing_page4asm_922f69e1-1207-41ec-a9cb-32f90a666b24.jpg",
+            "imglinkurl": "shopify:\/\/collections\/traditional-photo-albums",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "animationtitle": "",
+            "animationdes": "",
+            "imglinkurl": "",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1",
+        "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
+      ],
+      "custom_css": [
+        ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
+        "img {object-fit: fill !important;}"
+      ],
+      "settings": {
+        "items_width": 1,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Get 20% OFF all Photo AlbumsUse Code \"DOPRINT22\" at checkout",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__4c653c31-7e8e-43e0-9f31-957ec63dac92-title-1"
       ],
       "disabled": true,
       "settings": {
-        "tradinghead": "",
-        "alignment": "middle"
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -130,
+        "spacing_mobile": -80,
+        "fix_zindex": 0
+      }
+    },
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/kenro_albums_36f4e866-0ee6-4145-89a0-1e8ba64caf7b.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__5fe68490-1cef-4ddf-87cb-4e05d1adc215-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "48871519-20cc-41ba-8fc8-826660591fe0": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "photo-album",
+            "link_url": "shopify:\/\/pages\/photo-album",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__48871519-20cc-41ba-8fc8-826660591fe0-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -120,
+        "spacing_mobile": -60,
+        "fix_zindex": 0
+      }
+    },
+    "79807ed4-9e37-4514-ac1d-653ef4c50901": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "FREE Print with every frame.Visit us instore to see our our extensive range of photo frames that will suit any taste.",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Browse Photo Frames",
+            "link_url_1": "shopify:\/\/collections\/photo-frames",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-title-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-1",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-2",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-usp-3",
+        "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
+      ],
+      "custom_css": [
+        "img {object-fit: fill !important;}"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/ad04.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "153f1e2d-3ded-4895-abb8-36320769bbcc": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Pricelist",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "page": "",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "Button",
+            "link_url": "\/",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-content-1",
+        "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": -170,
+        "spacing_mobile": -120,
+        "fix_zindex": 0
+      }
+    },
+    "b6310324-56b5-4de1-a510-f46c7861be1b": {
+      "type": "price_section",
+      "blocks": {
+        "614dd8d0-abd6-4fa8-9ef3-a599a0291b9e": {
+          "type": "block",
+          "settings": {
+            "title": "6\" x 4\"",
+            "html": "<table>\n<tbody>\n<tr>\n<td>0-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>70c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>25c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>20c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+          }
+        },
+        "006e93ed-7caa-4bba-9a46-6ab4f9b337f0": {
+          "type": "block",
+          "settings": {
+            "title": "5\" x 7\"",
+            "html": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>80c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>35c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>25c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+          }
+        },
+        "1ff80a1b-3680-4ca0-915c-023da3e24935": {
+          "type": "block",
+          "settings": {
+            "title": "8\" x 6\"",
+            "html": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€2c<\/td>\n<\/tr>\n<tr>\n<td>4-9+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+          }
+        },
+        "70284d05-7b93-4595-9db7-10ddcb61ceea": {
+          "type": "block",
+          "settings": {
+            "title": "8\" x 10\"",
+            "html": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+          }
+        },
+        "526dd2ff-1d73-4565-9729-506f43971078": {
+          "type": "block",
+          "settings": {
+            "title": "8\" x 12\"",
+            "html": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>"
+          }
+        }
+      },
+      "block_order": [
+        "614dd8d0-abd6-4fa8-9ef3-a599a0291b9e",
+        "006e93ed-7caa-4bba-9a46-6ab4f9b337f0",
+        "1ff80a1b-3680-4ca0-915c-023da3e24935",
+        "70284d05-7b93-4595-9db7-10ddcb61ceea",
+        "526dd2ff-1d73-4565-9729-506f43971078"
+      ],
+      "settings": {
+        "pricehead": "Pricelist",
+        "title": "Standard Prints"
+      }
+    },
+    "792ebfbb-e638-437b-b8a2-b9646f12d36c": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "6\" x 4\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>70c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>25c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>20c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "5\" x 7\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€1<\/td>\n<\/tr>\n<tr>\n<td>5-9<\/td>\n<td>80c<\/td>\n<\/tr>\n<tr>\n<td>10-49<\/td>\n<td>35c<\/td>\n<\/tr>\n<tr>\n<td>50+<\/td>\n<td>25c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 6\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>1-4<\/td>\n<td>€2c<\/td>\n<\/tr>\n<tr>\n<td>4-9+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 10\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d": {
+          "type": "tab",
+          "settings": {
+            "title": "8\" x 12\"",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "<table>\n<tbody>\n<tr>\n<td>0-199<\/td>\n<td>20c<\/td>\n<\/tr>\n<tr>\n<td>200+<\/td>\n<td>18c<\/td>\n<\/tr>\n<tr>\n<td>300+<\/td>\n<td>16c<\/td>\n<\/tr>\n<tr>\n<td>500+<\/td>\n<td>14c<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-1",
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-2",
+        "template--19460186374474__792ebfbb-e638-437b-b8a2-b9646f12d36c-tab-3",
+        "4d0f9e2f-05a3-470b-a2c9-59ec213e6c15",
+        "7dc4df6f-f1aa-482b-840e-6a466c2f510d"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2.w900.text-center.align-center.ff-secondary {margin-top: 2%;}"
+      ],
+      "settings": {
+        "alignment": "center",
+        "compact": false,
+        "title": "Pricelist",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "Standard Prints",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "130443cd-790e-48e9-ab0c-893cdbe403a6": {
+      "type": "canvas_print",
+      "blocks": {
+        "0c29f183-064b-451f-bd82-275b004e7627": {
+          "type": "block",
+          "settings": {
+            "heading": "Standard Canvases",
+            "price_1": "€39",
+            "title_1": "12\" x 16\"",
+            "price_2": "€59",
+            "title_2": "16\" x 24\"",
+            "price_3": "€80 ",
+            "title_3": "20\" x 30\""
+          }
+        },
+        "48e1848a-da9f-46bc-a756-f4e7db2105fb": {
+          "type": "block",
+          "settings": {
+            "heading": "Square Canvases",
+            "price_1": "€40",
+            "title_1": "12\" x 12\"",
+            "price_2": "€55",
+            "title_2": "16\" x 16\"",
+            "price_3": "€69",
+            "title_3": "20\" x 20\""
+          }
+        }
+      },
+      "block_order": [
+        "0c29f183-064b-451f-bd82-275b004e7627",
+        "48e1848a-da9f-46bc-a756-f4e7db2105fb"
+      ],
+      "settings": {
+        "canvas_image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
+        "top_heading": "CANVAS PRINTS"
       }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "2cda9383-0261-442d-b3f4-9c653dd483f6",
+    "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
+    "8b52b352-eeae-479a-b148-546f04576bb4",
+    "ee1e06a4-76b4-4619-a255-2df4db238c1e",
+    "d375c9b2-92e9-42ee-a210-8e4ff7079572",
+    "4c653c31-7e8e-43e0-9f31-957ec63dac92",
+    "5fe68490-1cef-4ddf-87cb-4e05d1adc215",
+    "48871519-20cc-41ba-8fc8-826660591fe0",
+    "79807ed4-9e37-4514-ac1d-653ef4c50901",
+    "153f1e2d-3ded-4895-abb8-36320769bbcc",
+    "b6310324-56b5-4de1-a510-f46c7861be1b",
+    "792ebfbb-e638-437b-b8a2-b9646f12d36c",
+    "130443cd-790e-48e9-ab0c-893cdbe403a6"
   ]
 }
