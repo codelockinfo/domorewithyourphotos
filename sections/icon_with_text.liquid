@@ -1,20 +1,18 @@
-<div class="l4ft fullwidth" style="padding:1% 0;background: #efefef;">
-    <div class="Containers blockslide4">
-        <div class="maindivv productslider1">
-            {% for block in section.blocks %}
-                <div class="block-1">
-                    <div  class="image-box1 ">
-                        <div class="blockslide">
-                            <img src="{{ block.settings.imageurl |img_url: '800x'}}">
-                        </div>
-                        <div class="slidebtn">
-                            <h2>{{ block.settings.btntext }}</h2>  
-                            <p>{{ block.settings.btndescription }}</p>  
-                        </div>
+<div class="Containers blockslide4">
+    <div class="maindivv productslider1">
+        {% for block in section.blocks %}
+            <div class="block-1">
+                <div  class="image-box1 ">
+                    <div class="blockslide">
+                        <img src="{{ block.settings.imageurl |img_url: '800x'}}">
+                    </div>
+                    <div class="slidebtn">
+                        <h2>{{ block.settings.btntext }}</h2>  
+                        <p>{{ block.settings.btndescription }}</p>  
                     </div>
                 </div>
-            {% endfor %}
-        </div>
+            </div>
+        {% endfor %}
     </div>
 </div>
   {% schema %}
@@ -22,7 +20,6 @@
     "name": "Icon With text",
     "class":"IconWith_text",
     "settings": [
-  
     ],
       "blocks": [
     {
@@ -55,7 +52,6 @@
   ]
   }
   {% endschema %}
-  
   {% stylesheet %}
     .blockslide4text {
         display: flex;
@@ -73,19 +69,15 @@
     .blockslide img{
         width: 100%;
         margin: auto;
-    }
+    } 
     .maindivv.productslider1 {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
    .blockslide4 .block-1 {
-        width: 31%;
         margin: 0 auto;
-    }
-    .blockslide{
-        width:15%;
-        margin-right:10px;
     }
     .slidebtn h2{
         font-size: 14px;
@@ -100,24 +92,4 @@
         max-width: 1200px;
         margin: 0 auto;
     }
-    @media only screen and (max-width: 1200px) {
-        <!-- .blockslide4 .block-1 {
-            width: 28%;
-        }
-        .blockslide {
-            width: 20%;
-        } -->
-    }
-    @media only screen and (max-width: 767px) {
-        <!-- .maindivv.productslider1{
-            flex-wrap: wrap;
-        }
-        .blockslide4 .block-1 {
-            width: 95%;
-            margin:1% auto;
-        }
-        .blockslide {
-            width: 8%;
-        } -->
-    }  
-  {% endstylesheet %}
+{% endstylesheet %}
