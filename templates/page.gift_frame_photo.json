@@ -39,24 +39,23 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
+          "anniversary",
+          "birthdays",
+          "confirmation",
+          "engagement",
+          "fathers-day-gift-frames",
+          "new-baby-collection",
+          "pets",
+          "school",
+          "wedding"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
         "fill_images": false,
         "layout": "grid",
         "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "Collection list",
+        "text_alignment": "center",
+        "title": "Gift Frames By Occasion",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -104,12 +103,58 @@
         "tradinghead": "",
         "alignment": "middle"
       }
+    },
+    "5fad9f9c-3ff7-43cf-9beb-0e13256767e9": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "gifts-for-children",
+          "gifts-for-dad",
+          "family-gifts",
+          "godparents-gifts",
+          "grandparents-gifts",
+          "gifts-for-mum",
+          "new-parents-gifts",
+          "gifts-for-pets",
+          "gifts-for-uncles-aunties"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Gift Frames By Recipient",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
+    "5fad9f9c-3ff7-43cf-9beb-0e13256767e9"
   ]
 }
