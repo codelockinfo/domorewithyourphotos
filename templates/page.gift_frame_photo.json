@@ -35,6 +35,67 @@
         "spacing_mobile": 30
       }
     },
+    "e2c67036-89cf-4175-863e-f14a6a55d79e": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19523619357002__e2c67036-89cf-4175-863e-f14a6a55d79e-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/free_print_with_frame_dbf6b0f7-d1d1-49a7-babe-eb4a92182926.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19523619357002__e2c67036-89cf-4175-863e-f14a6a55d79e-image-1"
+      ],
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "wide",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
       "type": "section-collection-list",
       "settings": {
@@ -193,6 +254,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "e2c67036-89cf-4175-863e-f14a6a55d79e",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
     "5fad9f9c-3ff7-43cf-9beb-0e13256767e9",
