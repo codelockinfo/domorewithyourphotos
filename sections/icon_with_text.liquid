@@ -1,0 +1,85 @@
+<div style="padding:2% 0 0 0;">
+    <div class="Containers blockslide4">
+        <div class="maindivv productslider1">
+        {% for block in section.blocks %}
+         <div class="block-1">
+            <div  class="image-box1 ">
+              <div class="blockslide">
+                <img src="{{ block.settings.imageurl |img_url: '800x'}}">
+              </div>
+               <div class="slidebtn"><h2>{{ block.settings.btntext }}</h2>  </div>
+            </div>
+            <div class="textdiv">
+              <div class="background-container">
+              <div class="image-container image-ready"></div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% schema %}
+  {
+    "name": "Icon With text",
+    "class":"IconWith_text",
+    "settings": [
+  
+    ],
+      "blocks": [
+    {
+      "type": "collection",
+      "name": "Collection",
+      "settings": [
+         {
+      "type": "image_picker",
+      "id": "imageurl",
+      "label": "Image",
+      "info": "1200 x 1200px .png recommended"
+    },
+       {
+      "type": "text",
+      "id": "btntext",
+      "label": "Categorie Text"
+    }
+      ]
+    }
+  ],
+  "presets": [
+    {
+     "name": "Icon With text"
+    }
+  ]
+  }
+  {% endschema %}
+  
+  {% stylesheet %}
+    .blockslide4text {
+        display: flex;
+        justify-content: space-between;
+    }
+    .Containers.logoblock {
+        padding: 3% 0 ;
+    }
+    .image-box1{ 
+        display: flex;
+        align-items: center;
+    }
+    .blockslide img{
+        width: 100%;
+        margin: auto;
+    }
+    .maindivv.productslider1 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+   .blockslide4 .block-1 {
+        width: 31%;
+        margin: 0 auto;
+    }
+    .blockslide{
+        width:15%;
+        margin-right:10px;
+    }
+  {% endstylesheet %}
