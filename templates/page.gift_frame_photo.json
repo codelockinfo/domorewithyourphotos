@@ -99,6 +99,15 @@
         "fix_zindex": 0
       }
     },
+    "3b6d1235-0290-4ad9-8f14-5ae6d0423b36": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h2>Personalised Gift Frames For Any Occasion<\/h2>\n<p>Capture Picture Perfection with our Personalised Selfie Frames that are sure to make your next event or party stand out.<\/p>\n\n<p>Whether it's for a Birthday, Baby Shower or a Wedding, a Customised Selfie Frame will make memories that last a lifetime, and is great at going viral on social media.<\/p><p>\nNeed a custom or branded selfie frame for an event or company, no problem get in touch and we can design one at no extra charge<\/p><p>\nAll frames designs can be changed to suit any age or color theme.<\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
       "type": "section-collection-list",
       "settings": {
@@ -111,7 +120,8 @@
           "new-baby-collection",
           "pets",
           "school",
-          "wedding"
+          "wedding",
+          "first-holy-communion"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
@@ -252,25 +262,16 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "3b6d1235-0290-4ad9-8f14-5ae6d0423b36": {
-      "type": "addcontent",
-      "settings": {
-        "title": "",
-        "textarea1": "<h2>Personalised Selfie Frames For Any Occasion<\/h2>\n<p>Capture Picture Perfection with our personalised Selfie Frames that are sure to make your next event or party stand out.<\/p><p> A selfie frame leaves a lasting impact on potential customers or guests.<\/p>\n\n<p>Whether it's for a Birthday, Baby Shower or a Wedding, a Customised Selfie Frame will make memories that last a lifetime, and is great at going viral on social media.<\/p><p>\nNeed a custom or branded selfie frame for an event or company, no problem get in touch and we can design one at no extra charge<\/p><p>\nAll frames designs can be changed to suit any age or colour theme.<\/p>",
-        "alignment": "center center",
-        "background_color": "#f9f9f9"
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "e2c67036-89cf-4175-863e-f14a6a55d79e",
+    "3b6d1235-0290-4ad9-8f14-5ae6d0423b36",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
     "5fad9f9c-3ff7-43cf-9beb-0e13256767e9",
-    "cad93469-5b02-43ec-adff-6e51a06e5017",
-    "3b6d1235-0290-4ad9-8f14-5ae6d0423b36"
+    "cad93469-5b02-43ec-adff-6e51a06e5017"
   ]
 }
