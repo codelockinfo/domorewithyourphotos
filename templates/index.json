@@ -1336,6 +1336,42 @@
         "tradinghead": "",
         "alignment": "middle"
       }
+    },
+    "3edd0575-ac0b-44a2-b41d-7d3433da871e": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "a-teacher-i-will-never-forget-thank-you-slate",
+          "floral-in-loving-memory-portrait-personalised-memorial-plaque",
+          "its-a-pink-hen-party-personalised-selfie-frame",
+          "if-i-could-bring-dad-home-again-memorial-plaques",
+          "celebrating-life-of-memorial-wrapped-canvas"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Best Sellers",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1356,6 +1392,7 @@
     "ea5baa7a-7270-4fa8-bed2-b21481064865",
     "0253b1fd-f527-45bd-9d35-357c80013019",
     "3a9696e7-e5ba-4065-a638-3bb2d74c6389",
-    "d3f7a337-8ccb-4c70-a1e5-00706087edbc"
+    "d3f7a337-8ccb-4c70-a1e5-00706087edbc",
+    "3edd0575-ac0b-44a2-b41d-7d3433da871e"
   ]
 }
