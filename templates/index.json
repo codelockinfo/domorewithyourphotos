@@ -1133,80 +1133,80 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/TWighlit_5feeec3a-0dad-4244-814c-fab0ef216b9f.jpg",
-            "text": "Share details about this image or video",
-            "link_url": "shopify:\/\/collections\/40th-year-ruby-wedding-anniversary",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/birthdays",
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Birthdays Gift Frame"
           }
         },
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-2": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
-            "text": "Share details about this image or video",
-            "link_url": "shopify:\/\/collections\/25th-year-silver-wedding-anniversary",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Framed Gifts"
           }
         },
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-3": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/style_7c2cfec1-7395-4861-99c2-9b0e736f8610.jpg",
-            "text": "Share details about this image or video",
-            "link_url": "shopify:\/\/collections\/20th-year-wedding-anniversary",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/family-gifts",
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Gifts for Family"
           }
         },
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/eleq_8c87175b-a503-4b1b-bc9d-6ac12dabfb06.jpg",
-            "text": "Share details about this image or video",
-            "link_url": "shopify:\/\/collections\/2023",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/back-to-school-gifts",
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Back to School Gifts"
           }
         },
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/symphoney_d96252a4-b32a-44a0-b8cd-3be52e45633d.jpg",
-            "text": "Share details about this image or video",
-            "link_url": "shopify:\/\/collections\/1st-year-anniversary",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/anniversary",
             "show_look": false,
             "product_list": [
 
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Anniversary Gift Frame"
           }
         }
       },
