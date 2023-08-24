@@ -1043,6 +1043,44 @@
         "fix_zindex": 0
       }
     },
+    "5a38595f-dfae-4df9-adaa-1759a75523fe": {
+      "type": "section-featured-products",
+      "custom_css": [
+        ".overlay-tertiary {display: none;}"
+      ],
+      "settings": {
+        "products": [
+          "baby-animals-200-photos-6x4-blue-memo-photo-album",
+          "6x4-200-photos-adventure-series-wanderlust-photo-album-by-kenro",
+          "fujifilm-instax-mini-instant-photo-film-20-pack-ireland",
+          "twilight-6x4-silver-plated-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "settings": {
@@ -1077,6 +1115,7 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "29bf0de8-5019-4650-8c3c-6fc821848712",
+    "5a38595f-dfae-4df9-adaa-1759a75523fe",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
