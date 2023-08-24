@@ -1000,7 +1000,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "link_text": "View all",
+        "link_text": "",
         "link_url": "shopify:\/\/collections",
         "button_color_palette": "accent",
         "show_link": false,
@@ -1008,6 +1008,46 @@
         "show_collection_titles": true,
         "collection_title_size": "p",
         "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "ea5baa7a-7270-4fa8-bed2-b21481064865": {
+      "type": "section-image-with-products",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/001_b728e8eb-7955-4ea1-ad66-c5df26dc43a2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "layout": "image-right",
+        "products": [
+          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
+          "kenro-candy-series-100-photos-6x4-photo-album-stripes",
+          "6x4-inch-symphony-classic-silver-frame",
+          "5-multi-aperature-6x4-inch-bergamo-charcoal-photo-frame"
+        ],
+        "text_position": "align-bottom text-start",
+        "title": "SYMPHONY",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Shop Now",
+        "link_url": "shopify:\/\/collections\/hand-drawn-caricutures",
+        "show_link": false,
+        "width_mobile": "boxed",
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -1028,6 +1068,7 @@
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
     "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a",
-    "99294acb-860d-4e1a-8d9d-490d00a99a0f"
+    "99294acb-860d-4e1a-8d9d-490d00a99a0f",
+    "ea5baa7a-7270-4fa8-bed2-b21481064865"
   ]
 }
