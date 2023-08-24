@@ -7034,3 +7034,8 @@ section.photo-album-banner.l4ft.fullwidth{
 		max-width: unset;
 	}
 }
+.buybtn{
+	display: flex;
+    width: 60%;
+    margin: 0 auto;
+}
