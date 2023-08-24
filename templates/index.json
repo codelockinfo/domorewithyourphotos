@@ -967,6 +967,51 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "99294acb-860d-4e1a-8d9d-490d00a99a0f": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "18th-birthday-gift-ideas",
+          "21-today",
+          "30th-birthday-framed-gifts-personalised-photo-banners",
+          "40th-birthday-framed-gifts-personalised-photo-banners",
+          "50th-birthday-framed-gifts-personalised-photo-banners",
+          "60th-birthday-framed-gifts-personalised-photo-banners",
+          "70th-birthday-framed-gifts-personalised-photo-banners",
+          "80th-birthday-framed-gifts-personalised-photo-banners",
+          "90th-birthday-framed-gifts-personalised-photo-banners"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised Birthday Photo Collages & Party Banners",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "View all",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -982,6 +1027,7 @@
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
-    "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a"
+    "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a",
+    "99294acb-860d-4e1a-8d9d-490d00a99a0f"
   ]
 }
