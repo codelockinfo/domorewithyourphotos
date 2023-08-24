@@ -1587,6 +1587,7 @@
     },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
+      "disabled": true,
       "settings": {
         "worktitle": "How we work",
         "workdesc": "To give the confidence to  consumer",
