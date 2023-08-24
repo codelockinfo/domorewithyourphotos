@@ -794,7 +794,6 @@
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
         "a802db71-f904-465a-b30c-f788d030fe02"
       ],
-      "disabled": true,
       "settings": {
         "items_width": 2,
         "width": "boxed",
@@ -1121,9 +1120,172 @@
         "fix_zindex": 0
       }
     },
+    "28719162-8916-410f-9483-fd857ea7a7af": {
+      "type": "section-social-stories",
+      "blocks": {
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TWighlit_5feeec3a-0dad-4244-814c-fab0ef216b9f.jpg",
+            "text": "Share details about this image or video",
+            "link_url": "shopify:\/\/collections\/40th-year-ruby-wedding-anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
+            "text": "Share details about this image or video",
+            "link_url": "shopify:\/\/collections\/25th-year-silver-wedding-anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/style_7c2cfec1-7395-4861-99c2-9b0e736f8610.jpg",
+            "text": "Share details about this image or video",
+            "link_url": "shopify:\/\/collections\/20th-year-wedding-anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eleq_8c87175b-a503-4b1b-bc9d-6ac12dabfb06.jpg",
+            "text": "Share details about this image or video",
+            "link_url": "shopify:\/\/collections\/2023",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/symphoney_d96252a4-b32a-44a0-b8cd-3be52e45633d.jpg",
+            "text": "Share details about this image or video",
+            "link_url": "shopify:\/\/collections\/1st-year-anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-1",
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-2",
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-3",
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4",
+        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5"
+      ],
+      "settings": {
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "number_of_items": 4,
+        "space_between": 16,
+        "text_alignment": "start",
+        "title": "Social stories",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Highlight a new Social post and share details related to an image or video<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "title_position": "start",
+        "social_title_size": "13px",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "64c3791c-5203-4ab0-a1d6-9a533845659d": {
+      "type": "section-image-with-products",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/001_b728e8eb-7955-4ea1-ad66-c5df26dc43a2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "layout": "image-right",
+        "products": [
+          "10-little-fingers-sentiment-gift-frame",
+          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
+          "kenro-minimax-100-photos-6x4-black-photo-album",
+          "kenro-minimax-100-photos-6x4-red-photo-album",
+          "kenro-candy-series-100-photos-6x4-memo-photo-album"
+        ],
+        "text_position": "align-bottom text-start",
+        "title": "SYMPHONY",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Shop Now",
+        "link_url": "shopify:\/\/products\/50-years-together-sentiment-frame",
+        "show_link": false,
+        "width_mobile": "boxed",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
-      "disabled": true,
       "settings": {
         "worktitle": "How we work",
         "workdesc": "To give the confidence to  consumer",
@@ -1159,6 +1321,8 @@
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "5a38595f-dfae-4df9-adaa-1759a75523fe",
     "91785d11-bdca-4dcf-9184-f2eaa5be6bfb",
+    "28719162-8916-410f-9483-fd857ea7a7af",
+    "64c3791c-5203-4ab0-a1d6-9a533845659d",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
