@@ -42,6 +42,7 @@
         },
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "imgid": "shopify:\/\/pages\/anniversaryday",
             "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
@@ -85,10 +86,10 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "boxed",
+        "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
+        "enable_custom_height": true,
+        "custom_height": 800,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
@@ -231,8 +232,152 @@
         "alignment": "middle"
       }
     },
+    "4f815cbf-6e84-4572-a51e-ddb8343a9f31": {
+      "type": "section-lookbook",
+      "blocks": {
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
+            "title": "Birthday Gifts",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/pages\/birthday",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
+            "title": "Anniversary",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/pages\/anniversaryday",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
+            "title": "Canvas Art",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/canvas-art",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
+            "title": "Personalised Remembrance Gifts",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/memorial-gifts",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/albumall.jpg",
+            "title": "Wooden Photo Frames",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/photo-frames",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-1",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-2",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-3",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-4",
+        "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-5"
+      ],
+      "custom_css": [
+        ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
+      ],
+      "settings": {
+        "number_of_items": 3,
+        "space_between": 16,
+        "text_alignment": "center",
+        "title": "Lookbook",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "title_position": "center",
+        "lookbook_title_font": "primary",
+        "lookbook_title_size": "h2",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "d5ebf098-d235-421e-b752-e943669e183d": {
       "type": "section-featured-collection",
+      "disabled": true,
       "custom_css": [
         ".link-btn a:before {background: #d13540 !important;}"
       ],
@@ -348,6 +493,7 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1",
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {\/* width: 100%; *\/ display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
         ".collageimg {color: #000; padding-top: 2%;}"
@@ -453,6 +599,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
       ],
@@ -765,6 +912,7 @@
     },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
+      "disabled": true,
       "settings": {
         "worktitle": "How we work",
         "workdesc": "To give the confidence to  consumer",
@@ -782,12 +930,549 @@
         "cta_text": "Read About Us",
         "cta_url": "shopify:\/\/pages\/about-us"
       }
+    },
+    "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "baby-animals-200-photos-6x4-blue-memo-photo-album",
+          "baby-animals-200-photos-6x4-pink-memo-photo-album",
+          "baby-sun-moon-stars-200-photos-6x4-pink-memo-photo-album",
+          "kenro-geometric-white-celebrations-200-photos-6x4-memo-photo-album",
+          "200-6x4-inca-series-grey-memo-photo-album-by-kenro",
+          "kenro-holiday-memo-200-photos-6x4-photo-album-compass-design"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "99294acb-860d-4e1a-8d9d-490d00a99a0f": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "18th-birthday-gift-ideas",
+          "21-today",
+          "30th-birthday-framed-gifts-personalised-photo-banners",
+          "40th-birthday-framed-gifts-personalised-photo-banners",
+          "50th-birthday-framed-gifts-personalised-photo-banners",
+          "60th-birthday-framed-gifts-personalised-photo-banners",
+          "70th-birthday-framed-gifts-personalised-photo-banners",
+          "80th-birthday-framed-gifts-personalised-photo-banners",
+          "90th-birthday-framed-gifts-personalised-photo-banners"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised Birthday Photo Collages & Party Banners",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "ea5baa7a-7270-4fa8-bed2-b21481064865": {
+      "type": "section-image-with-products",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/001_b728e8eb-7955-4ea1-ad66-c5df26dc43a2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "layout": "image-right",
+        "products": [
+          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
+          "kenro-candy-series-100-photos-6x4-photo-album-stripes",
+          "6x4-inch-symphony-classic-silver-frame",
+          "5-multi-aperature-6x4-inch-bergamo-charcoal-photo-frame"
+        ],
+        "text_position": "align-bottom text-start",
+        "title": "SYMPHONY",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Shop Now",
+        "link_url": "shopify:\/\/collections\/hand-drawn-caricutures",
+        "show_link": false,
+        "width_mobile": "boxed",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "0253b1fd-f527-45bd-9d35-357c80013019": {
+      "type": "section-social-stories",
+      "blocks": {
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TWighlit_5feeec3a-0dad-4244-814c-fab0ef216b9f.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Birthdays Gift Frame"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Framed Gifts"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/style_7c2cfec1-7395-4861-99c2-9b0e736f8610.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/family-gifts",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Gifts for Family"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eleq_8c87175b-a503-4b1b-bc9d-6ac12dabfb06.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/back-to-school-gifts",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Back to School Gifts"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/symphoney_d96252a4-b32a-44a0-b8cd-3be52e45633d.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Anniversary Gift Frame"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-1",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-2",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-3",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-4",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-5"
+      ],
+      "settings": {
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "number_of_items": 4,
+        "space_between": 16,
+        "text_alignment": "start",
+        "title": "Social stories",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View all",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "title_position": "start",
+        "social_title_size": "13px",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "3a9696e7-e5ba-4065-a638-3bb2d74c6389": {
+      "type": "section-image-hotspots",
+      "blocks": {
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "family-is-framed-photo-collage",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "",
+            "position_left": 70,
+            "position_top": 20,
+            "position_left_mobile": 70,
+            "position_top_mobile": 20
+          }
+        },
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "family-is-laughter-love-happyness-collage-on-canvas",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "",
+            "position_left": 12,
+            "position_top": 60,
+            "position_left_mobile": 30,
+            "position_top_mobile": 50
+          }
+        },
+        "834bfadc-b5f7-4acd-b7a7-35d918f7e994": {
+          "type": "hotspot",
+          "settings": {
+            "product": "life-begins-family-caricature-portrait",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "",
+            "position_left": 50,
+            "position_top": 31,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        },
+        "590624ec-1764-464c-abe2-26c3a78cabbf": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 50,
+            "position_top": 30,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-1",
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-2",
+        "834bfadc-b5f7-4acd-b7a7-35d918f7e994",
+        "590624ec-1764-464c-abe2-26c3a78cabbf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "black",
+        "overlay_opacity": 100,
+        "button_color_palette": "accent",
+        "hotspot_height": 33,
+        "hotspot_color_palette": "white",
+        "hotspot_hover_color_palette": "black",
+        "layout": "right",
+        "height": "m",
+        "width": "wide",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-center",
+        "title": "Family Gift Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View More",
+        "link_url": "shopify:\/\/collections\/family",
+        "show_link": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "d3f7a337-8ccb-4c70-a1e5-00706087edbc": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19522949579082__d3f7a337-8ccb-4c70-a1e5-00706087edbc-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWedding14a.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "text": "Anniversary Gift Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "8b033fde-a318-4c60-896b-7808a0fe9e01": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWanted02a2.jpg",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "text": "Framed Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "70c14b39-8d38-492f-998d-c0c24c4c004d": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "text": "Birthday Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__d3f7a337-8ccb-4c70-a1e5-00706087edbc-image-1",
+        "8b033fde-a318-4c60-896b-7808a0fe9e01",
+        "70c14b39-8d38-492f-998d-c0c24c4c004d"
+      ],
+      "custom_css": [
+        ".column-third {width: 33%;}",
+        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
+      ],
+      "settings": {
+        "tradinghead": "",
+        "alignment": "middle"
+      }
+    },
+    "3edd0575-ac0b-44a2-b41d-7d3433da871e": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "a-teacher-i-will-never-forget-thank-you-slate",
+          "floral-in-loving-memory-portrait-personalised-memorial-plaque",
+          "its-a-pink-hen-party-personalised-selfie-frame",
+          "if-i-could-bring-dad-home-again-memorial-plaques",
+          "celebrating-life-of-memorial-wrapped-canvas"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Best Sellers",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "676e9463-983c-486f-b3f1-297bd8f0c36f": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "Who Are You Buying From",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p><\/p><p>We are a family business printing photos, gifts and framed gifts in Killybegs, Co Donegal for nearly 20 years. <\/p><p><\/p><p>Our mission is to breath life into those memories and moments that are so far lost on your digital devices and make them pride of place for everyone to admire on your wall.<\/p><p><\/p>"
+          }
+        },
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Read About us",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-title-1",
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-text-1",
+        "template--19522949579082__676e9463-983c-486f-b3f1-297bd8f0c36f-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "9cdf24fe-da68-4001-828f-3e46d614a5c6": {
+      "type": "section-blog-posts",
+      "settings": {
+        "blog": "news",
+        "number_of_items": 3,
+        "text_alignment": "start",
+        "title": "Blog posts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "All Blogs",
+        "link_url": "shopify:\/\/blogs\/news",
+        "button_color_palette": "black",
+        "show_link": false,
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "button_color_palette_post": "accent",
+        "show_link_post": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "1660291186859914cb",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
+    "4f815cbf-6e84-4572-a51e-ddb8343a9f31",
     "d5ebf098-d235-421e-b752-e943669e183d",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
@@ -795,6 +1480,15 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
-    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905",
+    "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a",
+    "99294acb-860d-4e1a-8d9d-490d00a99a0f",
+    "ea5baa7a-7270-4fa8-bed2-b21481064865",
+    "0253b1fd-f527-45bd-9d35-357c80013019",
+    "3a9696e7-e5ba-4065-a638-3bb2d74c6389",
+    "d3f7a337-8ccb-4c70-a1e5-00706087edbc",
+    "3edd0575-ac0b-44a2-b41d-7d3433da871e",
+    "676e9463-983c-486f-b3f1-297bd8f0c36f",
+    "9cdf24fe-da68-4001-828f-3e46d614a5c6"
   ]
 }
