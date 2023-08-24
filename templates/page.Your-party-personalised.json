@@ -90,6 +90,15 @@
         "fix_zindex": 0
       }
     },
+    "bb15af2a-7edf-4fd9-bd7b-2d8b6a121352": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h2>Personalised Welcome Boards For Any Occasion<\/h2>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p>\nAll frames designs can be changed to suit any age or colour theme<\/p><p>Whether it's for a Birthday, Baby Shower or a Wedding, a Customised Selfie Frame will make memories that last a lifetime, and is great at going viral on social media. \nNeed a custom or branded welcome board for an event or company, no problem get in touch and we can design one at no extra charge<\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5": {
       "type": "section-collection-list",
       "disabled": true,
@@ -626,6 +635,7 @@
     "breadcrumbs",
     "main-page",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
+    "bb15af2a-7edf-4fd9-bd7b-2d8b6a121352",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
