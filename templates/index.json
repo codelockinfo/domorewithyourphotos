@@ -1281,6 +1281,61 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "d3f7a337-8ccb-4c70-a1e5-00706087edbc": {
+      "type": "allanniversary",
+      "blocks": {
+        "template--19522949579082__d3f7a337-8ccb-4c70-a1e5-00706087edbc-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWedding14a.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "text": "Anniversary Gift Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "8b033fde-a318-4c60-896b-7808a0fe9e01": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFWanted02a2.jpg",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "text": "Framed Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "70c14b39-8d38-492f-998d-c0c24c4c004d": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "text": "Birthday Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__d3f7a337-8ccb-4c70-a1e5-00706087edbc-image-1",
+        "8b033fde-a318-4c60-896b-7808a0fe9e01",
+        "70c14b39-8d38-492f-998d-c0c24c4c004d"
+      ],
+      "custom_css": [
+        ".column-third {width: 33%;}",
+        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
+      ],
+      "settings": {
+        "tradinghead": "",
+        "alignment": "middle"
+      }
     }
   },
   "order": [
@@ -1300,6 +1355,7 @@
     "99294acb-860d-4e1a-8d9d-490d00a99a0f",
     "ea5baa7a-7270-4fa8-bed2-b21481064865",
     "0253b1fd-f527-45bd-9d35-357c80013019",
-    "3a9696e7-e5ba-4065-a638-3bb2d74c6389"
+    "3a9696e7-e5ba-4065-a638-3bb2d74c6389",
+    "d3f7a337-8ccb-4c70-a1e5-00706087edbc"
   ]
 }
