@@ -782,6 +782,39 @@
         "cta_text": "Read About Us",
         "cta_url": "shopify:\/\/pages\/about-us"
       }
+    },
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616": {
+      "type": "icon_with_text",
+      "blocks": {
+        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/download_6.png",
+            "btntext": "3 days Delivery Order  Monday , Receive Friday"
+          }
+        },
+        "3283ad43-0987-4d0f-ab22-079018da623d": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/illustrated-star_592324-23279.png",
+            "btntext": "700+ 5* Rating"
+          }
+        },
+        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/download_7.png",
+            "btntext": "Largest Selection of Personalsied gifts in Ireland"
+          }
+        }
+      },
+      "block_order": [
+        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c",
+        "3283ad43-0987-4d0f-ab22-079018da623d",
+        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -795,6 +828,7 @@
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
-    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905",
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616"
   ]
 }
