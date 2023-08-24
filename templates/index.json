@@ -1182,7 +1182,7 @@
         "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-1": {
           "type": "hotspot",
           "settings": {
-            "product": "",
+            "product": "family-is-framed-photo-collage",
             "text_position": "text-start",
             "title_font": "primary",
             "title": "Image hotspot",
@@ -1196,7 +1196,7 @@
         "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-2": {
           "type": "hotspot",
           "settings": {
-            "product": "",
+            "product": "family-is-laughter-love-happyness-collage-on-canvas",
             "text_position": "text-start",
             "title_font": "primary",
             "title": "Image hotspot",
@@ -1210,7 +1210,7 @@
         "834bfadc-b5f7-4acd-b7a7-35d918f7e994": {
           "type": "hotspot",
           "settings": {
-            "product": "",
+            "product": "life-begins-family-caricature-portrait",
             "text_position": "text-start",
             "title_font": "primary",
             "title": "Image hotspot",
