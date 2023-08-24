@@ -9,6 +9,7 @@
                         </div>
                         <div class="slidebtn">
                             <h2>{{ block.settings.btntext }}</h2>  
+                            <p>{{ block.settings.btndescription }}</p>  
                         </div>
                     </div>
                 </div>
@@ -38,6 +39,11 @@
       "type": "text",
       "id": "btntext",
       "label": "Categorie Text"
+    },
+    {
+        "type": "text",
+        "id": "btndescription",
+        "label": "Categorie Description"
     }
       ]
     }
@@ -60,7 +66,9 @@
     }
     .image-box1{ 
         display: flex;
+        flex-direction: column;
         align-items: center;
+        justify-content: center;
     }
     .blockslide img{
         width: 100%;
@@ -93,15 +101,15 @@
         margin: 0 auto;
     }
     @media only screen and (max-width: 1200px) {
-        .blockslide4 .block-1 {
+        <!-- .blockslide4 .block-1 {
             width: 28%;
         }
         .blockslide {
             width: 20%;
-        }
+        } -->
     }
     @media only screen and (max-width: 767px) {
-        .maindivv.productslider1{
+        <!-- .maindivv.productslider1{
             flex-wrap: wrap;
         }
         .blockslide4 .block-1 {
@@ -110,6 +118,6 @@
         }
         .blockslide {
             width: 8%;
-        }
+        } -->
     }  
   {% endstylesheet %}
