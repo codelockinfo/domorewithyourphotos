@@ -1052,6 +1052,129 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "0253b1fd-f527-45bd-9d35-357c80013019": {
+      "type": "section-social-stories",
+      "blocks": {
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TWighlit_5feeec3a-0dad-4244-814c-fab0ef216b9f.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Birthdays Gift Frame"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Framed Gifts"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/style_7c2cfec1-7395-4861-99c2-9b0e736f8610.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/family-gifts",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Gifts for Family"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eleq_8c87175b-a503-4b1b-bc9d-6ac12dabfb06.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/back-to-school-gifts",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Back to School Gifts"
+          }
+        },
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/symphoney_d96252a4-b32a-44a0-b8cd-3be52e45633d.jpg",
+            "text": "",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Anniversary Gift Frame"
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-1",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-2",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-3",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-4",
+        "template--19522949579082__0253b1fd-f527-45bd-9d35-357c80013019-image-5"
+      ],
+      "settings": {
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "number_of_items": 4,
+        "space_between": 16,
+        "text_alignment": "start",
+        "title": "Social stories",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View all",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "title_position": "start",
+        "social_title_size": "13px",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1069,6 +1192,7 @@
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
     "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a",
     "99294acb-860d-4e1a-8d9d-490d00a99a0f",
-    "ea5baa7a-7270-4fa8-bed2-b21481064865"
+    "ea5baa7a-7270-4fa8-bed2-b21481064865",
+    "0253b1fd-f527-45bd-9d35-357c80013019"
   ]
 }
