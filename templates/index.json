@@ -298,10 +298,11 @@
         "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-4": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
+            "title": "Personalised Remembrance Gifts",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/memorial-gifts",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -317,10 +318,11 @@
         "template--19522949579082__4f815cbf-6e84-4572-a51e-ddb8343a9f31-image-5": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/albumall.jpg",
+            "title": "Wooden Photo Frames",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/photo-frames",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
