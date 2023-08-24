@@ -1175,6 +1175,112 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "3a9696e7-e5ba-4065-a638-3bb2d74c6389": {
+      "type": "section-image-hotspots",
+      "blocks": {
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 70,
+            "position_top": 20,
+            "position_left_mobile": 70,
+            "position_top_mobile": 20
+          }
+        },
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 12,
+            "position_top": 60,
+            "position_left_mobile": 30,
+            "position_top_mobile": 50
+          }
+        },
+        "834bfadc-b5f7-4acd-b7a7-35d918f7e994": {
+          "type": "hotspot",
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 50,
+            "position_top": 31,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        },
+        "590624ec-1764-464c-abe2-26c3a78cabbf": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 50,
+            "position_top": 30,
+            "position_left_mobile": 50,
+            "position_top_mobile": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-1",
+        "template--19522949579082__3a9696e7-e5ba-4065-a638-3bb2d74c6389-hotspot-2",
+        "834bfadc-b5f7-4acd-b7a7-35d918f7e994",
+        "590624ec-1764-464c-abe2-26c3a78cabbf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "black",
+        "overlay_opacity": 100,
+        "button_color_palette": "accent",
+        "hotspot_height": 33,
+        "hotspot_color_palette": "white",
+        "hotspot_hover_color_palette": "black",
+        "layout": "right",
+        "height": "m",
+        "width": "wide",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-center",
+        "title": "Family Gift Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "View More",
+        "link_url": "shopify:\/\/collections\/family",
+        "show_link": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1193,6 +1299,7 @@
     "dd90fe03-a2ca-4c2f-8a1b-f4d2be36af0a",
     "99294acb-860d-4e1a-8d9d-490d00a99a0f",
     "ea5baa7a-7270-4fa8-bed2-b21481064865",
-    "0253b1fd-f527-45bd-9d35-357c80013019"
+    "0253b1fd-f527-45bd-9d35-357c80013019",
+    "3a9696e7-e5ba-4065-a638-3bb2d74c6389"
   ]
 }
