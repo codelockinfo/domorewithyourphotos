@@ -804,6 +804,7 @@
         "template--19398885081418__d82593bb-5fb1-48f5-8b90-c6287ebbd8cb-image-2",
         "a802db71-f904-465a-b30c-f788d030fe02"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 2,
         "width": "boxed",
