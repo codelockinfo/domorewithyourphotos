@@ -368,39 +368,6 @@
         "alignment": "middle"
       }
     },
-    "d5ebf098-d235-421e-b752-e943669e183d": {
-      "type": "section-featured-collection",
-      "custom_css": [
-        ".link-btn a:before {background: #d13540 !important;}"
-      ],
-      "settings": {
-        "collection": "most-popular-products",
-        "limit": 8,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "dark",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f": {
       "type": "section-collage",
       "blocks": {
@@ -1573,6 +1540,39 @@
         "fix_zindex": 0
       }
     },
+    "d5ebf098-d235-421e-b752-e943669e183d": {
+      "type": "section-featured-collection",
+      "custom_css": [
+        ".link-btn a:before {background: #d13540 !important;}"
+      ],
+      "settings": {
+        "collection": "most-popular-products",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "dark",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
       "disabled": true,
@@ -1601,7 +1601,6 @@
     "1660291186859914cb",
     "6f9b4f08-1387-43c9-9c92-71d7bfc8a616",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
-    "d5ebf098-d235-421e-b752-e943669e183d",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
@@ -1618,6 +1617,7 @@
     "7c1aa4fd-afc8-483d-a73a-c64bc169dc26",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
     "7eac19b8-6db2-4dbf-b041-63af46ad9c0e",
+    "d5ebf098-d235-421e-b752-e943669e183d",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905"
   ]
 }
