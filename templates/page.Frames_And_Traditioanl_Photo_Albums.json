@@ -318,37 +318,6 @@
         "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
       }
     },
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
-      "type": "Birthday_collection",
-      "blocks": {
-        "577caf9f-4efa-4ad0-8856-beb430de1397": {
-          "type": "block",
-          "settings": {
-            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
-          }
-        },
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
-          "type": "block",
-          "settings": {
-            "product": "traditional-wedding-photo-album-pearl-series"
-          }
-        },
-        "632e8632-de80-4172-9d50-daf57345553b": {
-          "type": "block",
-          "settings": {
-            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
-          }
-        }
-      },
-      "block_order": [
-        "577caf9f-4efa-4ad0-8856-beb430de1397",
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
-        "632e8632-de80-4172-9d50-daf57345553b"
-      ],
-      "settings": {
-        "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
-      }
-    },
     "6b2afe9c-9335-4529-94fe-933714f0e5f4": {
       "type": "section-content-tabs",
       "blocks": {
@@ -626,6 +595,37 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "traditional-wedding-photo-album-pearl-series"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
+      "settings": {
+        "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
+      }
     }
   },
   "order": [
@@ -637,12 +637,12 @@
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
     "6b2afe9c-9335-4529-94fe-933714f0e5f4",
     "258820cb-af70-4407-ba72-617dfb3f1979",
     "b780299b-8d68-431a-ada9-6527c5484689",
     "8da40940-20a1-4c68-b6a2-fb906db010b7",
     "00c5db3f-735a-45f1-bb3d-e7965a06616d",
-    "46cb7230-089d-4f2d-a9e8-1e756dbdf751"
+    "46cb7230-089d-4f2d-a9e8-1e756dbdf751",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
   ]
 }
