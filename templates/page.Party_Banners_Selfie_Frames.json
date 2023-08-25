@@ -350,6 +350,7 @@
     },
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960": {
       "type": "section-featured-products",
+      "disabled": true,
       "custom_css": [
         ".link-btn a:before {background: #b41717 !important;}"
       ],
@@ -480,6 +481,7 @@
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-1",
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -594,26 +596,6 @@
             "look_label_text": "Confirmation Banners"
           }
         },
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/55b.jpg",
-            "title": "",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/collections\/welcome-memorial",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Welcome  Party"
-          }
-        },
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5": {
           "type": "image",
           "settings": {
@@ -633,14 +615,34 @@
             "show_look_label": true,
             "look_label_text": "Engagement Banners"
           }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/55b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/welcome-memorial",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Welcome  Party"
+          }
         }
       },
       "block_order": [
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4",
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1",
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5"
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1"
       ],
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
