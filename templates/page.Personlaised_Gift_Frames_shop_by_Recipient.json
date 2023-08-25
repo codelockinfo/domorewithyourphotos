@@ -282,30 +282,13 @@
     "956591a0-84c1-4874-aa94-5210c5c6ac62": {
       "type": "section-content-tabs",
       "blocks": {
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1": {
-          "type": "tab",
-          "settings": {
-            "title": "Personalised Gifts",
-            "icon": "none",
-            "header_image_width": 25,
-            "collection": "memorial-gifts",
-            "products_limit": 8,
-            "number_of_items": 4,
-            "text": "<p>Content of first tab<\/p>",
-            "page": "",
-            "image_width": 460,
-            "liquid": "",
-            "html": "",
-            "show_contact_form": false
-          }
-        },
         "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2": {
           "type": "tab",
           "settings": {
-            "title": "Personalised Frames For Weddings",
+            "title": "Gifts for Children",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "personalised-selfie-frames-for-weddings-and-hen-parties",
+            "collection": "gifts-for-children",
             "products_limit": 8,
             "number_of_items": 4,
             "text": "<p>Content of second tab<\/p>",
@@ -316,13 +299,30 @@
             "show_contact_form": false
           }
         },
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Gifts for Dad",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "gifts-for-dad",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
         "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3": {
           "type": "tab",
           "settings": {
-            "title": "Personalised Frames For Anniversaries",
+            "title": "Gifts for Mother",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "personalised-selfie-frames-for-anniversaries",
+            "collection": "gifts-for-mum",
             "products_limit": 8,
             "number_of_items": 4,
             "text": "<p>Content of third tab<\/p>",
@@ -336,10 +336,10 @@
         "c7de2230-62ba-4890-abd0-5c768ebc71a2": {
           "type": "tab",
           "settings": {
-            "title": "Personalised Canvas Art",
+            "title": "Gifts for Pets",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "photo-collages",
+            "collection": "gifts-for-pets",
             "products_limit": 8,
             "number_of_items": 4,
             "text": "<p>Tab content<\/p>",
@@ -352,8 +352,8 @@
         }
       },
       "block_order": [
-        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1",
         "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-2",
+        "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-1",
         "template--19510407004490__956591a0-84c1-4874-aa94-5210c5c6ac62-tab-3",
         "c7de2230-62ba-4890-abd0-5c768ebc71a2"
       ],
@@ -363,7 +363,7 @@
       "settings": {
         "alignment": "center",
         "compact": false,
-        "title": "Personlaised Tab",
+        "title": "Shop by Recipient",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
