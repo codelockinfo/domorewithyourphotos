@@ -238,7 +238,6 @@
         "3283ad43-0987-4d0f-ab22-079018da623d",
         "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
       ],
-      "disabled": true,
       "settings": {
       }
     },
@@ -326,7 +325,6 @@
         "a5ac15a7-0e63-4970-8e6f-74da7aa38438",
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
-      "disabled": true,
       "settings": {
         "tradinghead": "Shop Trending Categories",
         "alignment": "middle"
@@ -621,7 +619,6 @@
         "8328db66-31e2-4af3-8b9d-e38487e16dac",
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-1"
       ],
-      "disabled": true,
       "settings": {
         "alignment": "center",
         "compact": false,
@@ -807,7 +804,6 @@
     },
     "d5ebf098-d235-421e-b752-e943669e183d": {
       "type": "section-featured-collection",
-      "disabled": true,
       "custom_css": [
         ".link-btn a:before {background: #d13540 !important;}"
       ],
@@ -951,7 +947,6 @@
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-2",
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-3"
       ],
-      "disabled": true,
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
       ],
@@ -986,7 +981,6 @@
     },
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2": {
       "type": "section-featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "just-print",
         "limit": 4,
@@ -1018,7 +1012,6 @@
     },
     "5a38595f-dfae-4df9-adaa-1759a75523fe": {
       "type": "section-featured-products",
-      "disabled": true,
       "custom_css": [
 
       ],
@@ -1058,7 +1051,6 @@
     },
     "91785d11-bdca-4dcf-9184-f2eaa5be6bfb": {
       "type": "section-collection-list",
-      "disabled": true,
       "settings": {
         "collections": [
           "21-today",
@@ -1187,7 +1179,6 @@
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4",
         "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5"
       ],
-      "disabled": true,
       "settings": {
         "custom_image_ratio": 100,
         "show_in_circle": false,
@@ -1222,7 +1213,6 @@
     },
     "64c3791c-5203-4ab0-a1d6-9a533845659d": {
       "type": "section-image-with-products",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/001_b728e8eb-7955-4ea1-ad66-c5df26dc43a2.jpg",
         "overlay_opacity": 0,
@@ -1313,7 +1303,6 @@
         "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2",
         "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg",
         "overlay_opacity_img": 0,
@@ -1408,7 +1397,6 @@
         "93ca3974-d437-4700-932b-8e25fe397bb2",
         "8502fe75-d140-4b78-96b8-10b33781f7d2"
       ],
-      "disabled": true,
       "custom_css": [
         ".column-third {width: 33%;}",
         "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
@@ -1421,7 +1409,6 @@
     },
     "7c1aa4fd-afc8-483d-a73a-c64bc169dc26": {
       "type": "section-featured-products",
-      "disabled": true,
       "settings": {
         "products": [
           "a-teacher-i-will-never-forget-thank-you-slate",
@@ -1502,7 +1489,6 @@
         "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-text-1",
         "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-buttons-1"
       ],
-      "disabled": true,
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
@@ -1522,7 +1508,6 @@
     },
     "7eac19b8-6db2-4dbf-b041-63af46ad9c0e": {
       "type": "section-blog-posts",
-      "disabled": true,
       "settings": {
         "blog": "news",
         "number_of_items": 3,
