@@ -362,6 +362,7 @@
         "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-1",
         "template--19502640070986__45c0da27-c250-4fc4-9b41-22d06488483f-image-2"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 2,
         "width": "boxed",
@@ -399,7 +400,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+            "text": "<p>Make a special birthday extra special with a personalised photo gift frame, transforming a good gift into a unique and special gift.  We have so many wonderful gift frame ideas for him or her. Whether you are looking for the perfect gift for your partner or child, parents or grandparents, friends or siblings, choosing a personalised photo gift from our extensive range will give them a unique gift to treasure forever.<\/p>"
           }
         },
         "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-1": {
@@ -542,6 +543,291 @@
         "button_text": "Order HERE",
         "button_link": "shopify:\/\/collections\/school"
       }
+    },
+    "f44a4172-c581-423f-912f-c25269fa39c4": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "loved-today-first-communion-photo-collage-wall-art",
+          "little-elephant-sentiment-gift-frame",
+          "o-sacred-heart-of-jesus-communion-sentiment-gift-frame",
+          "dynamic-trio-first-holy-communion-sentiment-gift-frame",
+          "dynamic-first-holy-communion-sentiment-gift-frame",
+          "baby-scan-daddy-first-photo-frame-from-the-bump-sentiment-gift-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Shop by Occasion Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a": {
+      "type": "section-promo-gallery",
+      "blocks": {
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "Tell a detail about this promotion",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Anniversary Banner",
+            "link_url": "shopify:\/\/collections\/banners-for-anniversaries",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SFBirthday25a2.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "Tell a detail about this promotion",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Birthday Banner",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        },
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SFWedding06a2.jpg",
+            "overlay_opacity_img": 0,
+            "color_palette": "white",
+            "overlay_opacity": 100,
+            "button_color_palette": "black",
+            "show_sale_label": false,
+            "sale_label_palette": "dark",
+            "sale_label_shape": "rounded",
+            "sale_label_position": "align-top\/align-start",
+            "sale_label_subheading": "Only today",
+            "sale_label_heading": "-50%",
+            "sale_label_information": "Tell a detail about this promotion",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Wedding Banner",
+            "link_url": "shopify:\/\/collections\/wedding",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end"
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-2",
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-1",
+        "template--19502640070986__3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a-image-3"
+      ],
+      "settings": {
+        "items_width": 3,
+        "width": "boxed",
+        "space_between": 16,
+        "image_zoom": false,
+        "layout_mobile": "rows",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "22395078-b3e3-47fd-b85d-dc7ab6dc313d": {
+      "type": "section-events-calendar",
+      "blocks": {
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-1": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/37b.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Baby-Shower",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "July 20th",
+            "time": "9PM - 6PM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": false
+          }
+        },
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-2": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12b_e1fd8264-02ab-4675-99f3-20478d5ecac2.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Birthday",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "August 25th",
+            "time": "8PM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": true
+          }
+        },
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/59a.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Wedding",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "August 26th",
+            "time": "8AM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-1",
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-2",
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "text_alignment": "start",
+        "title": "Events",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -553,6 +839,9 @@
     "167926c3-d5c1-48de-93f9-73effada4879",
     "45c0da27-c250-4fc4-9b41-22d06488483f",
     "553c7052-fb04-4a69-8884-bb5132ed9239",
-    "e388f5ee-3290-410b-b9f9-15f2f72aa086"
+    "e388f5ee-3290-410b-b9f9-15f2f72aa086",
+    "f44a4172-c581-423f-912f-c25269fa39c4",
+    "3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a",
+    "22395078-b3e3-47fd-b85d-dc7ab6dc313d"
   ]
 }

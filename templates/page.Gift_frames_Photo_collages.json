@@ -56,9 +56,40 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 767px) {.btn_section{display: flex;align-items: center;justify-content: center;max-width: unset;}}"
+        "@media only screen and (max-width: 767px) {.btn_section {display: flex; align-items: center; justify-content: center; max-width: unset; }}"
       ],
       "settings": {
+      }
+    },
+    "a6da7e90-f65f-4bfa-b1ea-1c8b3113a105": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "teachers-gifts",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Teacher Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     },
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5": {
@@ -261,6 +292,7 @@
         "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
+      "disabled": true,
       "settings": {
         "title": "Gifts Frame Personalised Banners",
         "html": "",
@@ -397,11 +429,12 @@
           "our-wedding-day-with-sound-cloud-spotify-code-wedding-gift"
         ],
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Wedding Frame Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": false,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -413,10 +446,137 @@
         "text": "",
         "enable_custom_font_styling": false,
         "font_size": "16px",
-        "link_text": "View",
+        "link_text": "",
         "link_url": "shopify:\/\/collections\/wedding",
         "button_color_palette": "accent",
         "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "dd70eab5-fe93-419f-8342-45e097b9c6db": {
+      "type": "section-content-tabs",
+      "blocks": {
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Anniversary Gifts",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "anniversary-gifts",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of first tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-2": {
+          "type": "tab",
+          "settings": {
+            "title": "Baby Gifts",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "baby-gifts",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of second tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-3": {
+          "type": "tab",
+          "settings": {
+            "title": "Back to School Gifts",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "back-to-school-gifts",
+            "products_limit": 8,
+            "number_of_items": 4,
+            "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "4224c9d1-ec2e-4b34-89dc-0e7922e3557d": {
+          "type": "tab",
+          "settings": {
+            "title": "Engagement Gifts",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "engagement-gifts",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Tab content<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-1",
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-2",
+        "template--19510779445578__dd70eab5-fe93-419f-8342-45e097b9c6db-tab-3",
+        "4224c9d1-ec2e-4b34-89dc-0e7922e3557d"
+      ],
+      "settings": {
+        "alignment": "center",
+        "compact": false,
+        "title": "Gift Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "d9fb4495-b866-486e-8ba9-51792984f237": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "birthday-gifts",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "Button",
+        "show_link": false,
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -427,12 +587,15 @@
     "breadcrumbs",
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
+    "a6da7e90-f65f-4bfa-b1ea-1c8b3113a105",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "39545c5a-7919-41a7-ab15-ecc2851f7029",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c"
+    "4e0b2ee4-12ba-4762-b273-1b3eec95b38c",
+    "dd70eab5-fe93-419f-8342-45e097b9c6db",
+    "d9fb4495-b866-486e-8ba9-51792984f237"
   ]
 }
