@@ -118,6 +118,7 @@
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-1",
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -133,6 +134,35 @@
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-l",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7157911b-da57-4991-ad45-88aedd68c0d7": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "personalised-selfie-frames-for-anniversaries",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -158,7 +188,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>With a Party Gift, 1st Personalised Photo Banner  selfie frame. This Party is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing party photos and we will do the rest.<\/p>"
+            "text": "<p>Selfie frames are a relatively new trend in the worlds of social media, photography and business. Generally made from cardboard or foam, the frame is supposed to be used as a faux picture frame for a selfie photo, finished with <strong>either branding or some sort of commemorative slogans or text<\/strong>, depending on the event.<\/p>"
           }
         },
         "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-1": {
@@ -214,7 +244,7 @@
       ],
       "settings": {
         "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/Landing_page1a_f578900a-c886-4063-94a2-17ba2b5e86d0.jpg",
+        "image": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -675,48 +705,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "7157911b-da57-4991-ad45-88aedd68c0d7": {
-      "type": "section-shop-the-look-collection",
-      "custom_css": [
-        ".w75 figure picture img {opacity: 0;}"
-      ],
-      "settings": {
-        "collection": "personalised-selfie-frames-for-anniversaries",
-        "overlay_opacity": 0,
-        "color_palette": "white",
-        "button_color_palette": "accent",
-        "height": "700px",
-        "enable_custom_height": false,
-        "custom_height": 350,
-        "layout": "image-left",
-        "text_position": "text-center",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "font_size": "16px",
-        "link_text": "",
-        "show_link": false,
-        "mobile_height": "size-s",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "037bcf7a-b179-4ba3-956c-108c53ccdc05",
+    "7157911b-da57-4991-ad45-88aedd68c0d7",
     "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334",
     "a0d5838b-3748-4b7b-8b46-23aa21659d26",
     "6b3779a2-2686-464e-9a79-8df10319f9f5",
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
     "528d4558-6cf5-43c5-99b5-65c9611f4604",
     "9f30bc31-121c-494d-b081-9696ef3414e1",
-    "7d7374c0-7348-4888-b1d2-395cf2747793",
-    "7157911b-da57-4991-ad45-88aedd68c0d7"
+    "7d7374c0-7348-4888-b1d2-395cf2747793"
   ]
 }
