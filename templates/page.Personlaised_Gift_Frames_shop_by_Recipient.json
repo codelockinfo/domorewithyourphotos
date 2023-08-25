@@ -469,6 +469,7 @@
     },
     "0356687e-7ce1-4050-b126-bddc6539a3cc": {
       "type": "section-shop-the-look-collection",
+      "disabled": true,
       "custom_css": [
         ".w75 figure picture img {opacity: 0;}"
       ],
