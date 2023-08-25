@@ -77,12 +77,11 @@
         flex-wrap: wrap;
     }
    .blockslide4 .block-1 {
-        margin: 0 auto;
-    width: calc(50% - 16px);
-    -webkit-flex-basis: calc(33.33% - 16px);
-    flex-basis: calc(50% - 16px);
-    padding: 0 10%;
-
+       width: calc(33% - 16px);
+        -webkit-flex-basis: calc(33.33% - 16px);
+        flex-basis: calc(33% - 16px);
+        padding: 0 1%;
+    
     }
     .slidebtn h2{
         font-size: 14px;
@@ -96,5 +95,12 @@
     .Containers.blockslide4 {
         max-width: 1200px;
         margin: 0 auto;
+    }
+    @media only screen and (max-width: 760px) {
+        .blockslide4 .block-1 {
+            width: calc(50% - 16px);
+             flex-basis: calc(50% - 16px);
+             padding: 0 1%;
+        }
     }
 {% endstylesheet %}
