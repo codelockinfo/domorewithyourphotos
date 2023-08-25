@@ -399,7 +399,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+            "text": "<p>Make a special birthday extra special with a personalised photo gift frame, transforming a good gift into a unique and special gift.  We have so many wonderful gift frame ideas for him or her. Whether you are looking for the perfect gift for your partner or child, parents or grandparents, friends or siblings, choosing a personalised photo gift from our extensive range will give them a unique gift to treasure forever.<\/p>"
           }
         },
         "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-1": {
@@ -542,6 +542,44 @@
         "button_text": "Order HERE",
         "button_link": "shopify:\/\/collections\/school"
       }
+    },
+    "f44a4172-c581-423f-912f-c25269fa39c4": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "loved-today-first-communion-photo-collage-wall-art",
+          "little-elephant-sentiment-gift-frame",
+          "o-sacred-heart-of-jesus-communion-sentiment-gift-frame",
+          "dynamic-trio-first-holy-communion-sentiment-gift-frame",
+          "dynamic-first-holy-communion-sentiment-gift-frame",
+          "baby-scan-daddy-first-photo-frame-from-the-bump-sentiment-gift-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Shop by Occasion Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -553,6 +591,7 @@
     "167926c3-d5c1-48de-93f9-73effada4879",
     "45c0da27-c250-4fc4-9b41-22d06488483f",
     "553c7052-fb04-4a69-8884-bb5132ed9239",
-    "e388f5ee-3290-410b-b9f9-15f2f72aa086"
+    "e388f5ee-3290-410b-b9f9-15f2f72aa086",
+    "f44a4172-c581-423f-912f-c25269fa39c4"
   ]
 }
