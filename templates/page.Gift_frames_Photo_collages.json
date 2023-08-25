@@ -581,6 +581,50 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "8ad3b6b6-16ef-46ac-89b0-c7af2c7ccdcf": {
+      "type": "section-shop-the-look",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "products": [
+          "family-is-framed-photo-collage",
+          "family-world-created-by-love-framed-photo-collage",
+          "family-tree-on-canvas",
+          "family-moments-photo-collage-wall-art",
+          "family-is-where-love-is-never-end-photo-collage",
+          "family-love-framed-photo-collage"
+        ],
+        "text_position": "text-center",
+        "title": "",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "",
+        "show_link": false,
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -596,6 +640,7 @@
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
     "4e0b2ee4-12ba-4762-b273-1b3eec95b38c",
     "dd70eab5-fe93-419f-8342-45e097b9c6db",
-    "d9fb4495-b866-486e-8ba9-51792984f237"
+    "d9fb4495-b866-486e-8ba9-51792984f237",
+    "8ad3b6b6-16ef-46ac-89b0-c7af2c7ccdcf"
   ]
 }
