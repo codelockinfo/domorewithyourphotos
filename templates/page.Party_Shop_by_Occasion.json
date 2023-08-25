@@ -804,7 +804,7 @@
         "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3"
       ],
       "custom_css": [
-
+        "span.w900.text-center.align-center.ff-primary {text-align: left !important;}"
       ],
       "settings": {
         "text_alignment": "center",
