@@ -585,7 +585,7 @@
       "type": "addcontent",
       "settings": {
         "title": "",
-        "textarea1": "Choose a Welcome Board Theme\n<a href=\"domore.ie\/collections\/personalised-welcome-boards-for-birthdays\">Birthdays <\/a>  |   <a href=\"\">Children's Birthdays  <\/a>  |   <a href=\"\">Anniversaries<\/a>\n     <a href=\"\">Weddings  <\/a> |   <a href=\"\">Engagements    <\/a> |   <a href=\"\">Bridal Showers  <\/a> |   <a href=\"\">Hen Parties <\/a>\n<a href=\"\"> Christenings   <\/a>|  <a href=\"\"> Baby Showers  <\/a> |   <a href=\"\">Confirmations<\/a>\n<a href=\"\">First Holy Communion  <\/a> |   <a href=\"\">Memorial<\/a>",
+        "textarea1": "Choose a Welcome Board Theme\n<a href=\"https:\/\/domore.ie\/collections\/personalised-welcome-boards-for-birthdays\">Birthdays <\/a>  |   <a href=\"\">Children's Birthdays  <\/a>  |   <a href=\"\">Anniversaries<\/a>\n     <a href=\"\">Weddings  <\/a> |   <a href=\"\">Engagements    <\/a> |   <a href=\"\">Bridal Showers  <\/a> |   <a href=\"\">Hen Parties <\/a>\n<a href=\"\"> Christenings   <\/a>|  <a href=\"\"> Baby Showers  <\/a> |   <a href=\"\">Confirmations<\/a>\n<a href=\"\">First Holy Communion  <\/a> |   <a href=\"\">Memorial<\/a>",
         "alignment": "center center",
         "background_color": "#f9f9f9"
       }
