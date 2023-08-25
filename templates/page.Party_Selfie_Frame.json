@@ -365,6 +365,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ce63145b-14b6-48c1-bb97-70c250026268": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "We surprise Foam Photo Frame",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<ul><li>WeSurprise Presenting Personalized Social Media Photo Booth Props for Birthday, Wedding, Special occasions<\/li><li>We have dedicated team which will contact you after your purchase to customize the order for you.<\/li><li>Material: 5mm Foam Board, Size: 20x30 Inches, Print Method: UV Print, Hand crafted Item<\/li><li>This Photo Booth will Surely make your day and celebration more unique , special and a memorable one.<\/li><\/ul>"
+          }
+        },
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "About us",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-title-1",
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-text-1",
+        "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -376,6 +437,7 @@
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e"
+    "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e",
+    "ce63145b-14b6-48c1-bb97-70c250026268"
   ]
 }
