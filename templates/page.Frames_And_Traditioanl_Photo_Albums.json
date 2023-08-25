@@ -596,37 +596,6 @@
         "fix_zindex": 0
       }
     },
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
-      "type": "Birthday_collection",
-      "blocks": {
-        "577caf9f-4efa-4ad0-8856-beb430de1397": {
-          "type": "block",
-          "settings": {
-            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
-          }
-        },
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
-          "type": "block",
-          "settings": {
-            "product": "traditional-wedding-photo-album-pearl-series"
-          }
-        },
-        "632e8632-de80-4172-9d50-daf57345553b": {
-          "type": "block",
-          "settings": {
-            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
-          }
-        }
-      },
-      "block_order": [
-        "577caf9f-4efa-4ad0-8856-beb430de1397",
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
-        "632e8632-de80-4172-9d50-daf57345553b"
-      ],
-      "settings": {
-        "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
-      }
-    },
     "8d550b92-256d-4be8-8783-9b84776ae666": {
       "type": "section-collection-list",
       "settings": {
@@ -666,6 +635,37 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "traditional-wedding-photo-album-pearl-series"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "traditional-wedding-photo-album-white-satin-series-60-pages"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
+      "settings": {
+        "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
+      }
     }
   },
   "order": [
@@ -683,7 +683,7 @@
     "8da40940-20a1-4c68-b6a2-fb906db010b7",
     "00c5db3f-735a-45f1-bb3d-e7965a06616d",
     "46cb7230-089d-4f2d-a9e8-1e756dbdf751",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "8d550b92-256d-4be8-8783-9b84776ae666"
+    "8d550b92-256d-4be8-8783-9b84776ae666",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
   ]
 }
