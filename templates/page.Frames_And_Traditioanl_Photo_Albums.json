@@ -626,6 +626,46 @@
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
       }
+    },
+    "8d550b92-256d-4be8-8783-9b84776ae666": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "traditional-7x5-photo-albums",
+          "6x4-traditional-photo-albums",
+          "traditional-baby-photo-albums",
+          "traditional-wedding-albums"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "slider",
+        "number_of_items": 5,
+        "text_alignment": "center",
+        "title": "Traditional Photo  Album  list",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -643,6 +683,7 @@
     "8da40940-20a1-4c68-b6a2-fb906db010b7",
     "00c5db3f-735a-45f1-bb3d-e7965a06616d",
     "46cb7230-089d-4f2d-a9e8-1e756dbdf751",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "8d550b92-256d-4be8-8783-9b84776ae666"
   ]
 }
