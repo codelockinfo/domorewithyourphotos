@@ -235,7 +235,7 @@
         "collection": "personalised-photo-banners-for-weddings-hen-partys",
         "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Featured collection",
         "title_font": "primary",
         "title_size": "h2",
