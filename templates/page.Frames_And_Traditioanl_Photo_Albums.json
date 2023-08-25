@@ -86,7 +86,7 @@
         "width": "wide",
         "height": "size-l",
         "enable_custom_height": true,
-        "custom_height": 600,
+        "custom_height": 800,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
