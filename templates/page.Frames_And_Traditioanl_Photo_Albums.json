@@ -430,7 +430,7 @@
       "settings": {
         "alignment": "center",
         "compact": false,
-        "title": "Content tabs",
+        "title": "Traditional Photo Albums",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -442,6 +442,84 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "258820cb-af70-4407-ba72-617dfb3f1979": {
+      "type": "photo_album_banner",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "html": "",
+        "button_1": "",
+        "button_url_1": "",
+        "button_2": "",
+        "button_url_2": ""
+      }
+    },
+    "b780299b-8d68-431a-ada9-6527c5484689": {
+      "type": "section-image-with-products",
+      "disabled": true,
+      "settings": {
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "layout": "image-left",
+        "products": [
+
+        ],
+        "text_position": "text-center",
+        "title": "Image banner with products",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Give customers details about the banner image(s) or content and add related products<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "",
+        "show_link": false,
+        "width_mobile": "boxed",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "8da40940-20a1-4c68-b6a2-fb906db010b7": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "traditional-photo-albums",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -458,6 +536,9 @@
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "6b2afe9c-9335-4529-94fe-933714f0e5f4"
+    "6b2afe9c-9335-4529-94fe-933714f0e5f4",
+    "258820cb-af70-4407-ba72-617dfb3f1979",
+    "b780299b-8d68-431a-ada9-6527c5484689",
+    "8da40940-20a1-4c68-b6a2-fb906db010b7"
   ]
 }
