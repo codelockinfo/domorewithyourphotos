@@ -779,7 +779,7 @@
         "text": "<h6>Top Positive review<\/h6>",
         "enable_custom_font_styling": false,
         "font_size": "16px",
-        "link_text": "Button",
+        "link_text": "",
         "link_url": "\/",
         "button_color_palette": "accent",
         "show_link": false,
