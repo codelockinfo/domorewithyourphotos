@@ -678,6 +678,9 @@
     },
     "7157911b-da57-4991-ad45-88aedd68c0d7": {
       "type": "section-shop-the-look-collection",
+      "custom_css": [
+        "picture img{opacity:0;}"
+      ],
       "settings": {
         "collection": "personalised-birthday-photo-banners-for-adults",
         "overlay_opacity": 0,
