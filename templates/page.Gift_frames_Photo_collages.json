@@ -261,6 +261,7 @@
         "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
+      "disabled": true,
       "settings": {
         "title": "Gifts Frame Personalised Banners",
         "html": "",
@@ -397,7 +398,7 @@
           "our-wedding-day-with-sound-cloud-spotify-code-wedding-gift"
         ],
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Wedding Frame Gifts",
         "title_font": "primary",
         "title_size": "h2",
@@ -414,7 +415,7 @@
         "text": "",
         "enable_custom_font_styling": false,
         "font_size": "16px",
-        "link_text": "View",
+        "link_text": "",
         "link_url": "shopify:\/\/collections\/wedding",
         "button_color_palette": "accent",
         "show_link": false,
@@ -580,15 +581,6 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "5f8b8be1-888d-4c5d-a36e-cdf5795f14ce": {
-      "type": "addcontent",
-      "settings": {
-        "title": "",
-        "textarea1": "Choose a Welcome Board Theme\n<a href=\"https:\/\/domore.ie\/collections\/birthday-gifts\">Birthdays <\/a>  |   <a href=\"\">Children's Birthdays  <\/a>  |   <a href=\"\">Anniversaries<\/a>\n     <a href=\"\">Weddings  <\/a> |   <a href=\"\">Engagements    <\/a> |   <a href=\"\">Bridal Showers  <\/a> |   <a href=\"\">Hen Parties <\/a>\n<a href=\"\"> Christenings   <\/a>|  <a href=\"\"> Baby Showers  <\/a> |   <a href=\"\">Confirmations<\/a>\n<a href=\"\">First Holy Communion  <\/a> |   <a href=\"\">Memorial<\/a>",
-        "alignment": "center center",
-        "background_color": "#f9f9f9"
-      }
     }
   },
   "order": [
@@ -604,7 +596,6 @@
     "4e0b2ee4-12ba-4762-b273-1b3eec95b38c",
     "dd70eab5-fe93-419f-8342-45e097b9c6db",
     "a6da7e90-f65f-4bfa-b1ea-1c8b3113a105",
-    "d9fb4495-b866-486e-8ba9-51792984f237",
-    "5f8b8be1-888d-4c5d-a36e-cdf5795f14ce"
+    "d9fb4495-b866-486e-8ba9-51792984f237"
   ]
 }
