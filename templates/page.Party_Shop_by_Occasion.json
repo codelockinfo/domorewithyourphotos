@@ -721,7 +721,7 @@
         "items_width": 3,
         "width": "boxed",
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "layout_mobile": "rows",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
