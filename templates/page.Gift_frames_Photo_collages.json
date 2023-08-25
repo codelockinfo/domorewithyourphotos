@@ -686,6 +686,48 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "b0acc620-7fdf-4889-b9e2-533d9be1c2e4": {
+      "type": "section-collection-button-list",
+      "settings": {
+        "collections": [
+          "18th-birthday-gift-ideas",
+          "21-today",
+          "30th-birthday-framed-gifts-personalised-photo-banners",
+          "40th-birthday-framed-gifts-personalised-photo-banners",
+          "50th-birthday-framed-gifts-personalised-photo-banners",
+          "60th-birthday-framed-gifts-personalised-photo-banners",
+          "70th-birthday-framed-gifts-personalised-photo-banners",
+          "80th-birthday-framed-gifts-personalised-photo-banners",
+          "90th-birthday-framed-gifts-personalised-photo-banners"
+        ],
+        "buttons_color_palette": "black",
+        "button_styling": "fill",
+        "text_alignment": "center",
+        "title": "Best selling collections",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -703,6 +745,7 @@
     "d9fb4495-b866-486e-8ba9-51792984f237",
     "dd70eab5-fe93-419f-8342-45e097b9c6db",
     "8ad3b6b6-16ef-46ac-89b0-c7af2c7ccdcf",
-    "7efdb952-031e-42a4-9439-4bc041272a11"
+    "7efdb952-031e-42a4-9439-4bc041272a11",
+    "b0acc620-7fdf-4889-b9e2-533d9be1c2e4"
   ]
 }
