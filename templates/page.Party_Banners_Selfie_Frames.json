@@ -498,6 +498,37 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "9f30bc31-121c-494d-b081-9696ef3414e1": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "wedding",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -508,6 +539,7 @@
     "a0d5838b-3748-4b7b-8b46-23aa21659d26",
     "6b3779a2-2686-464e-9a79-8df10319f9f5",
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
-    "528d4558-6cf5-43c5-99b5-65c9611f4604"
+    "528d4558-6cf5-43c5-99b5-65c9611f4604",
+    "9f30bc31-121c-494d-b081-9696ef3414e1"
   ]
 }
