@@ -677,7 +677,7 @@
         "color_palette": "white",
         "overlay_opacity": 100,
         "layout": "image-left",
-        "width": "boxed",
+        "width": "wide",
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
