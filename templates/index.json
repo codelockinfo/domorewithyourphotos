@@ -1224,7 +1224,7 @@
     "64c3791c-5203-4ab0-a1d6-9a533845659d": {
       "type": "section-image-with-products",
       "custom_css": [
-
+        "@media only screen and (max-width: 760px) {.ff-primary{margin-top: -50%; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
