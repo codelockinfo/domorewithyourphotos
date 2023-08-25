@@ -859,14 +859,14 @@
             "look_label_text": "Label"
           }
         },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4": {
+        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
-            "title": "Birthday Gifts",
+            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
+            "title": "Anniversary",
             "text": "",
             "link_text": "View More",
-            "link_url": "shopify:\/\/pages\/birthday",
+            "link_url": "shopify:\/\/pages\/anniversaryday",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -879,14 +879,14 @@
             "look_label_text": "Label"
           }
         },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-5": {
+        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
-            "title": "Anniversary",
+            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
+            "title": "Birthday Gifts",
             "text": "",
             "link_text": "View More",
-            "link_url": "shopify:\/\/pages\/anniversaryday",
+            "link_url": "shopify:\/\/pages\/birthday",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -942,8 +942,8 @@
       },
       "block_order": [
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-1",
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4",
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-5",
+        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4",
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-3",
         "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-2"
       ],
