@@ -118,6 +118,7 @@
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-1",
         "template--19502537441610__037bcf7a-b179-4ba3-956c-108c53ccdc05-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -133,6 +134,35 @@
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-l",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7157911b-da57-4991-ad45-88aedd68c0d7": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "personalised-selfie-frames-for-anniversaries",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -158,7 +188,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>With a Party Gift, 1st Personalised Photo Banner  selfie frame. This Party is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing party photos and we will do the rest.<\/p>"
+            "text": "<p>Selfie frames are a relatively new trend in the worlds of social media, photography and business. Generally made from cardboard or foam, the frame is supposed to be used as a faux picture frame for a selfie photo, finished with <strong>either branding or some sort of commemorative slogans or text<\/strong>, depending on the event.<\/p>"
           }
         },
         "template--19502537441610__bd3d6424-7549-4c38-bd4f-8d6f0a8ef334-usp-1": {
@@ -214,7 +244,7 @@
       ],
       "settings": {
         "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/Landing_page1a_f578900a-c886-4063-94a2-17ba2b5e86d0.jpg",
+        "image": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -231,6 +261,7 @@
     },
     "a0d5838b-3748-4b7b-8b46-23aa21659d26": {
       "type": "section-featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "personalised-photo-banners-for-weddings-hen-partys",
         "limit": 8,
@@ -349,6 +380,7 @@
     },
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960": {
       "type": "section-featured-products",
+      "disabled": true,
       "custom_css": [
         ".link-btn a:before {background: #b41717 !important;}"
       ],
@@ -479,6 +511,7 @@
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-1",
         "template--19502537441610__528d4558-6cf5-43c5-99b5-65c9611f4604-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -498,16 +531,318 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "9f30bc31-121c-494d-b081-9696ef3414e1": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "wedding",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Wedding Gift Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7d7374c0-7348-4888-b1d2-395cf2747793": {
+      "type": "section-lookbook",
+      "blocks": {
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/59b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/banners-for-anniversaries",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Anniversary Banners"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/83a.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Birthdays Frame"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/79b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/confirmation-personalised-photo-banners",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Confirmation Banners"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/92a.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/engagement-banners",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Engagement Banners"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/55b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/welcome-memorial",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Welcome  Party"
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1"
+      ],
+      "custom_css": [
+        ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
+      ],
+      "settings": {
+        "number_of_items": 3,
+        "space_between": 16,
+        "text_alignment": "center",
+        "title": "Party Banner",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "title_position": "center",
+        "lookbook_title_font": "primary",
+        "lookbook_title_size": "h2",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "65948ab0-8666-41ba-8277-1c289e72734b": {
+      "type": "section-testimonials",
+      "blocks": {
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>The design came out perfectly, however it would be nice for the product to come pre-cut rather than having to do it yourself. Aside from that, no complaints!<\/p>",
+            "score": 5,
+            "author": "Joce Stallworth",
+            "place": ""
+          }
+        },
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>This product is very flimsy and doesn't hold up well. It arrived creased. The seller also had it made and sent before I sent over the graphic for the \"profile picture\", which was disappointing. I understand they have shipping times they try to get the product out by, but its better for a product to be late and perfect than on time and sub par.<\/p>",
+            "score": 5,
+            "author": "Elizabeth Crawford",
+            "place": ""
+          }
+        },
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>I absolutely loved the selfie frame. The only issue was that I had to find someone to mount it and that cost an additional $30.00.<\/p>",
+            "score": 5,
+            "author": "Adrian V",
+            "place": ""
+          }
+        },
+        "4560309e-b6ff-4513-b0ee-2b2c086abe46": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>I was totally in love with this item and the company customer service was beyond excellence. They got the product out to me 5 days before it was scheduled to arrive and all my personalizations we exact. I totally we had anockaging issue but they got everything fixed in a timely matter and I still received it before my event. The customer service was prompt and super professional. I will be ordering more items from this company for future events!<\/p>",
+            "score": 4,
+            "author": "Elizabeth Crawford",
+            "place": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-1",
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-2",
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-3",
+        "4560309e-b6ff-4513-b0ee-2b2c086abe46"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_palette": "light",
+        "overlay_opacity": 100,
+        "layout": "rows",
+        "items_width": 3,
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "text_alignment": "center",
+        "title": "<strong>Customer reviews<\/strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<h6>Top Positive review<\/h6>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "testimonials_boxed": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "a0594d2f-785a-4661-94fc-0eb7681f8c24": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "avengers-personalised-childrens-birthday-selfie-frame",
+          "celebrate-our-graduation-personalised-selfie-frame",
+          "celebrate-the-christening-day-personalised-selfie-frame",
+          "cheers-beers-personalised-birthday-selfie-frame",
+          "christening-party-personalised-selfie-frame",
+          "class-of-personalised-selfie-frame-add-your-college-logo",
+          "custom-christening-day-personalised-selfie-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Selfie Banner Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "037bcf7a-b179-4ba3-956c-108c53ccdc05",
+    "7157911b-da57-4991-ad45-88aedd68c0d7",
     "bd3d6424-7549-4c38-bd4f-8d6f0a8ef334",
     "a0d5838b-3748-4b7b-8b46-23aa21659d26",
     "6b3779a2-2686-464e-9a79-8df10319f9f5",
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
-    "528d4558-6cf5-43c5-99b5-65c9611f4604"
+    "528d4558-6cf5-43c5-99b5-65c9611f4604",
+    "9f30bc31-121c-494d-b081-9696ef3414e1",
+    "7d7374c0-7348-4888-b1d2-395cf2747793",
+    "65948ab0-8666-41ba-8277-1c289e72734b",
+    "a0594d2f-785a-4661-94fc-0eb7681f8c24"
   ]
 }
