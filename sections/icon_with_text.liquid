@@ -1,4 +1,4 @@
-<div class="Containers blockslide4">
+<div class="Containers blockslide4 text-end w100 size-l size-s-mobile dont-move" >
     <div class="maindivv productslider1">
         {% for block in section.blocks %}
             <div class="block-1">
@@ -18,7 +18,7 @@
   {% schema %}
   {
     "name": "Icon With text",
-    "class":"IconWith_text",
+    "class":"IconWith_text l4ft fullwidth  dont-move",
     "settings": [
     ],
       "blocks": [
@@ -53,6 +53,9 @@
   }
   {% endschema %}
   {% stylesheet %}
+  .IconWith_text {
+    background: #000;
+  }
     .blockslide4text {
         display: flex;
         justify-content: space-between;
@@ -73,14 +76,14 @@
     .maindivv.productslider1 {
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: center;
         flex-wrap: wrap;
     }
    .blockslide4 .block-1 {
        width: calc(33% - 16px);
         -webkit-flex-basis: calc(33.33% - 16px);
         flex-basis: calc(33% - 16px);
-        padding: 0 1%;
+        padding: 1% 1%;
     
     }
     .slidebtn h2{
@@ -90,7 +93,7 @@
         line-height: 1.8;
         font-style: normal;
         margin-bottom:0;
-        color:#000;
+        color:#fff; 
         text-align:center;
     }
     .Containers.blockslide4 {
