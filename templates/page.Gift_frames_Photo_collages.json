@@ -625,6 +625,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "7efdb952-031e-42a4-9439-4bc041272a11": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h3",
+            "title": "Giving a framed photo is a timeless gift",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Giving them a photo frame to commemorate an important event will allow them to look back at it with pride- and remember you for gifting them with a means to help remember that moment by. Some people also use photo frames to preserve other memories from their lives.<\/p>"
+          }
+        },
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Read More",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-title-1",
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-text-1",
+        "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "wide",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -641,6 +702,7 @@
     "4e0b2ee4-12ba-4762-b273-1b3eec95b38c",
     "dd70eab5-fe93-419f-8342-45e097b9c6db",
     "d9fb4495-b866-486e-8ba9-51792984f237",
-    "8ad3b6b6-16ef-46ac-89b0-c7af2c7ccdcf"
+    "8ad3b6b6-16ef-46ac-89b0-c7af2c7ccdcf",
+    "7efdb952-031e-42a4-9439-4bc041272a11"
   ]
 }
