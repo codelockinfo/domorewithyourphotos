@@ -284,6 +284,67 @@
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom Frames or Traditional Photo Album here"
       }
+    },
+    "896a153a-c5ea-43ce-9dac-a6be1c566fd7": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19511055057226__896a153a-c5ea-43ce-9dac-a6be1c566fd7-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/CPD1b_c2caaa6f-d9d9-47db-8a89-7daa6f1446d2.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19511055057226__896a153a-c5ea-43ce-9dac-a6be1c566fd7-image-1"
+      ],
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "wide",
+        "height": "size-l",
+        "enable_custom_height": true,
+        "custom_height": 600,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -294,6 +355,7 @@
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "896a153a-c5ea-43ce-9dac-a6be1c566fd7"
   ]
 }
