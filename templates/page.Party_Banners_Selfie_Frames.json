@@ -638,6 +638,9 @@
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5"
       ],
+      "custom_css": [
+        ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
+      ],
       "settings": {
         "number_of_items": 3,
         "space_between": 16,
