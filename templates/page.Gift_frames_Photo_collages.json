@@ -689,6 +689,9 @@
     },
     "b0acc620-7fdf-4889-b9e2-533d9be1c2e4": {
       "type": "section-collection-button-list",
+      "custom_css": [
+        ".link-btn a:before {background: #b41717;}"
+      ],
       "settings": {
         "collections": [
           "18th-birthday-gift-ideas",
