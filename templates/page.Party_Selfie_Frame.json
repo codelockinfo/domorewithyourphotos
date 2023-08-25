@@ -321,6 +321,50 @@
       "settings": {
         "title": "Cant find what you are looking for?    Order a custom Selfie Frame here"
       }
+    },
+    "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "personalised-selfie-frames-for-weddings-and-hen-parties",
+          "personalised-selfie-frames-for-schools-and-graduations",
+          "personalised-selfie-frames-for-communion-and-confirmations",
+          "personalised-selfie-frames-for-christenings-naming-days",
+          "personalised-selfie-frames-for-childrens-birthdays",
+          "personalised-selfie-frames-for-birthdays",
+          "personalised-selfie-frame-collection",
+          "personalised-selfie-frames-for-anniversaries"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Selfie Frame  List",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -331,6 +375,7 @@
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e"
   ]
 }
