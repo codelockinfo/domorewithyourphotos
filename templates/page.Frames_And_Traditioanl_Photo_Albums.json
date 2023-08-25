@@ -72,8 +72,7 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label",
-            "image_mobile": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg"
+            "look_label_text": "Label"
           }
         }
       },
