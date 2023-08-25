@@ -523,6 +523,10 @@
         "9b82718c-0a85-4c98-99e4-730f6f12ea7f",
         "57cbc34a-f5f2-4f5b-b2e0-60865aef6dac"
       ],
+      "custom_css": [
+        ".img-fuji {width: 100% !important;}",
+        ".img-link{margin-top:5%; margin-bottom:5%;}"
+      ],
       "settings": {
         "heading": "Gift Frames Shop by Recipient",
         "image_1": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
