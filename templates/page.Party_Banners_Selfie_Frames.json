@@ -231,6 +231,7 @@
     },
     "a0d5838b-3748-4b7b-8b46-23aa21659d26": {
       "type": "section-featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "personalised-photo-banners-for-weddings-hen-partys",
         "limit": 8,
@@ -503,10 +504,10 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "wedding",
-        "limit": 5,
+        "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "Featured collection",
+        "text_alignment": "center",
+        "title": "Wedding Gift Frame",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -519,12 +520,148 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>Share information and details about this collection<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
-        "link_text": "View all",
+        "link_text": "",
         "button_color_palette": "accent",
         "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7d7374c0-7348-4888-b1d2-395cf2747793": {
+      "type": "section-lookbook",
+      "blocks": {
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/55b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "Button",
+            "link_url": "shopify:\/\/products\/welcome-to-my-confirmation-personalised-photo-banner",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Welcome  Party"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5"
+      ],
+      "settings": {
+        "number_of_items": 3,
+        "space_between": 16,
+        "text_alignment": "center",
+        "title": "Party Banner",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "title_position": "center",
+        "lookbook_title_font": "primary",
+        "lookbook_title_size": "h2",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -540,6 +677,7 @@
     "6b3779a2-2686-464e-9a79-8df10319f9f5",
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
     "528d4558-6cf5-43c5-99b5-65c9611f4604",
-    "9f30bc31-121c-494d-b081-9696ef3414e1"
+    "9f30bc31-121c-494d-b081-9696ef3414e1",
+    "7d7374c0-7348-4888-b1d2-395cf2747793"
   ]
 }
