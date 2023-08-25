@@ -756,6 +756,7 @@
         "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-3",
         "4560309e-b6ff-4513-b0ee-2b2c086abe46"
       ],
+      "disabled": true,
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
@@ -788,6 +789,45 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "a0594d2f-785a-4661-94fc-0eb7681f8c24": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "avengers-personalised-childrens-birthday-selfie-frame",
+          "celebrate-our-graduation-personalised-selfie-frame",
+          "celebrate-the-christening-day-personalised-selfie-frame",
+          "cheers-beers-personalised-birthday-selfie-frame",
+          "christening-party-personalised-selfie-frame",
+          "class-of-personalised-selfie-frame-add-your-college-logo",
+          "custom-christening-day-personalised-selfie-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Selfie Banner Frame",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -802,6 +842,7 @@
     "528d4558-6cf5-43c5-99b5-65c9611f4604",
     "9f30bc31-121c-494d-b081-9696ef3414e1",
     "7d7374c0-7348-4888-b1d2-395cf2747793",
-    "65948ab0-8666-41ba-8277-1c289e72734b"
+    "65948ab0-8666-41ba-8277-1c289e72734b",
+    "a0594d2f-785a-4661-94fc-0eb7681f8c24"
   ]
 }
