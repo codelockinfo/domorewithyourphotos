@@ -803,8 +803,11 @@
         "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-2",
         "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Events",
         "title_font": "primary",
         "title_size": "h2",
