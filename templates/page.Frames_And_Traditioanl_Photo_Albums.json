@@ -42,11 +42,11 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/personalized-banner.jpg",
+            "image": "shopify:\/\/shop_images\/pngtree-new-year-gift-banner-poster-image_18772.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-start",
+            "text_position": "text-center",
             "title": "Traditional Photo Albums",
             "title_font": "primary",
             "title_size": "h2",
