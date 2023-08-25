@@ -675,6 +675,32 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "7157911b-da57-4991-ad45-88aedd68c0d7": {
+      "type": "section-shop-the-look-collection",
+      "settings": {
+        "collection": "personalised-birthday-photo-banners-for-adults",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -687,6 +713,7 @@
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
     "528d4558-6cf5-43c5-99b5-65c9611f4604",
     "9f30bc31-121c-494d-b081-9696ef3414e1",
-    "7d7374c0-7348-4888-b1d2-395cf2747793"
+    "7d7374c0-7348-4888-b1d2-395cf2747793",
+    "7157911b-da57-4991-ad45-88aedd68c0d7"
   ]
 }
