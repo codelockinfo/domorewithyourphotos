@@ -426,6 +426,35 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "personalised-selfie-frames-for-christenings-naming-days",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -438,6 +467,7 @@
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
     "daa7aef0-9ee4-4eb0-ad97-55e741073369",
     "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e",
-    "ce63145b-14b6-48c1-bb97-70c250026268"
+    "ce63145b-14b6-48c1-bb97-70c250026268",
+    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0"
   ]
 }
