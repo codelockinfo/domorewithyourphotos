@@ -126,8 +126,8 @@
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
+        "enable_custom_height": true,
+        "custom_height": 600,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
@@ -240,6 +240,7 @@
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": false,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -335,7 +336,7 @@
       ],
       "custom_css": [
         "h3 {text-align: center;}",
-        "@media only screen and (max-width: 620px){.col-sm-3.col-xs-12.category-sub {width: 100%;}}"
+        "@media only screen and (max-width: 620px) {.col-sm-3.col-xs-12.category-sub {width: 100%; }}"
       ],
       "settings": {
         "title": "Personalised Photo Banners & Selfie Frames",
@@ -371,6 +372,7 @@
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": false,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
