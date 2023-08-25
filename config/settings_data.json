@@ -53,7 +53,7 @@
     "h3_size_mobile": 20,
     "h4_size_mobile": 18,
     "body_font_size_mobile": "14px",
-    "custom_product_image_ratio": 100,
+    "custom_product_image_ratio": 50,
     "fill_product_images": false,
     "multiply_product_images": "multiply",
     "multiply_collection_images": "multiply-bg",
