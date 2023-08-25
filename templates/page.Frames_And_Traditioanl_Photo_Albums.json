@@ -524,6 +524,108 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "00c5db3f-735a-45f1-bb3d-e7965a06616d": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Traditional Photoshoot Digital Print Photo Frame ",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Traditional picture frames are elegant and sophisticated styles that will stand the test of time. They often feature fine materials such as hardwoods and luxurious finishes like gold leaf. Some traditional picture frames have ornate details, others exude more understated elegance.<\/p>"
+          }
+        },
+        "9c324113-6f2a-4656-b6bd-13d764c7e02b": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Whether you've got a large or small image, you can use this sized frame for it. All you have do is add a mat into the frame to use images as small as 4x6.We consider a 12x16 frame a standard size, which means it's available in all of our series.<\/p>"
+          }
+        },
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "About Us",
+            "link_url_1": "shopify:\/\/pages\/about-us",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-title-1",
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-text-1",
+        "9c324113-6f2a-4656-b6bd-13d764c7e02b",
+        "template--19511055057226__00c5db3f-735a-45f1-bb3d-e7965a06616d-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/SFWedding12a2.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "46cb7230-089d-4f2d-a9e8-1e756dbdf751": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "frames-photoalbums",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -539,6 +641,8 @@
     "6b2afe9c-9335-4529-94fe-933714f0e5f4",
     "258820cb-af70-4407-ba72-617dfb3f1979",
     "b780299b-8d68-431a-ada9-6527c5484689",
-    "8da40940-20a1-4c68-b6a2-fb906db010b7"
+    "8da40940-20a1-4c68-b6a2-fb906db010b7",
+    "00c5db3f-735a-45f1-bb3d-e7965a06616d",
+    "46cb7230-089d-4f2d-a9e8-1e756dbdf751"
   ]
 }
