@@ -355,7 +355,7 @@
         "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-1": {
           "type": "tab",
           "settings": {
-            "title": "First tab",
+            "title": "6x4 Traditional Photo Albums",
             "icon": "none",
             "header_image_width": 25,
             "collection": "6x4-traditional-photo-albums",
@@ -372,10 +372,10 @@
         "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-2": {
           "type": "tab",
           "settings": {
-            "title": "Second tab",
+            "title": "7x5 Traditional Photo Albums",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "",
+            "collection": "traditional-7x5-photo-albums",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of second tab<\/p>",
@@ -389,13 +389,30 @@
         "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-3": {
           "type": "tab",
           "settings": {
-            "title": "Third tab",
+            "title": "Traditional Baby Photo Albums",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "",
+            "collection": "traditional-baby-photo-albums",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of third tab<\/p>",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "b7d53baf-ebe3-4de9-98b9-18fef927fa46": {
+          "type": "tab",
+          "settings": {
+            "title": "Traditional Wedding Albums",
+            "icon": "none",
+            "header_image_width": 25,
+            "collection": "traditional-wedding-albums",
+            "products_limit": 5,
+            "number_of_items": 4,
+            "text": "<p>Tab content<\/p>",
             "page": "",
             "image_width": 460,
             "liquid": "",
@@ -407,7 +424,8 @@
       "block_order": [
         "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-1",
         "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-2",
-        "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-3"
+        "template--19511055057226__6b2afe9c-9335-4529-94fe-933714f0e5f4-tab-3",
+        "b7d53baf-ebe3-4de9-98b9-18fef927fa46"
       ],
       "settings": {
         "alignment": "center",
