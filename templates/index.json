@@ -45,6 +45,9 @@
       "block_order": [
         "template--19423284199754__e062a8df-cf0f-405b-8bd2-781f19f03e7a-image-1"
       ],
+      "custom_css": [
+        "@media only screen and (max-width: 760px) {h1.ff-primary {display: none; }}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
