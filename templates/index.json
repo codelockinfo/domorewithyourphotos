@@ -330,7 +330,7 @@
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
       "custom_css": [
-        ".categories-heading h3{text-align:center;}"
+        ".categories-heading h3 {text-align: center;}"
       ],
       "settings": {
         "tradinghead": "Shop Trending Categories",
@@ -1191,7 +1191,7 @@
         "show_in_circle": false,
         "number_of_items": 4,
         "space_between": 16,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Social stories",
         "title_font": "primary",
         "title_size": "h2",
@@ -1426,7 +1426,7 @@
           "your-life-was-a-blessing-memorial-plaque"
         ],
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Best Sellers",
         "title_font": "primary",
         "title_size": "h2",
@@ -1518,7 +1518,7 @@
       "settings": {
         "blog": "news",
         "number_of_items": 3,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Blog posts",
         "title_font": "primary",
         "title_size": "h2",
