@@ -504,17 +504,17 @@
           "settings": {
             "highlight": "Gifts for Family",
             "last_title": "",
-            "collection_limit": 9,
+            "collection_limit": 6,
             "title": "family-gifts"
           }
         },
         "57cbc34a-f5f2-4f5b-b2e0-60865aef6dac": {
           "type": "image",
           "settings": {
-            "highlight": "",
+            "highlight": "Gifts for Pets",
             "last_title": "",
-            "collection_limit": 9,
-            "title": ""
+            "collection_limit": 6,
+            "title": "gifts-for-pets"
           }
         }
       },
@@ -524,10 +524,11 @@
       ],
       "settings": {
         "heading": "Gift Frames Shop by Recipient",
-        "sub_heading": "Gifts for Family",
+        "image_1": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
+        "sub_heading": "",
         "content": "",
-        "image_2": "shopify:\/\/shop_images\/dreamstime_m_9913995_5491ab91-01e4-49a3-926c-594ae890b8c7.jpg",
-        "image_link_2": "shopify:\/\/collections\/family-gifts",
+        "image_2": "shopify:\/\/shop_images\/shutterstock_1249023355.jpg",
+        "image_link_2": "shopify:\/\/collections\/gifts-for-children",
         "image_link_3": ""
       }
     }
