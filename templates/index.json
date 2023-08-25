@@ -1059,7 +1059,7 @@
     "91785d11-bdca-4dcf-9184-f2eaa5be6bfb": {
       "type": "section-collection-list",
       "custom_css": [
-        "@media only screen and (max-width: 760px) {.l4cl.mobile-scroll > li {width: 100% !important;}}"
+        "@media only screen and (max-width: 760px) {ul li {width: 100% !important; }}"
       ],
       "settings": {
         "collections": [
@@ -1255,8 +1255,8 @@
         "link_text": "Shop Now",
         "link_url": "shopify:\/\/products\/50-years-together-sentiment-frame",
         "show_link": false,
-        "width_mobile": "boxed",
-        "mobile_height": "size-s",
+        "width_mobile": "wide",
+        "mobile_height": "size-m",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
