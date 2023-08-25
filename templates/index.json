@@ -37,7 +37,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/selfie_frames-1.jpg"
           }
         }
       },
@@ -1398,7 +1399,7 @@
         "8502fe75-d140-4b78-96b8-10b33781f7d2"
       ],
       "custom_css": [
-        ".column-third {width: 32%; padding:0 10px;}",
+        ".column-third {width: 32%; padding: 0 10px;}",
         "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
         "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
       ],
