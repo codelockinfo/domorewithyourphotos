@@ -705,6 +705,89 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "65948ab0-8666-41ba-8277-1c289e72734b": {
+      "type": "section-testimonials",
+      "blocks": {
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>The design came out perfectly, however it would be nice for the product to come pre-cut rather than having to do it yourself. Aside from that, no complaints!<\/p>",
+            "score": 5,
+            "author": "Joce Stallworth",
+            "place": ""
+          }
+        },
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>This product is very flimsy and doesn't hold up well. It arrived creased. The seller also had it made and sent before I sent over the graphic for the \"profile picture\", which was disappointing. I understand they have shipping times they try to get the product out by, but its better for a product to be late and perfect than on time and sub par.<\/p>",
+            "score": 5,
+            "author": "Elizabeth Crawford",
+            "place": ""
+          }
+        },
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>I absolutely loved the selfie frame. The only issue was that I had to find someone to mount it and that cost an additional $30.00.<\/p>",
+            "score": 5,
+            "author": "Adrian V",
+            "place": ""
+          }
+        },
+        "4560309e-b6ff-4513-b0ee-2b2c086abe46": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "text": "<p>I was totally in love with this item and the company customer service was beyond excellence. They got the product out to me 5 days before it was scheduled to arrive and all my personalizations we exact. I totally we had anockaging issue but they got everything fixed in a timely matter and I still received it before my event. The customer service was prompt and super professional. I will be ordering more items from this company for future events!<\/p>",
+            "score": 4,
+            "author": "Elizabeth Crawford",
+            "place": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-1",
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-2",
+        "template--19502537441610__65948ab0-8666-41ba-8277-1c289e72734b-testimonial-3",
+        "4560309e-b6ff-4513-b0ee-2b2c086abe46"
+      ],
+      "settings": {
+        "color_palette": "light",
+        "overlay_opacity": 100,
+        "layout": "rows",
+        "items_width": 3,
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "text_alignment": "center",
+        "title": "<strong>Customer reviews<\/strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<h6>Top Positive review<\/h6>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "testimonials_boxed": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -718,6 +801,7 @@
     "0c13970e-7bc2-45bc-b11e-9e19bfaa9960",
     "528d4558-6cf5-43c5-99b5-65c9611f4604",
     "9f30bc31-121c-494d-b081-9696ef3414e1",
-    "7d7374c0-7348-4888-b1d2-395cf2747793"
+    "7d7374c0-7348-4888-b1d2-395cf2747793",
+    "65948ab0-8666-41ba-8277-1c289e72734b"
   ]
 }
