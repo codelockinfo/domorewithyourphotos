@@ -1239,11 +1239,11 @@
           "kenro-minimax-100-photos-6x4-red-photo-album",
           "kenro-candy-series-100-photos-6x4-memo-photo-album"
         ],
-        "text_position": "align-bottom text-center",
+        "text_position": "align-top text-start",
         "title": "SYMPHONY",
         "title_font": "primary",
         "title_size": "h2",
-        "enable_custom_text_styling": false,
+        "enable_custom_text_styling": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
