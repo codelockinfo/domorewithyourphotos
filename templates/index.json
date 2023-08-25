@@ -1398,7 +1398,7 @@
         "8502fe75-d140-4b78-96b8-10b33781f7d2"
       ],
       "custom_css": [
-        ".column-third {width: 33%;}",
+        ".column-third {width: 32%; padding:0 10px;}",
         "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
         "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
       ],
