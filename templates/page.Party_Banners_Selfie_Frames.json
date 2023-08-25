@@ -534,6 +534,46 @@
     "7d7374c0-7348-4888-b1d2-395cf2747793": {
       "type": "section-lookbook",
       "blocks": {
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/59b.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/banners-for-anniversaries",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Anniversary Banners"
+          }
+        },
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/83a.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "View More",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Birthdays Frame"
+          }
+        },
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1": {
           "type": "image",
           "settings": {
@@ -554,51 +594,13 @@
             "look_label_text": "Welcome  Party"
           }
         },
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2": {
-          "type": "image",
-          "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3": {
-          "type": "image",
-          "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
+            "title": "",
+            "text": "",
             "link_text": "Button",
-            "link_url": "",
+            "link_url": "shopify:\/\/collections\/confirmation-personalised-photo-banners",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -607,8 +609,8 @@
             ],
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "show_look_label": true,
+            "look_label_text": "Confirmation Banners"
           }
         },
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5": {
@@ -632,9 +634,9 @@
         }
       },
       "block_order": [
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1",
-        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-3",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-2",
+        "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-1",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-4",
         "template--19502537441610__7d7374c0-7348-4888-b1d2-395cf2747793-image-5"
       ],
