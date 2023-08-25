@@ -80,6 +80,9 @@
       "block_order": [
         "template--19511055057226__896a153a-c5ea-43ce-9dac-a6be1c566fd7-image-1"
       ],
+      "custom_css": [
+        "h1.ff-primary {display: noe;}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
