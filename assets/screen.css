@@ -7039,3 +7039,10 @@ section.photo-album-banner.l4ft.fullwidth{
     width: 60%;
     margin: 0 auto;
 }
+
+
+@media only screen and (max-width: 760px) {
+	#root #content .section_collist .l4cl.mobile-scroll > li{
+		width:100% !important;
+	}
+}
