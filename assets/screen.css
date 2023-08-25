@@ -6990,6 +6990,9 @@ section.photo-main-sec {
 .home-page-frames .col9 .image-block.slide a{
 	text-decoration: none;
 }
+#distance-spacer{
+	height: 120px !important;
+}
 @media only screen and (max-width: 1000px){
 	[dir="ltr"] #root .l4ft.mobile-compact > li:last-child{
   		border-right-width:unset !important; 
