@@ -382,6 +382,9 @@
     },
     "9d926633-a152-440f-9607-0f67635fe9d0": {
       "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img{opacity:0;}"
+      ],
       "settings": {
         "collection": "grandparents-gifts",
         "overlay_opacity": 0,
