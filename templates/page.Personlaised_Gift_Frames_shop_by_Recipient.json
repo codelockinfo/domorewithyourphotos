@@ -525,14 +525,14 @@
       ],
       "custom_css": [
         ".img-fuji {width: 100% !important;}",
-        ".img-link{margin-top:5%; margin-bottom:5%;}"
+        ".img-link {margin-top: 5%; margin-bottom: 5%;}"
       ],
       "settings": {
         "heading": "Gift Frames Shop by Recipient",
         "image_1": "shopify:\/\/shop_images\/W63_a2274423-0793-476c-913f-6b071356c8e9.jpg",
         "sub_heading": "",
         "content": "",
-        "image_2": "shopify:\/\/shop_images\/shutterstock_1249023355.jpg",
+        "image_2": "shopify:\/\/shop_images\/dreamstime_m_74242903.jpg",
         "image_link_2": "shopify:\/\/collections\/gifts-for-children",
         "image_link_3": ""
       }
