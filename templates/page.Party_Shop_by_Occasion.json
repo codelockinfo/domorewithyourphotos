@@ -727,6 +727,104 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "22395078-b3e3-47fd-b85d-dc7ab6dc313d": {
+      "type": "section-events-calendar",
+      "blocks": {
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-1": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/37b.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Baby-Shower",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "July 20th",
+            "time": "9PM - 6PM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": false
+          }
+        },
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-2": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12b_e1fd8264-02ab-4675-99f3-20478d5ecac2.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Birthday",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "August 25th",
+            "time": "8PM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": true
+          }
+        },
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3": {
+          "type": "event",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/59a.jpg",
+            "date_color_palette": "dark",
+            "button_color_palette": "accent",
+            "title": "Wedding",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "text": "",
+            "date": "August 26th",
+            "time": "8AM",
+            "location": "Other",
+            "location_url": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-1",
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-2",
+        "template--19502640070986__22395078-b3e3-47fd-b85d-dc7ab6dc313d-event-3"
+      ],
+      "settings": {
+        "text_alignment": "start",
+        "title": "Events",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -740,6 +838,7 @@
     "553c7052-fb04-4a69-8884-bb5132ed9239",
     "e388f5ee-3290-410b-b9f9-15f2f72aa086",
     "f44a4172-c581-423f-912f-c25269fa39c4",
-    "3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a"
+    "3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a",
+    "22395078-b3e3-47fd-b85d-dc7ab6dc313d"
   ]
 }
