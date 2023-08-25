@@ -427,37 +427,6 @@
         "main2_product": "gold-graduation-personalised-selfie-frame"
       }
     },
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
-      "type": "Birthday_collection",
-      "blocks": {
-        "577caf9f-4efa-4ad0-8856-beb430de1397": {
-          "type": "block",
-          "settings": {
-            "product": "custom-bitmoji-caricature-wedding-welcome-frame"
-          }
-        },
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
-          "type": "block",
-          "settings": {
-            "product": "custom-christening-day-personalised-selfie-frame"
-          }
-        },
-        "632e8632-de80-4172-9d50-daf57345553b": {
-          "type": "block",
-          "settings": {
-            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
-          }
-        }
-      },
-      "block_order": [
-        "577caf9f-4efa-4ad0-8856-beb430de1397",
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
-        "632e8632-de80-4172-9d50-daf57345553b"
-      ],
-      "settings": {
-        "title": "Cant find what you are looking for?    Order a custom Selfie Frame here"
-      }
-    },
     "538ce0e4-801f-4c4d-aaff-dc1eed342e29": {
       "type": "section-featured-products",
       "settings": {
@@ -497,6 +466,37 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-bitmoji-caricature-wedding-welcome-frame"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "custom-christening-day-personalised-selfie-frame"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
+      "settings": {
+        "title": "Cant find what you are looking for?    Order a custom Selfie Frame here"
+      }
     }
   },
   "order": [
@@ -510,7 +510,7 @@
     "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e",
     "ce63145b-14b6-48c1-bb97-70c250026268",
     "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
-    "538ce0e4-801f-4c4d-aaff-dc1eed342e29"
+    "538ce0e4-801f-4c4d-aaff-dc1eed342e29",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
   ]
 }
