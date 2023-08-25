@@ -1424,7 +1424,7 @@
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
