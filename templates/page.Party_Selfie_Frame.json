@@ -208,6 +208,7 @@
         "f0c4b3d2-611f-4156-a9df-6f2abafe6fda",
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
+      "disabled": true,
       "settings": {
         "title": "Party Selfie Frame",
         "html": "",
@@ -231,95 +232,33 @@
         "bg_text": "#ffffff"
       }
     },
-    "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
-      "type": "birthday_offer",
-      "blocks": {
-        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
-          "type": "block",
-          "settings": {
-            "product": "gold-pink-balloon-party-personalised-birthday-selfie-frame",
-            "product2": "gold-celebration-personalised-birthday-selfie-frame"
-          }
-        },
-        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
-          "type": "block",
-          "settings": {
-            "product": "gold-graduation-personalised-selfie-frame",
-            "product2": "gold-floral-wedding-day-personalised-selfie-frame"
-          }
-        },
-        "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
-          "type": "block",
-          "settings": {
-            "product": "hen-party-famers-journal-personalised-selfie-frame",
-            "product2": "iggy-the-party-monster-personalised-childrens-birthday-selfie-frame"
-          }
-        },
-        "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
-          "type": "block",
-          "settings": {
-            "product": "in-the-jungle-party-personalised-childrens-birthday-selfie-frame",
-            "product2": "instagram-social-media-personalised-party-selfie-frame"
-          }
-        },
-        "91efe3ab-7124-4463-9a23-9064c1717a62": {
-          "type": "block",
-          "settings": {
-            "product": "iron-man-personalised-childrens-birthday-selfie-frame",
-            "product2": "lilac-balloon-party-personalised-birthday-selfie-frame"
-          }
-        },
-        "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
-          "type": "block",
-          "settings": {
-            "product": "pink-rose-floral-bridal-shower-personalised-selfie-frame",
-            "product2": "lilac-balloon-party-personalised-birthday-selfie-frame"
-          }
-        }
-      },
-      "block_order": [
-        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887",
-        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
-        "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
-        "2bc58445-1e65-40f6-95c0-ddb5227aac18",
-        "91efe3ab-7124-4463-9a23-9064c1717a62",
-        "d4e5eee4-860b-495c-80e9-5b16dc238b55"
+    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
       ],
       "settings": {
-        "right_text": "Party Frame Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "gold-graduation-personalised-selfie-frame",
-        "main2_product": "gold-graduation-personalised-selfie-frame"
-      }
-    },
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
-      "type": "Birthday_collection",
-      "blocks": {
-        "577caf9f-4efa-4ad0-8856-beb430de1397": {
-          "type": "block",
-          "settings": {
-            "product": "custom-bitmoji-caricature-wedding-welcome-frame"
-          }
-        },
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
-          "type": "block",
-          "settings": {
-            "product": "custom-christening-day-personalised-selfie-frame"
-          }
-        },
-        "632e8632-de80-4172-9d50-daf57345553b": {
-          "type": "block",
-          "settings": {
-            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
-          }
-        }
-      },
-      "block_order": [
-        "577caf9f-4efa-4ad0-8856-beb430de1397",
-        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
-        "632e8632-de80-4172-9d50-daf57345553b"
-      ],
-      "settings": {
-        "title": "Cant find what you are looking for?    Order a custom Selfie Frame here"
+        "collection": "personalised-selfie-frames-for-christenings-naming-days",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     },
     "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e": {
@@ -427,30 +366,133 @@
         "fix_zindex": 0
       }
     },
-    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0": {
-      "type": "section-shop-the-look-collection",
-      "custom_css": [
-        ".w75 figure picture img {opacity: 0;}"
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
+      "type": "birthday_offer",
+      "blocks": {
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
+          "type": "block",
+          "settings": {
+            "product": "gold-pink-balloon-party-personalised-birthday-selfie-frame",
+            "product2": "gold-celebration-personalised-birthday-selfie-frame"
+          }
+        },
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
+          "type": "block",
+          "settings": {
+            "product": "gold-graduation-personalised-selfie-frame",
+            "product2": "gold-floral-wedding-day-personalised-selfie-frame"
+          }
+        },
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
+          "type": "block",
+          "settings": {
+            "product": "hen-party-famers-journal-personalised-selfie-frame",
+            "product2": "iggy-the-party-monster-personalised-childrens-birthday-selfie-frame"
+          }
+        },
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
+          "type": "block",
+          "settings": {
+            "product": "in-the-jungle-party-personalised-childrens-birthday-selfie-frame",
+            "product2": "instagram-social-media-personalised-party-selfie-frame"
+          }
+        },
+        "91efe3ab-7124-4463-9a23-9064c1717a62": {
+          "type": "block",
+          "settings": {
+            "product": "iron-man-personalised-childrens-birthday-selfie-frame",
+            "product2": "lilac-balloon-party-personalised-birthday-selfie-frame"
+          }
+        },
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
+          "type": "block",
+          "settings": {
+            "product": "pink-rose-floral-bridal-shower-personalised-selfie-frame",
+            "product2": "lilac-balloon-party-personalised-birthday-selfie-frame"
+          }
+        }
+      },
+      "block_order": [
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887",
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18",
+        "91efe3ab-7124-4463-9a23-9064c1717a62",
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55"
+      ],
+      "disabled": true,
+      "settings": {
+        "right_text": "Party Frame Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "gold-graduation-personalised-selfie-frame",
+        "main2_product": "gold-graduation-personalised-selfie-frame"
+      }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-bitmoji-caricature-wedding-welcome-frame"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "custom-christening-day-personalised-selfie-frame"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-party-selfie-frame-we-will-design-for-free"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
       ],
       "settings": {
-        "collection": "personalised-selfie-frames-for-christenings-naming-days",
-        "overlay_opacity": 0,
-        "color_palette": "white",
-        "button_color_palette": "accent",
-        "height": "700px",
-        "enable_custom_height": false,
-        "custom_height": 350,
-        "layout": "image-left",
-        "text_position": "text-center",
+        "title": "Cant find what you are looking for?    Order a custom Selfie Frame here"
+      }
+    },
+    "538ce0e4-801f-4c4d-aaff-dc1eed342e29": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "christening-party-personalised-selfie-frame",
+          "custom-personalised-party-selfie-frame-we-will-design-for-free",
+          "disco-time-personalised-birthday-selfie-frame",
+          "facebook-social-media-personalised-party-selfie-frame",
+          "first-birthday-personalised-selfie-frame",
+          "first-day-at-school-personalised-selfie-frame",
+          "floral-gold-personalised-birthday-selfie-frame",
+          "floral-pink-rose-christening-day-selfie-frame"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Party Frames",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": false,
         "title_color_palette": "black",
         "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
         "font_size": "16px",
         "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
         "show_link": false,
-        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -464,10 +506,11 @@
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
-    "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
-    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0",
     "7b6b9e34-c33d-4ee8-a4f3-ccc855c9103e",
     "ce63145b-14b6-48c1-bb97-70c250026268",
-    "aae6df11-11bd-4dea-95d4-5682c0bbcdb0"
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369",
+    "538ce0e4-801f-4c4d-aaff-dc1eed342e29"
   ]
 }
