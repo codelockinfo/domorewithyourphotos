@@ -449,7 +449,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/collections\/photo-frames",
+            "imgid": "shopify:\/\/collections\/wooden-photo-frame-collection",
             "image": "shopify:\/\/shop_images\/default_name.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -910,7 +910,7 @@
             "title": "Wooden Photo Frames",
             "text": "",
             "link_text": "View More",
-            "link_url": "shopify:\/\/collections\/photo-frames",
+            "link_url": "shopify:\/\/collections\/wooden-photo-frame-collection",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
