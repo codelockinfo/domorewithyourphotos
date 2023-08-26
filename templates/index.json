@@ -1410,7 +1410,7 @@
       "custom_css": [
         ".column-third {width: 32%; padding: 0 10px;}",
         "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
-        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; margin-top:2%; }}"
       ],
       "settings": {
         "tradinghead": "",
