@@ -289,7 +289,6 @@
       "settings": {
         "collections": [
           "banners-for-anniversaries",
-          "birthday-gifts",
           "christening",
           "confirmation-gifts",
           "pets",
@@ -323,6 +322,37 @@
         "show_collection_titles": true,
         "collection_title_size": "p",
         "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "305aa582-08f8-4004-9e25-d49365507f7f": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "birthday-gifts",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Birthday Gift Collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -398,6 +428,7 @@
     "c527f255-eee0-462b-8374-8f39ce6ed270",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
     "255e2ab4-4ca6-4b40-9106-4597c15da0c2",
+    "305aa582-08f8-4004-9e25-d49365507f7f",
     "2adc8a8e-d2a6-44aa-a145-fe72986b3d80"
   ]
 }
