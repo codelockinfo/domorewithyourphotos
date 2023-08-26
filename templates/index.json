@@ -222,7 +222,7 @@
         "3283ad43-0987-4d0f-ab22-079018da623d": {
           "type": "collection",
           "settings": {
-            "imageurl": "shopify:\/\/shop_images\/icons8-star-half-empty-96_1.png",
+            "imageurl": "shopify:\/\/shop_images\/icons8-star-half-empty-96_3.png",
             "btntext": "700+ 5* Rating",
             "btndescription": ""
           }
@@ -423,7 +423,7 @@
         ".collageimg {color: #000; padding-top: 2%;}"
       ],
       "settings": {
-        "collageimg": "",
+        "collageimg": "Wall  Photos Decor",
         "mirrored": false,
         "width": "boxed",
         "height": "size-l",
@@ -467,7 +467,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/pages\/6x4-traditional-photo-albums",
+            "link_url": "",
             "show_link": true,
             "show_look": false,
             "product_list": [
