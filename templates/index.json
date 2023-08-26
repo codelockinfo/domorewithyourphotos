@@ -242,6 +242,9 @@
         "3283ad43-0987-4d0f-ab22-079018da623d",
         "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
       ],
+      "custom_css": [
+        ".maindivv.productslider1{padding: 7% 0;}"
+      ],
       "settings": {
       }
     },
