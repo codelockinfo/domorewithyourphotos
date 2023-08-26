@@ -172,7 +172,8 @@
         "enable_follow_on_shop": false,
         "show_payment_methods": true,
         "spacing_desktop": 0,
-        "spacing_mobile": 0
+        "spacing_mobile": 0,
+        "footericon": "shopify:\/\/shop_images\/secure-checkout_981f03b5-8617-4866-8cfa-d91bab7294d9.webp"
       }
     }
   },
