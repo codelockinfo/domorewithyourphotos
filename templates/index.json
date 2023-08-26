@@ -872,11 +872,11 @@
         "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1": {
           "type": "hotspot",
           "settings": {
-            "product": "",
+            "product": "slate-from-your-photo",
             "text_position": "text-start",
             "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "title": "Photo Slate",
+            "text": "<p>Put Your Photo On Slate<\/p>",
             "position_left": 25,
             "position_top": 10,
             "position_left_mobile": 25,
