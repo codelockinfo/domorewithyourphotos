@@ -171,7 +171,7 @@
         "166029118628eefa48-0": {
           "type": "usp",
           "settings": {
-            "usp": "<p>3 days Delivery <\/p><p>Order  Monday , Receive Friday<\/p>"
+            "usp": "<p>3 days Delivery - Order  Monday , Receive Friday<\/p>"
           }
         },
         "166029118628eefa48-1": {
@@ -192,7 +192,6 @@
         "166029118628eefa48-1",
         "166029118628eefa48-2"
       ],
-      "disabled": true,
       "custom_css": [
         ".l4us li:before {color: #b41717 !important;}",
         "@media only screen and (max-width: 760px) {.l4us-mobile {display: none !important; } .mobile-hide {display: block !important; position: unset !important; display: flex !important; overflow: scroll; flex-wrap: wrap; align-items: center; margin: 0; }}"
@@ -200,9 +199,9 @@
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
-        "layout": "rows",
-        "autoplay": false,
-        "autoplay_seconds": 3,
+        "layout": "slider",
+        "autoplay": true,
+        "autoplay_seconds": 1,
         "show_arrows": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
