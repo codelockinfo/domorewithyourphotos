@@ -17,6 +17,13 @@
             "text_alignment": "left"
           }
         },
+        "423fb7f6-2c97-4420-8211-d45378349d2a": {
+          "type": "description",
+          "settings": {
+            "text_alignment": "left",
+            "enable_read_more": false
+          }
+        },
         "sorting": {
           "type": "sorting",
           "settings": {
@@ -26,20 +33,13 @@
           "type": "product_grid",
           "settings": {
           }
-        },
-        "423fb7f6-2c97-4420-8211-d45378349d2a": {
-          "type": "description",
-          "settings": {
-            "text_alignment": "left",
-            "enable_read_more": false
-          }
         }
       },
       "block_order": [
         "title",
+        "423fb7f6-2c97-4420-8211-d45378349d2a",
         "sorting",
-        "product_grid",
-        "423fb7f6-2c97-4420-8211-d45378349d2a"
+        "product_grid"
       ],
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}"
