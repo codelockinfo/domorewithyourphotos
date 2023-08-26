@@ -39,7 +39,7 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "silver-frames"
+          "silver-photo-frame-collection"
         ],
         "custom_image_ratio": 100,
         "show_in_circle": false,
@@ -80,7 +80,7 @@
           "settings": {
             "width": "half",
             "image": "shopify:\/\/shop_images\/silver_family_photo_frame.jpg",
-            "link_url": "shopify:\/\/collections\/silver-frames",
+            "link_url": "shopify:\/\/collections\/silver-photo-frame-collection",
             "text": "Silver Frames",
             "subtext": "",
             "overlay_color": "#ffffff",

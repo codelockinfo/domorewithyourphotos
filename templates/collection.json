@@ -63,6 +63,7 @@
         "filters_layout": "drawer",
         "filter_menu": "",
         "filter_sticky": false,
+        "buynowcheck": true,
         "filters_show_more_limit": 7,
         "enable_custom_filters_font_size": false,
         "filters_font_size": "14px",

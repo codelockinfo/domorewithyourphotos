@@ -228,8 +228,8 @@
       "settings": {
         "collections": [
           "sentiment-frames",
-          "silver-frames",
-          "photo-frames",
+          "silver-photo-frame-collection",
+          "wooden-photo-frame-collection",
           "frames-photoalbums"
         ],
         "custom_image_ratio": 100,

@@ -699,7 +699,7 @@
           "type": "buttons",
           "settings": {
             "link_text_1": "Browse Photo Frames",
-            "link_url_1": "shopify:\/\/collections\/photo-frames",
+            "link_url_1": "shopify:\/\/collections\/wooden-photo-frame-collection",
             "button_color_palette_1": "accent",
             "button_style_1": "fill",
             "show_link_1": false,
