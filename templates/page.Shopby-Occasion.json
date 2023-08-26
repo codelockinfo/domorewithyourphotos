@@ -418,6 +418,142 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ef6854c8-ceba-4748-8c5d-a27a6263ffc2": {
+      "type": "section-lookbook",
+      "blocks": {
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blank-red-greeting-card-mockup-with-christmas-gift-decorations-on-grunge-background-free-photo.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "Christening Gift",
+            "link_url": "shopify:\/\/collections\/christening",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-2": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-3": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5": {
+          "type": "image",
+          "settings": {
+            "title": "Image banner",
+            "text": "<p>Give customers more details about this look<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "button_color_palette": "accent",
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-1",
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-2",
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-3",
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4",
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5"
+      ],
+      "settings": {
+        "number_of_items": 4,
+        "space_between": 16,
+        "text_alignment": "center",
+        "title": "Lookbook",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "title_position": "center",
+        "lookbook_title_font": "primary",
+        "lookbook_title_size": "h2",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -429,6 +565,7 @@
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
     "255e2ab4-4ca6-4b40-9106-4597c15da0c2",
     "305aa582-08f8-4004-9e25-d49365507f7f",
-    "2adc8a8e-d2a6-44aa-a145-fe72986b3d80"
+    "2adc8a8e-d2a6-44aa-a145-fe72986b3d80",
+    "ef6854c8-ceba-4748-8c5d-a27a6263ffc2"
   ]
 }
