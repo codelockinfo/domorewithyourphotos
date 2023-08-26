@@ -1,5 +1,66 @@
 {
   "sections": {
+    "cc7fa868-d5e2-4a3b-abef-0ffed3762bbf": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19517910876490__cc7fa868-d5e2-4a3b-abef-0ffed3762bbf-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "",
+            "image": "shopify:\/\/shop_images\/photo_mug_main_banner-new.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "black",
+            "button_color_palette": "white",
+            "text_position": "text-start",
+            "title": "Coffee Time",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "light_gradient",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19517910876490__cc7fa868-d5e2-4a3b-abef-0ffed3762bbf-image-1"
+      ],
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "breadcrumbs": {
       "type": "breadcrumbs",
       "disabled": true,
@@ -239,6 +300,7 @@
     }
   },
   "order": [
+    "cc7fa868-d5e2-4a3b-abef-0ffed3762bbf",
     "breadcrumbs",
     "main-page",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
