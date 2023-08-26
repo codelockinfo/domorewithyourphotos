@@ -333,7 +333,7 @@
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
       "custom_css": [
-        ".categories-heading h3 {text-align: center; font-family: Bitter,serif; text-transform: none; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -.04em; font-size: var(--main_h2);}"
+        ".categories-heading h3 {text-align: center; font-family: Bitter, serif; text-transform: none; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -0.04em; font-size: var(--main_h2);}"
       ],
       "settings": {
         "tradinghead": "Shop Trending Categories",
@@ -423,8 +423,8 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 760px) {.collage_img ul {\/* width: 100%; *\/ display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
-        ".collageimg {color: #000; padding-top: 2%;}"
+        "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
+        ".collageimg {color: #000; padding-top: 2%; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -.04em; font-size: var(--main_h2);}"
       ],
       "settings": {
         "collageimg": "Wall  Photos Decor",
