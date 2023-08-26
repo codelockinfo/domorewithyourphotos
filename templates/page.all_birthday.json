@@ -42,9 +42,9 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/18th_page_banner_75fd498f-3697-4ae7-8e8d-12b9e3d6dc44.jpg",
+            "image": "shopify:\/\/shop_images\/18th_page_banner_75fd498f-3697-4ae7-8e8d-12b9e3d6dc44_3.png",
             "link_url": "shopify:\/\/collections\/18th-birthday-gift-ideas",
-            "text": "18th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "18th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -68,7 +68,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/30th_page_banneD.jpg",
             "link_url": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "30th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "30th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -80,7 +80,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/40th_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "40th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "40th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -92,7 +92,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/50th_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "50th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "50th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -104,7 +104,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/60_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "60th Birthday Framed Gifts & Personalised Photo Banners",
+            "text": "60th Birthday Framed Gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -116,7 +116,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/70_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "70th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "70th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -128,7 +128,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/80_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "80th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "80th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -140,7 +140,7 @@
             "width": "half",
             "image": "shopify:\/\/shop_images\/90_page_bannerD.jpg",
             "link_url": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners",
-            "text": "90th Birthday Framed gifts & Personalised Photo Banners",
+            "text": "90th Birthday Framed gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -159,9 +159,6 @@
         "1e23d2c9-e0ef-47e7-a3d2-f78d44041136"
       ],
       "custom_css": [
-        ".column-half.block-id-template--19516490940746__142b3359-83d6-452c-a9c7-78788c137197-image-1 {width: 26%;}",
-        "@media only screen and (max-width: 991px) {.column-half.block-id-template--19516490940746__142b3359-83d6-452c-a9c7-78788c137197-image-1 {width: 26%; }}",
-        "@media only screen and (max-width: 620px) {.column-half.block-id-template--19516490940746__142b3359-83d6-452c-a9c7-78788c137197-image-1 {width: 35%; }}",
         "@media only screen and (max-width: 360px) {.all_anniversary .column-half {width: 80%; }}"
       ],
       "settings": {
