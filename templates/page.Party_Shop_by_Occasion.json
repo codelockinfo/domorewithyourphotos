@@ -631,7 +631,7 @@
         "width": "boxed",
         "space_between": 16,
         "image_zoom": false,
-        "layout_mobile": "rows",
+        "layout_mobile": "compact",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
