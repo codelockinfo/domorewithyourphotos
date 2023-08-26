@@ -6301,12 +6301,20 @@ h3.servicehed {
 .blocks_cate_main{
 	display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    /* justify-content: center; */
+    justify-content: space-between;
 }
 .blocks_cate_main .collection_block {
-    /* width: 25%; */
-	width: 33%;
-    margin: 1% auto;
+    width: 26%;
+	width: 30%;
+    /* margin: 1% auto; */
+	margin: 15px;
+}
+.index-section .row{
+	padding: 0 10%;
+}
+.index-section a.img-link img{
+	width: 100%
 }
 .plusicon{
 	margin-left: 10px;
@@ -7055,8 +7063,22 @@ section.photo-album-banner.l4ft.fullwidth{
     width: 60%;
     margin: 0 auto;
 }
-
-
+@media only screen and (max-width: 1200px) {
+	.blocks_cate_main .collection_block{
+		margin: 15px 8px;
+	}
+}
+@media only screen and (max-width: 640px) {
+	.blocks_cate_main .collection_block{
+		margin: 10px 4px;
+	}
+	.blocks_cate_main{
+		justify-content: center;
+	}
+	.index-section .row{
+		padding: 0;
+	}
+}
 /* @media only screen and (max-width: 760px) {
 	#root #content .section_collist .l4cl.mobile-scroll > li{
 		width:100% !important;
