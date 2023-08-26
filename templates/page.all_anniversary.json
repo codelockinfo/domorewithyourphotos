@@ -225,7 +225,7 @@
       ],
       "custom_css": [
         ".all_anniversary .column-half {width: 21%;}",
-        "@media only screen and (max-width: 991px) {.all_anniversary .column-half {width: 46%; }}"
+        "@media only screen and (max-width: 991px) {.all_anniversary .column-half {width: 30%; }}"
       ],
       "settings": {
         "tradinghead": "",
