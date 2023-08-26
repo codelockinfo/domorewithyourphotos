@@ -6290,7 +6290,13 @@ h3.servicehed {
     flex-wrap: wrap;
 }
 .col-sm-3{
-	width:50%;
+	/* width:50%; */
+	width: 46%;
+    margin: 1% auto;
+}
+.collection_block .img-link img{
+	margin: 0 auto;
+    display: flex;
 }
 .blocks_cate_main{
 	display: flex;
@@ -6298,7 +6304,9 @@ h3.servicehed {
     justify-content: center;
 }
 .blocks_cate_main .collection_block {
-    width: 25%;
+    /* width: 25%; */
+	width: 33%;
+    margin: 1% auto;
 }
 .category-sub-content h2{
 	display: none;
