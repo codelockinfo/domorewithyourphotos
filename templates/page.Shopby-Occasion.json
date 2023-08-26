@@ -283,6 +283,50 @@
         "tradinghead": "",
         "alignment": "middle"
       }
+    },
+    "255e2ab4-4ca6-4b40-9106-4597c15da0c2": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "banners-for-anniversaries",
+          "birthday-gifts",
+          "christening",
+          "confirmation-gifts",
+          "pets",
+          "engagement-banners",
+          "wedding-gifts",
+          "retirement-goodbye-personal-banners"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Shop by Occasion",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -291,6 +335,7 @@
     "181f46b4-7d1a-4821-9e90-89645f6f5fde",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
     "c527f255-eee0-462b-8374-8f39ce6ed270",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
+    "255e2ab4-4ca6-4b40-9106-4597c15da0c2"
   ]
 }
