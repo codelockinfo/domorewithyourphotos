@@ -1410,7 +1410,7 @@
       "custom_css": [
         ".column-third {width: 32%; padding: 0 10px;}",
         "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
-        "@media only screen and (max-width: 460px) {.column-third {width: 100%; margin-top:2%; }}"
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; margin-top: 2%; }}"
       ],
       "settings": {
         "tradinghead": "",
@@ -1510,7 +1510,7 @@
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "text_position": "text-start",
+        "text_position": "text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
