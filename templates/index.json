@@ -588,7 +588,7 @@
             "title": "Frames",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "just-frames",
+            "collection": "all-our-photo-frames",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Tab content<\/p>",
