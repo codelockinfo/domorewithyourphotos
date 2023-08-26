@@ -886,11 +886,11 @@
         "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc": {
           "type": "hotspot",
           "settings": {
-            "product": "family-in-vacation-photo-collage",
+            "product": "photo-to-canvas-various-sizes",
             "text_position": "text-start",
             "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "title": "Photo Canvas",
+            "text": "<p>Put Your Photo On Canvas<\/p>",
             "position_left": 75,
             "position_top": 10,
             "position_left_mobile": 75,
