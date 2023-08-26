@@ -171,19 +171,19 @@
         "166029118628eefa48-0": {
           "type": "usp",
           "settings": {
-            "usp": "<p>3 days Delivery - Order  Monday , Receive Friday<\/p>"
+            "usp": "<p><strong>Preview Sent Within 24 Hours<\/strong><\/p>"
           }
         },
         "166029118628eefa48-1": {
           "type": "usp",
           "settings": {
-            "usp": "<p>700+ 5* Rating<\/p>"
+            "usp": "<p><strong>1 - 3 Days Delivery Nationwide<\/strong><\/p>"
           }
         },
         "166029118628eefa48-2": {
           "type": "usp",
           "settings": {
-            "usp": "<p>Largest Selection of Personalsied gifts in Ireland<\/p>"
+            "usp": "<p><strong>700+ 5* Reviews<\/strong><\/p>"
           }
         }
       },
@@ -201,7 +201,7 @@
         "overlay_opacity": 100,
         "layout": "slider",
         "autoplay": true,
-        "autoplay_seconds": 1,
+        "autoplay_seconds": 2,
         "show_arrows": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
