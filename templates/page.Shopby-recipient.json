@@ -241,7 +241,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Mugs For Recipient",
+            "title": "Shop For Recipient",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -422,11 +422,11 @@
     "0177c17a-ebfc-439c-b39e-57702ec2ff51": {
       "type": "section-featured-collection",
       "settings": {
-        "collection": "mug-work",
+        "collection": "family-photo-collage",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Featured collection",
+        "title": "Family Collage On Canvas",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -439,7 +439,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>Share information and details about this collection<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "View all",
@@ -527,6 +527,7 @@
     },
     "c2b81128-66b8-4d36-a561-9056ffbd96da": {
       "type": "section-shop-the-look",
+      "disabled": true,
       "settings": {
         "overlay_opacity": 0,
         "color_palette": "white",
@@ -562,6 +563,108 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "01c42b5d-c38b-4c5e-af68-8a4f4699cd5d": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "So Grateful  For  You",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>A gift shop or souvenir shop is a store primarily selling souvenirs, memorabilia, and other items relating to a particular topic or theme.<\/p>"
+          }
+        },
+        "c781086b-227e-475d-bbf4-a7e7fdfd29a6": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>The meaning of life is to find your gift.The purpose of life is to give it away.\" Pablo Picasso<\/p>"
+          }
+        },
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-1": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-3": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-title-1",
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-text-1",
+        "c781086b-227e-475d-bbf4-a7e7fdfd29a6",
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-1",
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-2",
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-usp-3",
+        "template--19517910876490__01c42b5d-c38b-4c5e-af68-8a4f4699cd5d-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/blank-red-greeting-card-mockup-with-christmas-gift-decorations-on-grunge-background-free-photo.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "wide",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -574,6 +677,7 @@
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
     "0177c17a-ebfc-439c-b39e-57702ec2ff51",
     "b320af9f-679f-404d-a3a7-8978da695957",
-    "c2b81128-66b8-4d36-a561-9056ffbd96da"
+    "c2b81128-66b8-4d36-a561-9056ffbd96da",
+    "01c42b5d-c38b-4c5e-af68-8a4f4699cd5d"
   ]
 }
