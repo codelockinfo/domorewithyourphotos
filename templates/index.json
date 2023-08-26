@@ -243,7 +243,7 @@
         "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
       ],
       "custom_css": [
-        ".maindivv.productslider1{padding: 7% 0;}"
+        ".maindivv.productslider1 {padding: 7% 0;}"
       ],
       "settings": {
       }
@@ -487,7 +487,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/pages\/birthday",
-            "image": "shopify:\/\/shop_images\/SFBirthday25a2.jpg",
+            "image": "shopify:\/\/shop_images\/happy-birthday-with-realistic-balloons-soft-colors_1361-3243.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
