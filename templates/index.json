@@ -185,12 +185,19 @@
           "settings": {
             "usp": "<p><strong>700+ 5* Reviews<\/strong><\/p>"
           }
+        },
+        "dfb57798-6a47-40f3-8b92-e7ba9c032261": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>We Are 100% Irish - Based in Co. Donegal<\/strong><\/p>"
+          }
         }
       },
       "block_order": [
         "166029118628eefa48-0",
         "166029118628eefa48-1",
-        "166029118628eefa48-2"
+        "166029118628eefa48-2",
+        "dfb57798-6a47-40f3-8b92-e7ba9c032261"
       ],
       "custom_css": [
         ".l4us li:before {color: #b41717 !important;}",
@@ -201,7 +208,7 @@
         "overlay_opacity": 100,
         "layout": "slider",
         "autoplay": true,
-        "autoplay_seconds": 2,
+        "autoplay_seconds": 3,
         "show_arrows": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
