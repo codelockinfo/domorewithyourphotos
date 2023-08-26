@@ -445,10 +445,11 @@
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-2": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/Yoour-My-Forever-Wedding-Day-Photos-Memories-On-Canvas-_4.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "Wedding Gifts",
+            "link_url": "shopify:\/\/collections\/wedding-gifts",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -464,10 +465,11 @@
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-3": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/but_wed_c2caef9c-f6c8-488b-b057-8a38594f4200.png",
+            "title": "",
+            "text": "",
+            "link_text": "Engagement Banners",
+            "link_url": "shopify:\/\/collections\/engagement-banners",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
@@ -483,10 +485,11 @@
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4": {
           "type": "image",
           "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
+            "image": "shopify:\/\/shop_images\/but_engage.jpg",
+            "title": "",
+            "text": "",
+            "link_text": "Anniversary Banners",
+            "link_url": "shopify:\/\/collections\/banners-for-anniversaries",
             "show_link": false,
             "button_color_palette": "accent",
             "show_look": false,
