@@ -134,6 +134,59 @@
         "fix_zindex": 0
       }
     },
+    "7c64c773-6de9-445b-8270-35172f0b46ee": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Mugs For Recipient",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<p>Mug Magic are perfect for making a coffee statement. Keep for yourself or give as a gift. Everyone will love the thought that went into picking out a mug. Give to family, friends, coworkers, acquaintances and employees. Never give a bad gift again, these will be cherished for years to come<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "View More",
+            "link_url": "shopify:\/\/pages\/about-us",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-title-1",
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-content-1",
+        "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "align-top text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
       "type": "allanniversary",
       "blocks": {
@@ -271,14 +324,14 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "mug-work",
-        "limit": 5,
+        "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Featured collection",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -297,6 +350,81 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "b320af9f-679f-404d-a3a7-8978da695957": {
+      "type": "section-image-hotspots",
+      "blocks": {
+        "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "my-favourite-things-funny-novelty-mug",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 70,
+            "position_top": 20,
+            "position_left_mobile": 70,
+            "position_top_mobile": 20
+          }
+        },
+        "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "a-good-friend-personalised-photo-mug",
+            "text_position": "text-start",
+            "title_font": "primary",
+            "title": "Image hotspot",
+            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
+            "position_left": 30,
+            "position_top": 50,
+            "position_left_mobile": 30,
+            "position_top_mobile": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-1",
+        "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/red-love-couple-coffee-mugs-wallpaper-preview.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "black",
+        "overlay_opacity": 100,
+        "button_color_palette": "accent",
+        "hotspot_height": 33,
+        "hotspot_color_palette": "white",
+        "hotspot_hover_color_palette": "black",
+        "layout": "right",
+        "height": "m",
+        "width": "wide",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-center",
+        "title": "Stylish Coffee\/Tea\/Milk Mug",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>The two-pack of these blue and purple cups make them the ideal gift for giving to loved ones and friends on special occasions.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "shopify:\/\/collections\/mugs-engagement-wedding",
+        "show_link": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -304,7 +432,9 @@
     "breadcrumbs",
     "main-page",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
+    "7c64c773-6de9-445b-8270-35172f0b46ee",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
-    "0177c17a-ebfc-439c-b39e-57702ec2ff51"
+    "0177c17a-ebfc-439c-b39e-57702ec2ff51",
+    "b320af9f-679f-404d-a3a7-8978da695957"
   ]
 }
