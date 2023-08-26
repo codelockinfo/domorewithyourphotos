@@ -241,7 +241,7 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
+            "image": "shopify:\/\/shop_images\/anniversary.jpg",
             "link_url": "shopify:\/\/collections\/anniversary-gifts",
             "text": "Anniversary Gifts",
             "subtext": "",
@@ -253,9 +253,9 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/dreamstime_m_9913995.jpg",
-            "link_url": "shopify:\/\/collections\/christening",
-            "text": "Christening Gifts",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_74242903_48f65155-a230-4305-bcd4-b00a6903f374.jpg",
+            "link_url": "shopify:\/\/collections\/retirement-goodbye-personal-banners",
+            "text": "Retirement  Personal Banners",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -265,9 +265,9 @@
           "type": "image",
           "settings": {
             "width": "half",
-            "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
-            "link_url": "shopify:\/\/collections\/personalised-birthday-photo-banners-for-adults",
-            "text": "Adults Birthdays Banners",
+            "image": "shopify:\/\/shop_images\/blank-red-greeting-card-mockup-with-christmas-gift-decorations-on-grunge-background-free-photo.jpg",
+            "link_url": "shopify:\/\/collections\/pets",
+            "text": "Pets Gift Frame",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -288,12 +288,8 @@
       "type": "section-collection-list",
       "settings": {
         "collections": [
-          "banners-for-anniversaries",
-          "christening",
           "confirmation-gifts",
           "pets",
-          "engagement-banners",
-          "wedding-gifts",
           "retirement-goodbye-personal-banners"
         ],
         "custom_image_ratio": 100,
