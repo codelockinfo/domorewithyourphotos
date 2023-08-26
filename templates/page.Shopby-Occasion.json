@@ -286,6 +286,7 @@
     },
     "255e2ab4-4ca6-4b40-9106-4597c15da0c2": {
       "type": "section-collection-list",
+      "disabled": true,
       "settings": {
         "collections": [
           "confirmation-gifts",
@@ -556,6 +557,35 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "9f074ad6-3fa9-4428-ba40-19a67e6ed983": {
+      "type": "section-shop-the-look-collection",
+      "custom_css": [
+        ".w75 figure picture img {opacity: 0;}"
+      ],
+      "settings": {
+        "collection": "confirmation-gifts",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "height": "700px",
+        "enable_custom_height": false,
+        "custom_height": 350,
+        "layout": "image-left",
+        "text_position": "text-center",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "font_size": "16px",
+        "link_text": "",
+        "show_link": false,
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -568,6 +598,7 @@
     "255e2ab4-4ca6-4b40-9106-4597c15da0c2",
     "305aa582-08f8-4004-9e25-d49365507f7f",
     "2adc8a8e-d2a6-44aa-a145-fe72986b3d80",
-    "ef6854c8-ceba-4748-8c5d-a27a6263ffc2"
+    "ef6854c8-ceba-4748-8c5d-a27a6263ffc2",
+    "9f074ad6-3fa9-4428-ba40-19a67e6ed983"
   ]
 }
