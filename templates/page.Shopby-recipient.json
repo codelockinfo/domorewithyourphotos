@@ -79,10 +79,10 @@
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
           "type": "image",
           "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/Mobile_Selfie_Picture.jpg",
-            "link_url": "shopify:\/\/collections\/personalised-selfie-frames-for-communion-and-confirmations",
-            "text": "Personalised Selfie Frames for Communion And Confirmations",
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/il_fullxfull.2922911172_chan.jpg",
+            "link_url": "shopify:\/\/collections\/mugs-mother",
+            "text": "Mugs For Mum",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -91,10 +91,10 @@
         "d41492ec-8d82-495d-b466-5edf0bc30e57": {
           "type": "image",
           "settings": {
-            "width": "half",
+            "width": "third",
             "image": "shopify:\/\/shop_images\/but_freinds.png",
-            "link_url": "shopify:\/\/collections\/birthday-gifts",
-            "text": "Birthday Gifts",
+            "link_url": "shopify:\/\/collections\/mugs-engagement-wedding",
+            "text": "Mugs For Couples",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -104,6 +104,11 @@
       "block_order": [
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
         "d41492ec-8d82-495d-b466-5edf0bc30e57"
+      ],
+      "custom_css": [
+        ".column-third {width: 32%; padding: 0 10px;}",
+        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
       ],
       "settings": {
         "tradinghead": "",
