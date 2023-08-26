@@ -147,7 +147,6 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-1",
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2"
       ],
-      "disabled": true,
       "settings": {
         "collageimg": "",
         "mirrored": false,
@@ -344,7 +343,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/canvas-art",
-            "image": "shopify:\/\/shop_images\/collage.jpg",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_214483180.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -374,15 +373,14 @@
             "look_btn_color_palette": "white",
             "look_position": "start",
             "show_look_label": true,
-            "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/collage.jpg"
+            "look_label_text": "Canvas Art"
           }
         },
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2": {
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/memorial-gifts",
-            "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
+            "image": "shopify:\/\/shop_images\/collageframeb.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -412,7 +410,7 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "",
+            "look_label_text": "Personalised Remembrance Gifts",
             "image_mobile": "shopify:\/\/shop_images\/memorial_slatessmall.jpg"
           }
         }
@@ -421,7 +419,6 @@
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1",
         "template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {\/* width: 100%; *\/ display: flex; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__499a8478-0317-4105-aaf4-1a6d4c6aec9f-image-2 {width: 50% !important; float: right !important; }}",
         ".collageimg {color: #000; padding-top: 2%;}"
@@ -430,11 +427,11 @@
         "collageimg": "",
         "mirrored": false,
         "width": "boxed",
-        "height": "size-m",
+        "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 540,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
@@ -450,7 +447,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/photo-frames",
-            "image": "shopify:\/\/shop_images\/albumall.jpg",
+            "image": "shopify:\/\/shop_images\/default_name.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -480,15 +477,14 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/albumall.jpg"
+            "look_label_text": "Wooden Frames"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/pages\/birthday",
-            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
+            "image": "shopify:\/\/shop_images\/SFBirthday25a2.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -518,8 +514,7 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/birthdayasmall.jpg"
+            "look_label_text": "Birthday"
           }
         }
       },
@@ -527,7 +522,6 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
       ],
@@ -535,11 +529,11 @@
         "collageimg": "",
         "mirrored": true,
         "width": "boxed",
-        "height": "size-m",
+        "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 300,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
@@ -1224,7 +1218,7 @@
     "64c3791c-5203-4ab0-a1d6-9a533845659d": {
       "type": "section-image-with-products",
       "custom_css": [
-        "@media only screen and (max-width: 760px) {.ff-primary{margin-top: -50%; }}"
+        "@media only screen and (max-width: 760px) {.ff-primary {margin-top: -50%; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
