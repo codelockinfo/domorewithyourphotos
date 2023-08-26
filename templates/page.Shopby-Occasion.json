@@ -42,12 +42,12 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/360_F_320687108_3UZ13l44Ob5cel208W7DaRnD5BR9DfY7.jpg",
+            "image": "shopify:\/\/shop_images\/CPD1b_c2caaa6f-d9d9-47db-8a89-7daa6f1446d2.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "Image banner",
+            "text_position": "text-end",
+            "title": "Shop By Occasion",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -59,7 +59,7 @@
             "enable_custom_subtext_styling": false,
             "subtitle_color_palette": "black",
             "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "Button",
@@ -120,12 +120,12 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "boxed",
+        "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
+        "enable_custom_height": true,
+        "custom_height": 800,
         "space_between": 16,
-        "image_zoom": true,
+        "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
@@ -176,6 +176,59 @@
         "show_collection_titles": true,
         "collection_title_size": "p",
         "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "c527f255-eee0-462b-8374-8f39ce6ed270": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Keep ‘em portable",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-content-1": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<p>Portable displays can also help in keeping your visual merchandising focused and on-point. Since you have limited space, you’re forced to only display the most important and most high-impact products.<\/p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "View More",
+            "link_url": "shopify:\/\/pages\/about-us",
+            "button_color_palette": "accent",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-title-1",
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-content-1",
+        "template--19518038769994__c527f255-eee0-462b-8374-8f39ce6ed270-button-1"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "width": "wide",
+        "height_mobile": "xs",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -237,6 +290,7 @@
     "main-page",
     "181f46b4-7d1a-4821-9e90-89645f6f5fde",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
+    "c527f255-eee0-462b-8374-8f39ce6ed270",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
   ]
 }
