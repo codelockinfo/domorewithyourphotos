@@ -7103,3 +7103,12 @@ section.photo-album-banner.l4ft.fullwidth{
   background:#b51819  !important ;
   color:#fff !important;
 }
+.collageimg{
+    font-family: Bitter,serif;
+    text-transform: none;
+    font-weight: var(--main_fw_h);
+    font-style: normal;
+    --main_fw_strong: var(--main_fw_h_strong);
+    letter-spacing: -.04em;
+    font-size: var(--main_h2);
+}
