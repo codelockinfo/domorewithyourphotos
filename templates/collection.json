@@ -29,7 +29,6 @@
         },
         "423fb7f6-2c97-4420-8211-d45378349d2a": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "text_alignment": "left",
             "enable_read_more": false
