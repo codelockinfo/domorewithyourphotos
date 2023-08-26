@@ -223,6 +223,9 @@
         "6cb8d905-593a-4eca-9808-954f98c3dd13",
         "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7"
       ],
+      "custom_css": [
+        ".all_anniversary .column-half {width: 21%;}"
+      ],
       "settings": {
         "tradinghead": "",
         "alignment": "middle"
