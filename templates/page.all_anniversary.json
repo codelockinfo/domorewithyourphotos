@@ -224,7 +224,8 @@
         "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7"
       ],
       "custom_css": [
-        ".all_anniversary .column-half {width: 21%;}"
+        ".all_anniversary .column-half {width: 21%;}",
+        "@media only screen and (max-width: 620px){.all_anniversary .column-half {width: 46%;}}"
       ],
       "settings": {
         "tradinghead": "",
