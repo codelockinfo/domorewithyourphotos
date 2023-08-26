@@ -228,7 +228,7 @@
       "settings": {
         "collections": [
           "sentiment-frames",
-          "silver-frames",
+          "silver-photo-frame-collection",
           "wooden-photo-frame-collection",
           "frames-photoalbums"
         ],

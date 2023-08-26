@@ -571,7 +571,7 @@
             "title": "Silver Frames",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "silver-frames",
+            "collection": "silver-photo-frame-collection",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Content of third tab<\/p>",
