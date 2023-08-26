@@ -80,7 +80,7 @@
           "type": "image",
           "settings": {
             "width": "third",
-            "image": "shopify:\/\/shop_images\/il_fullxfull.2922911172_chan.jpg",
+            "image": "shopify:\/\/shop_images\/mug032aA.webp",
             "link_url": "shopify:\/\/collections\/mugs-mother",
             "text": "Mugs For Mum",
             "subtext": "",
@@ -92,9 +92,93 @@
           "type": "image",
           "settings": {
             "width": "third",
-            "image": "shopify:\/\/shop_images\/but_freinds.png",
+            "image": "shopify:\/\/shop_images\/141a.webp",
             "link_url": "shopify:\/\/collections\/mugs-engagement-wedding",
             "text": "Mugs For Couples",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "c49265df-57e4-45cc-a89b-d33ca552658b": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/103a.webp",
+            "link_url": "shopify:\/\/collections\/mugs-father",
+            "text": "Mugs for Dad",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "63ab637e-47dd-4978-9368-50552dc3e5dc": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/il_794xN.2824784751_gi70.webp",
+            "link_url": "shopify:\/\/collections\/mugs-family",
+            "text": "Mugs For Family",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "9858b83d-5808-4338-aa59-e954cfca749f": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/153a.webp",
+            "link_url": "shopify:\/\/collections\/mug-friend",
+            "text": "Mug For Friends",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "2782a484-feaa-4209-983c-5348c9cee4c7": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/5014aA.webp",
+            "link_url": "shopify:\/\/collections\/mugs-birthday",
+            "text": "Mugs Birthday",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "fb686294-e19e-40db-81df-fafb5a4e4ca9": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/MUG1879.webp",
+            "link_url": "shopify:\/\/collections\/mug-work",
+            "text": "Mugs For Work Colleagues",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "501c2d0e-f5d0-4571-bbf6-28a521af9458": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/mug-time-for-tea-or.webp",
+            "link_url": "shopify:\/\/collections\/mugs-baby",
+            "text": "Mugs Baby",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
+        },
+        "4a786741-ec04-422a-b87b-ab5004c3a020": {
+          "type": "image",
+          "settings": {
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/009NaturalWhiteWash17-PF693_8.jpg",
+            "link_url": "shopify:\/\/collections\/mother-framed-gifts",
+            "text": "Mother Framed Gifts",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -103,7 +187,14 @@
       },
       "block_order": [
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
-        "d41492ec-8d82-495d-b466-5edf0bc30e57"
+        "d41492ec-8d82-495d-b466-5edf0bc30e57",
+        "c49265df-57e4-45cc-a89b-d33ca552658b",
+        "63ab637e-47dd-4978-9368-50552dc3e5dc",
+        "9858b83d-5808-4338-aa59-e954cfca749f",
+        "2782a484-feaa-4209-983c-5348c9cee4c7",
+        "fb686294-e19e-40db-81df-fafb5a4e4ca9",
+        "501c2d0e-f5d0-4571-bbf6-28a521af9458",
+        "4a786741-ec04-422a-b87b-ab5004c3a020"
       ],
       "custom_css": [
         ".column-third {width: 32%; padding: 0 10px;}",
@@ -114,12 +205,44 @@
         "tradinghead": "",
         "alignment": "middle"
       }
+    },
+    "0177c17a-ebfc-439c-b39e-57702ec2ff51": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "mug-work",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
+    "0177c17a-ebfc-439c-b39e-57702ec2ff51"
   ]
 }
