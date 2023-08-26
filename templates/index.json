@@ -333,7 +333,7 @@
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
       "custom_css": [
-        ".categories-heading h3 {text-align: center;}"
+        ".categories-heading h3 {text-align: center; font-family: Bitter,serif; text-transform: none; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -.04em; font-size: var(--main_h2);}"
       ],
       "settings": {
         "tradinghead": "Shop Trending Categories",
