@@ -877,24 +877,10 @@
             "title_font": "primary",
             "title": "Image hotspot",
             "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 85,
-            "position_top": 85,
-            "position_left_mobile": 14,
-            "position_top_mobile": 100
-          }
-        },
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2": {
-          "type": "hotspot",
-          "settings": {
-            "product": "family-branches-collage-on-canvas",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 50,
-            "position_top": 85,
-            "position_left_mobile": 50,
-            "position_top_mobile": 100
+            "position_left": 25,
+            "position_top": 10,
+            "position_left_mobile": 25,
+            "position_top_mobile": 10
           }
         },
         "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc": {
@@ -905,16 +891,15 @@
             "title_font": "primary",
             "title": "Image hotspot",
             "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 15,
-            "position_top": 85,
-            "position_left_mobile": 85,
-            "position_top_mobile": 100
+            "position_left": 75,
+            "position_top": 10,
+            "position_left_mobile": 75,
+            "position_top_mobile": 10
           }
         }
       },
       "block_order": [
         "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1",
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2",
         "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc"
       ],
       "settings": {
