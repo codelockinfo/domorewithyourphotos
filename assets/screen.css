@@ -7084,7 +7084,16 @@ section.photo-album-banner.l4ft.fullwidth{
 		width:100% !important;
 	}
 } */
-
+.footericons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+.footericons img{
+	width:100%;
+}
 .s1lb > span{
   background:#b51819  !important ;
   color:#fff !important;

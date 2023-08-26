@@ -303,7 +303,10 @@
     </ul>
   {%- endif -%}
 </div>
+<div class="footericons">
+  <img src=" {{ section.settings.footericon  | img_url: 'small'    }}" alt="">
 
+</div>
 {% style %}
   #shopify-section-{{ section.id }} {
   {% comment %} main {% endcomment %}
@@ -607,6 +610,12 @@
       "step": 10,
       "unit": "px",
       "default": 0
+    },
+    {
+        "id": "footericon",
+        "type": "image_picker",
+        "label": "Footer Icon "
+    
     }
   ],
   "blocks": [
