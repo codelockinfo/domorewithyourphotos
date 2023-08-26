@@ -327,6 +327,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "2adc8a8e-d2a6-44aa-a145-fe72986b3d80": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "The customer is looking for specific products on occasions.",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>The term \"occasion-based shopping\" describes the shopping behaviour of consumers based on specific occasions. Occasion-based marketing is about getting the most from the potential of these occasion-based purchases<\/p>"
+          }
+        },
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "View More",
+            "link_url_1": "shopify:\/\/pages\/welcome-boards",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-title-1",
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-text-1",
+        "template--19518038769994__2adc8a8e-d2a6-44aa-a145-fe72986b3d80-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/dreamstime_m_9913995_5491ab91-01e4-49a3-926c-594ae890b8c7.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -336,6 +397,7 @@
     "811854c5-382a-40c4-a5cf-2ab5e51a5856",
     "c527f255-eee0-462b-8374-8f39ce6ed270",
     "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d",
-    "255e2ab4-4ca6-4b40-9106-4597c15da0c2"
+    "255e2ab4-4ca6-4b40-9106-4597c15da0c2",
+    "2adc8a8e-d2a6-44aa-a145-fe72986b3d80"
   ]
 }
