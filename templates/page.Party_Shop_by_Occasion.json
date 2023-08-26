@@ -380,97 +380,6 @@
         "fix_zindex": 0
       }
     },
-    "553c7052-fb04-4a69-8884-bb5132ed9239": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Image with text",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>Make a special birthday extra special with a personalised photo gift frame, transforming a good gift into a unique and special gift.  We have so many wonderful gift frame ideas for him or her. Whether you are looking for the perfect gift for your partner or child, parents or grandparents, friends or siblings, choosing a personalised photo gift from our extensive range will give them a unique gift to treasure forever.<\/p>"
-          }
-        },
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-1": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-2": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-3": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "View more",
-            "link_url_1": "shopify:\/\/collections\/personalised-selfie-frames-for-childrens-birthdays",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-title-1",
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-text-1",
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-1",
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-2",
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-usp-3",
-        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-buttons-1"
-      ],
-      "settings": {
-        "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/W15.png",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-left",
-        "width": "wide",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "e388f5ee-3290-410b-b9f9-15f2f72aa086": {
       "type": "birthdat_feature",
       "blocks": {
@@ -901,7 +810,7 @@
         "collection_title_position": "center",
         "show_collection_titles": true,
         "collection_title_size": "p",
-        "mobile_layout": "slider",
+        "mobile_layout": "grid",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -950,6 +859,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "553c7052-fb04-4a69-8884-bb5132ed9239": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Personalised Photo Gift",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Make a special birthday extra special with a personalised photo gift frame, transforming a good gift into a unique and special gift.  We have so many wonderful gift frame ideas for him or her. Whether you are looking for the perfect gift for your partner or child, parents or grandparents, friends or siblings, choosing a personalised photo gift from our extensive range will give them a unique gift to treasure forever.<\/p>"
+          }
+        },
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "View more",
+            "link_url_1": "shopify:\/\/collections\/personalised-selfie-frames-for-childrens-birthdays",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-title-1",
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-text-1",
+        "template--19502640070986__553c7052-fb04-4a69-8884-bb5132ed9239-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/W15.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "wide",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -960,13 +930,13 @@
     "333e83ea-e302-451b-be75-2727c1b58857",
     "167926c3-d5c1-48de-93f9-73effada4879",
     "45c0da27-c250-4fc4-9b41-22d06488483f",
-    "553c7052-fb04-4a69-8884-bb5132ed9239",
     "e388f5ee-3290-410b-b9f9-15f2f72aa086",
     "f44a4172-c581-423f-912f-c25269fa39c4",
     "3e8c01d1-07b7-4f4d-b30c-0f7b05a1e94a",
     "22395078-b3e3-47fd-b85d-dc7ab6dc313d",
     "7aaf5242-af4f-4589-b589-1142a4f18616",
     "1ed03cdf-c6b4-482c-9ecc-253b37aa697d",
-    "5c6e2487-b466-4de3-a8c5-0a69abc9eb68"
+    "5c6e2487-b466-4de3-a8c5-0a69abc9eb68",
+    "553c7052-fb04-4a69-8884-bb5132ed9239"
   ]
 }
