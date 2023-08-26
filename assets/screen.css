@@ -6308,6 +6308,10 @@ h3.servicehed {
 	width: 33%;
     margin: 1% auto;
 }
+.plusicon{
+	margin-left: 10px;
+	cursor: pointer;
+}
 .category-sub-content h2{
 	display: none;
 }
