@@ -877,8 +877,8 @@
             "title_font": "primary",
             "title": "Image hotspot",
             "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 0,
-            "position_top": 15,
+            "position_left": 85,
+            "position_top": 85,
             "position_left_mobile": 14,
             "position_top_mobile": 100
           }
@@ -891,8 +891,8 @@
             "title_font": "primary",
             "title": "Image hotspot",
             "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 0,
-            "position_top": 50,
+            "position_left": 50,
+            "position_top": 85,
             "position_left_mobile": 50,
             "position_top_mobile": 100
           }
@@ -905,8 +905,8 @@
             "title_font": "primary",
             "title": "Image hotspot",
             "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 0,
-            "position_top": 0,
+            "position_left": 15,
+            "position_top": 85,
             "position_left_mobile": 85,
             "position_top_mobile": 100
           }
