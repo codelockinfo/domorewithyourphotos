@@ -815,6 +815,67 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "542e9744-7bba-481e-8118-a77ac0fc8cf8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Give The Gift Of Memories",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Bring a tear to their eye and present them with their history hidden  within our number collages<\/p>"
+          }
+        },
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Order Now",
+            "link_url_1": "shopify:\/\/collections\/number-photo-collages",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-title-1",
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-text-1",
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-buttons-1"
+      ],
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -829,6 +890,7 @@
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e",
-    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7"
+    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
+    "542e9744-7bba-481e-8118-a77ac0fc8cf8"
   ]
 }
