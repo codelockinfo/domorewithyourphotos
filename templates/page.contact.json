@@ -113,7 +113,7 @@
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
-        "text_position": "text-center",
+        "text_position": "text-start",
         "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
@@ -247,7 +247,7 @@
         "7f5b90a3-0ea1-466d-a8bb-fb174e340aed"
       ],
       "settings": {
-        "alignment": "left",
+        "alignment": "center",
         "title": "Contact form",
         "title_font": "primary",
         "title_size": "h3",
