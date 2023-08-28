@@ -1078,6 +1078,22 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "43664164-a993-48a4-bd99-e45e63e40113": {
+      "type": "Gift_section",
+      "settings": {
+        "title": "",
+        "textarea": "",
+        "imgs": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
+        "title1": "The New Fujifilm Instax Mini 12",
+        "button_link": "shopify:\/\/collections\/fujifilm-instax-camera-range",
+        "imgs2": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
+        "title2": "Your photo on Canvas or Slate",
+        "button_link1": "shopify:\/\/collections\/just-print",
+        "imgs3": "shopify:\/\/shop_images\/birthday_2573d60c-1d70-4504-9681-5bc5e9cd4d7d.jpg",
+        "title3": "Personalised Birthday Gifts",
+        "button_link2": "shopify:\/\/collections\/birthday-gifts"
+      }
     }
   },
   "order": [
@@ -1095,6 +1111,7 @@
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e",
     "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
-    "b889967a-befc-4846-b45f-62d1980920bb"
+    "b889967a-befc-4846-b45f-62d1980920bb",
+    "43664164-a993-48a4-bd99-e45e63e40113"
   ]
 }
