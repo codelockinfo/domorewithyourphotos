@@ -980,6 +980,103 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "00ee51b0-29ac-4a2b-aad0-3da75188f979": {
+      "type": "section-banner-columns",
+      "blocks": {
+        "d0c414d3-66da-48d1-9220-3094e0a8a5bf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photoslated.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Photo Banners"
+          }
+        },
+        "3e2b27c5-042c-4eac-adbe-0d450b60c715": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/selfie_frames-1.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Selfie Frames"
+          }
+        }
+      },
+      "block_order": [
+        "d0c414d3-66da-48d1-9220-3094e0a8a5bf",
+        "3e2b27c5-042c-4eac-adbe-0d450b60c715"
+      ],
+      "settings": {
+        "items_width": 3,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "show_content_below": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -996,6 +1093,7 @@
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e",
     "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
-    "b889967a-befc-4846-b45f-62d1980920bb"
+    "b889967a-befc-4846-b45f-62d1980920bb",
+    "00ee51b0-29ac-4a2b-aad0-3da75188f979"
   ]
 }
