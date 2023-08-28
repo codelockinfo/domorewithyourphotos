@@ -450,6 +450,7 @@
     },
     "27ece943-d23b-49cb-93b5-471618751a6b": {
       "type": "section-collection-list",
+      "disabled": true,
       "custom_css": [
         "ul {padding: 0 10%;}"
       ],
@@ -515,11 +516,11 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/CPD1b.jpg",
+            "image": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-end",
+            "text_position": "text-start",
             "title": "Dont see what you are looking for",
             "title_font": "primary",
             "title_size": "h2",
