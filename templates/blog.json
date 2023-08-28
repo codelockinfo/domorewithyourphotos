@@ -1,1 +1,30 @@
-{"sections":{"breadcrumbs":{"type":"breadcrumbs","settings":{"hide_mobile":false}},"main-blog":{"type":"main-blog","settings":{"title":"","pagination_qty":12,"show_image":true,"show_date":true,"show_author":true,"show_excerpt":true}}},"order":["breadcrumbs","main-blog"]}
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "main-blog": {
+      "type": "main-blog",
+      "settings": {
+        "text_alignment": "center",
+        "title_size": "h2",
+        "title": "",
+        "pagination_qty": 12,
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "button_color_palette_post": "accent",
+        "show_link_post": true
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-blog"
+  ]
+}
