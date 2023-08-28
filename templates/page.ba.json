@@ -795,6 +795,9 @@
     },
     "27ece943-d23b-49cb-93b5-471618751a6b": {
       "type": "section-collection-list",
+      "custom_css": [
+        "ul{padding: 0 10%;}"
+      ],
       "settings": {
         "collections": [
           "first-holy-communion-confirmation-banners",
