@@ -630,8 +630,8 @@
         "width": "boxed",
         "height": "l",
         "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
+        "custom_height": 760,
+        "text_position": "text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
