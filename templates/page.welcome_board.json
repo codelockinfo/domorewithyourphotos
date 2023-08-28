@@ -505,7 +505,7 @@
         "labels": true,
         "label_before": "",
         "label_after": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Give The Gift Of Memories",
         "title_font": "primary",
         "title_size": "h2",
