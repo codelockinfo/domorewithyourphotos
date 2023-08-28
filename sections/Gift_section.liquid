@@ -1,0 +1,182 @@
+<div class="personalized-main">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-xs-12 personalized-heading">
+           <h3>{{ section.settings.title }}</h3>
+          <p>{{ section.settings.textarea }}</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-8 col-xs-12">
+          <div class="explore-main">
+           <img src=" {{ section.settings.imgs | img_url: '1024x1024' }}">
+            <div class="explore-content">
+              <h4><a class="order" href="{{ section.settings.button_link }}">{{ section.settings.title1 }}</a></h4>
+            </div>
+          </div> 
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <div class="explore-main">
+          <img src=" {{ section.settings.imgs2 | img_url: '1024x1024' }}">
+            <div class="explore-content">
+              <h4><a class="order" href="{{ section.settings.button_link1 }}">{{ section.settings.title2 }}</a></h4>
+            </div>
+          </div>
+
+          <div class="explore-main">
+           <img src=" {{ section.settings.imgs3 | img_url: '1024x1024' }}">
+            <div class="explore-content">
+              <h4><a class="order" href="{{ section.settings.button_link2 }}">{{ section.settings.title3 }}</a></h4>
+            </div>
+          </div>
+        </div>   
+      </div>
+    </div>
+  </div>
+
+{% schema %}
+ {
+  "name": "Gift Section",
+  "class": "gift-section",
+  "settings": [     
+{
+      "type": "text",
+      "id": "title",
+      "label": "Heading"     
+    },
+  {
+      "type": "textarea",
+      "id": "textarea",
+      "label": "Description",
+      "default": "gift section"   
+    },
+{
+          "type": "image_picker",
+          "id": "imgs",
+          "label": "Image"
+        },
+{
+      "type": "text",
+      "id": "title1",
+      "label": "Button Text"     
+    },
+{
+      "type": "url",
+      "id": "button_link",
+      "label": "Button link"  
+    },
+{
+          "type": "image_picker",
+          "id": "imgs2",
+          "label": "Image"
+        },
+{
+      "type": "text",
+      "id": "title2",
+      "label": "Button Text"     
+    },
+{
+      "type": "url",
+      "id": "button_link1",
+      "label": "Button link"  
+    },
+{
+          "type": "image_picker",
+          "id": "imgs3",
+          "label": "Image"
+        },
+{
+      "type": "text",
+      "id": "title3",
+      "label": "Button Text"     
+    },
+{
+      "type": "url",
+      "id": "button_link2",
+      "label": "Button link"  
+    }
+  ],
+  "presets": [
+    {
+      "name": "Gift Section",
+      "category": "Image"
+    }
+  ]
+}
+{% endschema %}
+<style>
+    .personalized-main .container .row:last-child {
+    display: flex;
+}
+.personalized-main .col-sm-4.col-xs-12 .explore-main img {
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.personalized-main .col-sm-4.col-xs-12 .explore-main {
+    height: 50%;
+}
+.explore-main {
+    position: relative;
+    padding: 12px 0px;
+}
+
+.personalized-main {
+    padding-bottom: 0px;
+}
+.personalized-main {
+    padding: 30px 0;
+}
+.personalized-main .container .row:last-child {
+    display: flex;
+}
+.explore-main img {
+    width: 100%;
+    border-radius: 12px;
+}
+.explore-main {
+    position: relative;
+    padding: 12px 0;
+}
+a.order {
+    background-color: #d43342;
+    padding: 10px 33px;
+    color: #fff!important;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 18px;
+}
+.explore-content h4 a {
+    background-color: #d43342;
+    display: inline-block;
+    padding: 12px 23px;
+    color: #fff;
+    font-size: 16px;
+}
+.explore-content {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+.col-xs-12 {
+    width: 100%;
+}
+@media (min-width: 768px){
+    .col-sm-8 {
+        width: 66.66666667%;
+        float: left;
+    }
+    .col-sm-4 {
+    width: 33.33333333%;
+    float: left;
+}
+}
+@media (max-width: 767px){
+    .personalized-main .container .row:last-child {
+        flex-direction: column;
+    }
+}
+</style>
