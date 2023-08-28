@@ -424,7 +424,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/but_engage_d4abda48-a65a-4b23-9d6f-34834a300343.jpg"
           }
         },
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2": {
@@ -471,7 +472,8 @@
       ],
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 767px) {.l4ft li > .main:before {position: unset !important; } .l4ft .main > div {width: 98%; text-align: left; margin: 0 auto; } p.link-btn.button-palette-accent {justify-content: flex-start !important; } .l4ft li:not(.inline) > .main > figure {position: relative !important; }}"
       ],
       "settings": {
         "collageimg": "",
