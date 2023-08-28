@@ -55,7 +55,7 @@
         "fill_images": false,
         "layout": "grid",
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Collection list",
         "title_font": "primary",
         "title_size": "h2",
