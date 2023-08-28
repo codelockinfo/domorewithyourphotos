@@ -35,6 +35,15 @@
         "spacing_mobile": 30
       }
     },
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "03e4430b-2f5d-4440-b512-c6d9936cc2de": {
       "type": "section-collage",
       "blocks": {
@@ -187,15 +196,6 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
-      }
-    },
-    "7ffb2fd1-beeb-41a2-b716-0637e80a346d": {
-      "type": "addcontent",
-      "settings": {
-        "title": "",
-        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
-        "alignment": "center center",
-        "background_color": "#f9f9f9"
       }
     },
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5": {
@@ -797,9 +797,9 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d",
     "03e4430b-2f5d-4440-b512-c6d9936cc2de",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
-    "7ffb2fd1-beeb-41a2-b716-0637e80a346d",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
