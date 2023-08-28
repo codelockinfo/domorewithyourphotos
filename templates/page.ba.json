@@ -35,6 +35,105 @@
         "spacing_mobile": 30
       }
     },
+    "03e4430b-2f5d-4440-b512-c6d9936cc2de": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "shopify:\/\/collections\/personalised-selfie-frames-for-anniversaries",
+            "image": "shopify:\/\/shop_images\/young-smiling-lady-with-hand-shoulder-positive-guy-showing-photo-frame_23-2148020238.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised  Selfie Frames"
+          }
+        },
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-2": {
+          "type": "image",
+          "settings": {
+            "imgid": "shopify:\/\/pages\/personalisedphotobanners",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_256438204.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Photo Banners"
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-1",
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-2"
+      ],
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "108ad8f7-df30-4fbd-804a-899a9f833677": {
       "type": "section-rich-text",
       "blocks": {
@@ -88,6 +187,15 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
+      }
+    },
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
       }
     },
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5": {
@@ -333,7 +441,7 @@
       ],
       "settings": {
         "title": "",
-        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
         "alignment": "center center",
@@ -689,7 +797,9 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "03e4430b-2f5d-4440-b512-c6d9936cc2de",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
