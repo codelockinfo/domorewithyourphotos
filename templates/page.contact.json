@@ -113,7 +113,7 @@
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
-        "text_position": "text-start",
+        "text_position": "text-center",
         "height": "xs",
         "enable_custom_height": false,
         "custom_height": 300,
@@ -320,7 +320,7 @@
         "e40e00a1-f1c1-46de-84f4-9f8ac1ca29af"
       ],
       "custom_css": [
-        "a{text-decoration:none;}"
+        "a {text-decoration: none;}"
       ],
       "settings": {
       }
