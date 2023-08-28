@@ -7103,7 +7103,7 @@ section.photo-album-banner.l4ft.fullwidth{
   background:#b51819  !important ;
   color:#fff !important;
 }
-.collageimg{
+.collageimg  ,.animated_column li h2{
     font-family: Bitter,serif;
     text-transform: none;
     font-weight: var(--main_fw_h);
