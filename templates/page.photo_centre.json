@@ -501,7 +501,7 @@
       "custom_css": [
         ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
         "img {object-fit: fill !important;}",
-        "h2{text-align:center;}"
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "items_width": 1,
@@ -722,7 +722,8 @@
         "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
       ],
       "custom_css": [
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 760px) {.m6as > div {align-items: center; text-align: center; }}"
       ],
       "settings": {
         "imagetextid": "",
