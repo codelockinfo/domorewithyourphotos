@@ -246,6 +246,9 @@
         "e70b7df4-5299-4c87-b7a3-7f0ab2f6cd55",
         "7f5b90a3-0ea1-466d-a8bb-fb174e340aed"
       ],
+      "custom_css": [
+        "p.submit.m0.text-end.button-palette-accent.form-group{display: flex; justify-content: center;}"
+      ],
       "settings": {
         "alignment": "center",
         "title": "Contact form",
