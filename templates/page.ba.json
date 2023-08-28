@@ -792,6 +792,63 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "27ece943-d23b-49cb-93b5-471618751a6b": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "first-holy-communion-confirmation-banners",
+          "personalised-birthday-photo-banners-for-adults",
+          "personalised-birthday-photo-banners-for-children",
+          "personalised-photo-banners-for-new-babies-christenings-baby-showers",
+          "18th-birthday-gift-ideas",
+          "21-today",
+          "30th-birthday-framed-gifts-personalised-photo-banners",
+          "40th-birthday-framed-gifts-personalised-photo-banners",
+          "50th-birthday-framed-gifts-personalised-photo-banners",
+          "60th-birthday-framed-gifts-personalised-photo-banners",
+          "70th-birthday-framed-gifts-personalised-photo-banners",
+          "80th-birthday-framed-gifts-personalised-photo-banners",
+          "90th-birthday-framed-gifts-personalised-photo-banners",
+          "graduation-reunion-debs-personal-photo-banners",
+          "banners-for-anniversaries",
+          "personalised-photo-banners-for-weddings-hen-partys",
+          "engagement-banners",
+          "welcome-home-goodbye-personal-banners",
+          "confirmation-personalised-photo-banners",
+          "personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home",
+          "personalised-selfie-frame-collection"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 3,
+        "text_alignment": "center",
+        "title": "Collection list",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "View all",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -805,6 +862,7 @@
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e",
-    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7"
+    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
+    "27ece943-d23b-49cb-93b5-471618751a6b"
   ]
 }
