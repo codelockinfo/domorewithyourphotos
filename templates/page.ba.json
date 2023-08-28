@@ -1081,6 +1081,7 @@
     },
     "43664164-a993-48a4-bd99-e45e63e40113": {
       "type": "Gift_section",
+      "disabled": true,
       "settings": {
         "title": "",
         "textarea": "",
