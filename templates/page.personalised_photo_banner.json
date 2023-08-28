@@ -161,9 +161,9 @@
         "buttons_color_palette": "black",
         "button_styling": "fill",
         "text_alignment": "center",
-        "title": "<strong>Choose a Selfie Frame Theme<\/strong>",
+        "title": "Choose a Selfie Frame Theme",
         "title_font": "primary",
-        "title_size": "h3",
+        "title_size": "h2",
         "enable_custom_text_styling": false,
         "title_color_palette": "black",
         "title_weight": "700",
@@ -477,7 +477,8 @@
       ],
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 767px) {.l4ft li > .main:before {position: unset !important; } .l4ft .main > div {width: 98%; text-align: left; margin: 0 auto; } p.link-btn.button-palette-accent {justify-content: flex-start !important; } .l4ft li:not(.inline) > .main > figure {position: relative !important; }}"
       ],
       "settings": {
         "collageimg": "",
@@ -509,7 +510,7 @@
         "labels": true,
         "label_before": "",
         "label_after": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Give The Gift Of Memories",
         "title_font": "primary",
         "title_size": "h2",

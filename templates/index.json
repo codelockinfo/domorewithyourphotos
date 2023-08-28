@@ -171,28 +171,34 @@
         "166029118628eefa48-0": {
           "type": "usp",
           "settings": {
-            "usp": "<p>3 days Delivery <\/p><p>Order  Monday , Receive Friday<\/p>"
+            "usp": "<p><strong>Preview Sent Via Email Within 24 Hours<\/strong><\/p>"
           }
         },
         "166029118628eefa48-1": {
           "type": "usp",
           "settings": {
-            "usp": "<p>700+ 5* Rating<\/p>"
+            "usp": "<p><strong>1 - 3 Days Delivery Nationwide<\/strong><\/p>"
           }
         },
         "166029118628eefa48-2": {
           "type": "usp",
           "settings": {
-            "usp": "<p>Largest Selection of Personalsied gifts in Ireland<\/p>"
+            "usp": "<p><strong>700+ 5* Reviews<\/strong><\/p>"
+          }
+        },
+        "dfb57798-6a47-40f3-8b92-e7ba9c032261": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>We Are 100% Irish - in Co. Donegal<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "166029118628eefa48-0",
         "166029118628eefa48-1",
-        "166029118628eefa48-2"
+        "166029118628eefa48-2",
+        "dfb57798-6a47-40f3-8b92-e7ba9c032261"
       ],
-      "disabled": true,
       "custom_css": [
         ".l4us li:before {color: #b41717 !important;}",
         "@media only screen and (max-width: 760px) {.l4us-mobile {display: none !important; } .mobile-hide {display: block !important; position: unset !important; display: flex !important; overflow: scroll; flex-wrap: wrap; align-items: center; margin: 0; }}"
@@ -200,52 +206,13 @@
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
-        "layout": "rows",
-        "autoplay": false,
+        "layout": "slider",
+        "autoplay": true,
         "autoplay_seconds": 3,
         "show_arrows": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
-      }
-    },
-    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616": {
-      "type": "icon_with_text",
-      "blocks": {
-        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c": {
-          "type": "collection",
-          "settings": {
-            "imageurl": "shopify:\/\/shop_images\/icons8-calendar-100.png",
-            "btntext": "3 days Delivery Order  Monday , Receive Friday",
-            "btndescription": ""
-          }
-        },
-        "3283ad43-0987-4d0f-ab22-079018da623d": {
-          "type": "collection",
-          "settings": {
-            "imageurl": "shopify:\/\/shop_images\/icons8-star-half-empty-96_3.png",
-            "btntext": "700+ 5* Rating",
-            "btndescription": ""
-          }
-        },
-        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f": {
-          "type": "collection",
-          "settings": {
-            "imageurl": "shopify:\/\/shop_images\/icons8-delivery-100.png",
-            "btntext": "Largest Selection of Personalsied gifts in Ireland",
-            "btndescription": ""
-          }
-        }
-      },
-      "block_order": [
-        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c",
-        "3283ad43-0987-4d0f-ab22-079018da623d",
-        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
-      ],
-      "custom_css": [
-        ".maindivv.productslider1 {padding: 7% 0;}"
-      ],
-      "settings": {
       }
     },
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f": {
@@ -333,7 +300,7 @@
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
       ],
       "custom_css": [
-        ".categories-heading h3 {text-align: center;}"
+        ".categories-heading h3 {text-align: center; font-family: Bitter, serif; text-transform: none; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -0.04em; font-size: var(--main_h2);}"
       ],
       "settings": {
         "tradinghead": "Shop Trending Categories",
@@ -347,7 +314,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/canvas-art",
-            "image": "shopify:\/\/shop_images\/dreamstime_m_214483180.jpg",
+            "image": "shopify:\/\/shop_images\/collage.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -384,7 +351,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/memorial-gifts",
-            "image": "shopify:\/\/shop_images\/collageframeb.jpg",
+            "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -450,7 +417,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/collections\/wooden-photo-frame-collection",
-            "image": "shopify:\/\/shop_images\/default_name.jpg",
+            "image": "shopify:\/\/shop_images\/albumall.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -487,7 +454,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/pages\/birthday",
-            "image": "shopify:\/\/shop_images\/happy-birthday-with-realistic-balloons-soft-colors_1361-3243.jpg",
+            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -545,6 +512,40 @@
         "fix_zindex": 0
       }
     },
+    "d5ebf098-d235-421e-b752-e943669e183d": {
+      "type": "section-featured-collection",
+      "custom_css": [
+        ".link-btn a:before {background: #d13540 !important;}"
+      ],
+      "settings": {
+        "collection": "most-popular-products",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "dark",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864": {
       "type": "section-content-tabs",
       "blocks": {
@@ -555,7 +556,7 @@
             "icon": "none",
             "header_image_width": 25,
             "collection": "fujifilm-instax-camera-range",
-            "products_limit": 5,
+            "products_limit": 8,
             "number_of_items": 4,
             "text": "<p>Content of second tab<\/p>",
             "page": "",
@@ -588,7 +589,7 @@
             "title": "Frames",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "just-frames",
+            "collection": "all-our-photo-frames",
             "products_limit": 5,
             "number_of_items": 4,
             "text": "<p>Tab content<\/p>",
@@ -806,188 +807,66 @@
         "fix_zindex": 0
       }
     },
-    "d5ebf098-d235-421e-b752-e943669e183d": {
-      "type": "section-featured-collection",
-      "custom_css": [
-        ".link-btn a:before {background: #d13540 !important;}"
-      ],
-      "settings": {
-        "collection": "most-popular-products",
-        "limit": 8,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "dark",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "29bf0de8-5019-4650-8c3c-6fc821848712": {
-      "type": "section-lookbook",
+    "7fefcbef-dde3-4f59-8a6d-c70388748ad0": {
+      "type": "allanniversary",
       "blocks": {
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-1": {
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
-            "title": "Canvas Art",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/collections\/canvas-art",
-            "show_link": false,
-            "button_color_palette": "black",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/mugs_shopa.jpg",
+            "link_url": "shopify:\/\/collections\/anniversary",
+            "text": "Anniversary Gift Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
           }
         },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-5": {
+        "8502fe75-d140-4b78-96b8-10b33781f7d2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/anniversarysmall.jpg",
-            "title": "Anniversary",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/pages\/anniversaryday",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "width": "third",
+            "image": "shopify:\/\/shop_images\/print.jpg",
+            "link_url": "shopify:\/\/collections\/birthdays",
+            "text": "Birthday Frame",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
           }
         },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4": {
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthdayasmall.jpg",
-            "title": "Birthday Gifts",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/pages\/birthday",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/albumall.jpg",
-            "title": "Wooden Photo Frames",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/collections\/wooden-photo-frame-collection",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-2": {
-          "type": "image",
-          "settings": {
+            "width": "third",
             "image": "shopify:\/\/shop_images\/memorial_slatessmall.jpg",
-            "title": "Personalised Remembrance Gifts",
-            "text": "",
-            "link_text": "View More",
-            "link_url": "shopify:\/\/collections\/memorial-gifts",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-              "aunty-we-love-you-personalised-photo-mug"
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "link_url": "shopify:\/\/collections\/gifts-from-you",
+            "text": "Framed Gifts",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
           }
         }
       },
       "block_order": [
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-1",
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-5",
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-4",
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-3",
-        "template--19518196482378__29bf0de8-5019-4650-8c3c-6fc821848712-image-2"
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1",
+        "8502fe75-d140-4b78-96b8-10b33781f7d2",
+        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2"
       ],
       "custom_css": [
-        ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
+        ".column-third {width: 32%; padding: 0 10px;}",
+        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
+        "@media only screen and (max-width: 460px) {.column-third {width: 100%; margin-top: 5%; }}"
       ],
       "settings": {
-        "number_of_items": 3,
-        "space_between": 16,
-        "text_alignment": "center",
-        "title": "Lookbook",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "title_position": "center",
-        "lookbook_title_font": "primary",
-        "lookbook_title_size": "h2",
-        "layout_mobile": "rows",
-        "mobile_height": "size-s",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
+        "tradinghead": "",
+        "alignment": "top"
       }
     },
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2": {
       "type": "section-featured-collection",
       "settings": {
         "collection": "just-print",
-        "limit": 4,
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Put Your Photo On",
@@ -1007,447 +886,6 @@
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "5a38595f-dfae-4df9-adaa-1759a75523fe": {
-      "type": "section-featured-products",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "products": [
-          "baby-animals-200-photos-6x4-blue-memo-photo-album",
-          "6x4-200-photos-adventure-series-wanderlust-photo-album-by-kenro",
-          "fujifilm-instax-mini-instant-photo-film-20-pack-ireland",
-          "twilight-6x4-silver-plated-frame"
-        ],
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "\/",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "91785d11-bdca-4dcf-9184-f2eaa5be6bfb": {
-      "type": "section-collection-list",
-      "custom_css": [
-        "@media only screen and (max-width: 760px) {ul li {width: 100% !important; }}"
-      ],
-      "settings": {
-        "collections": [
-          "21-today",
-          "18th-birthday-gift-ideas",
-          "30th-birthday-framed-gifts-personalised-photo-banners"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": false,
-        "fill_images": false,
-        "layout": "grid",
-        "number_of_items": 3,
-        "text_alignment": "center",
-        "title": "Collection list",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "",
-        "link_url": "shopify:\/\/collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "grid",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "28719162-8916-410f-9483-fd857ea7a7af": {
-      "type": "section-social-stories",
-      "blocks": {
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/TWighlit_5feeec3a-0dad-4244-814c-fab0ef216b9f.jpg",
-            "text": "",
-            "link_url": "shopify:\/\/collections\/birthdays",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Birthdays Gift Frame"
-          }
-        },
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/but_freinds_8bbcafa1-ed65-44ac-9bc1-491f75aa916b.png",
-            "text": "",
-            "link_url": "shopify:\/\/collections\/gifts-from-you",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Framed Gifts"
-          }
-        },
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/style_7c2cfec1-7395-4861-99c2-9b0e736f8610.jpg",
-            "text": "",
-            "link_url": "shopify:\/\/collections\/family-gifts",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Gifts for Family"
-          }
-        },
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/eleq_8c87175b-a503-4b1b-bc9d-6ac12dabfb06.jpg",
-            "text": "",
-            "link_url": "shopify:\/\/collections\/back-to-school-gifts",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Back to School Gifts"
-          }
-        },
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/symphoney_d96252a4-b32a-44a0-b8cd-3be52e45633d.jpg",
-            "text": "",
-            "link_url": "shopify:\/\/collections\/anniversary",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Anniversary Gift Frame"
-          }
-        }
-      },
-      "block_order": [
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-1",
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-2",
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-3",
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-4",
-        "template--19518196482378__28719162-8916-410f-9483-fd857ea7a7af-image-5"
-      ],
-      "settings": {
-        "custom_image_ratio": 100,
-        "show_in_circle": false,
-        "number_of_items": 4,
-        "space_between": 16,
-        "text_alignment": "center",
-        "title": "Social stories",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "title_position": "start",
-        "social_title_size": "13px",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "64c3791c-5203-4ab0-a1d6-9a533845659d": {
-      "type": "section-image-with-products",
-      "custom_css": [
-        "@media only screen and (max-width: 760px) {.ff-primary {margin-top: -50%; }}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/anniversaryb.jpg",
-        "overlay_opacity": 0,
-        "color_palette": "white",
-        "button_color_palette": "accent",
-        "layout": "image-right",
-        "products": [
-          "10-little-fingers-sentiment-gift-frame",
-          "fujifilm-instax-mini-instant-photo-film-10-pack-ireland",
-          "kenro-minimax-100-photos-6x4-black-photo-album",
-          "kenro-minimax-100-photos-6x4-red-photo-album",
-          "kenro-candy-series-100-photos-6x4-memo-photo-album"
-        ],
-        "text_position": "align-top text-start",
-        "title": "SYMPHONY",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Shop Now",
-        "link_url": "shopify:\/\/products\/50-years-together-sentiment-frame",
-        "show_link": false,
-        "width_mobile": "wide",
-        "mobile_height": "size-m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "d43d5b85-2658-4b10-9df3-a6e06fd51497": {
-      "type": "section-image-hotspots",
-      "blocks": {
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1": {
-          "type": "hotspot",
-          "settings": {
-            "product": "family-is-framed-photo-collage",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 70,
-            "position_top": 20,
-            "position_left_mobile": 70,
-            "position_top_mobile": 20
-          }
-        },
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2": {
-          "type": "hotspot",
-          "settings": {
-            "product": "family-branches-collage-on-canvas",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 12,
-            "position_top": 60,
-            "position_left_mobile": 30,
-            "position_top_mobile": 50
-          }
-        },
-        "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc": {
-          "type": "hotspot",
-          "settings": {
-            "product": "family-in-vacation-photo-collage",
-            "text_position": "text-start",
-            "title_font": "primary",
-            "title": "Image hotspot",
-            "text": "<p>Highlight a new collection and share details about products related to this image<\/p>",
-            "position_left": 36,
-            "position_top": 30,
-            "position_left_mobile": 50,
-            "position_top_mobile": 30
-          }
-        }
-      },
-      "block_order": [
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-1",
-        "template--19518196482378__d43d5b85-2658-4b10-9df3-a6e06fd51497-hotspot-2",
-        "fc3b3dd0-403d-4cfe-978b-fee41cf6b2cc"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/W63_3a49d114-63a1-485a-932e-cfae2cd16551.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "black",
-        "overlay_opacity": 100,
-        "button_color_palette": "accent",
-        "hotspot_height": 33,
-        "hotspot_color_palette": "white",
-        "hotspot_hover_color_palette": "black",
-        "layout": "right",
-        "height": "m",
-        "width": "wide",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-center",
-        "title": "Family Gift Frame",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Shop NOW",
-        "link_url": "shopify:\/\/collections\/family",
-        "show_link": false,
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "7fefcbef-dde3-4f59-8a6d-c70388748ad0": {
-      "type": "allanniversary",
-      "blocks": {
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1": {
-          "type": "image",
-          "settings": {
-            "width": "third",
-            "image": "shopify:\/\/shop_images\/SFWedding14a.jpg",
-            "link_url": "shopify:\/\/collections\/anniversary",
-            "text": "Anniversary Gift Frame",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2": {
-          "type": "image",
-          "settings": {
-            "width": "third",
-            "image": "shopify:\/\/shop_images\/SFWanted02a2.jpg",
-            "link_url": "shopify:\/\/collections\/gifts-from-you",
-            "text": "Framed Gifts",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "93ca3974-d437-4700-932b-8e25fe397bb2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "width": "two-thirds",
-            "title": "SALE UPTO 50% OFF",
-            "text": ""
-          }
-        },
-        "8502fe75-d140-4b78-96b8-10b33781f7d2": {
-          "type": "image",
-          "settings": {
-            "width": "third",
-            "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
-            "link_url": "shopify:\/\/collections\/birthdays",
-            "text": "Birthday Frame",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1",
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2",
-        "93ca3974-d437-4700-932b-8e25fe397bb2",
-        "8502fe75-d140-4b78-96b8-10b33781f7d2"
-      ],
-      "custom_css": [
-        ".column-third {width: 32%; padding: 0 10px;}",
-        "@media only screen and (max-width: 767px) {.column-third {width: 50%; }}",
-        "@media only screen and (max-width: 460px) {.column-third {width: 100%; }}"
-      ],
-      "settings": {
-        "tradinghead": "",
-        "alignment": "top"
-      }
-    },
-    "7c1aa4fd-afc8-483d-a73a-c64bc169dc26": {
-      "type": "section-featured-products",
-      "settings": {
-        "products": [
-          "a-teacher-i-will-never-forget-thank-you-slate",
-          "floral-in-loving-memory-portrait-personalised-memorial-plaque",
-          "if-i-could-bring-dad-home-again-memorial-plaques",
-          "our-sentiment-anniversary-photo-slate",
-          "personalised-memorial-slate-plaque-remembrance",
-          "your-life-was-a-blessing-memorial-plaque"
-        ],
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Best Sellers",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "\/",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -1499,6 +937,7 @@
         "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-text-1",
         "template--19518196482378__810a5104-f6f7-4a64-935d-3a285397bf19-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "imagetextid": "",
         "image": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
@@ -1510,40 +949,7 @@
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "7eac19b8-6db2-4dbf-b041-63af46ad9c0e": {
-      "type": "section-blog-posts",
-      "settings": {
-        "blog": "news",
-        "number_of_items": 3,
-        "text_alignment": "center",
-        "title": "Blog posts",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "All Blogs",
-        "link_url": "shopify:\/\/blogs\/news",
-        "button_color_palette": "black",
-        "show_link": false,
-        "show_image": true,
-        "show_date": true,
-        "show_author": true,
-        "show_excerpt": false,
-        "button_color_palette_post": "accent",
-        "show_link_post": true,
+        "text_position": "text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -1551,16 +957,15 @@
     },
     "b19657d9-9ba4-42d2-9aac-094f50ec3905": {
       "type": "howwork",
-      "disabled": true,
       "settings": {
         "worktitle": "How we work",
-        "workdesc": "To give the confidence to  consumer",
+        "workdesc": "",
         "image": "shopify:\/\/shop_images\/icons8-clock-96.png",
         "image2": "shopify:\/\/shop_images\/icons8-calendar-96.png",
         "ordertext": "Preview",
-        "orderdes": "Sent to your email within 24hr for Approval with every order",
+        "orderdes": "to your email within 24hr for approval with Every order.",
         "ordertext1": "Delivery",
-        "orderdes1": "3 Days for delivery Nationwide",
+        "orderdes1": "1 -3 Days for  Nationwide with an post . Next Day available at request",
         "animatedbanner1": "shopify:\/\/shop_images\/us_4_eb4a63fd-4e34-48e2-8252-fcb89178d440.jpg",
         "button-text": "Print Photos Online",
         "button-link": "https:\/\/580.app.fujipix.ie\/",
@@ -1569,31 +974,63 @@
         "cta_text": "Read About Us",
         "cta_url": "shopify:\/\/pages\/about-us"
       }
+    },
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616": {
+      "type": "icon_with_text",
+      "blocks": {
+        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/icons8-calendar-100.png",
+            "btntext": "3 days Delivery Order  Monday , Receive Friday",
+            "btndescription": ""
+          }
+        },
+        "3283ad43-0987-4d0f-ab22-079018da623d": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/icons8-star-half-empty-96_3.png",
+            "btntext": "700+ 5* Rating",
+            "btndescription": ""
+          }
+        },
+        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f": {
+          "type": "collection",
+          "settings": {
+            "imageurl": "shopify:\/\/shop_images\/icons8-delivery-100.png",
+            "btntext": "Largest Selection of Personalsied gifts in Ireland",
+            "btndescription": ""
+          }
+        }
+      },
+      "block_order": [
+        "b89fe9c5-7931-48ba-9bc2-df3f9d104e1c",
+        "3283ad43-0987-4d0f-ab22-079018da623d",
+        "a7ea100b-ef47-47ef-b8a8-5a66b4abe31f"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".maindivv.productslider1 {padding: 7% 0;}"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "e062a8df-cf0f-405b-8bd2-781f19f03e7a",
     "747e66cf-c2ec-4068-a3c1-19c06148cdec",
     "1660291186859914cb",
-    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616",
     "dbeb16ac-64e6-4360-b817-6bf26eefd03f",
     "499a8478-0317-4105-aaf4-1a6d4c6aec9f",
     "a73296f0-f170-4c5b-885d-b98039090205",
+    "d5ebf098-d235-421e-b752-e943669e183d",
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
-    "d5ebf098-d235-421e-b752-e943669e183d",
-    "29bf0de8-5019-4650-8c3c-6fc821848712",
-    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
-    "5a38595f-dfae-4df9-adaa-1759a75523fe",
-    "91785d11-bdca-4dcf-9184-f2eaa5be6bfb",
-    "28719162-8916-410f-9483-fd857ea7a7af",
-    "64c3791c-5203-4ab0-a1d6-9a533845659d",
-    "d43d5b85-2658-4b10-9df3-a6e06fd51497",
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
-    "7c1aa4fd-afc8-483d-a73a-c64bc169dc26",
+    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
-    "7eac19b8-6db2-4dbf-b041-63af46ad9c0e",
-    "b19657d9-9ba4-42d2-9aac-094f50ec3905"
+    "b19657d9-9ba4-42d2-9aac-094f50ec3905",
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616"
   ]
 }

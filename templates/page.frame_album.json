@@ -387,11 +387,12 @@
         "collection": "just-print",
         "limit": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Put Your Photo On Canvas or  Slate",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "Now with 30% OFF for 1 Month Only",
@@ -403,7 +404,7 @@
         "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
-        "link_text": "View all",
+        "link_text": "",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -499,7 +500,8 @@
       ],
       "custom_css": [
         ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        ".animated_column ul li h2 {text-align: center;}"
       ],
       "settings": {
         "items_width": 1,
@@ -720,7 +722,8 @@
         "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-buttons-1"
       ],
       "custom_css": [
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 760px) {.m6as > div{align-items: center; text-align: center;}}"
       ],
       "settings": {
         "imagetextid": "",

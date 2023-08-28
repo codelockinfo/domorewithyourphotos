@@ -246,8 +246,11 @@
         "e70b7df4-5299-4c87-b7a3-7f0ab2f6cd55",
         "7f5b90a3-0ea1-466d-a8bb-fb174e340aed"
       ],
+      "custom_css": [
+        "p.submit.m0.text-end.button-palette-accent.form-group{display: flex; justify-content: center;}"
+      ],
       "settings": {
-        "alignment": "left",
+        "alignment": "center",
         "title": "Contact form",
         "title_font": "primary",
         "title_size": "h3",
@@ -320,7 +323,7 @@
         "e40e00a1-f1c1-46de-84f4-9f8ac1ca29af"
       ],
       "custom_css": [
-        "a{text-decoration:none;}"
+        "a {text-decoration: none;}"
       ],
       "settings": {
       }

@@ -35,6 +35,114 @@
         "spacing_mobile": 30
       }
     },
+    "03e4430b-2f5d-4440-b512-c6d9936cc2de": {
+      "type": "section-collage",
+      "blocks": {
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-1": {
+          "type": "image",
+          "settings": {
+            "imgid": "shopify:\/\/collections\/personalised-selfie-frames-for-anniversaries",
+            "image": "shopify:\/\/shop_images\/young-smiling-lady-with-hand-shoulder-positive-guy-showing-photo-frame_23-2148020238.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised  Selfie Frames"
+          }
+        },
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-2": {
+          "type": "image",
+          "settings": {
+            "imgid": "shopify:\/\/collections\/memorial-photo-collage",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_256438204.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Photo Banners"
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-1",
+        "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-2"
+      ],
+      "settings": {
+        "collageimg": "",
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d": {
+      "type": "addcontent",
+      "settings": {
+        "title": "",
+        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "108ad8f7-df30-4fbd-804a-899a9f833677": {
       "type": "section-rich-text",
       "blocks": {
@@ -140,7 +248,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "title2": "",
+            "title2": "First Holy Communion Banners",
             "imgs2": "shopify:\/\/shop_images\/Communion_confirmation_099ffa95-60a9-4d54-bbff-907f681499cd.jpg",
             "button_link": "shopify:\/\/collections\/first-holy-communion-confirmation-banners"
           }
@@ -333,11 +441,169 @@
       ],
       "settings": {
         "title": "",
-        "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
+        "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
         "alignment": "center center",
         "background_color": "#f9f9f9"
+      }
+    },
+    "27ece943-d23b-49cb-93b5-471618751a6b": {
+      "type": "section-collection-list",
+      "disabled": true,
+      "custom_css": [
+        "ul {padding: 0 10%;}"
+      ],
+      "settings": {
+        "collections": [
+          "first-holy-communion-confirmation-banners",
+          "personalised-birthday-photo-banners-for-adults",
+          "personalised-birthday-photo-banners-for-children",
+          "personalised-photo-banners-for-new-babies-christenings-baby-showers",
+          "18th-birthday-gift-ideas",
+          "21-today",
+          "30th-birthday-framed-gifts-personalised-photo-banners",
+          "40th-birthday-framed-gifts-personalised-photo-banners",
+          "50th-birthday-framed-gifts-personalised-photo-banners",
+          "60th-birthday-framed-gifts-personalised-photo-banners",
+          "70th-birthday-framed-gifts-personalised-photo-banners",
+          "80th-birthday-framed-gifts-personalised-photo-banners",
+          "90th-birthday-framed-gifts-personalised-photo-banners",
+          "graduation-reunion-debs-personal-photo-banners",
+          "banners-for-anniversaries",
+          "personalised-photo-banners-for-weddings-hen-partys",
+          "engagement-banners",
+          "welcome-home-goodbye-personal-banners",
+          "confirmation-personalised-photo-banners",
+          "personalised-photo-banners-for-first-commmunion-congratulation-welcome-new-home",
+          "personalised-selfie-frame-collection"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": false,
+        "fill_images": false,
+        "layout": "grid",
+        "number_of_items": 3,
+        "text_alignment": "center",
+        "title": "",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": false,
+        "collection_title_size": "p",
+        "mobile_layout": "grid",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "00ee51b0-29ac-4a2b-aad0-3da75188f979": {
+      "type": "section-banner-columns",
+      "blocks": {
+        "d0c414d3-66da-48d1-9220-3094e0a8a5bf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photoslated.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Photo Banners"
+          }
+        },
+        "3e2b27c5-042c-4eac-adbe-0d450b60c715": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/selfie_frames-1.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "Personalised Selfie Frames"
+          }
+        }
+      },
+      "block_order": [
+        "d0c414d3-66da-48d1-9220-3094e0a8a5bf",
+        "3e2b27c5-042c-4eac-adbe-0d450b60c715"
+      ],
+      "settings": {
+        "items_width": 3,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "show_content_below": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     },
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5": {
@@ -347,11 +613,11 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/CPD1b.jpg",
+            "image": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
-            "text_position": "text-end",
+            "text_position": "text-start",
             "title": "Dont see what you are looking for",
             "title_font": "primary",
             "title_size": "h2",
@@ -377,54 +643,18 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        },
-        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "imgid": "",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "Image banner",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s)<\/p>",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg"
           }
         }
       },
       "block_order": [
-        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1",
-        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-2"
+        "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1"
       ],
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
-        "img {object-fit: fill !important;}"
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 767px) {.l4ft li > .main:before {position: unset !important; } .l4ft .main > div {width: 98%; text-align: left; margin: 0 auto; } p.link-btn.button-palette-accent {justify-content: flex-start !important; } .l4ft li:not(.inline) > .main > figure {position: relative !important; }}"
       ],
       "settings": {
         "collageimg": "",
@@ -443,6 +673,68 @@
         "fix_zindex": 0
       }
     },
+    "542e9744-7bba-481e-8118-a77ac0fc8cf8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Give The Gift Of Memories",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Bring a tear to their eye and present them with their history hidden  within our number collages<\/p>"
+          }
+        },
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Order Now",
+            "link_url_1": "shopify:\/\/collections\/number-photo-collages",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-title-1",
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-text-1",
+        "template--19486310007114__542e9744-7bba-481e-8118-a77ac0fc8cf8-buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 760,
+        "text_position": "text-center",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "5f9fc417-836a-48af-b6be-421a6931ea93": {
       "type": "section-image-comparison",
       "custom_css": [
@@ -456,7 +748,7 @@
         "labels": true,
         "label_before": "",
         "label_after": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "Give The Gift Of Memories",
         "title_font": "primary",
         "title_size": "h2",
@@ -682,17 +974,127 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "b889967a-befc-4846-b45f-62d1980920bb": {
+      "type": "section-image-columns-text",
+      "blocks": {
+        "template--19486310007114__b889967a-befc-4846-b45f-62d1980920bb-image-1": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Personalised Photo Banners",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/photoslated.jpg",
+            "imglinkurl": "shopify:\/\/collections\/personalised-selfie-frames-for-anniversaries",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        },
+        "template--19486310007114__b889967a-befc-4846-b45f-62d1980920bb-image-2": {
+          "type": "image",
+          "settings": {
+            "animationtitle": "Personalised Selfie Frames",
+            "animationdes": "",
+            "image": "shopify:\/\/shop_images\/selfie_frames-1.jpg",
+            "imglinkurl": "shopify:\/\/collections\/gifts-from-you",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__b889967a-befc-4846-b45f-62d1980920bb-image-1",
+        "template--19486310007114__b889967a-befc-4846-b45f-62d1980920bb-image-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "items_width": 2,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "compact",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
+    "03e4430b-2f5d-4440-b512-c6d9936cc2de",
+    "7ffb2fd1-beeb-41a2-b716-0637e80a346d",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
+    "27ece943-d23b-49cb-93b5-471618751a6b",
+    "00ee51b0-29ac-4a2b-aad0-3da75188f979",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
+    "542e9744-7bba-481e-8118-a77ac0fc8cf8",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e",
-    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7"
+    "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
+    "b889967a-befc-4846-b45f-62d1980920bb"
   ]
 }
