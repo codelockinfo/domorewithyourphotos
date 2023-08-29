@@ -477,13 +477,6 @@
             "imgs2": "shopify:\/\/shop_images\/90th.jpg",
             "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
           }
-        },
-        "93258557-cc87-4b83-8fdc-9852eed1d39b": {
-          "type": "collection_block",
-          "settings": {
-            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
-            "button_link": "shopify:\/\/pages\/70th-anniversary"
-          }
         }
       },
       "block_order": [
@@ -507,8 +500,7 @@
         "648b8059-331c-4af7-9169-ef5d572354cc",
         "1d5ea53c-c3f8-49b3-b5ba-1e4e551980fa",
         "2c05e525-32b6-45e1-be4c-e1991012ddfc",
-        "d7a32c75-5b83-42df-a32c-cd60756de1c6",
-        "93258557-cc87-4b83-8fdc-9852eed1d39b"
+        "d7a32c75-5b83-42df-a32c-cd60756de1c6"
       ],
       "settings": {
         "title": "",
