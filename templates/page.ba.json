@@ -589,6 +589,10 @@
         "bb7f3468-263f-463e-a64b-d3834a498c5c",
         "6457d7d3-b7b7-41aa-963f-8177b0cffd38"
       ],
+      "custom_css": [
+        "h3 {text-align: center !important;}",
+        ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}"
+      ],
       "settings": {
         "title": "Anniversary Banner",
         "textarea1": "",
