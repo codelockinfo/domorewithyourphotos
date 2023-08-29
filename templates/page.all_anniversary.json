@@ -279,8 +279,71 @@
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
     },
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "collection": "most-popular-products",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Most Popular",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "collection": "gifts-from-you",
+        "limit": 16,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Framed Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "a95bfc3b-a875-4b55-aae9-6b487bc16fef": {
       "type": "section-featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "most-popular-products",
         "limit": 8,
@@ -312,6 +375,7 @@
     },
     "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233": {
       "type": "section-featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "gifts-from-you",
         "limit": 16,
@@ -343,6 +407,7 @@
     },
     "8a27caef-7e3d-4286-bb8e-19977771e849": {
       "type": "section-featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "memorial-photo-collage",
         "limit": 16,
@@ -385,14 +450,14 @@
         "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
       }
     },
-    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
+    "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "collection": "most-popular-products",
-        "limit": 8,
+        "collection": "memorial-photo-collage",
+        "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Most Popular",
+        "title": "Personalised Remembrance Canvas",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -425,10 +490,12 @@
     "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084",
     "a95bfc3b-a875-4b55-aae9-6b487bc16fef",
     "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233",
     "8a27caef-7e3d-4286-bb8e-19977771e849",
     "585f48b7-c8ca-485b-995e-773f9a334356",
-    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb"
+    "d138c01a-9c39-4a17-9b20-0aa3ced74985"
   ]
 }
