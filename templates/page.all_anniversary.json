@@ -73,46 +73,6 @@
         "fix_zindex": 0
       }
     },
-    "62e73c70-a9b9-45b9-8258-d1ea19c59e3a": {
-      "type": "section-collection-navigation",
-      "disabled": true,
-      "settings": {
-        "collections": [
-
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": true,
-        "fill_images": true,
-        "collection_size": "125",
-        "show_border": true,
-        "border_color": "#000000",
-        "text_alignment": "center",
-        "title": "",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "View all",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "h3|14px",
-        "text_font": "body",
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "1bca002e-376a-41f0-b5f2-88db42e4e1fb": {
       "type": "allanniversary",
       "blocks": {
@@ -223,6 +183,7 @@
         "6cb8d905-593a-4eca-9808-954f98c3dd13",
         "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -230,13 +191,74 @@
         "tradinghead": "",
         "alignment": "middle"
       }
+    },
+    "e67978a9-2ecc-4d27-976a-7e2e297c9fa7": {
+      "type": "birthday_banner",
+      "blocks": {
+        "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac": {
+          "type": "block",
+          "settings": {
+            "top_heading": "",
+            "heading": "",
+            "html": "",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac"
+      ],
+      "settings": {
+      }
+    },
+    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3": {
+      "type": "birthday_work",
+      "blocks": {
+        "705a9d8a-1a9a-4336-9498-755e2939dc60": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        },
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deadline.png",
+            "heading": "Day for Delivery",
+            "html": "1 - 2 Days for delivery nationwide with An Post"
+          }
+        },
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        }
+      },
+      "block_order": [
+        "705a9d8a-1a9a-4336-9498-755e2939dc60",
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107",
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e"
+      ],
+      "settings": {
+        "title": "HOW WE WORK",
+        "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
+      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
     "9e2599ec-1b8e-484b-add3-3ea418be02db",
-    "62e73c70-a9b9-45b9-8258-d1ea19c59e3a",
-    "1bca002e-376a-41f0-b5f2-88db42e4e1fb"
+    "1bca002e-376a-41f0-b5f2-88db42e4e1fb",
+    "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
+    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3"
   ]
 }
