@@ -477,6 +477,13 @@
             "imgs2": "shopify:\/\/shop_images\/90th.jpg",
             "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
           }
+        },
+        "93258557-cc87-4b83-8fdc-9852eed1d39b": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/pages\/70th-anniversary"
+          }
         }
       },
       "block_order": [
@@ -500,13 +507,101 @@
         "648b8059-331c-4af7-9169-ef5d572354cc",
         "1d5ea53c-c3f8-49b3-b5ba-1e4e551980fa",
         "2c05e525-32b6-45e1-be4c-e1991012ddfc",
-        "d7a32c75-5b83-42df-a32c-cd60756de1c6"
+        "d7a32c75-5b83-42df-a32c-cd60756de1c6",
+        "93258557-cc87-4b83-8fdc-9852eed1d39b"
       ],
       "settings": {
         "title": "",
         "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
+    "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8": {
+      "type": "personlized_banner",
+      "blocks": {
+        "4d294e77-b005-4718-9071-c47c37c86345": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/pages\/1st-anniversary"
+          }
+        },
+        "46f89355-20e6-4399-bfbd-e4d61115bb62": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/pages\/10th-anniversary"
+          }
+        },
+        "9caf9ae0-14ac-40f6-b67d-dd39defc2d33": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": "shopify:\/\/pages\/20th-anniversary"
+          }
+        },
+        "b19f24eb-43fd-41bb-8ee8-788e2e6d92cd": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/pages\/25th-anniversary"
+          }
+        },
+        "647477cd-6313-4568-9cab-50f79b6f58e0": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": "shopify:\/\/pages\/30th-anniversary"
+          }
+        },
+        "314bd0de-ab26-437e-b4e1-8818967eca43": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/pages\/40th-anniversary"
+          }
+        },
+        "776d1c59-7429-419c-b1c8-134a8953d913": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/50th.jpg",
+            "button_link": "shopify:\/\/pages\/50th-anniversary"
+          }
+        },
+        "bb7f3468-263f-463e-a64b-d3834a498c5c": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/60th.jpg",
+            "button_link": "shopify:\/\/pages\/60th-anniversary"
+          }
+        },
+        "6457d7d3-b7b7-41aa-963f-8177b0cffd38": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/pages\/70th-anniversary"
+          }
+        }
+      },
+      "block_order": [
+        "4d294e77-b005-4718-9071-c47c37c86345",
+        "46f89355-20e6-4399-bfbd-e4d61115bb62",
+        "9caf9ae0-14ac-40f6-b67d-dd39defc2d33",
+        "b19f24eb-43fd-41bb-8ee8-788e2e6d92cd",
+        "647477cd-6313-4568-9cab-50f79b6f58e0",
+        "314bd0de-ab26-437e-b4e1-8818967eca43",
+        "776d1c59-7429-419c-b1c8-134a8953d913",
+        "bb7f3468-263f-463e-a64b-d3834a498c5c",
+        "6457d7d3-b7b7-41aa-963f-8177b0cffd38"
+      ],
+      "settings": {
+        "title": "Anniversary Banner",
+        "textarea1": "",
+        "show_text_over_image": false,
+        "show_number_products": true,
         "alignment": "center center",
         "background_color": "#f9f9f9"
       }
@@ -1186,6 +1281,7 @@
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "fd874400-bc8e-4031-968b-aae6b307dfff",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
+    "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8",
     "27ece943-d23b-49cb-93b5-471618751a6b",
     "00ee51b0-29ac-4a2b-aad0-3da75188f979",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
