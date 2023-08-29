@@ -198,13 +198,14 @@
         "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac": {
           "type": "block",
           "settings": {
+            "image": "shopify:\/\/shop_images\/30th_page_banner.jpg",
             "top_heading": "",
-            "heading": "",
-            "html": "",
-            "button_text": "",
-            "button_link": "",
-            "button_text_2": "",
-            "button_link_2": ""
+            "heading": "Anniversary Gifts",
+            "html": "With a70th Anniversary framed Gift, 1st Personalised Photo Banner selfie frame. This anniversary is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "Anniversary Photo banner",
+            "button_link": "shopify:\/\/collections\/anniversary",
+            "button_text_2": "Anniversary banner",
+            "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries"
           }
         }
       },
