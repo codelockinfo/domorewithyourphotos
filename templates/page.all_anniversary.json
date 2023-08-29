@@ -283,6 +283,68 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "gifts-from-you",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Framed Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "8a27caef-7e3d-4286-bb8e-19977771e849": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "memorial-photo-collage",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised Remembrance Canvas",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -292,6 +354,8 @@
     "1bca002e-376a-41f0-b5f2-88db42e4e1fb",
     "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
-    "a95bfc3b-a875-4b55-aae9-6b487bc16fef"
+    "a95bfc3b-a875-4b55-aae9-6b487bc16fef",
+    "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233",
+    "8a27caef-7e3d-4286-bb8e-19977771e849"
   ]
 }
