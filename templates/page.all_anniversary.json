@@ -357,6 +357,9 @@
         "babd70e7-79a6-4d7b-bccd-d780b5b656b1",
         "1a208171-2aeb-4b21-abd4-5f6abbc13d44"
       ],
+      "custom_css": [
+        ".blogflex {margin-bottom: 2%;}"
+      ],
       "settings": {
         "blogid": "Select Anniversary"
       }
