@@ -1079,22 +1079,6 @@
         "fix_zindex": 0
       }
     },
-    "43664164-a993-48a4-bd99-e45e63e40113": {
-      "type": "Gift_section",
-      "settings": {
-        "title": "",
-        "textarea": "",
-        "imgs": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
-        "title1": "The New Fujifilm Instax Mini 12",
-        "button_link": "shopify:\/\/collections\/fujifilm-instax-camera-range",
-        "imgs2": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
-        "title2": "Your photo on Canvas or Slate",
-        "button_link1": "shopify:\/\/collections\/just-print",
-        "imgs3": "shopify:\/\/shop_images\/birthday_2573d60c-1d70-4504-9681-5bc5e9cd4d7d.jpg",
-        "title3": "Personalised Birthday Gifts",
-        "button_link2": "shopify:\/\/collections\/birthday-gifts"
-      }
-    },
     "fd874400-bc8e-4031-968b-aae6b307dfff": {
       "type": "birthday_work",
       "blocks": {
@@ -1132,6 +1116,35 @@
         "title": "HOW WE WORK",
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
+    },
+    "43664164-a993-48a4-bd99-e45e63e40113": {
+      "type": "Gift_section",
+      "settings": {
+        "title": "",
+        "textarea": "",
+        "imgs": "shopify:\/\/shop_images\/instax_mini_12_e2138701-a234-4216-967d-0fc290e6d26f.jpg",
+        "title1": "The New Fujifilm Instax Mini 12",
+        "button_link": "shopify:\/\/collections\/fujifilm-instax-camera-range",
+        "imgs2": "shopify:\/\/shop_images\/photo_to_canvas.jpg",
+        "title2": "Your photo on Canvas or Slate",
+        "button_link1": "shopify:\/\/collections\/just-print",
+        "imgs3": "shopify:\/\/shop_images\/birthday_2573d60c-1d70-4504-9681-5bc5e9cd4d7d.jpg",
+        "title3": "Personalised Birthday Gifts",
+        "button_link2": "shopify:\/\/collections\/birthday-gifts"
+      }
+    },
+    "680794df-a1be-4bd7-8a34-d9dd5052151c": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container {position: relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
+        "title": "Dont see what you are looking for",
+        "textarea": "We can create a personalised bespoke banner or selfie frame to suit your individual needs. \nAny theme , Any character at no extra cost.",
+        "title1": "Order a Customised Banner or Selfie Frame",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
     }
   },
   "order": [
@@ -1150,7 +1163,8 @@
     "2dff711a-0c20-491f-bccb-b88230f6738e",
     "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
     "b889967a-befc-4846-b45f-62d1980920bb",
+    "fd874400-bc8e-4031-968b-aae6b307dfff",
     "43664164-a993-48a4-bd99-e45e63e40113",
-    "fd874400-bc8e-4031-968b-aae6b307dfff"
+    "680794df-a1be-4bd7-8a34-d9dd5052151c"
   ]
 }
