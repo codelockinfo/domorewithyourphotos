@@ -252,6 +252,37 @@
         "title": "HOW WE WORK",
         "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
       }
+    },
+    "a95bfc3b-a875-4b55-aae9-6b487bc16fef": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "most-popular-products",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Most Popular",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -260,6 +291,7 @@
     "9e2599ec-1b8e-484b-add3-3ea418be02db",
     "1bca002e-376a-41f0-b5f2-88db42e4e1fb",
     "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
-    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3"
+    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
+    "a95bfc3b-a875-4b55-aae9-6b487bc16fef"
   ]
 }
