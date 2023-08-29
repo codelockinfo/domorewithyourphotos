@@ -1,0 +1,122 @@
+<div class="max-containers bg-white">
+    <h2 class="bloghead">{{ section.settings.blogid}}</h2>
+  <div class="blogflex">
+    {% for block in section.blocks %}
+        <div class="blog33">
+          
+          <div class="bcontent">
+             
+                 <div  class="blogbodr">
+                    <a href="{{ block.settings.anniversarylink }}">{{ block.settings.anniversaryname }}</a>
+                 </div>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "select_anniversary",
+    "settings": [
+      {
+       "type":"text",
+      "id":"blogid",
+      "label":"Heading"
+      }
+    ],
+       "blocks": [
+      {
+    "type": "Blog",
+    "name": "Blog",
+    "settings": [
+           
+          {
+          "type": "url",
+          "id": "anniversarylink",
+          "label": "see more link"
+        },
+          {
+        "type": "text",
+        "id": "anniversaryname",
+        "label": "button"
+        }
+        
+      ]
+    }
+  ],
+    "presets": [
+      {
+        "name": "select"
+        
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+  h2.bloghead {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 400; 
+}
+
+  .blogflex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.blog33 {
+    width: 31.33%;
+}
+  
+  .blogbodr a{
+    padding: 14px 38px;
+    border-radius: 40px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+  }
+  h4.blogtitle {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 3.2px;
+}
+
+    @media screen and (max-width: 991px) {
+      .blog33 {
+    width: 48%;
+     margin: 0 auto;
+      }
+      h2.blogshead {
+    font-size: 32px; 
+      }
+    }
+    @media screen and (max-width: 618px) {
+       .blog33 {
+    width: 100%; 
+     margin: 0 auto;
+      }
+    }
+      @media screen and (max-width: 375px) {
+      h2.blogshead {
+          font-size: 27px;
+      }
+        p.blogdesc {
+        font-size: 12px;
+        line-height: 17px;
+        }
+        h4.blogtitle {
+    font-size: 12px;
+    letter-spacing: 3.2px;
+        }
+        .blogbodr a {
+    padding: 11px 26px;
+    font-size: 12px;
+      }
+ }
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
