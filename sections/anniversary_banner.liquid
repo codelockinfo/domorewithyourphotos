@@ -149,13 +149,22 @@ $('.birthday_banner .btn_section a[href*="#"]')
 .birthday_banner.anniversary_banner .left_block{
     width:45%; 
 }
-.birthday_banner.anniversary_banner .btn_section a.btn,
+
 .birthday_banner.anniversary_banner .btn_section a.sec_btn  {
     margin:  0 10px;
 }
-.birthday_banner.anniversary_banner .btn_section{
+/* .birthday_banner.anniversary_banner .btn_section{
     display: flex;
+} */
+   .birthday_banner.anniversary_banner .btn_section a.sec_btn.third {
+    margin-top: 10px !important;
 }
+  @media screen and (max-width: 1300px){
+.birthday_banner.anniversary_banner .btn_section {
+    display: flex;
+    flex-wrap: wrap;
+}
+  }
 @media screen and (max-width: 767px){
     .birthday_banner.anniversary_banner .btn_section {
         max-width: unset;
@@ -173,4 +182,9 @@ $('.birthday_banner .btn_section a[href*="#"]')
     flex-wrap: wrap;
 }
 }
+  @media (max-width: 768px){
+    .birthday_banner.anniversary_banner .btn_section a.sec_btn.third {
+    margin-top: 10px !important;
+}
+  }
 </style>

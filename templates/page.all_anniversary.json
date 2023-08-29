@@ -212,6 +212,32 @@
       "block_order": [
         "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac"
       ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "7c3ec4f6-5adb-4997-89ad-350c64265907": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/30th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Anniversary Gifts",
+            "html": "With a70th Anniversary framed Gift, 1st Personalised Photo Banner selfie frame. This anniversary is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "Anniversary Photo banner",
+            "button_link": "shopify:\/\/collections\/anniversary",
+            "button_text_2": "Anniversary banner",
+            "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
+            "button_text_3": "Anniversary Gifts",
+            "button_link_3": "shopify:\/\/collections\/anniversary-gifts"
+          }
+        }
+      },
+      "block_order": [
+        "ec7bde64-b653-463f-85ee-ed39bfbf713e"
+      ],
       "settings": {
       }
     },
@@ -288,7 +314,7 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "gifts-from-you",
-        "limit": 8,
+        "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Framed Gifts",
@@ -319,7 +345,7 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "memorial-photo-collage",
-        "limit": 5,
+        "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Personalised Remembrance Canvas",
@@ -345,6 +371,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "585f48b7-c8ca-485b-995e-773f9a334356": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container{position:relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
+        "title": "Dont see what you are looking for",
+        "textarea": "We can create a personalised bespoke banner or selfie frame to suit your individual needs. \nAny theme , Any character at no extra cost.",
+        "title1": "Order a Customised Banner or Selfie Frame",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
     }
   },
   "order": [
@@ -353,9 +392,11 @@
     "9e2599ec-1b8e-484b-add3-3ea418be02db",
     "1bca002e-376a-41f0-b5f2-88db42e4e1fb",
     "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
+    "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
     "a95bfc3b-a875-4b55-aae9-6b487bc16fef",
     "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233",
-    "8a27caef-7e3d-4286-bb8e-19977771e849"
+    "8a27caef-7e3d-4286-bb8e-19977771e849",
+    "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
