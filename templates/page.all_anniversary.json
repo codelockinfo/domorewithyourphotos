@@ -374,6 +374,9 @@
     },
     "585f48b7-c8ca-485b-995e-773f9a334356": {
       "type": "custom_section",
+      "custom_css": [
+        ".container{position:relative;}"
+      ],
       "settings": {
         "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
         "title": "Dont see what you are looking for",
