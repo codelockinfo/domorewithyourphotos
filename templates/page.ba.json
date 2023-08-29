@@ -35,6 +35,29 @@
         "spacing_mobile": 30
       }
     },
+    "f9234a5a-f7d9-4ae0-b22d-958fafa8dec4": {
+      "type": "birthday_banner",
+      "blocks": {
+        "25ac65ca-92af-427a-9252-9f18999b30c4": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_3e6c352c-a754-440d-b714-6580d094ca2b.jpg",
+            "top_heading": "",
+            "heading": "Personalised Photo Banners",
+            "html": "Order a banner or Selfie Frame today in three easy steps.\n- Select your theme below, Choose a design, fill in your info and check out - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "25ac65ca-92af-427a-9252-9f18999b30c4"
+      ],
+      "settings": {
+      }
+    },
     "03e4430b-2f5d-4440-b512-c6d9936cc2de": {
       "type": "section-collage",
       "blocks": {
@@ -117,6 +140,7 @@
         "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-1",
         "template--19486310007114__03e4430b-2f5d-4440-b512-c6d9936cc2de-image-2"
       ],
+      "disabled": true,
       "settings": {
         "collageimg": "",
         "mirrored": false,
@@ -136,6 +160,7 @@
     },
     "7ffb2fd1-beeb-41a2-b716-0637e80a346d": {
       "type": "addcontent",
+      "disabled": true,
       "settings": {
         "title": "",
         "textarea1": "<h1>Personalised Photo Banners & Selfie Frames<\/h1><p>Order a banner or Selfie Frame today in three easy steps.<\/p><p><\/p>\n- Select your theme below, Choose a design, fill in your info and check out<p><\/p><p> - Once ordered, you will receive a preview in 24 hours, please respond to this preview to speed up delivery<\/p><p><\/p>",
@@ -690,6 +715,7 @@
       "block_order": [
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
         "img {object-fit: fill !important;}",
@@ -1153,6 +1179,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "f9234a5a-f7d9-4ae0-b22d-958fafa8dec4",
     "03e4430b-2f5d-4440-b512-c6d9936cc2de",
     "7ffb2fd1-beeb-41a2-b716-0637e80a346d",
     "108ad8f7-df30-4fbd-804a-899a9f833677",
