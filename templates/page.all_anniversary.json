@@ -358,7 +358,8 @@
         "1a208171-2aeb-4b21-abd4-5f6abbc13d44"
       ],
       "custom_css": [
-        ".blogflex {margin-bottom: 2%;}"
+        ".blogflex {margin-bottom: 2%;}",
+        " .blogbodr a:hover{color:#d43342;}"
       ],
       "settings": {
         "blogid": "Select Anniversary"
