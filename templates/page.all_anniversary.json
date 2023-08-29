@@ -375,7 +375,7 @@
     "585f48b7-c8ca-485b-995e-773f9a334356": {
       "type": "custom_section",
       "custom_css": [
-        ".container{position:relative;}"
+        ".container {position: relative;}"
       ],
       "settings": {
         "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
@@ -383,6 +383,37 @@
         "textarea": "We can create a personalised bespoke banner or selfie frame to suit your individual needs. \nAny theme , Any character at no extra cost.",
         "title1": "Order a Customised Banner or Selfie Frame",
         "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
+    },
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "collection": "most-popular-products",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Most Popular",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     }
   },
@@ -397,6 +428,7 @@
     "a95bfc3b-a875-4b55-aae9-6b487bc16fef",
     "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233",
     "8a27caef-7e3d-4286-bb8e-19977771e849",
-    "585f48b7-c8ca-485b-995e-773f9a334356"
+    "585f48b7-c8ca-485b-995e-773f9a334356",
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb"
   ]
 }
