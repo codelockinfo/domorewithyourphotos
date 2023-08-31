@@ -5,16 +5,16 @@
         {% if title != blank %}<h2>{{ title }}</h2>{% endif %} 
         {% if sub_title != blank %}<p>{{ sub_title }}</p>{% endif %}  
       </div>
-    <div class="blocks">  
-    {% for block in section.blocks %}
-    <div class="block">
-    {% assign image = block.settings.image %}
-    {% assign heading = block.settings.heading %}{% assign html = block.settings.html %} 
-    {% if image != blank %}<img src="{{ image | img_url: 'master'  }}"  />{% endif %}
-    {% if heading != blank %}<h4>{{ heading }}</h4>{% endif %}  
-    {% if html != blank %}<div class="desc">{{ html }}</div>{% endif %}
-    </div>
-    {% endfor %}  
+    <div class="blocks productslider3">  
+      {% for block in section.blocks %}
+        <div class="block "> 
+        {% assign image = block.settings.image %}
+        {% assign heading = block.settings.heading %}{% assign html = block.settings.html %} 
+        {% if image != blank %}<img src="{{ image | img_url: 'master'  }}"  />{% endif %}
+        {% if heading != blank %}<h4>{{ heading }}</h4>{% endif %}  
+        {% if html != blank %}<div class="desc">{{ html }}</div>{% endif %}
+        </div>
+      {% endfor %}  
     </div> 
     </div>  
     </div>
@@ -69,4 +69,37 @@
         ]
       }
     {% endschema %}
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script>
+  
+  $('.productslider3').slick({
+     speed: 500,
+      autoplaySpeed: 2000,
+    arrows: false,
+     dots: true,
+  infinite: false,
+  slidesToShow: 3,
+  slidesToScroll: 1,  
+     autoplay: true,
+    responsive: [
+ 
+  {
+    breakpoint: 660,
+    settings: {
+      slidesToShow: 2,
+      slidesToScroll: 1
+    }
+  },
+  {
+    breakpoint: 460,
+    settings: {
+      slidesToShow: 1,
+      slidesToScroll: 1
+    }
+  }
+ 
+]
+});
+</script>

@@ -5687,7 +5687,9 @@ h3.servicehed {
     color: #B41717;
 }
 .how_it_work .blocks {
-    display: inline-block;
+    /* display: inline-block; */
+	display: flex;
+    justify-content: center;
     width: 100%;
 }
 
@@ -5706,13 +5708,19 @@ h3.servicehed {
     margin: 0 auto;
 }
 .how_it_work .blocks .block {
-    display: inline-block;
+    /* display: inline-block; */
     width: 100%;
     padding: 40px 20px;
     margin: 20px;
-    max-width: 200px;
+    /* max-width: 200px; */
     background: #B417170A;
     border-radius: 20px;
+	display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.how_it_work .productslider3  ul.slick-dots{
+	display: none !important;
 }
 .how_it_work .blocks .block h4 {
     color: #000;
