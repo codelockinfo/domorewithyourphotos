@@ -515,7 +515,7 @@
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
-        "fix_zindex": 0
+        "fix_zindex": 3
       }
     },
     "d5ebf098-d235-421e-b752-e943669e183d": {
