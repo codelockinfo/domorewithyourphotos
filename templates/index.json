@@ -899,6 +899,66 @@
         "alignment": "top"
       }
     },
+    "94727f6b-34dc-4de9-a9ab-2bde94909e0c": {
+      "type": "section-banner-columns",
+      "blocks": {
+        "template--19423284199754__94727f6b-34dc-4de9-a9ab-2bde94909e0c-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Print_Yuor_Photos_With_fujifilm_Imagine_banner.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "https:\/\/580.app.fujipix.ie\/",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "template--19423284199754__94727f6b-34dc-4de9-a9ab-2bde94909e0c-image-1"
+      ],
+      "settings": {
+        "items_width": 1,
+        "width": "wide",
+        "height": "size-s",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "space_between": 16,
+        "image_zoom": false,
+        "image_move": false,
+        "show_content_below": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "810a5104-f6f7-4a64-935d-3a285397bf19": {
       "type": "section-image-with-text",
       "blocks": {
@@ -1035,6 +1095,7 @@
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
+    "94727f6b-34dc-4de9-a9ab-2bde94909e0c",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
     "6f9b4f08-1387-43c9-9c92-71d7bfc8a616"
