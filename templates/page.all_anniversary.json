@@ -360,8 +360,9 @@
       "custom_css": [
         ".blogflex {margin-bottom: 2%;}",
         ".blogbodr a:hover {color: #d43342;}",
+        ".blogbodr:hover {border-color: black; background: black;}",
         "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
-        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a{font-size:30px;}}"
+        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
       ],
       "settings": {
         "blogid": "Select Anniversary"
