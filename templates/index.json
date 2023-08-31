@@ -818,7 +818,7 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "just-print",
-        "limit": 8,
+        "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Put Your Photo On",
