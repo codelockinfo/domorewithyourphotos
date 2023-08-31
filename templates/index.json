@@ -346,7 +346,7 @@
             "look_btn_color_palette": "white",
             "look_position": "start",
             "show_look_label": true,
-            "look_label_text": "Canvas Art",
+            "look_label_text": "",
             "image_mobile": "shopify:\/\/shop_images\/Photo_Collages_Mobile.jpg"
           }
         },
