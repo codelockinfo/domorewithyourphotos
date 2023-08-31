@@ -847,22 +847,10 @@
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0": {
       "type": "allanniversary",
       "blocks": {
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1": {
-          "type": "image",
-          "settings": {
-            "width": "quarter",
-            "image": "shopify:\/\/shop_images\/Print_Yuor_Photos_With_fujifilm_Imagine.jpg",
-            "link_url": "https:\/\/580.app.fujipix.ie\/",
-            "text": "",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
         "8502fe75-d140-4b78-96b8-10b33781f7d2": {
           "type": "image",
           "settings": {
-            "width": "quarter",
+            "width": "third",
             "image": "shopify:\/\/shop_images\/Traditional_Photo_Albums.jpg",
             "link_url": "shopify:\/\/pages\/photo-album",
             "text": "",
@@ -874,7 +862,7 @@
         "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2": {
           "type": "image",
           "settings": {
-            "width": "quarter",
+            "width": "third",
             "image": "shopify:\/\/shop_images\/Photo_Frames.jpg",
             "link_url": "shopify:\/\/collections\/all-our-photo-frames",
             "text": "",
@@ -886,7 +874,7 @@
         "abeb56c0-672a-467c-b91c-3ea7a5875769": {
           "type": "image",
           "settings": {
-            "width": "quarter",
+            "width": "third",
             "image": "shopify:\/\/shop_images\/Novelty_Mugs.jpg",
             "link_url": "shopify:\/\/collections\/photo-mugs",
             "text": "",
@@ -897,7 +885,6 @@
         }
       },
       "block_order": [
-        "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-1",
         "8502fe75-d140-4b78-96b8-10b33781f7d2",
         "template--19518196482378__7fefcbef-dde3-4f59-8a6d-c70388748ad0-image-2",
         "abeb56c0-672a-467c-b91c-3ea7a5875769"
