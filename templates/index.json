@@ -405,13 +405,13 @@
         "enable_custom_height": false,
         "custom_height": 540,
         "space_between": 16,
-        "image_zoom": false,
+        "image_zoom": true,
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
-        "fix_zindex": 3
+        "fix_zindex": 0
       }
     },
     "a73296f0-f170-4c5b-885d-b98039090205": {
