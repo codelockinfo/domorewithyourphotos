@@ -361,7 +361,7 @@
         ".blogflex {margin-bottom: 2%;}",
         ".blogbodr a:hover {color: #d43342;}",
         "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
-        "@media screen and (max-width: 380px) {.blogbodr{min-width: 160px!important; max-width: 160px;}}"
+        "@media screen and (max-width: 380px) {.blogbodr {min-width: 150px !important; max-width: 150px; }}"
       ],
       "settings": {
         "blogid": "Select Anniversary"
