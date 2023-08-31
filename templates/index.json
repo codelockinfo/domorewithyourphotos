@@ -557,6 +557,7 @@
       "blocks": {
         "template--19398885081418__356e82f9-b1ba-4f35-8cd6-93a61aec3864-tab-2": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Fujifilm Instax",
             "icon": "none",
@@ -955,6 +956,7 @@
       "block_order": [
         "template--19423284199754__94727f6b-34dc-4de9-a9ab-2bde94909e0c-image-1"
       ],
+      "disabled": true,
       "settings": {
         "items_width": 1,
         "width": "wide",
