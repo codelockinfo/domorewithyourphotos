@@ -507,7 +507,7 @@
         "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,
-        "custom_height": 540,
+        "custom_height": 250,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
