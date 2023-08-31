@@ -398,7 +398,7 @@
       ],
       "custom_css": [
         ".blogflex {margin-bottom: 2%;}",
-        ".blogbodr:hover {border-color: black; background: black;}",
+        ".blogbodr:hover {border-color: black; background: black; transition: all .5s; transform: scale(1.1);}",
         "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
         "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
       ],
