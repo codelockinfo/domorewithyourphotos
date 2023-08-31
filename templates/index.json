@@ -503,11 +503,11 @@
       ],
       "settings": {
         "collageimg": "",
-        "mirrored": true,
+        "mirrored": false,
         "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,
-        "custom_height": 300,
+        "custom_height": 540,
         "space_between": 16,
         "image_zoom": false,
         "image_move": false,
