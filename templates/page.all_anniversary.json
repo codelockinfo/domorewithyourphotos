@@ -360,7 +360,7 @@
       "custom_css": [
         ".blogflex {margin-bottom: 2%;}",
         ".blogbodr a:hover {color: #d43342;}",
-        "@media screen and (max-width: 420px) {.blogbodr{margin:5px; }}"
+        "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}"
       ],
       "settings": {
         "blogid": "Select Anniversary"
