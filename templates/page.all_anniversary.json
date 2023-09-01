@@ -244,6 +244,14 @@
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3": {
       "type": "birthday_work",
       "blocks": {
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
+        },
         "705a9d8a-1a9a-4336-9498-755e2939dc60": {
           "type": "block",
           "settings": {
@@ -259,20 +267,12 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
-        },
-        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
-          "type": "block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
-            "heading": "Made For You",
-            "html": "All designs can be changed in any way to suit your requirements"
-          }
         }
       },
       "block_order": [
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e",
         "705a9d8a-1a9a-4336-9498-755e2939dc60",
-        "ed987ef7-0a61-4ae2-84b8-057c850a1107",
-        "a51dae4f-f36a-4378-8a47-99d40dc88c8e"
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107"
       ],
       "settings": {
         "title": "HOW WE WORK",
