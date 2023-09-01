@@ -17,8 +17,8 @@
   {% if  template.suffix == "all_anniversary" or template.suffix == "all_birthday"  %}
     <div class="btn_section">
      <div class="btn"> {% if block.settings.btn_id  != blank %}<a  href="{{ block.settings.btn_id }}" class="btn" >{{ block.settings.btn_text }}</a>{% endif %}</div>
-        {% if block.settings.btn_id1 != blank %}<a  href="{{ block.settings.btn_id1 }}" class=" btn sec_btn  third">{{ block.settings.btn_text1 }}</a>{% endif %}
-         {% if block.settings.btn_id2 != blank %}<a  href="{{ block.settings.btn_id2 }}" class="btn sec_btn third">{{ block.settings.btn_text2 }}</a>{% endif %}
+     <div class="btn sec_btn third">     {% if block.settings.btn_id1 != blank %}<a  href="{{ block.settings.btn_id1 }}" class=" btn sec_btn  third">{{ block.settings.btn_text1 }}</a>{% endif %}</div>
+      <div class="btn sec_btn third">   {% if block.settings.btn_id2 != blank %}<a  href="{{ block.settings.btn_id2 }}" class="btn sec_btn third">{{ block.settings.btn_text2 }}</a>{% endif %}</div>
       
       </div>
   {% else %}
