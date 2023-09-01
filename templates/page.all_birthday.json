@@ -232,11 +232,11 @@
             "button_link_2": "shopify:\/\/collections\/birthday-photo-collage",
             "button_text_3": "Birthday Gifts",
             "button_link_3": "shopify:\/\/collections\/birthday-gifts",
-            "btn_id": "MostPopular",
-            "btn_text": "Most Popular Birthday Gifts",
-            "btn_id1": "BirthdayFramed",
+            "btn_id": "#MostPopular",
+            "btn_text": "Most Popular Gifts",
+            "btn_id1": "#BirthdayFramed",
             "btn_text1": "Birthday Framed Gifts",
-            "btn_id2": "PersonalisedBirthday",
+            "btn_id2": "#PersonalisedBirthday",
             "btn_text2": "Personalised Birthday"
           }
         }
