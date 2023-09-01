@@ -231,7 +231,13 @@
             "button_text_2": "Birthday Canvas art",
             "button_link_2": "shopify:\/\/collections\/birthday-photo-collage",
             "button_text_3": "Birthday Gifts",
-            "button_link_3": "shopify:\/\/collections\/birthday-gifts"
+            "button_link_3": "shopify:\/\/collections\/birthday-gifts",
+            "btn_id": "MostPopular",
+            "btn_text": "Most Popular Birthday Gifts",
+            "btn_id1": "BirthdayFramed",
+            "btn_text1": "Birthday Framed Gifts",
+            "btn_id2": "PersonalisedBirthday",
+            "btn_text2": "Personalised Birthday"
           }
         }
       },
@@ -370,6 +376,7 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
+        "bannerid": "MostPopular",
         "collection": "birthday-gifts",
         "limit": 8,
         "number_of_items": 4,
@@ -401,6 +408,7 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
+        "bannerid": "BirthdayFramed",
         "collection": "birthdays",
         "limit": 16,
         "number_of_items": 4,
@@ -528,6 +536,7 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
+        "bannerid": "PersonalisedBirthday",
         "collection": "18th-birthday-gift-ideas",
         "limit": 16,
         "number_of_items": 4,
