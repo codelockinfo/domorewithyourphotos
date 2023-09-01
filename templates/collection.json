@@ -55,7 +55,7 @@
         "image_choice_1": "Model",
         "image_choice_2": "Product",
         "product_image": "second",
-        "show_collection_image": true,
+        "show_collection_image": false,
         "enable_filters": false,
         "enable_menu": true,
         "filters_menu_alignment": "left",
