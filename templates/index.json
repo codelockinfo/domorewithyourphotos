@@ -452,7 +452,7 @@
             "look_position": "end",
             "show_look_label": true,
             "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/Print_Yuor_Photos_With_fujifilm_Imagine.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/birthday_2573d60c-1d70-4504-9681-5bc5e9cd4d7d.jpg"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
@@ -504,7 +504,7 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "boxed",
+        "width": "wide",
         "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 250,
