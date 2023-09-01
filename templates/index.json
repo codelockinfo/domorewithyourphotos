@@ -499,7 +499,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; }}"
+        "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; width: 100%; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; } .l4ft.fullwidth li, .l4ft.cols.fullwidth li{margin-left: 0; margin-right: 0;}}"
       ],
       "settings": {
         "collageimg": "",
