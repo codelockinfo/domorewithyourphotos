@@ -222,16 +222,16 @@
         "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/30th_page_banner.jpg",
+            "image": "shopify:\/\/shop_images\/21st_page_banner.jpg",
             "top_heading": "",
-            "heading": "Anniversary Gifts",
-            "html": "With a70th Anniversary framed Gift, 1st Personalised Photo Banner selfie frame. This anniversary is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "Anniversary Photo banner",
-            "button_link": "shopify:\/\/collections\/anniversary",
-            "button_text_2": "Anniversary banner",
-            "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
-            "button_text_3": "Anniversary Gifts",
-            "button_link_3": "shopify:\/\/collections\/anniversary-gifts"
+            "heading": "Birthday Gifts",
+            "html": "With a Birthday framed Gift, 1st Personalised Photo Banner selfie frame. This Birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "Birthday Photo banner",
+            "button_link": "shopify:\/\/collections\/birthdays",
+            "button_text_2": "Birthday Canvas art",
+            "button_link_2": "shopify:\/\/collections\/birthday-photo-collage",
+            "button_text_3": "Birthday Gifts",
+            "button_link_3": "shopify:\/\/collections\/birthday-gifts"
           }
         }
       },
