@@ -400,7 +400,7 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "wide",
+        "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 540,
