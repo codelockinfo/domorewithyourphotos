@@ -806,6 +806,7 @@
       "block_order": [
         "template--19474218615114__1d219c60-9888-433d-a5ba-fff2bfb18ca5-image-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".collage_img [class^=\"palette-\"] .link-btn a:not(.loading):hover {background-color: #d43342 !important;}",
         "img {object-fit: fill !important;}",
