@@ -5718,6 +5718,8 @@ h3.servicehed {
 	display: flex;
     flex-direction: column;
     align-items: center; 
+	min-height: 280px;
+    max-height: 280px;
 }
 .how_it_work .productslider3  ul.slick-dots{
 	display: none !important;
