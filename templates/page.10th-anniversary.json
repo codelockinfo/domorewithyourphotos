@@ -35,81 +35,254 @@
         "spacing_mobile": 30
       }
     },
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
-      "type": "section-collection-list",
-      "settings": {
-        "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "wedding-anniversary",
-          "gifts-on-slate"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": false,
-        "fill_images": false,
-        "layout": "grid",
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Collection list",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "",
-        "link_url": "shopify:\/\/collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
-      "type": "allanniversary",
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
+      "type": "birthday_banner",
       "blocks": {
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
-          "type": "image",
+        "39b16584-9986-4fc0-b814-6a11e219f5be": {
+          "type": "block",
           "settings": {
-            "width": "half",
-            "link_url": "",
-            "text": "",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
+            "image": "shopify:\/\/shop_images\/20_anniversary_thumbnail.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 20th Anniversary framed Gift, 1st Personalised Photo Banner  selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "20TH PHOTO BANNERS",
+            "button_link": "\/",
+            "button_text_2": "20TH FRAMED GIFTS",
+            "button_link_2": "\/"
           }
         }
       },
       "block_order": [
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
-      "disabled": true,
       "settings": {
-        "tradinghead": "",
-        "alignment": "middle"
+      }
+    },
+    "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5": {
+      "type": "birthday_work",
+      "blocks": {
+        "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        },
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deadline.png",
+            "heading": "Day for Delivery",
+            "html": "1 - 2 Days for delivery nationwide with An Post"
+          }
+        },
+        "b4a93fe1-614e-4237-b253-6addd0475d93": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        }
+      },
+      "block_order": [
+        "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "b4a93fe1-614e-4237-b253-6addd0475d93"
+      ],
+      "settings": {
+        "title": "HOW WE WORK",
+        "sub_title": "All Orders are made for you, so colours, text can all be changed to suit your requirements"
+      }
+    },
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d": {
+      "type": "birthdat_feature",
+      "blocks": {
+        "60c69138-e02f-4169-9092-6c26e856e782": {
+          "type": "block",
+          "settings": {
+            "product": "20th-wedding-anniversary-photo-collage-on-canvas"
+          }
+        },
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
+          "type": "block",
+          "settings": {
+            "product": "20th-wedding-anniversary-photo-collage-wall-art"
+          }
+        },
+        "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
+          "type": "block",
+          "settings": {
+            "product": "1st-wedding-anniversary-sentiment-frame-1"
+          }
+        },
+        "c13e5bda-c542-4107-97bf-f441dcb9212d": {
+          "type": "block",
+          "settings": {
+            "product": "floral-wedding-anniversary-party-personalised-banner"
+          }
+        },
+        "5860f50e-fa03-4e46-a972-e373c9eded9a": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "product": "1st-wedding-anniversary-sentiment-frame"
+          }
+        },
+        "4eb3840e-ce2a-49a6-ba90-f163e299963c": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "product": "from-this-day-wedding-collage-on-canvas"
+          }
+        },
+        "bd250022-2275-46aa-8c06-6ab59e0501a6": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "product": "our-life-photos-framed-photo-collage-anniversary-gift"
+          }
+        },
+        "44dbb300-471f-4be5-83bc-4781fb185079": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "product": "personalised-wedding-picture-frame"
+          }
+        }
+      },
+      "block_order": [
+        "60c69138-e02f-4169-9092-6c26e856e782",
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3",
+        "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd",
+        "c13e5bda-c542-4107-97bf-f441dcb9212d",
+        "5860f50e-fa03-4e46-a972-e373c9eded9a",
+        "4eb3840e-ce2a-49a6-ba90-f163e299963c",
+        "bd250022-2275-46aa-8c06-6ab59e0501a6",
+        "44dbb300-471f-4be5-83bc-4781fb185079"
+      ],
+      "settings": {
+        "title": "20th  Anniversary Personalised Banners",
+        "html": "",
+        "main_product": "",
+        "popular_title": "This Is Your Life Photo Collage Banner",
+        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "button_text": "Order HERE",
+        "button_link": "shopify:\/\/collections\/20th-year-wedding-anniversary"
+      }
+    },
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
+      "type": "birthdat_text_background",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20th_anniversary_Landing_page.jpg",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 20th Anniversary Photo Collage, Framed Gift Or Canvas",
+        "bg_color": "#d43342",
+        "bg_text": "#ffffff"
+      }
+    },
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9": {
+      "type": "birthday_offer",
+      "blocks": {
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
+          "type": "block",
+          "settings": {
+            "product": "20th-wedding-anniversary-photo-collage-on-canvas",
+            "product2": "20th-wedding-anniversary-photo-collage-wall-art"
+          }
+        },
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
+          "type": "block",
+          "settings": {
+            "product": "gold-floral-wedding-day-personalised-selfie-frame",
+            "product2": "cancun-wedding-canvas-artcollage"
+          }
+        },
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
+          "type": "block",
+          "settings": {
+            "product": "floral-wedding-anniversary-party-personalised-banner",
+            "product2": "1st-wedding-anniversary-sentiment-frame-1"
+          }
+        },
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
+          "type": "block",
+          "settings": {
+            "product": "our-anniversary-photo-collage-framed-gift",
+            "product2": "from-this-day-wedding-framed-photo-collage"
+          }
+        },
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "product": "this-is-your-life-18th-birthday-hearts-framed-photo-collage",
+            "product2": "sparkly-wishes-18th-birthday-framed-photo-collage"
+          }
+        },
+        "91efe3ab-7124-4463-9a23-9064c1717a62": {
+          "type": "block",
+          "settings": {
+            "product": "retirement-party-celebration-banner",
+            "product2": ""
+          }
+        }
+      },
+      "block_order": [
+        "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887",
+        "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
+        "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
+        "2bc58445-1e65-40f6-95c0-ddb5227aac18",
+        "d4e5eee4-860b-495c-80e9-5b16dc238b55",
+        "91efe3ab-7124-4463-9a23-9064c1717a62"
+      ],
+      "settings": {
+        "right_text": "20th Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "main_product": "20th-wedding-anniversary-photo-collage-on-canvas",
+        "main2_product": "20th-wedding-anniversary-photo-collage-wall-art"
+      }
+    },
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
+      "type": "Birthday_collection",
+      "blocks": {
+        "577caf9f-4efa-4ad0-8856-beb430de1397": {
+          "type": "block",
+          "settings": {
+            "product": "custom-personalised-banner-with-13-photos"
+          }
+        },
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4": {
+          "type": "block",
+          "settings": {
+            "product": "custom-framed-collage-from-your-photos"
+          }
+        },
+        "632e8632-de80-4172-9d50-daf57345553b": {
+          "type": "block",
+          "settings": {
+            "product": "custom-canvas-collage-from-your-photo"
+          }
+        }
+      },
+      "block_order": [
+        "577caf9f-4efa-4ad0-8856-beb430de1397",
+        "eb91c4fd-f6c0-4bc4-9726-a7c1c8ee7ea4",
+        "632e8632-de80-4172-9d50-daf57345553b"
+      ],
+      "settings": {
+        "title": "Cant find what you are looking for?    Order a custom collage or banner here"
       }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
+    "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
+    "bde49da4-efb9-4699-b4d8-5b292895eb4d",
+    "5ecf0492-976d-4688-8332-3fcb15ba96b9",
+    "f2fa5824-b7b6-4f59-b330-cd15588e1da9",
+    "daa7aef0-9ee4-4eb0-ad97-55e741073369"
   ]
 }
