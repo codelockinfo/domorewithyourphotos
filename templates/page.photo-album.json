@@ -107,7 +107,7 @@
         "a3fc46ca-64ca-4ba7-a02f-837325535d0d"
       ],
       "custom_css": [
-
+        ".primary-image{min-height: 255px;}"
       ],
       "settings": {
         "heading": "Need Photos Printed?",
