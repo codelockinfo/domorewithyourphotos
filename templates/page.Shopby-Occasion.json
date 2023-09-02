@@ -72,7 +72,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/CPD1b.jpg"
           }
         },
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-2": {
