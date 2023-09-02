@@ -118,6 +118,10 @@
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-1",
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-2"
       ],
+      "custom_css": [
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 767px) {.l4ft li > .main:before {position: unset !important; } .l4ft .main > div {text-align: left; margin: 0 auto; } p.link-btn.button-palette-accent {justify-content: flex-start !important; } .l4ft li:not(.inline) > .main > figure {position: relative !important; }}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
