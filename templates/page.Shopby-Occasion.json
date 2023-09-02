@@ -503,33 +503,13 @@
             "show_look_label": false,
             "look_label_text": "Label"
           }
-        },
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5": {
-          "type": "image",
-          "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
         }
       },
       "block_order": [
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-1",
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-2",
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-3",
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4",
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5"
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4"
       ],
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"
