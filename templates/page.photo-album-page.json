@@ -96,6 +96,9 @@
         "e818c9f9-9ebb-4c3d-a802-1bdf75f683bc",
         "b715a81d-a5b0-4769-9448-91dff839c600"
       ],
+      "custom_css": [
+        ".primary-image{min-height: 255px;}"
+      ],
       "settings": {
         "heading": "Need Photos Printed?",
         "image_1": "shopify:\/\/shop_images\/unnamed.png",
