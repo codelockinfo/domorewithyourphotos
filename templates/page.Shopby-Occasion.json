@@ -127,7 +127,7 @@
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
+        "enable_custom_height": false,
         "custom_height": 800,
         "space_between": 16,
         "image_zoom": false,
