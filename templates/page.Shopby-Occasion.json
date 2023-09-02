@@ -254,18 +254,6 @@
             "overlay_bg": "rgba(0,0,0,0)"
           }
         },
-        "6afce477-1e1a-4720-bf0e-106040448c6f": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/dreamstime_m_74242903_48f65155-a230-4305-bcd4-b00a6903f374.jpg",
-            "link_url": "shopify:\/\/collections\/retirement-goodbye-personal-banners",
-            "text": "Retirement  Personal Banners",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
           "type": "image",
           "settings": {
@@ -277,12 +265,24 @@
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
           }
+        },
+        "6afce477-1e1a-4720-bf0e-106040448c6f": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_74242903_48f65155-a230-4305-bcd4-b00a6903f374.jpg",
+            "link_url": "shopify:\/\/collections\/retirement-goodbye-personal-banners",
+            "text": "Retirement  Personal Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
         "3444c0ab-e4d4-4861-b9a3-d39da286e871",
-        "6afce477-1e1a-4720-bf0e-106040448c6f",
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
+        "6afce477-1e1a-4720-bf0e-106040448c6f"
       ],
       "settings": {
         "tradinghead": "",
