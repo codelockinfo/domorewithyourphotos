@@ -420,8 +420,8 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
-            "image": "shopify:\/\/shop_images\/770d4b54-c428-42f5-8870-79236f894b29.__CR0_0_970_600_PT0_SX970_V1.jpg",
+            "imgid": "shopify:\/\/pages\/birthday",
+            "image": "shopify:\/\/shop_images\/Birthday_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -452,14 +452,14 @@
             "look_position": "end",
             "show_look_label": true,
             "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/Caricature_Gifts.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/Birthday_Gifts_mobile.jpg"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/pages\/birthday",
-            "image": "shopify:\/\/shop_images\/Birthday_Gifts.jpg",
+            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
+            "image": "shopify:\/\/shop_images\/Caricature_Gifts.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -490,7 +490,7 @@
             "look_position": "end",
             "show_look_label": true,
             "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/Birthday_Gifts_mobile.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/Caricature_Gifts.jpg"
           }
         }
       },
@@ -499,11 +499,12 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; } .l4ft.fullwidth li, .l4ft.cols.fullwidth li {margin-left: 0; margin-right: 0; }}"
+        "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; } .l4ft.fullwidth li, .l4ft.cols.fullwidth li {margin-left: 0; margin-right: 0; }}",
+        "img {object-fit: fill !important;}"
       ],
       "settings": {
         "collageimg": "",
-        "mirrored": false,
+        "mirrored": true,
         "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,

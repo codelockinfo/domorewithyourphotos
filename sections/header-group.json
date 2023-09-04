@@ -267,7 +267,7 @@
         "enable_language_selector": true,
         "searchbar_font_size": "14px",
         "searchbar_height": 45,
-        "enable_sticky_header": true,
+        "enable_sticky_header": false,
         "sticky": "sticky-header",
         "cart_icon": "cart|e903",
         "cart_icon_color": "accent",

@@ -72,7 +72,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/CPD1b.jpg"
           }
         },
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-2": {
@@ -117,12 +118,16 @@
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-1",
         "template--19518038769994__181f46b4-7d1a-4821-9e90-89645f6f5fde-image-2"
       ],
+      "custom_css": [
+        "img {object-fit: fill !important;}",
+        "@media screen and (max-width: 767px) {.l4ft li > .main:before {position: unset !important; } .l4ft .main > div {text-align: left; margin: 0 auto; } p.link-btn.button-palette-accent {justify-content: flex-start !important; } .l4ft li:not(.inline) > .main > figure {position: relative !important; }}"
+      ],
       "settings": {
         "collageimg": "",
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
+        "enable_custom_height": false,
         "custom_height": 800,
         "space_between": 16,
         "image_zoom": false,
@@ -249,18 +254,6 @@
             "overlay_bg": "rgba(0,0,0,0)"
           }
         },
-        "6afce477-1e1a-4720-bf0e-106040448c6f": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/dreamstime_m_74242903_48f65155-a230-4305-bcd4-b00a6903f374.jpg",
-            "link_url": "shopify:\/\/collections\/retirement-goodbye-personal-banners",
-            "text": "Retirement  Personal Banners",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
         "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
           "type": "image",
           "settings": {
@@ -272,12 +265,24 @@
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
           }
+        },
+        "6afce477-1e1a-4720-bf0e-106040448c6f": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/dreamstime_m_74242903_48f65155-a230-4305-bcd4-b00a6903f374.jpg",
+            "link_url": "shopify:\/\/collections\/retirement-goodbye-personal-banners",
+            "text": "Retirement  Personal Banners",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
         "3444c0ab-e4d4-4861-b9a3-d39da286e871",
-        "6afce477-1e1a-4720-bf0e-106040448c6f",
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
+        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1",
+        "6afce477-1e1a-4720-bf0e-106040448c6f"
       ],
       "settings": {
         "tradinghead": "",
@@ -410,7 +415,7 @@
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "text_position": "text-start",
+        "text_position": "text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -498,33 +503,13 @@
             "show_look_label": false,
             "look_label_text": "Label"
           }
-        },
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5": {
-          "type": "image",
-          "settings": {
-            "title": "Image banner",
-            "text": "<p>Give customers more details about this look<\/p>",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "button_color_palette": "accent",
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
         }
       },
       "block_order": [
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-1",
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-2",
         "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-3",
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4",
-        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-5"
+        "template--19518038769994__ef6854c8-ceba-4748-8c5d-a27a6263ffc2-image-4"
       ],
       "custom_css": [
         ".link-btn a:before {background: #d43342 !important; borde-color: #d43342;}"

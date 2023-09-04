@@ -229,7 +229,7 @@
       "settings": {
         "recommended_products_qty": 8,
         "number_of_items": 4,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "title": "You may also like",
         "title_font": "primary",
         "title_size": "h2",
@@ -293,7 +293,7 @@
         "image_ratio": 140,
         "show_in_circle": true,
         "fill_images": true,
-        "text_alignment_heading": "start",
+        "text_alignment_heading": "center",
         "text_alignment": "left",
         "title": "Recently viewed products",
         "title_font": "primary",
