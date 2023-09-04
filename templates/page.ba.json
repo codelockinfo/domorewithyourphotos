@@ -894,7 +894,7 @@
     "5f9fc417-836a-48af-b6be-421a6931ea93": {
       "type": "section-image-comparison",
       "custom_css": [
-        ".link-btn a:before {background-color: #d43342 !important; color: #fff !important;}",
+        ".link-btn a:before {background-color: #d43342 !important; color: #fff !important; border: none !important;}",
         ".image-compare {margin-bottom: 4%;}"
       ],
       "settings": {
