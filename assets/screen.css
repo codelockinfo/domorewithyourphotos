@@ -7152,4 +7152,6 @@ span.theme-money{
     font-style: var(--price_fs);
     letter-spacing: var(--price_ls);
 }
+.module-color-palette  .link-btn a:before{
+border: none !important;}
 /* issue fix end */
