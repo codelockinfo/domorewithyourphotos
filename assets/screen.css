@@ -6249,7 +6249,7 @@ h3.servicehed {
     background: #d43342 !important;
 }
 .price_section th{
-	background: #d43342 !important;
+	background: #b41717 !important;
 	color:#fff !important;
 }
 .price_section .table_html{
@@ -6274,7 +6274,7 @@ h3.servicehed {
 /* 18th birthday end */
 .price_section .pricehead h2 {
     text-align: center;
-    color: #b41717;
+    color: #d43342;
     margin-top: 2%;
 }
 .price_section h2{
