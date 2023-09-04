@@ -87,7 +87,7 @@
           "type": "price",
           "settings": {
             "show_tax": false,
-            "font_size": 16
+            "font_size": 20
           }
         },
         "8173a59f-95f6-4f23-9796-98ec220bdffe": {
