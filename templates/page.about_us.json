@@ -66,7 +66,7 @@
         "7558c328-300e-4d0b-98ff-cc812bc16637"
       ],
       "custom_css": [
-        ".imagetext h2.ff-primary.m20 {color: #d43342;}",
+        ".imagetext h2.ff-primary.m20 .ff-primary.boxed.m20 {color: #d43342;}",
         ".imagetext article picture img {object-fit: contain !important;}",
         "@media (max-width: 760px) {.imagetext h2.ff-primary.m20, .ff-secondary {text-align: center; }}"
       ],
@@ -78,7 +78,7 @@
         "overlay_opacity": 0,
         "layout": "image-left",
         "width": "boxed",
-        "height": "l",
+        "height": "m",
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
