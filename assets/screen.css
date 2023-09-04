@@ -7130,11 +7130,11 @@ section.photo-album-banner.l4ft.fullwidth{
 }
 .heading_section h2{
 	font-size: var(--main_h2) !important;
-	font-family: Bitter,serif;
-    text-transform: none;
-    font-weight: var(--main_fw_h);
-    font-style: normal;
-    --main_fw_strong: var(--main_fw_h_strong);
-    letter-spacing: -.04em;
+	font-family: Bitter,serif !important;
+    text-transform: none !important;
+    font-weight: var(--main_fw_h) !important;
+    font-style: normal !important;
+    --main_fw_strong: var(--main_fw_h_strong) !important;
+    letter-spacing: -.04em !important;
 }
 /* issue fix end */
