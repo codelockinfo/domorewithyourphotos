@@ -7142,4 +7142,12 @@ section.photo-album-banner.l4ft.fullwidth{
     --main_fw_strong: var(--main_fw_h_strong) !important;
     letter-spacing: -.04em !important;
 }
+span.theme-money{
+      color: var(--price_color);
+    font-weight: 400;
+    font-size: 18px;
+    font-family: var(--price_ff);
+    font-style: var(--price_fs);
+    letter-spacing: var(--price_ls);
+}
 /* issue fix end */
