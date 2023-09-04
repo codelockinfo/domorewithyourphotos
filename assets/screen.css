@@ -7122,3 +7122,19 @@ section.photo-album-banner.l4ft.fullwidth{
     letter-spacing: -.04em;
     font-size: var(--main_h2);
 }
+
+/* issue fix start */
+.how_work .orderdetail{
+	min-height: 350px;
+    max-height: 350px;
+}
+.heading_section h2{
+	font-size: var(--main_h2);
+	font-family: Bitter,serif;
+    text-transform: none;
+    font-weight: var(--main_fw_h);
+    font-style: normal;
+    --main_fw_strong: var(--main_fw_h_strong);
+    letter-spacing: -.04em;
+}
+/* issue fix end */
