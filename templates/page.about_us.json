@@ -14,7 +14,7 @@
           "type": "title",
           "settings": {
             "title_font": "primary",
-            "title_size": "h2",
+            "title_size": "h3",
             "title": "Our Story",
             "enable_custom_text_styling": false,
             "title_color_palette": "dark",
