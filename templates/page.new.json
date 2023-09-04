@@ -28,6 +28,9 @@
         "title",
         "content"
       ],
+      "custom_css": [
+        "p span{font-size:18px;}"
+      ],
       "settings": {
         "max_width": 1280,
         "content_alignment": "start",
