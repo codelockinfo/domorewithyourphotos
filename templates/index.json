@@ -417,6 +417,44 @@
     "a73296f0-f170-4c5b-885d-b98039090205": {
       "type": "section-collage",
       "blocks": {
+        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
+          "type": "image",
+          "settings": {
+            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
+            "image": "shopify:\/\/shop_images\/Caricature_Gift_Mobile.jpg",
+            "overlay_opacity": 5,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "align-bottom text-start",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "dark",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h4",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "",
+            "link_url": "",
+            "show_link": true,
+            "show_look": false,
+            "product_list": [
+
+            ],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": true,
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/Caricature_Gifts.jpg"
+          }
+        },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
@@ -454,49 +492,11 @@
             "look_label_text": "",
             "image_mobile": "shopify:\/\/shop_images\/Birthday_Gifts_mobile.jpg"
           }
-        },
-        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
-          "type": "image",
-          "settings": {
-            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
-            "image": "shopify:\/\/shop_images\/Caricature_Gifts.jpg",
-            "overlay_opacity": 5,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "align-bottom text-start",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "dark",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h4",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "",
-            "link_url": "",
-            "show_link": true,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/Caricature_Gifts.jpg"
-          }
         }
       },
       "block_order": [
-        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1",
-        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2"
+        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2",
+        "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1"
       ],
       "custom_css": [
         "@media only screen and (max-width: 760px) {.collage_img ul {display: flex; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1 {width: 50% !important; float: left !important; } li.block-template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2 {width: 50% !important; float: right !important; } .l4ft.fullwidth li, .l4ft.cols.fullwidth li {margin-left: 0; margin-right: 0; }}",
