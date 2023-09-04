@@ -5854,7 +5854,8 @@ h3.servicehed {
     left: -15px;
 }
 .slick-slider button.slick-arrow.slick-next {
-    right: -15px;
+    /* right: -15px; */
+    right: -30px;
 }
 .bithday_featured_products .main_pro_banner {
     width: 100%;
@@ -6090,7 +6091,7 @@ h3.servicehed {
     left:0;
 }
 .slick-slider button.slick-arrow.slick-next {
-    right:0;
+    /* right:0; */
 }
 .birthday_banner {
     text-align: center;
