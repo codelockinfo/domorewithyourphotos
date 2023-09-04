@@ -14,7 +14,7 @@
           "type": "title",
           "settings": {
             "title_font": "primary",
-            "title_size": "h2",
+            "title_size": "h3",
             "title": "Our Story",
             "enable_custom_text_styling": false,
             "title_color_palette": "dark",
@@ -354,7 +354,7 @@
       ],
       "custom_css": [
         ".imagetext article picture img {object-fit: contain !important;}",
-        "@media(max-width: 760px) {.ff-secondary{text-align:center; }}"
+        "@media (max-width: 760px) {.ff-secondary {text-align: center; }}"
       ],
       "settings": {
         "imagetextid": "",
