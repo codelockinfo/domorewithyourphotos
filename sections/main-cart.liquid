@@ -16,10 +16,12 @@
 
 {%- if cart.item_count == 0 -%}
   <article class="cart-empty text-center w560 align-center">
-    <{{ section.settings.title_size }}>{{ 'cart.empty_title' | t }}</{{ section.settings.title_size }}>
-    <p class="m50">{{ 'cart.empty_subtitle' | t }}</p>
+    <!-- <{{ section.settings.title_size }}>{{ 'cart.empty_title' | t }}</{{ section.settings.title_size }}> -->
+    <{{ section.settings.title_size }}>Your Cart</{{ section.settings.title_size }}>
+    <!-- <p class="m50">{{ 'cart.empty_subtitle' | t }}</p> -->
+    <p class="m50">Your cart is currently empty.</p>
     <!-- <p class="link-btn"><a href="{{ routes.collections_url }}" class="w300">{{ 'cart.continue_shopping' | t }}</a></p> -->
-    <p class="link-btn aaa"><a href="/collections/gifts-for-dad" class="w300">{{ 'cart.continue_shopping' | t }}</a></p>
+    <p class="link-btn "><a href="/collections/gifts-for-dad" class="w300">{{ 'cart.continue_shopping' | t }}</a></p>
   </article>
 {%- else -%}
   <{{ section.settings.title_size }}>{{ 'cart.title' | t }}</{{ section.settings.title_size }}>
