@@ -7129,7 +7129,7 @@ section.photo-album-banner.l4ft.fullwidth{
     max-height: 350px;
 }
 .heading_section h2{
-	font-size: var(--main_h2);
+	font-size: var(--main_h2) !important;
 	font-family: Bitter,serif;
     text-transform: none;
     font-weight: var(--main_fw_h);
