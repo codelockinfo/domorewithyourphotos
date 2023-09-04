@@ -96,7 +96,7 @@
     "quickshop_behavior": "static",
     "cart_icon_no_text": true,
     "image_behaviour": "slider",
-    "product_text_size": "14px",
+    "product_text_size": "18px",
     "show_vendor": false,
     "show_color_swatches": true,
     "color_swatches_single": true,
