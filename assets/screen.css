@@ -7166,6 +7166,6 @@ transform: scale(1);
 	transition: .3s ease-in-out;
 }
 .collection_block:hover{
-transform: scale(1.1);
+transform: scale(1.1); 
 }
 /* issue fix end */
