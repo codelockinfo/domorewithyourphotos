@@ -24,8 +24,8 @@
         "template--19423284134218__7c5b0a7f-4a11-48b1-9d09-e763ef647d09-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
-            "font_weight": "600",
+            "font": "primary",
+            "font_weight": "500",
             "font_size": "18px",
             "text": "<p>We are taking more photos than ever before. Our phones and computers are stacked with hundreds upon hundreds of images that we keep meaning to print but just never get around to it as we become more and more lost under an avalanche of unsorted, untitled and unfindable images.<\/p>"
           }
@@ -66,7 +66,7 @@
         "7558c328-300e-4d0b-98ff-cc812bc16637"
       ],
       "custom_css": [
-        ".imagetext h2.ff-primary.m20 ,h3.ff-primary.m20 {color: #d43342;}",
+        ".imagetext h2.ff-primary.m20,h3.ff-primary.m20 {color: #d43342;}",
         ".imagetext article picture img {object-fit: contain !important;}",
         "@media (max-width: 760px) {.imagetext h2.ff-primary.m20, .ff-secondary {text-align: center; }}"
       ],
