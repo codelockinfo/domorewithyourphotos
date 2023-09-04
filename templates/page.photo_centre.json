@@ -657,7 +657,7 @@
             "title": "FREE Print with every frame.Visit us instore to see our our extensive range of photo frames that will suit any taste.",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
-            "title_weight": "700"
+            "title_weight": "500"
           }
         },
         "template--19460186374474__79807ed4-9e37-4514-ac1d-653ef4c50901-text-1": {
@@ -731,7 +731,7 @@
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
-        "layout": "image-left",
+        "layout": "image-right",
         "width": "boxed",
         "height": "l",
         "enable_custom_height": false,
