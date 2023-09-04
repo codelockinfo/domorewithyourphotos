@@ -6542,6 +6542,11 @@ img.img-fuji {
     line-height: 22px;
     margin: 15px 0;
     font-weight: 600;
+  padding: calc(var(--main_fz) * var(--main_lh_l) + 4px) 0 0;
+    font-weight: var(--main_fw_h);
+    font-family: var(--main_ff);
+    line-height: var(--main_lh_l);
+    letter-spacing: var(--main_ls);
 }
 .product-block.detail-mode-permanent .product-info > .inner {
     margin-left: auto;
