@@ -4862,6 +4862,7 @@ html:not(.mobile) .l4ft.hover-out>li:not(.inline) figure~div {
 [data-whatin=mouse] .link-btn a:hover:before{
 	background:transparent!important;
 	border:1px solid!important;
+    border-color: transparent !important;
 }
 /* product page add to cart color change  */
 #root button.inv:before{
