@@ -451,7 +451,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": ""
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/Birthday_Gifts_mobile.jpg"
           }
         },
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
@@ -488,7 +489,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": ""
+            "look_label_text": "",
+            "image_mobile": "shopify:\/\/shop_images\/Caricature_Gifts.jpg"
           }
         }
       },
