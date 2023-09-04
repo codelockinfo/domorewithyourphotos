@@ -7155,7 +7155,7 @@ span.theme-money{
 .module-color-palette  .link-btn a:before{
 border: none !important;
 }
-.collection_block:nth-child(4n) {
+.collection_block:nth-child(-n+5) {
 width:20% !important;
 }
 /* issue fix end */
