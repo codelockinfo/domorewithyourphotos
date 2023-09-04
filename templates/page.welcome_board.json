@@ -155,7 +155,7 @@
         "buttons_color_palette": "black",
         "button_styling": "fill",
         "text_alignment": "center",
-        "title": "<strong>Choose a Welcome Board Theme<\/strong>",
+        "title": "Choose a Welcome Board Theme",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
