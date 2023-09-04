@@ -420,7 +420,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
+            "imgid": "shopify:\/\/pages\/birthday",
             "image": "shopify:\/\/shop_images\/Birthday_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -458,7 +458,7 @@
         "template--19398885081418__a73296f0-f170-4c5b-885d-b98039090205-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/pages\/birthday",
+            "imgid": "shopify:\/\/collections\/hand-drawn-caricutures",
             "image": "shopify:\/\/shop_images\/Caricature_Gifts.jpg",
             "overlay_opacity": 5,
             "color_palette": "white",
