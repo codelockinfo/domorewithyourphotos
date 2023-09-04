@@ -247,7 +247,7 @@
         "7f5b90a3-0ea1-466d-a8bb-fb174e340aed"
       ],
       "custom_css": [
-        "p.submit.m0.text-end.button-palette-accent.form-group{display: flex; justify-content: center;}"
+        "p.submit.m0.text-end.button-palette-accent.form-group {display: flex; justify-content: center;}"
       ],
       "settings": {
         "alignment": "center",
@@ -323,7 +323,8 @@
         "e40e00a1-f1c1-46de-84f4-9f8ac1ca29af"
       ],
       "custom_css": [
-        "a {text-decoration: none;}"
+        "a {text-decoration: none;}",
+        "ul.l4pl li a {text-transform: uppercase; color: var(--primary_text_h); font-weight: var(--main_fw_h); font-style: var(--main_fs_h); font-family: var(--main_ff_h); line-height: var(--main_lh_h); letter-spacing: var(--main_ls_h); font-size: 16px;}"
       ],
       "settings": {
       }
