@@ -6412,7 +6412,7 @@ span.palette-black.module-color-palette{
 .photo-btn-wrap a:hover {
     color: #d43342;
     border-color: #d43342;
-    background: transparent;
+    /* background: transparent; */
     text-decoration: none;
     transition: 0.3s all ease-in-out 0s;
 }
