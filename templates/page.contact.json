@@ -110,6 +110,9 @@
         "template--19423284691274__aa7ceb16-8dd9-4057-957e-567d95b064e3-content-1",
         "template--19423284691274__aa7ceb16-8dd9-4057-957e-567d95b064e3-button-1"
       ],
+      "custom_css": [
+        "[data-whatin=mouse] .link-btn a:hover {animation: none !important;}"
+      ],
       "settings": {
         "color_palette": "light",
         "overlay_opacity": 100,
