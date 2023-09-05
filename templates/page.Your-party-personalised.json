@@ -413,90 +413,6 @@
         "background_color": "#f9f9f9"
       }
     },
-    "536bb660-bfb4-4f70-8885-bb5343c82351": {
-      "type": "personlized_banner",
-      "blocks": {
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-1": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "title2": "description",
-            "button_link": ""
-          }
-        },
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-2": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "title2": "description",
-            "button_link": ""
-          }
-        },
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-3": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "title2": "description",
-            "button_link": ""
-          }
-        },
-        "3ed351ca-272a-4ae6-a5c0-fa2479ba3e52": {
-          "type": "collection_block",
-          "settings": {
-            "imgs2": "shopify:\/\/shop_images\/pngtree-happy-1st-birthday-vector-and-png-png-image_6107255.png",
-            "button_link": ""
-          }
-        },
-        "587ea68b-30a3-4a66-9ae8-18367790127e": {
-          "type": "collection_block",
-          "disabled": true,
-          "settings": {
-            "imgs2": "shopify:\/\/shop_images\/47-476232_4daniela4s-image-mickey-mouse-pinata-mickey-mouse-numero.jpg",
-            "button_link": ""
-          }
-        },
-        "19f53023-a6a8-494e-96e0-ac1fa7594c9b": {
-          "type": "collection_block",
-          "settings": {
-            "button_link": ""
-          }
-        },
-        "bb5a6be8-2639-4aac-a0a3-50a2960ddfd3": {
-          "type": "collection_block",
-          "settings": {
-            "button_link": ""
-          }
-        },
-        "b7e193df-d98d-40cc-b54f-c77c60c28672": {
-          "type": "collection_block",
-          "settings": {
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-1",
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-2",
-        "template--19524200563018__536bb660-bfb4-4f70-8885-bb5343c82351-collection-3",
-        "3ed351ca-272a-4ae6-a5c0-fa2479ba3e52",
-        "587ea68b-30a3-4a66-9ae8-18367790127e",
-        "19f53023-a6a8-494e-96e0-ac1fa7594c9b",
-        "bb5a6be8-2639-4aac-a0a3-50a2960ddfd3",
-        "b7e193df-d98d-40cc-b54f-c77c60c28672"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "textarea1": "description",
-        "show_text_over_image": false,
-        "show_number_products": true,
-        "alignment": "center center",
-        "background_color": "#f9f9f9"
-      }
-    },
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5": {
       "type": "section-collage",
       "blocks": {
@@ -789,7 +705,6 @@
     "bb15af2a-7edf-4fd9-bd7b-2d8b6a121352",
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
-    "536bb660-bfb4-4f70-8885-bb5343c82351",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e"
