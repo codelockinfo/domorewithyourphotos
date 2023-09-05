@@ -274,7 +274,7 @@
         "template--19517910876490__7c64c773-6de9-445b-8270-35172f0b46ee-button-1"
       ],
       "custom_css": [
-        "[data-whatin=mouse] .link-btn a:hover{animation:none !important;}"
+        "[data-whatin=\"mouse\"] .link-btn a:hover {animation: none !important;}"
       ],
       "settings": {
         "color_palette": "white",
@@ -489,6 +489,9 @@
       "block_order": [
         "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-1",
         "template--19517910876490__b320af9f-679f-404d-a3a7-8978da695957-hotspot-2"
+      ],
+      "custom_css": [
+        "[data-whatin=mouse] .link-btn a:hover{animation: none !important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/red-love-couple-coffee-mugs-wallpaper-preview.jpg",
