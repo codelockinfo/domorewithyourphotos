@@ -496,6 +496,7 @@
         "bb5a6be8-2639-4aac-a0a3-50a2960ddfd3",
         "b7e193df-d98d-40cc-b54f-c77c60c28672"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "textarea1": "description",
