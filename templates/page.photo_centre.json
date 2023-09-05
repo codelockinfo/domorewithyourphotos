@@ -726,8 +726,8 @@
       ],
       "custom_css": [
         "img {object-fit: fill !important;}",
-        "@media screen and (max-width: 760px) {.m6as > div {align-items: center; text-align: center; }}",
-        "[data-whatin=mouse] .link-btn a:hover{animation: none !important;}"
+        "[data-whatin=mouse] .link-btn a:hover {animation: none !important;}",
+        "@media screen and (max-width: 760px) {.m6as > div {align-items: center; text-align: center; }}"
       ],
       "settings": {
         "imagetextid": "",
