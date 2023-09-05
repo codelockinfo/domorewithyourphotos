@@ -277,6 +277,9 @@
         "template--19460186374474__ee92b0ac-57e7-4e79-91be-75b3dbd8184d-image-3",
         "ad65903e-4e6a-484e-bdd9-6f5c4b748890"
       ],
+      "custom_css": [
+        "[data-whatin=mouse] .link-btn a:hover{animation:none !important;}"
+      ],
       "settings": {
         "items_width": 4,
         "width": "wide",
