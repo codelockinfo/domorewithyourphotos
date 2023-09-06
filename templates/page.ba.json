@@ -548,13 +548,15 @@
         "e45902e7-10ea-4f82-8177-a0a7bee8292f": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "b4b11539-79ee-4906-9694-dba9bb57d650": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "c8a3e335-4785-4234-8f8a-51cebf8cae1a": {
