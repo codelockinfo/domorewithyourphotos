@@ -528,6 +528,86 @@
         "background_color": "#f9f9f9"
       }
     },
+    "058acc5b-adda-4539-bbfc-c539cc85bd08": {
+      "type": "custom-slider",
+      "blocks": {
+        "54623986-d85f-4550-913e-72f281aedade": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas"
+          }
+        },
+        "f3144296-818e-42cd-a014-9f5dd9e16273": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "e45902e7-10ea-4f82-8177-a0a7bee8292f": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "b4b11539-79ee-4906-9694-dba9bb57d650": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "c8a3e335-4785-4234-8f8a-51cebf8cae1a": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "15baeea1-3e43-4d44-8fb7-55cf0edeee2b": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "19f8a790-5cc4-4954-abf6-aea112915ed7": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "381b750b-3306-4332-9c62-84ade4e7c270": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        },
+        "9fd722e4-4c78-466c-b1cd-f7dfced7bd21": {
+          "type": "collection_block",
+          "settings": {
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "54623986-d85f-4550-913e-72f281aedade",
+        "f3144296-818e-42cd-a014-9f5dd9e16273",
+        "e45902e7-10ea-4f82-8177-a0a7bee8292f",
+        "b4b11539-79ee-4906-9694-dba9bb57d650",
+        "c8a3e335-4785-4234-8f8a-51cebf8cae1a",
+        "15baeea1-3e43-4d44-8fb7-55cf0edeee2b",
+        "19f8a790-5cc4-4954-abf6-aea112915ed7",
+        "381b750b-3306-4332-9c62-84ade4e7c270",
+        "9fd722e4-4c78-466c-b1cd-f7dfced7bd21"
+      ],
+      "settings": {
+        "title": "",
+        "textarea1": "",
+        "show_text_over_image": false,
+        "show_number_products": true,
+        "section_layout": "slider",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "48b6695e-4783-4b2a-83ba-0fa9852615e6": {
       "type": "personlized_banner",
       "blocks": {
@@ -1515,6 +1595,7 @@
     "b3caf7fe-ebf1-4c49-a119-198b864a55a5",
     "fd874400-bc8e-4031-968b-aae6b307dfff",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
+    "058acc5b-adda-4539-bbfc-c539cc85bd08",
     "48b6695e-4783-4b2a-83ba-0fa9852615e6",
     "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8",
     "27ece943-d23b-49cb-93b5-471618751a6b",
