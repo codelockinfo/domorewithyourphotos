@@ -892,14 +892,14 @@
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/80th.jpg",
-            "button_link": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners"
+            "button_link": "shopify:\/\/pages\/50th-anniversary"
           }
         },
         "e5c15bd6-f586-4f21-906a-e3b01e5081f3": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/90th.jpg",
-            "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
+            "button_link": "shopify:\/\/pages\/60th-anniversary"
           }
         }
       },
