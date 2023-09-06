@@ -7169,4 +7169,33 @@ transform: scale(1);
 .collection_block:hover{
 transform: scale(1.1); 
 }
+.custom-slider .blocks_cate_main.custom_colleciton_slider {
+	width: 100%;
+	margin-bottom: 2%;
+}
+.custom-slider .collection_blocks{
+	width: 20%;
+	margin: 0 5px;
+}
+[data-whatin=mouse] .custom-slider button.slick-arrow:hover{
+	    animation: none;
+}
+.custom-slider .slick-slider button.slick-arrow{
+	top: 60%;
+}
+.custom-slider .slick-slider button.slick-next{
+	right: -45px;
+}
+[data-whatin=mouse] .custom-slider button.slick-next:hover:before{
+	border-top: 2px solid var(--secondary_bg_btn_dark);
+	border-left: 2px solid var(--secondary_bg_btn_dark);
+	background: none;
+	transform: rotate(135deg);
+}
+[data-whatin=mouse] .custom-slider button.slick-prev:hover:before{
+	border-bottom: 2px solid var(--secondary_bg_btn_dark);
+	border-right: 2px solid var(--secondary_bg_btn_dark);
+	background: none;
+	transform: rotate(135deg);
+}
 /* issue fix end */
