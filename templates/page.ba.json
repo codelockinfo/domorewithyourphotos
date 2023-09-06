@@ -836,6 +836,94 @@
         "background_color": "#f9f9f9"
       }
     },
+    "36de9cd6-bb30-47e8-9ed7-ffb67f36a7a0": {
+      "type": "custom-slider",
+      "blocks": {
+        "982cc8fc-dcdc-4ea5-91b4-2706eb1a989b": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/pages\/1st-anniversary"
+          }
+        },
+        "1375da84-09a7-4693-a5b3-7cf8dd74178c": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/21st.jpg",
+            "button_link": "shopify:\/\/pages\/10th-anniversary"
+          }
+        },
+        "54f5b053-d2e0-4054-9b83-9c1155cc40dc": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "f8c30abc-05b9-42ef-89e4-564c9b24ee3b": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "e9cc2f9f-8ec3-4adb-8579-cef8f5971930": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/50th.jpg",
+            "button_link": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "81e3b6e0-ea6d-495d-8885-f7621941534f": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/60th.jpg",
+            "button_link": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "f4150257-adf7-428b-bcf1-9a97d7dea7ff": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "d1d8c27e-0296-4f2b-89fd-4ca1b469b9c8": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/80th.jpg",
+            "button_link": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        },
+        "e5c15bd6-f586-4f21-906a-e3b01e5081f3": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/90th.jpg",
+            "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
+          }
+        }
+      },
+      "block_order": [
+        "982cc8fc-dcdc-4ea5-91b4-2706eb1a989b",
+        "1375da84-09a7-4693-a5b3-7cf8dd74178c",
+        "54f5b053-d2e0-4054-9b83-9c1155cc40dc",
+        "f8c30abc-05b9-42ef-89e4-564c9b24ee3b",
+        "e9cc2f9f-8ec3-4adb-8579-cef8f5971930",
+        "81e3b6e0-ea6d-495d-8885-f7621941534f",
+        "f4150257-adf7-428b-bcf1-9a97d7dea7ff",
+        "d1d8c27e-0296-4f2b-89fd-4ca1b469b9c8",
+        "e5c15bd6-f586-4f21-906a-e3b01e5081f3"
+      ],
+      "settings": {
+        "title": "",
+        "textarea1": "",
+        "show_text_over_image": false,
+        "show_number_products": true,
+        "section_layout": "slider",
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
     "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8": {
       "type": "personlized_banner",
       "blocks": {
@@ -914,6 +1002,7 @@
         "bb7f3468-263f-463e-a64b-d3834a498c5c",
         "6457d7d3-b7b7-41aa-963f-8177b0cffd38"
       ],
+      "disabled": true,
       "custom_css": [
         "h3 {text-align: center !important;}",
         ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}"
@@ -1605,6 +1694,7 @@
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
     "058acc5b-adda-4539-bbfc-c539cc85bd08",
     "48b6695e-4783-4b2a-83ba-0fa9852615e6",
+    "36de9cd6-bb30-47e8-9ed7-ffb67f36a7a0",
     "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8",
     "27ece943-d23b-49cb-93b5-471618751a6b",
     "00ee51b0-29ac-4a2b-aad0-3da75188f979",
