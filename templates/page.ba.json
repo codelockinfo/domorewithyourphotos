@@ -562,31 +562,36 @@
         "c8a3e335-4785-4234-8f8a-51cebf8cae1a": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/50th.jpg",
+            "button_link": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "15baeea1-3e43-4d44-8fb7-55cf0edeee2b": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/60th.jpg",
+            "button_link": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "19f8a790-5cc4-4954-abf6-aea112915ed7": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "381b750b-3306-4332-9c62-84ade4e7c270": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/80th.jpg",
+            "button_link": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners"
           }
         },
         "9fd722e4-4c78-466c-b1cd-f7dfced7bd21": {
           "type": "collection_block",
           "settings": {
-            "button_link": ""
+            "imgs2": "shopify:\/\/shop_images\/90th.jpg",
+            "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
           }
         }
       },
