@@ -914,8 +914,11 @@
         "d1d8c27e-0296-4f2b-89fd-4ca1b469b9c8",
         "e5c15bd6-f586-4f21-906a-e3b01e5081f3"
       ],
+      "custom_css": [
+        "h3 {text-align: center !important;}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Anniversary Banner",
         "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": true,
