@@ -225,8 +225,8 @@
           "settings": {
             "width": "quarter",
             "image": "shopify:\/\/shop_images\/but_dad1_b89297be-8294-44f2-b23f-e08f3ce12d99.jpg",
-            "link_url": "shopify:\/\/collections\/gifts-for-dad",
-            "text": "Gifts for Dad",
+            "link_url": "shopify:\/\/collections\/fathers-day-gift-frames",
+            "text": "Gifts For Dad & Grandad",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
@@ -262,7 +262,7 @@
             "width": "quarter",
             "image": "shopify:\/\/shop_images\/but_mum1.jpg",
             "link_url": "shopify:\/\/collections\/gifts-for-mum",
-            "text": "Gifts for Mothers",
+            "text": "Gifts for Mum & Granny",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
