@@ -121,6 +121,8 @@
     assign fixed_text_alignment_left = true
   endif
 -%}
+{% unless product.tags contains 'OPTIONS_HIDDEN_PRODUCT' %}
+
 {%- if enable_quick_buy_desktop or enable_quick_buy_mobile -%}
   {%- liquid
     assign product_form_class = 'f8pr form-card'
@@ -316,7 +318,7 @@
   {%- endif -%}
 {%- endcapture %}
 
-<{{ container }} class="product-card {{ width_class }}{% if quick_buy %} has-form{% endif %}
+<{{ container }} class="1234qqqqq product-card {{ width_class }}{% if quick_buy %} has-form{% endif %}
   {% unless current_variant.available %}unavailable{% endunless %}
   {% unless layout contains 'list' or layout == 'hotspot' %}{% if settings.productcards_text_alignment == 'left' or fixed_text_alignment_left %}text-start{% elsif settings.productcards_text_alignment == 'center' %}text-center{% elsif settings.productcards_text_alignment == 'right' %}text-end{% endif %}{% endunless %}
   {% if settings.image_behaviour != 'slider' and product.media[1] != nil %}second-img-hover{% endif %}
@@ -628,3 +630,4 @@
     {%- endif -%}
   {% if layout == 'list-compact' %}</section>{% else %}</div>{% endif %}
 </{{ container }}>
+{% endunless %}
