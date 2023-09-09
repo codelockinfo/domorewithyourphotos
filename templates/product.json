@@ -80,7 +80,6 @@
         },
         "inventory": {
           "type": "inventory",
-          "disabled": true,
           "settings": {
           }
         },
