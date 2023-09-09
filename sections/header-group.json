@@ -91,7 +91,7 @@
         "ffa84ed7-bbba-45bc-8e3e-f7ed6d47750b": {
           "type": "promo_banners",
           "settings": {
-            "menu_item": "Frames,Albums & More",
+            "menu_item": "Frames, Albums & More",
             "height": "size-s",
             "enable_custom_height": false,
             "custom_height": 300,
