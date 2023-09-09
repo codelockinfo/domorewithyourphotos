@@ -288,6 +288,9 @@
     },
     "recently-viewed": {
       "type": "section-recently-viewed-products",
+      "custom_css": [
+        "a.tabs-header.toggle{width: 100%;}"
+      ],
       "settings": {
         "number_of_items": 4,
         "image_ratio": 140,
