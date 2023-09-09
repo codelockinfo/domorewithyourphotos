@@ -241,7 +241,8 @@
         ".form-card.cart-initialized {display: block;}",
         "button.overlay-tertiary:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
         "i.icon-cart-bag-rounded {border-radius: 50% !important;}",
-        "a.tabs-header.toggle {width: 100%;}"
+        "a.tabs-header.toggle {width: 100%;}",
+        "a.tabs-header.toggle:before {display:none;}"
       ],
       "settings": {
         "recommended_products_qty": 8,
