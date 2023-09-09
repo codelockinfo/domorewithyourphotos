@@ -104,7 +104,7 @@
     "preorder": false,
     "preorder_button_color": "#000000",
     "preorder_label_color": "#000000",
-    "enable_free_shipping": true,
+    "enable_free_shipping": false,
     "free_shipping_amount": 50,
     "product_deliverytime_in_stock": "",
     "product_deliverytime_not_in_stock": "",
