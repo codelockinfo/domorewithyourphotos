@@ -121,7 +121,8 @@
         "header-block-button-1"
       ],
       "custom_css": [
-        "ul li a {font-size: 16px !important ;}"
+        "ul li a {font-size: 16px !important ;}",
+        ".l4ft li:not(.inline) img{object-fit:contain !important;}"
       ],
       "settings": {
         "layout": "layout_4",
