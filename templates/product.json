@@ -240,7 +240,8 @@
         ".link-btn a:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
         ".form-card.cart-initialized {display: block;}",
         "button.overlay-tertiary:before {background: #d43342 !important ; border-color: #d43342 !important ;}",
-        "i.icon-cart-bag-rounded {border-radius: 50% !important;}"
+        "i.icon-cart-bag-rounded {border-radius: 50% !important;}",
+        "a.tabs-header.toggle {width: 100%;}"
       ],
       "settings": {
         "recommended_products_qty": 8,
@@ -289,7 +290,7 @@
     "recently-viewed": {
       "type": "section-recently-viewed-products",
       "custom_css": [
-        "a.tabs-header.toggle{width: 100%;}"
+
       ],
       "settings": {
         "number_of_items": 4,
