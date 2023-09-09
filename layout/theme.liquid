@@ -161,8 +161,25 @@
 </script> 
 <script>
 $(document).ready(function() {
-		console.log("fjfnjnjng");
-		console.log($(".swiper-wrapper .swiper-slide").html());
+	console.log("fjfnjnjng");
+	if ($(window).width() <= 1000) {
+		$(".sub .cls_submegamenu").click(function(e){
+			e.preventDefault();
+			$(this).closest("ul").toggleClass("ul-toggle");
+			$(this).closest(".sub").toggleClass("toggle mtoggle");
+		});
+		$(".sub .cls_megamenu").click(function(event){
+		  event.preventDefault();
+		  $(this).closest(".sub").addClass("mtoggle hover toggle ");
+		  $(".sub").attr("aria-expanded","false");
+		  $(this).closest(".sub").attr("aria-expanded","true");
+		  $(this).closest("ul").addClass("ul-toggle");
+		  $(this).closest(".has-menu-bar").attr("data-type","main-nav");
+		//   $(this).closest(".sub").find(".toggle.forward-toggle1").trigger('click');
+		});
+	}
+
+	console.log($(".swiper-wrapper .swiper-slide").html());
 		var myInterval = setInterval(myTimer, 500);
 
 		function myTimer() {
