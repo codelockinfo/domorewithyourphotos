@@ -831,7 +831,7 @@
         ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}",
         "h3 {text-align: center !important;}",
         ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}",
-        "@media only screen and (min-width: 460px){.custom-slider .collection_blocks {padding: 10px;}}"
+        "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
       ],
       "settings": {
         "title": "Birthday Banner",
