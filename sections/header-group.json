@@ -121,6 +121,9 @@
         "header-block-usp-2",
         "header-block-button-1"
       ],
+      "custom_css": [
+        "ul li a {font-size: 16px !important ;}"
+      ],
       "settings": {
         "layout": "layout_4",
         "width": 2000,
