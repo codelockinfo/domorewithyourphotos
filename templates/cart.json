@@ -12,6 +12,7 @@
       "blocks": {
         "2e80a36d-6430-46c3-9e9d-1dee82e7df53": {
           "type": "shipping_timer",
+          "disabled": true,
           "settings": {
           }
         }
