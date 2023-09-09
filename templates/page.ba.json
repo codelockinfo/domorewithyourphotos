@@ -925,7 +925,8 @@
         "h3 {text-align: center !important;}",
         ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}",
         "@media only screen and (max-width: 460px) {button:before {left: -7px; }}",
-        ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}"
+        ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}",
+        "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
       ],
       "settings": {
         "title": "Anniversary Banner",
