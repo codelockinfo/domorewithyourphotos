@@ -292,7 +292,7 @@
         "number_of_items": 4,
         "image_ratio": 140,
         "show_in_circle": true,
-        "fill_images": true,
+        "fill_images": false,
         "text_alignment_heading": "center",
         "text_alignment": "left",
         "title": "Recently viewed products",
