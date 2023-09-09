@@ -29,9 +29,8 @@
       "blocks": {
         "df399deb-b366-4aa3-bd2b-9a8c680d9a74": {
           "type": "promo_banners",
-          "disabled": true,
           "settings": {
-            "menu_item": "Shop by Occasion",
+            "menu_item": "About Us",
             "height": "size-s",
             "enable_custom_height": false,
             "custom_height": 250,
@@ -39,7 +38,7 @@
             "show_content_below": false,
             "layout": "columns",
             "enable_banner_1": true,
-            "image_1": "shopify:\/\/shop_images\/Ornament_Desktop-1.jpg",
+            "image_1": "shopify:\/\/shop_images\/menu_image_5.jpg",
             "overlay_opacity_1": 0,
             "color_palette_1": "white",
             "button_color_palette_1": "accent",
