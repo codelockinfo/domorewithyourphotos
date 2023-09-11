@@ -827,7 +827,7 @@
         "9fd722e4-4c78-466c-b1cd-f7dfced7bd21"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 460px) {button:before {left: -7px; }}",
+        "@media only screen and (max-width: 640px) {button:before {left: -7px; }}",
         ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}",
         "h3 {text-align: center !important;}",
         ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}",
@@ -924,7 +924,7 @@
       "custom_css": [
         "h3 {text-align: center !important;}",
         ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}",
-        "@media only screen and (max-width: 460px) {button:before {left: -7px; }}",
+        "@media only screen and (max-width: 640px) {button:before {left: -7px; }}",
         ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}",
         "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
       ],
