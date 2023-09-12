@@ -35,203 +35,22 @@
         "spacing_mobile": 30
       }
     },
-    "9e2599ec-1b8e-484b-add3-3ea418be02db": {
-      "type": "section-collection-list",
-      "disabled": true,
-      "settings": {
-        "collections": [
-
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": true,
-        "fill_images": false,
-        "layout": "slider",
-        "number_of_items": 5,
-        "text_alignment": "start",
-        "title": "Collection list",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "View all",
-        "link_url": "shopify:\/\/pages\/1st-anniversary",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "1bca002e-376a-41f0-b5f2-88db42e4e1fb": {
-      "type": "allanniversary",
-      "blocks": {
-        "template--19516274901322__1bca002e-376a-41f0-b5f2-88db42e4e1fb-image-1": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_be642fb9-b232-467c-8236-2fcc9ad37e5e.jpg",
-            "link_url": "shopify:\/\/collections\/1st-year-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "1st year Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/10_anniversary_thumbnail_62fed5e6-6e60-4275-b1d0-37d685a68a26.jpg",
-            "link_url": "shopify:\/\/collections\/10th-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "10th Year Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "b3e2f3ed-747c-4e75-a407-780dec332126": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/20_anniversary_thumbnail_7d2a966e-8b3b-4080-9e6b-7651b40d0ff1.jpg",
-            "link_url": "shopify:\/\/collections\/20th-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "20th Year Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "b760ab6e-25dd-42f6-943c-de10acd9c364": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_3e6c352c-a754-440d-b714-6580d094ca2b.jpg",
-            "link_url": "shopify:\/\/collections\/25th-silver-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "25th Year Silver Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "e765d452-3a69-4fdf-ba94-b2562aafe416": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_3e6c352c-a754-440d-b714-6580d094ca2b.jpg",
-            "link_url": "shopify:\/\/collections\/30th-pearl-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "30th Year Pearl Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "4b8ce5b2-2ce7-4644-88ab-8f618c8377cf": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/50th_anniversary_thumbnail_a401ba35-3c13-4b8e-9049-962cce6a79f0.jpg",
-            "link_url": "shopify:\/\/collections\/40th-ruby-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "40th Year ruby Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "6cb8d905-593a-4eca-9808-954f98c3dd13": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/50th_anniversary_thumbnail_a401ba35-3c13-4b8e-9049-962cce6a79f0.jpg",
-            "link_url": "shopify:\/\/collections\/50th-golden-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "50th Year Gold Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
-        "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "image": "shopify:\/\/shop_images\/60th_anniversary_thumbnail_6c92fcf0-b5de-4b52-b6e2-b64c15285d14.jpg",
-            "link_url": "shopify:\/\/collections\/60th-diamond-wedding-anniversary-personalised-gifts-and-photo-banners",
-            "text": "60th Year Diamond Wedding Anniversary",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--19516274901322__1bca002e-376a-41f0-b5f2-88db42e4e1fb-image-1",
-        "ffa5944d-83e8-44fc-b7d0-6b2adef3e5ea",
-        "b3e2f3ed-747c-4e75-a407-780dec332126",
-        "b760ab6e-25dd-42f6-943c-de10acd9c364",
-        "e765d452-3a69-4fdf-ba94-b2562aafe416",
-        "4b8ce5b2-2ce7-4644-88ab-8f618c8377cf",
-        "6cb8d905-593a-4eca-9808-954f98c3dd13",
-        "c5886fc3-98d8-4ac1-a2b8-e1999fd251e7"
-      ],
-      "disabled": true,
-      "custom_css": [
-
-      ],
-      "settings": {
-        "tradinghead": "",
-        "alignment": "middle"
-      }
-    },
-    "e67978a9-2ecc-4d27-976a-7e2e297c9fa7": {
-      "type": "birthday_banner",
-      "blocks": {
-        "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac": {
-          "type": "block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/30th_page_banner.jpg",
-            "top_heading": "",
-            "heading": "Anniversary Gifts",
-            "html": "With a70th Anniversary framed Gift, 1st Personalised Photo Banner selfie frame. This anniversary is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
-            "button_text": "Anniversary Photo banner",
-            "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
-            "button_text_2": "Anniversary banner",
-            "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries"
-          }
-        }
-      },
-      "block_order": [
-        "5ddf1b72-7336-4bae-8b25-8a36a9ecb1ac"
-      ],
-      "disabled": true,
-      "settings": {
-      }
-    },
     "7c3ec4f6-5adb-4997-89ad-350c64265907": {
       "type": "anniversary_banner",
       "blocks": {
         "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/21st_page_banner.jpg",
+            "image": "shopify:\/\/shop_images\/birthday_83fa8adc-a3e9-48d4-8cca-e50cacfa4fae.jpg",
             "top_heading": "",
-            "heading": "Birthday Gifts",
-            "html": "With a Birthday framed Gift, 1st Personalised Photo Banner selfie frame. This Birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "heading": "Personalsied Birthday Gifts",
+            "html": "<p>Celebrate their Birthday with the gift of memories with our wonderful Personalised Gifts.<\/p> <p>From Framed gifts Banners, Photos Collages, Canvas Art  and more.<\/p><p>Get out those embarrassing photos and let us to the rest.<\/p>",
             "button_text": "Birthday Photo banner",
-            "button_link": "shopify:\/\/collections\/personalised-gift-frames-photo-collages-for-birthdays",
+            "button_link": "shopify:\/\/collections\/birthdays",
             "button_text_2": "Birthday Canvas art",
             "button_link_2": "shopify:\/\/collections\/birthday-photo-collage",
             "button_text_3": "Birthday Gifts",
-            "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-birthdays",
+            "button_link_3": "shopify:\/\/collections\/birthday-gifts",
             "btn_id": "#MostPopular",
             "btn_text": "Most Popular Gifts",
             "btn_id1": "#BirthdayFramed",
@@ -250,14 +69,6 @@
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3": {
       "type": "birthday_work",
       "blocks": {
-        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
-          "type": "block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
-            "heading": "Made For You",
-            "html": "All designs can be changed in any way to suit your requirements"
-          }
-        },
         "705a9d8a-1a9a-4336-9498-755e2939dc60": {
           "type": "block",
           "settings": {
@@ -273,12 +84,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
-        "a51dae4f-f36a-4378-8a47-99d40dc88c8e",
         "705a9d8a-1a9a-4336-9498-755e2939dc60",
-        "ed987ef7-0a61-4ae2-84b8-057c850a1107"
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107",
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -350,6 +169,13 @@
             "anniversarylink": "shopify:\/\/pages\/90th-birthday-framed-gifts-personalised-banners",
             "anniversaryname": "90th"
           }
+        },
+        "833d8628-ab8b-4ba3-b978-0644b8500262": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "https:\/\/domore.ie\/collections\/birthday-gifts",
+            "anniversaryname": "All"
+          }
         }
       },
       "block_order": [
@@ -361,7 +187,8 @@
         "999f7953-5d2b-44dc-86a6-e32115a5ef08",
         "d1c25a87-0464-4837-85db-233a9d193f3a",
         "babd70e7-79a6-4d7b-bccd-d780b5b656b1",
-        "1a208171-2aeb-4b21-abd4-5f6abbc13d44"
+        "1a208171-2aeb-4b21-abd4-5f6abbc13d44",
+        "833d8628-ab8b-4ba3-b978-0644b8500262"
       ],
       "custom_css": [
         ".blogflex {margin-bottom: 2%;}",
@@ -377,7 +204,7 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "MostPopular",
-        "collection": "personalised-gifts-for-birthdays",
+        "collection": "most-popular-personalised-gifts-for-birthdays",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
@@ -408,108 +235,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "BirthdayFramed",
-        "collection": "personalised-gift-frames-photo-collages-for-birthdays",
-        "limit": 16,
+        "bannerid": "Caricature For birthdays",
+        "collection": "personalised-hand-drawn-caricature-gifts-for-birthdays",
+        "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Birthday Framed Gifts",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "a95bfc3b-a875-4b55-aae9-6b487bc16fef": {
-      "type": "section-featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "most-popular-products",
-        "limit": 8,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Most Popular",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233": {
-      "type": "section-featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "gifts-from-you",
-        "limit": 16,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Framed Gifts",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "8a27caef-7e3d-4286-bb8e-19977771e849": {
-      "type": "section-featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "memorial-photo-collage",
-        "limit": 16,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Personalised Remembrance Canvas",
+        "title": "Hand Drawn Caricatures",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -536,12 +267,12 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "PersonalisedBirthday",
-        "collection": "18th-birthday-gift-ideas",
-        "limit": 16,
+        "bannerid": "Birthday Framed gifts",
+        "collection": "personalised-gift-frames-photo-collages-for-birthdays",
+        "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Birthday Photo Banner",
+        "title": "Framed Gifts & Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -554,10 +285,42 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "",
+        "text": "<p>All designs can be done to suit any birthday<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "83771654-9371-4b9c-9d4b-4d883b88c9a5": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "birthday Canvas Art",
+        "collection": "birthday-photo-collage",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Canvas Art",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>All designs can be done to suit any Birthday<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -573,7 +336,7 @@
       "settings": {
         "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
         "title": "Dont see what you are looking for",
-        "textarea": "We can create a personalised bespoke banner or selfie frame to suit your individual needs. \nAny theme , Any character at no extra cost.",
+        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
         "title1": "Order a Customised Banner or Selfie Frame",
         "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
       }
@@ -582,18 +345,13 @@
   "order": [
     "breadcrumbs",
     "main-page",
-    "9e2599ec-1b8e-484b-add3-3ea418be02db",
-    "1bca002e-376a-41f0-b5f2-88db42e4e1fb",
-    "e67978a9-2ecc-4d27-976a-7e2e297c9fa7",
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
     "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
-    "a95bfc3b-a875-4b55-aae9-6b487bc16fef",
-    "ecb5d0d9-9a35-43c9-9b55-1b351ceb6233",
-    "8a27caef-7e3d-4286-bb8e-19977771e849",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
+    "83771654-9371-4b9c-9d4b-4d883b88c9a5",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
