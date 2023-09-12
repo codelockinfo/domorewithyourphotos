@@ -140,6 +140,12 @@
           "settings": {
             "product": "floral-wedding-anniversary-party-personalised-banner"
           }
+        },
+        "7b3c207f-e96f-4d47-bedb-2f798844f9be": {
+          "type": "block",
+          "settings": {
+            "product": "golden-wedding-anniversary-party-personalised-banner"
+          }
         }
       },
       "block_order": [
@@ -149,7 +155,8 @@
         "c13e5bda-c542-4107-97bf-f441dcb9212d",
         "5860f50e-fa03-4e46-a972-e373c9eded9a",
         "4eb3840e-ce2a-49a6-ba90-f163e299963c",
-        "bd250022-2275-46aa-8c06-6ab59e0501a6"
+        "bd250022-2275-46aa-8c06-6ab59e0501a6",
+        "7b3c207f-e96f-4d47-bedb-2f798844f9be"
       ],
       "settings": {
         "title": "70th  Anniversary Personalised Banners",
