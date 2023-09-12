@@ -110,7 +110,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/pages\/anniversaryday",
+            "imgid": "shopify:\/\/pages\/personalised-anniversary-gifts-and-photo-collages",
             "image": "shopify:\/\/shop_images\/Anniversary_Gifts.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -132,7 +132,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/pages\/anniversaryday",
+            "link_url": "shopify:\/\/pages\/personalised-anniversary-gifts-and-photo-collages",
             "show_link": true,
             "show_look": false,
             "product_list": [
