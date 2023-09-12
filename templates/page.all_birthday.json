@@ -340,6 +340,38 @@
         "title1": "Order a Customised Banner or Selfie Frame",
         "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
       }
+    },
+    "819a580b-20b2-40ae-922e-a97961402c65": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "birthday Mugs",
+        "collection": "frontpage",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -352,6 +384,7 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
     "83771654-9371-4b9c-9d4b-4d883b88c9a5",
-    "585f48b7-c8ca-485b-995e-773f9a334356"
+    "585f48b7-c8ca-485b-995e-773f9a334356",
+    "819a580b-20b2-40ae-922e-a97961402c65"
   ]
 }
