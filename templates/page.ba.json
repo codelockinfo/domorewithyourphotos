@@ -1198,7 +1198,7 @@
         "template--19486310007114__bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/collections\/birthday-gifts",
+            "imgid": "shopify:\/\/collections\/personalised-gifts-for-birthdays",
             "image": "shopify:\/\/shop_images\/home_hero_bg.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -1384,7 +1384,7 @@
         "button_link1": "shopify:\/\/collections\/just-print",
         "imgs3": "shopify:\/\/shop_images\/birthday_2573d60c-1d70-4504-9681-5bc5e9cd4d7d.jpg",
         "title3": "Personalised Birthday Gifts",
-        "button_link2": "shopify:\/\/collections\/birthday-gifts"
+        "button_link2": "shopify:\/\/collections\/personalised-gifts-for-birthdays"
       }
     }
   },

@@ -231,7 +231,7 @@
             "button_text_2": "Birthday Canvas art",
             "button_link_2": "shopify:\/\/collections\/birthday-photo-collage",
             "button_text_3": "Birthday Gifts",
-            "button_link_3": "shopify:\/\/collections\/birthday-gifts",
+            "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-birthdays",
             "btn_id": "#MostPopular",
             "btn_text": "Most Popular Gifts",
             "btn_id1": "#BirthdayFramed",
@@ -377,7 +377,7 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "MostPopular",
-        "collection": "birthday-gifts",
+        "collection": "personalised-gifts-for-birthdays",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
