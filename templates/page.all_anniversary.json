@@ -35,44 +35,6 @@
         "spacing_mobile": 30
       }
     },
-    "9e2599ec-1b8e-484b-add3-3ea418be02db": {
-      "type": "section-collection-list",
-      "disabled": true,
-      "settings": {
-        "collections": [
-
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": true,
-        "fill_images": false,
-        "layout": "slider",
-        "number_of_items": 5,
-        "text_alignment": "start",
-        "title": "Collection list",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "View all",
-        "link_url": "shopify:\/\/pages\/1st-anniversary",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "7c3ec4f6-5adb-4997-89ad-350c64265907": {
       "type": "anniversary_banner",
       "blocks": {
@@ -94,7 +56,7 @@
             "btn_id1": "#Framed",
             "btn_text1": "Framed Gifts",
             "btn_id2": "#Personalised",
-            "btn_text2": "Personalised Remembrance Canvas"
+            "btn_text2": "Canvas Art"
           }
         }
       },
@@ -242,7 +204,7 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Most",
-        "collection": "most-popular-products",
+        "collection": "most-popular-personalised-gifts-for-anniversaries",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
@@ -270,11 +232,43 @@
         "fix_zindex": 0
       }
     },
+    "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "Personalised Photo Banners",
+        "collection": "personalised-hand-drawn-caricature-gifts-for-anniversaries",
+        "limit": 4,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Hand  Drawn Caricatures",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Framed",
-        "collection": "gifts-from-you",
+        "collection": "personalised-gifts-for-anniversaries-1",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
@@ -302,19 +296,19 @@
         "fix_zindex": 0
       }
     },
-    "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
+    "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Personalised Photo Banners",
-        "collection": "banners-for-anniversaries",
-        "limit": 16,
+        "bannerid": "Canvas Art",
+        "collection": "personalised-canvas-photo-collages-for-anniversaries",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Photo Banners",
+        "title": "Canvas Art",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": true,
+        "buynowcheck": false,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -323,10 +317,10 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "",
+        "text": "<p>All designs can be done to suit any Anniversary<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
-        "link_text": "",
+        "link_text": "View all",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -351,13 +345,13 @@
   "order": [
     "breadcrumbs",
     "main-page",
-    "9e2599ec-1b8e-484b-add3-3ea418be02db",
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
     "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
-    "187d2840-e3a4-4aa7-a740-ac22d36c3084",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084",
+    "3df74cc1-2bfd-4297-926b-842e65a9228a",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
