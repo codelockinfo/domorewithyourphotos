@@ -525,7 +525,7 @@
         "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
       ],
       "settings": {
-        "title": "Birthday Banner",
+        "title": "Birthday Banners & Gift Frames",
         "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": true,
@@ -620,7 +620,7 @@
         "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
       ],
       "settings": {
-        "title": "Anniversary Banner",
+        "title": "Anniversary Banners & Gift Frames",
         "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": true,
