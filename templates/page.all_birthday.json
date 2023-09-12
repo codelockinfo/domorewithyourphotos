@@ -345,8 +345,8 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "birthday Mugs",
-        "collection": "frontpage",
-        "limit": 5,
+        "collection": "personalised-birthday-gifts-on-mugs",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "start",
         "title": "Featured collection",
