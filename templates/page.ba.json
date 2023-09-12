@@ -541,76 +541,68 @@
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/01st_Anniverary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/1st-year-wedding-anniversary-personalised-gifts-and-photo-banners"
-          }
-        },
-        "1375da84-09a7-4693-a5b3-7cf8dd74178c": {
-          "type": "collection_block",
-          "settings": {
-            "imgs2": "shopify:\/\/shop_images\/5th_Anniversary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/5th-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/1st-anniversary"
           }
         },
         "54f5b053-d2e0-4054-9b83-9c1155cc40dc": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/10th_Annivery_Banenrs.jpg",
-            "button_link": "shopify:\/\/collections\/10th-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/10th-anniversary"
           }
         },
         "f8c30abc-05b9-42ef-89e4-564c9b24ee3b": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/20th_Anniverary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/20th-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/20th-anniversary"
           }
         },
         "e9cc2f9f-8ec3-4adb-8579-cef8f5971930": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/25th_Annveries_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/25th-silver-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/25th-anniversary"
           }
         },
         "81e3b6e0-ea6d-495d-8885-f7621941534f": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/30th_Anniversary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/30th-pearl-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/30th-anniversary"
           }
         },
         "f4150257-adf7-428b-bcf1-9a97d7dea7ff": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/40th_Anniversary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/40th-ruby-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/40th-anniversary"
           }
         },
         "d1d8c27e-0296-4f2b-89fd-4ca1b469b9c8": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/50th_Anniverary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/50th-golden-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/50th-anniversary"
           }
         },
         "e5c15bd6-f586-4f21-906a-e3b01e5081f3": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/60th_anniverary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/60th-diamond-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/60th-anniversary"
           }
         },
         "71fcb033-c8c9-40ac-9048-ea7ec4fa22cd": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/70th_Anniversary_Banners.jpg",
-            "button_link": "shopify:\/\/collections\/70th-platinum-wedding-anniversary-personalised-gifts-and-photo-banners"
+            "button_link": "shopify:\/\/pages\/70th-anniversary"
           }
         }
       },
       "block_order": [
         "982cc8fc-dcdc-4ea5-91b4-2706eb1a989b",
-        "1375da84-09a7-4693-a5b3-7cf8dd74178c",
         "54f5b053-d2e0-4054-9b83-9c1155cc40dc",
         "f8c30abc-05b9-42ef-89e4-564c9b24ee3b",
         "e9cc2f9f-8ec3-4adb-8579-cef8f5971930",
