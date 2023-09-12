@@ -273,7 +273,7 @@
           "settings": {
             "width": "quarter",
             "image": "shopify:\/\/shop_images\/but_freinds1.jpg",
-            "link_url": "shopify:\/\/collections\/birthdays",
+            "link_url": "shopify:\/\/collections\/personalised-gift-frames-photo-collages-for-birthdays",
             "text": "Gifts For Friends",
             "subtext": "",
             "overlay_color": "#ffffff",
@@ -722,7 +722,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/birthdays",
+            "link_url": "shopify:\/\/collections\/personalised-gift-frames-photo-collages-for-birthdays",
             "show_link": false,
             "show_look": false,
             "product_list": [
