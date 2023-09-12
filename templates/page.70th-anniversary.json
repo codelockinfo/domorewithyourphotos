@@ -41,10 +41,10 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/70th_anniversary_thumbnail_46753325-70a4-4a87-9f7c-028b39c984ce.jpg",
+            "image": "shopify:\/\/shop_images\/70th_anniversary_thumbnail_00c886d6-3bcd-47e5-9e61-0747483b3341.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "With a70th Anniversary framed Gift, 1st Personalised Photo Banner  selfie frame. This anniversary is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "html": "<p>With a 70th Wedding Anniversary framed Gift or Personalised Photo Banner.<\/p> This anniversary is a lifetime and means true love, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
             "button_text": "70TH PHOTO BANNERS",
             "button_link": "\/",
             "button_text_2": "70TH FRAMED GIFTS",
@@ -81,8 +81,8 @@
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
-            "heading": "Order",
-            "html": "Preview Sent for every order within 24 hours"
+            "heading": "Made To Order",
+            "html": "All Designs can be changed to suit your requirements"
           }
         }
       },
@@ -102,53 +102,43 @@
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "70th-party-personalised-photo-collage-banner"
+            "product": "75th-diamond-anniversary-personalised-party-banner"
           }
         },
         "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
           "type": "block",
           "settings": {
-            "product": "wedding-photo-album-200-photos-5x7-pearl-series"
+            "product": "congratulations-on-your-golden-anniversary-personalised-photo-banner"
           }
         },
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "personalised-wedding-picture-frame"
+            "product": "congratulations-on-your-special-day-banner"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
           "type": "block",
           "settings": {
-            "product": "this-is-your-life-anniversary-framed-picture-collage"
+            "product": "60th-diamond-anniversary-personalised-banner"
           }
         },
         "5860f50e-fa03-4e46-a972-e373c9eded9a": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "1st-wedding-anniversary-sentiment-frame"
+            "product": "60th-diamond-wedding-anniversary-personalised-party-banner"
           }
         },
         "4eb3840e-ce2a-49a6-ba90-f163e299963c": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "from-this-day-wedding-collage-on-canvas"
+            "product": "lilac-floral-anniversary-selfie-frame"
           }
         },
         "bd250022-2275-46aa-8c06-6ab59e0501a6": {
           "type": "block",
-          "disabled": true,
           "settings": {
-            "product": "our-life-photos-framed-photo-collage-anniversary-gift"
-          }
-        },
-        "44dbb300-471f-4be5-83bc-4781fb185079": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "personalised-wedding-picture-frame"
+            "product": "floral-wedding-anniversary-party-personalised-banner"
           }
         }
       },
@@ -159,25 +149,24 @@
         "c13e5bda-c542-4107-97bf-f441dcb9212d",
         "5860f50e-fa03-4e46-a972-e373c9eded9a",
         "4eb3840e-ce2a-49a6-ba90-f163e299963c",
-        "bd250022-2275-46aa-8c06-6ab59e0501a6",
-        "44dbb300-471f-4be5-83bc-4781fb185079"
+        "bd250022-2275-46aa-8c06-6ab59e0501a6"
       ],
       "settings": {
         "title": "70th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
-        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
-        "bottom_text": "Our Most Popular Birthday Banner from €29",
+        "pro_img": "shopify:\/\/shop_images\/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
+        "bottom_text": "Our Most Popular Anniversary Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/collections\/7x5-wedding-photo-albums"
+        "button_link": "shopify:\/\/products\/50th-your-wedding-in-pictures-personalised-anniversary-photo-banner"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
         "image": "shopify:\/\/shop_images\/70th_anniversary_Landing_page_20cef1d9-d3c8-4142-906e-c1054c4fa72e.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 70th Anniversary Photo Collage, Framed Gift Or Canvas",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A 70th Wedding Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -188,43 +177,35 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "our-life-photos-framed-photo-collage-anniversary-gift",
-            "product2": "personalised-wedding-picture-frame"
+            "product": "mr-mrs-wedding-day-heart-collage-framed-gift",
+            "product2": "tree-shaped-family-photo-collage-framed"
           }
         },
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
           "type": "block",
           "settings": {
-            "product": "floral-wedding-anniversary-party-personalised-banner",
-            "product2": "this-is-your-life-anniversary-framed-picture-collage"
+            "product": "our-anniversary-photo-collage-framed-gift",
+            "product2": "our-sentiment-anniversary-photo-slate"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
-            "product": "this-is-your-life-70th-birthday-blended-memories-framed-collage",
-            "product2": "cancun-wedding-canvas-artcollage"
+            "product": "then-now-personalised-anniversary-party-welcome-board",
+            "product2": "50th-golden-anniversary-sentiment-gift-frame"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
-            "product": "dream-catcher-wedding-collage-on-canvas",
-            "product2": "our-life-photos-framed-photo-collage-anniversary-gift"
-          }
-        },
-        "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
-          "type": "block",
-          "disabled": true,
-          "settings": {
-            "product": "this-is-your-life-18th-birthday-hearts-framed-photo-collage",
-            "product2": "sparkly-wishes-18th-birthday-framed-photo-collage"
+            "product": "50th-golden-wedding-anniversary-numbered-framed-photo-collage",
+            "product2": "50th-golden-wedding-anniversary-photo-collage-wall-art"
           }
         },
         "91efe3ab-7124-4463-9a23-9064c1717a62": {
           "type": "block",
           "settings": {
-            "product": "ruby-anniversary-this-is-your-life-sentiment",
+            "product": "its-a-50th-wedding-anniversary-framed-photo-collage",
             "product2": "love-cloud-photo-collage-wall-art-1"
           }
         }
@@ -234,11 +215,10 @@
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
         "2bc58445-1e65-40f6-95c0-ddb5227aac18",
-        "d4e5eee4-860b-495c-80e9-5b16dc238b55",
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "right_text": "70th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "right_text": "<p>70th Wedding anniversary Photo Collages combining all their  favourite photos in one frame or canvas is the perfect way to cherish their lifetime memories. <\/p>They make fantastic anniversary gifts as they can put on show, a couples' life achievements or best bits so far and they usually bring a tear to their eye  (in a good way)",
         "main_product": "our-life-photos-framed-photo-collage-anniversary-gift",
         "main2_product": "personalised-wedding-picture-frame"
       }
