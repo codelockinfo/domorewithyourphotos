@@ -328,19 +328,6 @@
         "fix_zindex": 0
       }
     },
-    "585f48b7-c8ca-485b-995e-773f9a334356": {
-      "type": "custom_section",
-      "custom_css": [
-        ".container {position: relative;}"
-      ],
-      "settings": {
-        "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
-        "title": "Dont see what you are looking for",
-        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
-        "title1": "Order a Customised Banner or Selfie Frame",
-        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
-      }
-    },
     "819a580b-20b2-40ae-922e-a97961402c65": {
       "type": "section_feature_collection_grid",
       "settings": {
@@ -372,6 +359,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "585f48b7-c8ca-485b-995e-773f9a334356": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container {position: relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/Couch1_3ed37854-9078-4a7f-a167-ca280fefc1b0.jpg",
+        "title": "Dont see what you are looking for",
+        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
+        "title1": "Order a Customised Banner or Selfie Frame",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
     }
   },
   "order": [
@@ -384,7 +384,7 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
     "83771654-9371-4b9c-9d4b-4d883b88c9a5",
-    "585f48b7-c8ca-485b-995e-773f9a334356",
-    "819a580b-20b2-40ae-922e-a97961402c65"
+    "819a580b-20b2-40ae-922e-a97961402c65",
+    "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
