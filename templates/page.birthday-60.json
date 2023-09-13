@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "e228d48c-82d7-496b-962b-2a899253e42b": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "fd1f6546-a130-456a-91c5-277433bf7603": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/60_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 60th Birthday framed Gift, 60th Personalised Photo Banner or Selfie Frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "60TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "60TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "fd1f6546-a130-456a-91c5-277433bf7603"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -264,6 +296,7 @@
         "ad47ce48-efdb-4ad9-8f57-57e77e43a584"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "60th Birthday Personalised Banners",
         "html": "",
         "main_product": "",
@@ -378,6 +411,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "e228d48c-82d7-496b-962b-2a899253e42b",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
