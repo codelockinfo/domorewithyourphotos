@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "34d3669e-d867-40a8-a1f6-1856fbdb5225": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "28f385ce-05f5-4390-8147-956613e7d1cd": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/70th_anniversary_thumbnail_00c886d6-3bcd-47e5-9e61-0747483b3341.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "<p>With a 70th Wedding Anniversary framed Gift or Personalised Photo Banner.<\/p> This anniversary is a lifetime and means true love, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "70TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "70TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "28f385ce-05f5-4390-8147-956613e7d1cd"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -159,6 +191,7 @@
         "7b3c207f-e96f-4d47-bedb-2f798844f9be"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "70th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -225,6 +258,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
+        "offer": "gifts",
         "right_text": "<p>70th Wedding anniversary Photo Collages combining all their  favourite photos in one frame or canvas is the perfect way to cherish their lifetime memories. <\/p>They make fantastic anniversary gifts as they can put on show, a couples' life achievements or best bits so far and they usually bring a tear to their eye  (in a good way)",
         "main_product": "our-life-photos-framed-photo-collage-anniversary-gift",
         "main2_product": "personalised-wedding-picture-frame"
@@ -265,6 +299,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "34d3669e-d867-40a8-a1f6-1856fbdb5225",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
