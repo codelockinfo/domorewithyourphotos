@@ -339,7 +339,7 @@
             "title": "Gifts for Pets",
             "icon": "none",
             "header_image_width": 25,
-            "collection": "gifts-for-pets",
+            "collection": "personalised-hand-drawn-caricature-gifts-for-pets",
             "products_limit": 8,
             "number_of_items": 4,
             "text": "<p>Tab content<\/p>",
@@ -515,7 +515,7 @@
             "highlight": "Gifts for Pets",
             "last_title": "",
             "collection_limit": 6,
-            "title": "gifts-for-pets"
+            "title": "personalised-hand-drawn-caricature-gifts-for-pets"
           }
         }
       },
