@@ -5749,7 +5749,7 @@ h3.servicehed {
 }
 .how_it_work:before {
     position: absolute;
-    content: "";
+    content: unset;
     background-image: url(https://cdn.shopify.com/s/files/1/0099/8693/2814/t/24/assets/Polygon%205.png?v=1670318718);
     background-repeat: no-repeat;
     width: 100%;
