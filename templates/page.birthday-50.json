@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "e1842f53-f32e-4e44-b88b-0eef4f3be3c0": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "4f90ce0e-3a36-454d-a9df-bfcd738ea25d": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/50th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 50th Birthday framed Gift, 50th Birthday Personalised Photo Photo Banner or Selfie Frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "50TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "50TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "4f90ce0e-3a36-454d-a9df-bfcd738ea25d"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -257,6 +289,7 @@
         "9fa23f9c-3c9f-43a8-8a33-626decd9ab25"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "Personalised 50th Birthday Banners",
         "html": "",
         "main_product": "",
@@ -387,6 +420,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "e1842f53-f32e-4e44-b88b-0eef4f3be3c0",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
