@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "15e155ab-7f74-4052-bed0-da2923fda57a": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "ea1e5da3-b065-4527-b2f5-8571a61c274f": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21st_page_banner_f50cbca1-bcf3-4f6a-9dce-993e5f996917.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 21st Birthday framed Gift, 21st Personalised Photo Banner or 21st Selfie Frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "21ST PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "21ST FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "ea1e5da3-b065-4527-b2f5-8571a61c274f"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -187,6 +219,7 @@
         "7161e108-0666-4d8b-a616-0b1970a3948a"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "21st Birthday Personalised Photo Banners",
         "html": "",
         "main_product": "",
@@ -285,6 +318,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "15e155ab-7f74-4052-bed0-da2923fda57a",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "3c09dfde-8d01-4b05-b753-5715ea16c173",
