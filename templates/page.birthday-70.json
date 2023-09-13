@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "647d18c6-24b5-4c3d-b05a-18cbf41a17a1": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "6a4ab8d5-6f04-44b6-97d4-497ebe1f1283": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/70_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 70th Birthday framed Gift, 70th Personalised Photo Banner or Selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "70TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "70TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "6a4ab8d5-6f04-44b6-97d4-497ebe1f1283"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -250,6 +282,7 @@
         "5779f67e-67c2-43d8-be8d-636eaa654914"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "70th Birthday Personalised Party Banners",
         "html": "",
         "main_product": "",
@@ -372,6 +405,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "647d18c6-24b5-4c3d-b05a-18cbf41a17a1",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
