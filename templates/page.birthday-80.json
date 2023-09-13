@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "c388c1f1-80eb-470e-b400-0dfc7699f03a": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "bee39e4c-2eb0-42bb-b944-8a3e0ccc4907": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/80_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 80th Birthday framed Gift, 80th Personalised Photo Banner or selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "80TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "80TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "bee39e4c-2eb0-42bb-b944-8a3e0ccc4907"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -215,6 +247,7 @@
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "80th Birthday Personalised Photo Banners",
         "html": "",
         "main_product": "",
@@ -329,6 +362,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "c388c1f1-80eb-470e-b400-0dfc7699f03a",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
