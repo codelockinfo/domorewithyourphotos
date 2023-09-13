@@ -46,9 +46,11 @@
             "heading": "Give the Gift of Memories",
             "html": "<p>With a 10th Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> Ten years of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
             "button_text": "10TH PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "#Banner",
             "button_text_2": "10TH FRAMED GIFTS",
-            "button_link_2": "\/"
+            "button_link_2": "#BirthdayOffer",
+            "button_text_3": "",
+            "button_link_3": ""
           }
         }
       },
@@ -220,7 +222,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "right_text": "<p>10th Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. <\/p>They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
+        "right_text": "10th Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
         "main_product": "20th-wedding-anniversary-photo-collage-on-canvas",
         "main2_product": "20th-wedding-anniversary-photo-collage-wall-art"
       }
