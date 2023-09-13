@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "64ee9cca-1093-4115-8438-b88470f48aa3": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "41684e7f-0ad1-4dc6-bcf5-abef9d45deb4": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_anniversary_thumbnail_fb842081-6e24-4780-b409-36043fdd6d51.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "<p>With a 10th Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> Ten years of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#Banner",
+            "btn_text": "10TH PHOTO BANNERS",
+            "btn_id1": "#BirthdayOffer",
+            "btn_text1": "10TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "41684e7f-0ad1-4dc6-bcf5-abef9d45deb4"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -57,6 +88,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -262,6 +294,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "64ee9cca-1093-4115-8438-b88470f48aa3",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
