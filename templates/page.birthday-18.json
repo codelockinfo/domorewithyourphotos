@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "d058c260-2362-4d50-98cd-1c9d2fb7717c": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "ac76a7f3-a3ee-48f1-8140-2fc6307d3ce7": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/18th_page_banner_5d345d7d-afd6-48cd-a3a5-76d965b3e51a.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 18th Birthday framed Gift, 18th Personalised Photo Banner oe selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "18TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "18TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "ac76a7f3-a3ee-48f1-8140-2fc6307d3ce7"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -215,6 +247,7 @@
         "a8a9a669-3cae-417c-ad8c-c617548cb385"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "18th Birthday Personalised Banners",
         "html": "",
         "main_product": "",
@@ -332,6 +365,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "d058c260-2362-4d50-98cd-1c9d2fb7717c",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
