@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "35197443-ce49-4f78-aab0-3f3793eb69f8": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "64d0e3e7-8c47-4463-ad9d-e42b907637ab": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/40th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 40th Birthday framed Gift, 40th Personalised Photo Banner or 40th Selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "40TH  PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "40TH  FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "64d0e3e7-8c47-4463-ad9d-e42b907637ab"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -306,6 +338,7 @@
         "9e137a1e-ca75-4a28-a01c-813989e0024e"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "40th Birthday Personalised Banners",
         "html": "",
         "main_product": "",
@@ -436,6 +469,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "35197443-ce49-4f78-aab0-3f3793eb69f8",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "3c09dfde-8d01-4b05-b753-5715ea16c173",
