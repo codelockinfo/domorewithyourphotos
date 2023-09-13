@@ -1,4 +1,4 @@
-<div class="bithday_featured_products">
+<div class="bithday_featured_products" id="{{section.settings.bannerid}}">
     <div class="container">
     {% assign title = section.settings.title %}{% assign html = section.settings.html %}
     {% assign main_product = section.settings.main_product %}
@@ -49,6 +49,11 @@
       {
         "name": "Birthday product",
         "settings": [
+           {
+          "id":"bannerid",
+          "type":"text",
+          "label":"Section_id"
+        },
           {
             "type": "text",
             "id": "title",
