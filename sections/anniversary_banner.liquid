@@ -14,7 +14,7 @@
   {% if top_heading != blank %}<h5>{{ top_heading }}</h5>{% endif %}
   {% if heading != blank %}<h2>{{ heading }}</h2>{% endif %}
   {% if html != blank %}<div class="desc">{{ html }}</div>{% endif %}
- 
+  {{ template.suffix  }}???
   {% if  template.suffix == "all_anniversary" or template.suffix == "all_birthday" or template.suffix == "10th-anniversary" %}
     <div class="btn_section">
       {% if block.settings.btn_id  != blank %}<a  href="{{ block.settings.btn_id }}" class="btn">{{ block.settings.btn_text }}</a>{% endif %}
