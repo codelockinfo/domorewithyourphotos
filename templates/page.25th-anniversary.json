@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "9f28dda1-98f5-4591-a97d-b4168cedfd68": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "1bc257b9-19ec-478b-bc4e-f2ad781119db": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/25_anniversary_thumbnail_4964f87b-a008-4828-9f44-86507a814de7.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "<p>With a 25th Wedding Anniversary framed Gift, Personalised Photo Banner or selfie frame.<\/p><p>Twenty Five years together is a lifetime so   If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their  photos and we will do the rest.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "25TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "25TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1bc257b9-19ec-478b-bc4e-f2ad781119db"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -159,6 +191,7 @@
         "44dbb300-471f-4be5-83bc-4781fb185079"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "25th Silver Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -225,6 +258,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
+        "offer": "gifts",
         "right_text": "<p>25th Wedding anniversary Photo Collages Combining all their favourite photos in one frame or canvas is the perfect way to cherish memories. <\/p><p>They make fantastic anniversary y gifts as they can put on show, a couples's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).<\/p>",
         "main_product": "25th-silver-wedding-anniversary-sentiment",
         "main2_product": "photo-collage-engagement-personalised-banner"
@@ -265,6 +299,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "9f28dda1-98f5-4591-a97d-b4168cedfd68",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
