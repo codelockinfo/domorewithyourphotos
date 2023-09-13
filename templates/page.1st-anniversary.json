@@ -55,6 +55,38 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "836dfdc8-4380-4f56-bb36-9c7f8ea9c364": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "6bbdc77b-fb66-4ba5-ac5b-c22f6b929de3": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "button_text": "1ST PHOTO BANNERS",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "1ST PHOTO BANNERS",
+            "btn_id1": "#Gift",
+            "btn_text1": "1ST FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "6bbdc77b-fb66-4ba5-ac5b-c22f6b929de3"
+      ],
       "settings": {
       }
     },
@@ -260,6 +292,7 @@
     "breadcrumbs",
     "main-page",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
+    "836dfdc8-4380-4f56-bb36-9c7f8ea9c364",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
     "5ecf0492-976d-4688-8332-3fcb15ba96b9",
