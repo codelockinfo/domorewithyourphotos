@@ -1,4 +1,4 @@
-<div class="bithday_off_products">
+<div class="bithday_off_products" id="{{section.settings.bannerid}}">
     <div class="container">
     <div class="blocks">
       <div class="left_block">  
@@ -42,7 +42,12 @@
     {% schema %}
       {
         "name": "Birthday Offer Product",
-        "settings": [
+            "settings": [
+               {
+          "id":"bannerid",
+          "type":"text",
+          "label":"Section_id"
+        },
           {
              "type": "text",
              "id": "right_text",
