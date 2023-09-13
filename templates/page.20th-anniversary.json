@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "d10317fa-65f1-4a45-a77e-f360a36c7c39": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "2203a0d2-b6e4-4e5e-b24c-7f21ddedfd39": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20_anniversary_thumbnail_872e5969-6609-4159-b760-2d37e152136c.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "<p>With a 20th Anniversary framed Gift or personalised banner.<\/p>Twenty years together , where does the time go, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "20TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "20TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "2203a0d2-b6e4-4e5e-b24c-7f21ddedfd39"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -251,6 +282,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "d10317fa-65f1-4a45-a77e-f360a36c7c39",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
