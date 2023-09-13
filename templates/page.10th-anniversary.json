@@ -51,7 +51,7 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#Banner",
+            "btn_id": "#banner",
             "btn_text": "10TH PHOTO BANNERS",
             "btn_id1": "#BirthdayOffer",
             "btn_text1": "10TH FRAMED GIFTS",
@@ -178,7 +178,7 @@
       ],
       "settings": {
         "title": "10th  Anniversary Personalised Banners",
-        "html": "aaaaa",
+        "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
         "pro_img": "shopify:\/\/shop_images\/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
