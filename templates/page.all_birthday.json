@@ -53,9 +53,9 @@
             "button_link_3": "shopify:\/\/collections\/birthday-gifts",
             "btn_id": "#MostPopular",
             "btn_text": "Most Popular Gifts",
-            "btn_id1": "#BirthdayFramed",
+            "btn_id1": "#Birthday_gifts",
             "btn_text1": "Birthday Framed Gifts",
-            "btn_id2": "#PersonalisedBirthday",
+            "btn_id2": "#birthdayMugs",
             "btn_text2": "Personalised Birthday"
           }
         }
@@ -267,7 +267,7 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Birthday Framed gifts",
+        "bannerid": "Birthday_gifts",
         "collection": "personalised-gift-frames-photo-collages-for-birthdays",
         "limit": 12,
         "number_of_items": 4,
@@ -331,7 +331,7 @@
     "819a580b-20b2-40ae-922e-a97961402c65": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "birthday Mugs",
+        "bannerid": "birthdayMugs",
         "collection": "personalised-birthday-gifts-on-mugs",
         "limit": 8,
         "number_of_items": 4,
