@@ -55,7 +55,7 @@
             "btn_text": "Most popular",
             "btn_id1": "#Framed",
             "btn_text1": "Framed Gifts",
-            "btn_id2": "#Canvas Art",
+            "btn_id2": "#Canvas",
             "btn_text2": "Canvas Art"
           }
         }
@@ -299,7 +299,7 @@
     "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Canvas Art",
+        "bannerid": "Canvas",
         "collection": "personalised-canvas-photo-collages-for-anniversaries",
         "limit": 8,
         "number_of_items": 4,
