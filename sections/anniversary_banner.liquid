@@ -15,20 +15,20 @@
   {% if heading != blank %}<h2>{{ heading }}</h2>{% endif %}
   {% if html != blank %}<div class="desc">{{ html }}</div>{% endif %}
   {{ template.suffix  }}???
-  {% if  template.suffix == "all_anniversary" or template.suffix == "all_birthday" or template.suffix == "10th-anniversary" %}
+  <!-- {% if  template.suffix == "all_anniversary" or template.suffix == "all_birthday" or template.suffix == "10th-anniversary" %} -->
     <div class="btn_section">
       {% if block.settings.btn_id  != blank %}<a  href="{{ block.settings.btn_id }}" class="btn">{{ block.settings.btn_text }}</a>{% endif %}
         {% if block.settings.btn_id1 != blank %}<a  href="{{ block.settings.btn_id1 }}" class=" btn sec_btn  third">{{ block.settings.btn_text1 }}</a>{% endif %}
          {% if block.settings.btn_id2 != blank %}<a  href="{{ block.settings.btn_id2 }}" class="btn sec_btn third">{{ block.settings.btn_text2 }}</a>{% endif %}
       
       </div>
-  {% else %}
+  <!-- {% else %} -->
   <!-- <div class="btn_section">
     {% if button_link != blank %}<a target="_blank" href="{{ button_link }}" class="btn">{{ button_text }}</a>{% endif %}
     {% if button_link_2 != blank %}<a target="_blank" href="{{ button_link_2 }}" class=" btn sec_btn  third">{{ button_text_2 }}</a>{% endif %}
      {% if button_link_3 != blank %}<a target="_blank" href="{{ button_link_3 }}" class="btn sec_btn third">{{ button_text_3 }}</a>{% endif %}
   </div> -->
-  {% endif %}
+  <!-- {% endif %} -->
 </div>
 <div class="right_block">
   {% if image != blank %}<img src="{{ image | img_url: 'master'  }}"  />{% endif %}
