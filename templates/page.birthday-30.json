@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "9e17359a-ed26-47dc-a9d0-c7d4bc4e56fd": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "ac634abf-1955-46a0-8aa0-6ede2c0c39ea": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/30th_page_banner.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a 30th Birthday framed Gift, 30th Personalised Photo Banner or 30th Selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#banner",
+            "btn_text": "30TH PHOTO BANNERS",
+            "btn_id1": "#gifts",
+            "btn_text1": "30TH FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "ac634abf-1955-46a0-8aa0-6ede2c0c39ea"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -292,6 +324,7 @@
         "05b0caf8-bcd6-48a8-824a-fafc8d21a2f2"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "30th Birthday Personalised Banners",
         "html": "",
         "main_product": "",
@@ -423,6 +456,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "9e17359a-ed26-47dc-a9d0-c7d4bc4e56fd",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "df84cdb7-9b6b-43e8-ba40-e5b8b836ba22",
