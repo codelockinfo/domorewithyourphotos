@@ -284,8 +284,8 @@
           "type": "image",
           "settings": {
             "width": "quarter",
-            "image": "shopify:\/\/shop_images\/but_gran.jpg",
-            "link_url": "shopify:\/\/collections\/grandparents-gifts",
+            "image": "shopify:\/\/shop_images\/but_baby.jpg",
+            "link_url": "https:\/\/domore.ie\/collections\/christening",
             "text": "Gifts For New Baby",
             "subtext": "",
             "overlay_color": "#ffffff",
