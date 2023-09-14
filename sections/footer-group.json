@@ -155,7 +155,8 @@
         "footer-block-customer-support-1"
       ],
       "custom_css": [
-        "[data-whatin=\"mouse\"] fieldset button:hover:before {background: #d43342 !important;}"
+        "[data-whatin=\"mouse\"] fieldset button:hover:before {background: #d43342 !important;}",
+        "@media only screen and (max-width: 760px) {.footericons {margin-right: unset !important; }}"
       ],
       "settings": {
         "footer_color": "white",
