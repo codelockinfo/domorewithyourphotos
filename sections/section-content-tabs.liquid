@@ -15,7 +15,7 @@
   {%- if section.settings.subtitle != blank -%}
     <{{ section.settings.subtitle_size }} class="{{ title_classes }} ff-{{ section.settings.subtitle_font }} {% if section.settings.enable_custom_subtext_styling %}text-palette-{{ section.settings.subtitle_color_palette }} fw-{{ section.settings.subtitle_weight }}{% endif %}">{{ section.settings.subtitle }}</{{ section.settings.subtitle_size }}>
   {%- endif -%}
-  <div class="m6tb btn" data-active-class="button-palette-{{ settings.active_tabs_color }}" style="font-size:{{ section.settings.font_size }};">
+  <div class="m6tb btn" data-active-class="button-palette-{{ settings.active_tabs_color }}" style="font-size:{{ section.settings.font_size }};"id="{{ section.settings.content_id }}">
     <nav class="strong">
       <ul{% if section.settings.alignment == 'center' %} class="text-center"{% endif %}>
         {%- for block in section.blocks -%}
@@ -186,6 +186,12 @@
     ]
   },
   "settings": [
+    {
+      "type": "text",
+      "id": "content_id",
+      "label": "section id",
+      "default":"frame"
+    },
     {
       "type": "select",
       "id": "alignment",
