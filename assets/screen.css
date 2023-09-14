@@ -7199,3 +7199,6 @@ transform: scale(1.1);
 	transform: rotate(135deg);
 }
 /* issue fix end */
+.instaxtimg::before{
+  content:unset;
+}
