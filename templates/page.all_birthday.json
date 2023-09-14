@@ -268,7 +268,7 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "number-photo-collages",
-        "limit": 5,
+        "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Personalised Number collage",
