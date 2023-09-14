@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "50TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "50TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -289,7 +289,7 @@
         "9fa23f9c-3c9f-43a8-8a33-626decd9ab25"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "Personalised 50th Birthday Banners",
         "html": "",
         "main_product": "",
@@ -380,6 +380,7 @@
         "28541412-a93d-4d51-9a0c-9539a4f1a78a"
       ],
       "settings": {
+        "bannerid3": "framegifts",
         "right_text": "50th Photo CollagesCombining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "50th-birthday-sentiment-gift-frame",
         "main2_product": "happy-50th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
