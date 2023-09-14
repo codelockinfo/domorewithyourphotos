@@ -15,11 +15,11 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Couch3.jpg",
             "layout": "background",
-            "image_width": 50,
-            "overlay_opacity": 5,
-            "color_palette": "light_gradient",
+            "image_width": 60,
+            "overlay_opacity": 45,
+            "color_palette": "light",
             "text_position": "align-top text-end",
-            "title": "How can we help you?",
+            "title": "Do you have a question?",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -31,26 +31,26 @@
             "enable_custom_subtext_styling": false,
             "subtitle_color_palette": "black",
             "subtitle_weight": "400",
-            "text": "<p>Give your customers more details about your service.<\/p>",
+            "text": "<p>We are here to help<\/p>",
             "enable_custom_font_styling": false,
             "font_size": "16px",
-            "first_link_text": "Button",
-            "first_link_url": "shopify:\/\/collections\/all",
+            "first_link_text": "",
+            "first_link_url": "",
             "first_button_color_palette": "accent",
             "first_button_styling": "fill",
             "first_show_link": false,
-            "second_link_text": "Button",
-            "second_link_url": "shopify:\/\/collections\/all",
+            "second_link_text": "",
+            "second_link_url": "",
             "second_button_color_palette": "accent",
             "second_button_styling": "fill",
-            "second_show_link": false
+            "second_show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Couch2Amobile.jpg"
           }
         }
       },
       "block_order": [
         "slide_1"
       ],
-      "disabled": true,
       "settings": {
         "width": "boxed",
         "height": "s",
@@ -100,7 +100,7 @@
           "type": "button",
           "settings": {
             "link_text": "Help",
-            "link_url": "\/",
+            "link_url": "",
             "button_color_palette": "accent",
             "button_style": "fill"
           }
@@ -111,6 +111,7 @@
         "template--19423284691274__aa7ceb16-8dd9-4057-957e-567d95b064e3-content-1",
         "template--19423284691274__aa7ceb16-8dd9-4057-957e-567d95b064e3-button-1"
       ],
+      "disabled": true,
       "custom_css": [
         "[data-whatin=\"mouse\"] .link-btn a:hover {animation: none !important;}"
       ],
@@ -213,6 +214,7 @@
         },
         "b8774408-fd65-4d42-865e-40eb5da3e9ee": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Company",
             "placeholder": "Company",
@@ -280,6 +282,7 @@
       "blocks": {
         "18ebb386-ad40-4c3f-8386-2c45cb1a6cb2": {
           "type": "information",
+          "disabled": true,
           "settings": {
             "color_palette": "light",
             "title": "Account details",
@@ -364,7 +367,7 @@
     "section-google-maps": {
       "type": "section-google-maps",
       "settings": {
-        "google_maps_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2800.4613648351315!2d-75.69569834823506!3d45.420200278997804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0502f07d210b%3A0xa1502f7f1d25c118!2sShopify!5e0!3m2!1snl!2snl!4v1653470436404!5m2!1snl!2snl\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "google_maps_iframe": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2309.148205137116!2d-8.445891121998592!3d54.63660837269147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485f1a5afe45221f%3A0x14b10bb08810cbce!2sDomore.ie%20(McGee's%20Photocentre%2C%20Killybegs!5e0!3m2!1sen!2sie!4v1694685201012!5m2!1sen!2sie\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
