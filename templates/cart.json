@@ -22,7 +22,8 @@
       ],
       "custom_css": [
         "ul.l4pm.text-center.form-group {display: none;}",
-        "h2 {color: #b41717 !important;}"
+        "h2 {color: #b41717 !important;}",
+        ".form-cart .bold_cart_edit_button{width:unset;}"
       ],
       "settings": {
         "title_size": "h2",
