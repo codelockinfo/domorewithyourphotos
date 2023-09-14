@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "e13cc259-bd7b-4a72-91fa-1cbd49d342c4": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "0bc4cef9-5960-4b11-9956-bcc5f0436370": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mobile_Selfie_Picture.jpg",
+            "top_heading": "",
+            "heading": "Give the Selfie of Memories",
+            "html": "With a Party Selfie framed Gift, Party selfie frame. This Party is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#photoalbum",
+            "btn_text": "FRAMES & PHOTOALBUMS",
+            "btn_id1": "#gifts",
+            "btn_text1": "FRAMED GIFTS",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "0bc4cef9-5960-4b11-9956-bcc5f0436370"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -76,11 +108,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "c0a023f4-d2b4-4261-a9b4-9536e08bab55": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
-        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "c0a023f4-d2b4-4261-a9b4-9536e08bab55"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -210,6 +251,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid2": "banner",
         "title": "Party Selfie Frame",
         "html": "",
         "main_product": "",
@@ -350,7 +392,7 @@
         "template--19517682778442__ce63145b-14b6-48c1-bb97-70c250026268-buttons-1"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "photoalbum",
         "image": "shopify:\/\/shop_images\/SFInstagram02a2.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -422,6 +464,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid3": "gifts",
         "right_text": "Party Frame Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "gold-graduation-personalised-selfie-frame",
         "main2_product": "gold-graduation-personalised-selfie-frame"
@@ -502,6 +545,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "e13cc259-bd7b-4a72-91fa-1cbd49d342c4",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
