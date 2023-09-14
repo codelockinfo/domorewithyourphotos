@@ -167,11 +167,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "0826ac82-27ce-44de-bb3b-b9a94d864128": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "b032c477-48a4-4d73-9a91-4e4ad4a1aefa",
-        "9b2e6b7a-0cc6-42a3-9b4e-1638de165e43"
+        "9b2e6b7a-0cc6-42a3-9b4e-1638de165e43",
+        "0826ac82-27ce-44de-bb3b-b9a94d864128"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -257,6 +266,7 @@
         "62de808f-6fb6-45b1-8634-b6dad780ed48"
       ],
       "settings": {
+        "content_id": "frames",
         "alignment": "center",
         "compact": false,
         "title": "Shop by Occasion",
@@ -443,6 +453,7 @@
         "b5847921-a148-4201-90f0-1c483aa7a12c"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "Personalised Banners",
         "html": "This Is Your Life Photo Collage Banner",
         "main_product": "",
