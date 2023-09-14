@@ -7202,3 +7202,8 @@ transform: scale(1.1);
 .instaxtimg::before{
   content:unset;
 }
+@media only screen and (min-width: 1001px) {
+#header-outer #nav ul li.sub ul {
+	max-height: 400px !important;
+}
+}
