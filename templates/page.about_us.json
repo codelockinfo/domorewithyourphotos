@@ -1,5 +1,51 @@
 {
   "sections": {
+    "1511ff3c-2735-42af-aa5a-b5070bd450b6": {
+      "type": "section-usp-bar",
+      "blocks": {
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/about-us\" title=\"https:\/\/domore.ie\/pages\/about-us\"><strong>Our Story<\/strong><\/a><\/p>"
+          }
+        },
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-2": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/services\" title=\"https:\/\/domore.ie\/pages\/services\"><strong>What We Do<\/strong><\/a><\/p>"
+          }
+        },
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-3": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/domore-ie-reviews\" title=\"https:\/\/domore.ie\/pages\/domore-ie-reviews\"><strong>What Are People Saying  About Us<\/strong><\/a><\/p>"
+          }
+        },
+        "908e5f0f-eff6-4848-94b5-c2354fc82af4": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/contact-us\" title=\"https:\/\/domore.ie\/pages\/contact-us\"><strong>Contact  Us<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-1",
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-2",
+        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-3",
+        "908e5f0f-eff6-4848-94b5-c2354fc82af4"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "rows",
+        "autoplay": true,
+        "autoplay_seconds": 1,
+        "show_arrows": true,
+        "spacing_desktop": -300,
+        "spacing_mobile": -210,
+        "fix_zindex": 0
+      }
+    },
     "breadcrumbs": {
       "type": "breadcrumbs",
       "disabled": true,
@@ -383,62 +429,16 @@
         "Videocontent": "Regards",
         "Videocontent1": "Declan & Co"
       }
-    },
-    "1511ff3c-2735-42af-aa5a-b5070bd450b6": {
-      "type": "section-usp-bar",
-      "blocks": {
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-1": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/about-us\" title=\"https:\/\/domore.ie\/pages\/about-us\"><strong>Our Story<\/strong><\/a><\/p>"
-          }
-        },
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-2": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/services\" title=\"https:\/\/domore.ie\/pages\/services\"><strong>What We Do<\/strong><\/a><\/p>"
-          }
-        },
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-3": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/domore-ie-reviews\" title=\"https:\/\/domore.ie\/pages\/domore-ie-reviews\"><strong>What Are People Saying  About Us<\/strong><\/a><\/p>"
-          }
-        },
-        "908e5f0f-eff6-4848-94b5-c2354fc82af4": {
-          "type": "usp",
-          "settings": {
-            "usp": "<p><a href=\"https:\/\/domore.ie\/pages\/contact-us\" title=\"https:\/\/domore.ie\/pages\/contact-us\"><strong>Contact  Us<\/strong><\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-1",
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-2",
-        "template--19486166712650__1511ff3c-2735-42af-aa5a-b5070bd450b6-usp-3",
-        "908e5f0f-eff6-4848-94b5-c2354fc82af4"
-      ],
-      "settings": {
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "rows",
-        "autoplay": true,
-        "autoplay_seconds": 1,
-        "show_arrows": true,
-        "spacing_desktop": -300,
-        "spacing_mobile": -210,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
+    "1511ff3c-2735-42af-aa5a-b5070bd450b6",
     "breadcrumbs",
     "7c5b0a7f-4a11-48b1-9d09-e763ef647d09",
     "166005794226b48f03",
     "16600579701b9ea466",
     "main-page",
     "45d56185-372d-4b7a-a151-5d0aacdb90ce",
-    "d665dfc1-2b95-4c77-988b-0b5c0e3088fe",
-    "1511ff3c-2735-42af-aa5a-b5070bd450b6"
+    "d665dfc1-2b95-4c77-988b-0b5c0e3088fe"
   ]
 }
