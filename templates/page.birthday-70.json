@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "70TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "70TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -282,7 +282,7 @@
         "5779f67e-67c2-43d8-be8d-636eaa654914"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "70th Birthday Personalised Party Banners",
         "html": "",
         "main_product": "",
@@ -365,6 +365,7 @@
         "83294814-b9d8-49a2-94a3-b3dfee4c0559"
       ],
       "settings": {
+        "bannerid3": "framegifts",
         "right_text": "70th Photo CollagesCombining all your favourite photos on one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person life acheivements of best bits and usually bring a tear to thier eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "70th-birthday-framed-photo-collage",
         "main2_product": "happy-70th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
