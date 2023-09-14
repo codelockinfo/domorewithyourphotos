@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "60TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "60TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -296,7 +296,7 @@
         "ad47ce48-efdb-4ad9-8f57-57e77e43a584"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "60th Birthday Personalised Banners",
         "html": "",
         "main_product": "",
@@ -371,6 +371,7 @@
         "d4e5eee4-860b-495c-80e9-5b16dc238b55"
       ],
       "settings": {
+        "bannerid3": "framegifts",
         "right_text": "60th Photo CollagesCombining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "60th-birthday-framed-photo-collage",
         "main2_product": "happy-60th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
