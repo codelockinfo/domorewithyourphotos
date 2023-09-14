@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "20TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "20TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -177,6 +177,7 @@
         "4eb3840e-ce2a-49a6-ba90-f163e299963c"
       ],
       "settings": {
+        "bannerid2": "photobanner",
         "title": "20th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -243,6 +244,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
+        "bannerid3": "framegifts",
         "right_text": "20th Wedding Anniversaries Photo Collages Combining all the couples favorite photos in one frame or canvas is the perfect way to cherish thier memories. They make fantastic birthday anniversary gifts as they can put on show, a couples' life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
         "main_product": "20th-wedding-anniversary-photo-collage-on-canvas",
         "main2_product": "20th-wedding-anniversary-photo-collage-wall-art"
