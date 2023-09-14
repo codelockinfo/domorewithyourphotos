@@ -115,9 +115,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "babyphoto",
+            "btn_id": "#babyphoto",
             "btn_text": "TRADITIONAL BABY PHOTO",
-            "btn_id1": "weddingphoto",
+            "btn_id1": "#weddingphoto",
             "btn_text1": "TRADITIONAL WEDDING PHOTO",
             "btn_id2": "",
             "btn_text2": ""
