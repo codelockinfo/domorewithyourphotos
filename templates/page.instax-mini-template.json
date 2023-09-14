@@ -38,7 +38,7 @@
     "c2fbc570-8ba2-40ca-b0cf-a09eb98043e3": {
       "type": "instax_image_text",
       "custom_css": [
-        "[data-whatin=mouse] a:hover{color:#fff !important;}"
+        "a.button.altcolour:hover {color: #fff !important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pic_hero_main.png",
