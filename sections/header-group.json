@@ -246,7 +246,8 @@
       ],
       "custom_css": [
         "ul li a {font-size: 16px !important ;}",
-        ".l4ft li:not(.inline) img {object-fit: contain !important;}"
+        ".l4ft li:not(.inline) img {object-fit: contain !important;}",
+        "#nav > ul > li > ul ul li, #nav-bar > ul > li > ul ul li{padding-bottom: 10px;}"
       ],
       "settings": {
         "layout": "layout_4",
