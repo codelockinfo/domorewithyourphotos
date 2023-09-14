@@ -191,7 +191,7 @@
         "7b3c207f-e96f-4d47-bedb-2f798844f9be"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "70th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -258,8 +258,8 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "bannerid3": "gifts",
-        "right_text": "<p>70th Wedding anniversary Photo Collages combining all their  favourite photos in one frame or canvas is the perfect way to cherish their lifetime memories. <\/p>They make fantastic anniversary gifts as they can put on show, a couples' life achievements or best bits so far and they usually bring a tear to their eye  (in a good way)",
+        "bannerid3": "framegifts",
+        "right_text": "70th Wedding anniversary Photo Collages combining all their  favourite photos in one frame or canvas is the perfect way to cherish their lifetime memories. They make fantastic anniversary gifts as they can put on show, a couples' life achievements or best bits so far and they usually bring a tear to their eye  (in a good way)",
         "main_product": "our-life-photos-framed-photo-collage-anniversary-gift",
         "main2_product": "personalised-wedding-picture-frame"
       }
