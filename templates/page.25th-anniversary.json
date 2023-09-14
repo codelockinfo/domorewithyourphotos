@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "25TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "25TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -191,7 +191,7 @@
         "44dbb300-471f-4be5-83bc-4781fb185079"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "25th Silver Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -258,8 +258,8 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "offer": "gifts",
-        "right_text": "<p>25th Wedding anniversary Photo Collages Combining all their favourite photos in one frame or canvas is the perfect way to cherish memories. <\/p><p>They make fantastic anniversary y gifts as they can put on show, a couples's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).<\/p>",
+        "bannerid3": "framegifts",
+        "right_text": "25th Wedding anniversary Photo Collages Combining all their favourite photos in one frame or canvas is the perfect way to cherish memories. They make fantastic anniversary y gifts as they can put on show, a couples's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
         "main_product": "25th-silver-wedding-anniversary-sentiment",
         "main2_product": "photo-collage-engagement-personalised-banner"
       }
