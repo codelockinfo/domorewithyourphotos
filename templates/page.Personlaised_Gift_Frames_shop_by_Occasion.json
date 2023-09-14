@@ -35,6 +35,12 @@
         "spacing_mobile": 30
       }
     },
+    "bf6dab06-f3f8-4625-bffa-f88387ed18e1": {
+      "type": "anniversary_banner",
+      "disabled": true,
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -76,11 +82,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "d9658866-dabc-42ba-a6fa-e4fa3d3c9724": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
-        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "d9658866-dabc-42ba-a6fa-e4fa3d3c9724"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -171,6 +186,7 @@
         "3a28c4f6-a05e-4645-b61c-8761c8d779cd"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "Personalised Gifts Frames",
         "html": "",
         "main_product": "",
@@ -246,6 +262,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid3": "gifts",
         "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "18th-birthday-framed-photo-collage",
         "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
@@ -286,6 +303,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "bf6dab06-f3f8-4625-bffa-f88387ed18e1",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
     "bde49da4-efb9-4699-b4d8-5b292895eb4d",
