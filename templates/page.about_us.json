@@ -37,9 +37,9 @@
       "settings": {
         "color_palette": "white",
         "overlay_opacity": 100,
-        "layout": "rows",
+        "layout": "slider",
         "autoplay": true,
-        "autoplay_seconds": 1,
+        "autoplay_seconds": 3,
         "show_arrows": true,
         "spacing_desktop": -300,
         "spacing_mobile": -210,
