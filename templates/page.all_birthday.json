@@ -205,7 +205,7 @@
       "settings": {
         "bannerid": "MostPopular",
         "collection": "most-popular-personalised-gifts-for-birthdays",
-        "limit": 8,
+        "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Most Popular Birthday Gifts",
@@ -221,7 +221,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
@@ -264,6 +264,37 @@
         "fix_zindex": 0
       }
     },
+    "7f059181-4b54-4b09-9eec-bbcca60d4ae6": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "number-photo-collages",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised Number collage",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Fill The frame With Their Life's Story<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
@@ -285,7 +316,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All designs can be done to suit any birthday<\/p>",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
@@ -317,7 +348,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All designs can be done to suit any Birthday<\/p>",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "View all",
@@ -328,19 +359,18 @@
         "fix_zindex": 0
       }
     },
-    "819a580b-20b2-40ae-922e-a97961402c65": {
-      "type": "section_feature_collection_grid",
+    "b4b6da97-a6f9-427d-8c86-e6d088c68d73": {
+      "type": "section-featured-collection",
       "settings": {
-        "bannerid": "birthdayMugs",
         "collection": "personalised-birthday-gifts-on-mugs",
-        "limit": 8,
+        "limit": 5,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Birthday Mugs",
+        "title": "Personalised Birthday Mugs",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -349,7 +379,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All designs can be done to suit any birthday<\/p>",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
@@ -382,9 +412,10 @@
     "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
+    "7f059181-4b54-4b09-9eec-bbcca60d4ae6",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
     "83771654-9371-4b9c-9d4b-4d883b88c9a5",
-    "819a580b-20b2-40ae-922e-a97961402c65",
+    "b4b6da97-a6f9-427d-8c86-e6d088c68d73",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
