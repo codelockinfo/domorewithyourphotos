@@ -79,6 +79,7 @@
       "block_order": [
         "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -501,6 +502,7 @@
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-1",
         "template--19460186374474__d375c9b2-92e9-42ee-a210-8e4ff7079572-image-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".no-mobile .l4ft.hover-out > li:after {background-color: unset !important;}",
         "img {object-fit: fill !important;}",
@@ -726,7 +728,7 @@
       ],
       "custom_css": [
         "img {object-fit: fill !important;}",
-        "[data-whatin=mouse] .link-btn a:hover {animation: none !important;}",
+        "[data-whatin=\"mouse\"] .link-btn a:hover {animation: none !important;}",
         "@media screen and (max-width: 760px) {.m6as > div {align-items: center; text-align: center; }}"
       ],
       "settings": {
@@ -954,6 +956,7 @@
         "h2.w900.text-center.align-center.ff-secondary {margin-top: 2%;}"
       ],
       "settings": {
+        "content_id": "frames",
         "alignment": "center",
         "compact": false,
         "title": "Pricelist",
