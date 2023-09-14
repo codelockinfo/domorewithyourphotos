@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "60TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "60TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -177,7 +177,7 @@
         "4eb3840e-ce2a-49a6-ba90-f163e299963c"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "60th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -236,8 +236,8 @@
         "2bc58445-1e65-40f6-95c0-ddb5227aac18"
       ],
       "settings": {
-        "offer": "gifts",
-        "right_text": "<p>60th Wedding anniversaries Photo Collages Combining all their favorite photos in one frame or canvas is the perfect way to cherish your memories.<\/p> They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
+        "bannerid3": "framegifts",
+        "right_text": "60th Wedding anniversaries Photo Collages Combining all their favorite photos in one frame or canvas is the perfect way to cherish your memories. They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
         "main_product": "our-life-photos-framed-photo-collage-anniversary-gift",
         "main2_product": "traditional-wedding-photo-album-pearl-series"
       }
