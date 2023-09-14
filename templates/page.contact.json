@@ -13,11 +13,12 @@
         "slide_1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Couch3.jpg",
             "layout": "background",
             "image_width": 50,
-            "overlay_opacity": 0,
+            "overlay_opacity": 5,
             "color_palette": "light_gradient",
-            "text_position": "text-left",
+            "text_position": "align-top text-end",
             "title": "How can we help you?",
             "title_font": "primary",
             "title_size": "h2",
@@ -111,7 +112,7 @@
         "template--19423284691274__aa7ceb16-8dd9-4057-957e-567d95b064e3-button-1"
       ],
       "custom_css": [
-        "[data-whatin=mouse] .link-btn a:hover {animation: none !important;}"
+        "[data-whatin=\"mouse\"] .link-btn a:hover {animation: none !important;}"
       ],
       "settings": {
         "color_palette": "light",
