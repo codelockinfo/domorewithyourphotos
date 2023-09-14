@@ -314,7 +314,7 @@
           "settings": {
             "color_palette": "light_2",
             "title": "Do More With Your Pictures",
-            "text": "<p>Give your customer more details about your online store. <\/p>",
+            "text": "",
             "show_login_links": false,
             "show_shop_address": true,
             "show_maps_url": true,
