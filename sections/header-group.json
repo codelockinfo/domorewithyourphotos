@@ -290,7 +290,7 @@
         "menu_font_weight": "400",
         "menu_font_size": 16,
         "menu_letter_spacing": 0,
-        "menu_items_limit": 5,
+        "menu_items_limit": 20,
         "main_menu_show_lines": true,
         "menu_subs_font": "secondary",
         "enable_menu_subs_font_size": false,
