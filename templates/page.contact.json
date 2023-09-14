@@ -18,7 +18,7 @@
             "image_width": 60,
             "overlay_opacity": 45,
             "color_palette": "light",
-            "text_position": "align-top text-end",
+            "text_position": "align-top text-center",
             "title": "Do you have a question?",
             "title_font": "primary",
             "title_size": "h2",
