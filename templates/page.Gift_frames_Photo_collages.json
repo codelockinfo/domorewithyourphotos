@@ -35,6 +35,37 @@
         "spacing_mobile": 30
       }
     },
+    "9e9edacc-35f4-4493-9690-ae76fb6f4fb3": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "fc4cd102-2f79-4058-831f-65502795581c": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/frame01.jpg",
+            "top_heading": "",
+            "heading": "Give the Gift of Memories",
+            "html": "With a Photo framed Gift, Gift  Photo Banner or selfie frame. This Day is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
+            "button_text": "",
+            "button_link": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_text_3": "",
+            "button_link_3": "",
+            "btn_id": "#frames",
+            "btn_text": "FRAMED GIFTS",
+            "btn_id1": "#gifts",
+            "btn_text1": "GIFTS FOR YOU",
+            "btn_id2": "",
+            "btn_text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "fc4cd102-2f79-4058-831f-65502795581c"
+      ],
+      "settings": {
+      }
+    },
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e": {
       "type": "birthday_banner",
       "blocks": {
@@ -55,6 +86,7 @@
       "block_order": [
         "39b16584-9986-4fc0-b814-6a11e219f5be"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 767px) {.btn_section {display: flex; align-items: center; justify-content: center; max-width: unset; }}"
       ],
@@ -110,11 +142,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "b7c8b907-179e-4c95-b244-afa6115b6feb": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
-        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "b7c8b907-179e-4c95-b244-afa6115b6feb"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -294,6 +335,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid2": "banner",
         "title": "Gifts Frame Personalised Banners",
         "html": "",
         "main_product": "",
@@ -372,6 +414,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid3": "gifts",
         "right_text": "18th Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "18th-birthday-framed-photo-collage",
         "main2_product": "happy-18th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
@@ -716,7 +759,7 @@
         "template--19510779445578__7efdb952-031e-42a4-9439-4bc041272a11-buttons-1"
       ],
       "settings": {
-        "imagetextid": "",
+        "imagetextid": "gifts",
         "image": "shopify:\/\/shop_images\/Frames_and_Photo_Albums.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
@@ -736,6 +779,7 @@
   "order": [
     "breadcrumbs",
     "main-page",
+    "9e9edacc-35f4-4493-9690-ae76fb6f4fb3",
     "fd922cb5-82f0-41e4-b65b-3536dd93ed0e",
     "a6da7e90-f65f-4bfa-b1ea-1c8b3113a105",
     "0f0b0d60-6981-43e7-8f19-5f1bc9bf08e5",
