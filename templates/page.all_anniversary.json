@@ -204,7 +204,7 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Most",
-        "collection": "most-popular-personalised-gifts-for-anniversaries",
+        "collection": "most-popular-personalised-gifts-for-anniversaries-1",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
@@ -221,7 +221,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "",
+        "text": "<p>All Products can be done for any Annniversary<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
