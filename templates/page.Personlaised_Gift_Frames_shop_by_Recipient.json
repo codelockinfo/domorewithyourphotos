@@ -76,11 +76,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "9bae6b36-e9c7-492d-9060-46a839b7393b": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
-        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "9bae6b36-e9c7-492d-9060-46a839b7393b"
       ],
       "settings": {
         "title": "HOW WE WORK",
@@ -164,6 +173,7 @@
         "ee41bb2f-d64e-480f-9c5f-7fd11faa89a7"
       ],
       "settings": {
+        "bannerid2": "banner",
         "title": "Personalised Banners",
         "html": "",
         "main_product": "",
@@ -242,6 +252,7 @@
       ],
       "disabled": true,
       "settings": {
+        "bannerid3": "gifts",
         "right_text": "Personalised Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "gold-celebration-personalised-birthday-selfie-frame",
         "main2_product": "its-a-blue-birthday-personalised-birthday-selfie-frame"
@@ -361,6 +372,7 @@
         ".ff-primary {margin-top: 3%;}"
       ],
       "settings": {
+        "content_id": "frames",
         "alignment": "center",
         "compact": false,
         "title": "Shop by Recipient",
