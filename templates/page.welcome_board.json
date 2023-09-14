@@ -293,6 +293,7 @@
         },
         "25e9d2b4-0744-4c21-800a-c445f5a6df47": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
             "button_link": "shopify:\/\/collections\/18th-birthday-gift-ideas"
@@ -300,6 +301,7 @@
         },
         "d5261411-1feb-4925-8934-d9c0d688a282": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/21st.jpg",
             "button_link": "shopify:\/\/pages\/21st-birthday-framed-gifts-personalised-banners"
@@ -307,6 +309,7 @@
         },
         "5a080e0c-2b77-48d0-a2e0-17283c52ff0d": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/30th.jpg",
             "button_link": "shopify:\/\/collections\/30th-birthday-framed-gifts-personalised-photo-banners"
@@ -314,6 +317,7 @@
         },
         "dad3e4d6-117b-40e1-b343-595d3a69c77b": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/40th.jpg",
             "button_link": "shopify:\/\/collections\/40th-birthday-framed-gifts-personalised-photo-banners"
@@ -321,6 +325,7 @@
         },
         "59d051e0-0c6e-4599-8593-3b5a31f77b69": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/50th.jpg",
             "button_link": "shopify:\/\/collections\/50th-birthday-framed-gifts-personalised-photo-banners"
@@ -328,6 +333,7 @@
         },
         "648b8059-331c-4af7-9169-ef5d572354cc": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/60th.jpg",
             "button_link": "shopify:\/\/collections\/60th-birthday-framed-gifts-personalised-photo-banners"
@@ -335,6 +341,7 @@
         },
         "1d5ea53c-c3f8-49b3-b5ba-1e4e551980fa": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/70th.jpg",
             "button_link": "shopify:\/\/collections\/70th-birthday-framed-gifts-personalised-photo-banners"
@@ -342,6 +349,7 @@
         },
         "2c05e525-32b6-45e1-be4c-e1991012ddfc": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/80th.jpg",
             "button_link": "shopify:\/\/collections\/80th-birthday-framed-gifts-personalised-photo-banners"
@@ -349,6 +357,7 @@
         },
         "d7a32c75-5b83-42df-a32c-cd60756de1c6": {
           "type": "collection_block",
+          "disabled": true,
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/90th.jpg",
             "button_link": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
@@ -383,6 +392,101 @@
         "textarea1": "",
         "show_text_over_image": false,
         "show_number_products": false,
+        "alignment": "center center",
+        "background_color": "#f9f9f9"
+      }
+    },
+    "a9a0cbc6-749f-4ca1-9fc4-2c3c73cc786d": {
+      "type": "custom-slider",
+      "blocks": {
+        "351c2079-9565-428a-b185-6b9f5426a69a": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/18tha.jpg",
+            "button_link": "shopify:\/\/pages\/18th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "1f7b7f79-16fb-416e-9fcf-5f231610b6d1": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/21st.jpg",
+            "button_link": "shopify:\/\/pages\/21st-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "6d799bb4-3b9b-4e5a-b9e5-16df784f02ad": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/30th.jpg",
+            "button_link": ""
+          }
+        },
+        "4f54acae-9832-49f6-91be-23beccbfecd6": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/40th.jpg",
+            "button_link": "shopify:\/\/pages\/40th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "cb26547e-d872-41aa-81cf-601a964d66f3": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/50th.jpg",
+            "button_link": "shopify:\/\/pages\/50th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "be91790b-c152-497d-aa2f-7d3f056a831a": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/60th.jpg",
+            "button_link": "shopify:\/\/pages\/60th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "9f000740-ab49-49cc-905d-50dc162fd623": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/70th.jpg",
+            "button_link": "shopify:\/\/pages\/70th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "6a8ce973-2baa-41ed-b27a-66822a225323": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/80th.jpg",
+            "button_link": "shopify:\/\/pages\/80th-birthday-framed-gifts-personalised-banners"
+          }
+        },
+        "85e7d3c5-4054-4eaa-a730-ff46034d5019": {
+          "type": "collection_block",
+          "settings": {
+            "imgs2": "shopify:\/\/shop_images\/90th.jpg",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "351c2079-9565-428a-b185-6b9f5426a69a",
+        "1f7b7f79-16fb-416e-9fcf-5f231610b6d1",
+        "6d799bb4-3b9b-4e5a-b9e5-16df784f02ad",
+        "4f54acae-9832-49f6-91be-23beccbfecd6",
+        "cb26547e-d872-41aa-81cf-601a964d66f3",
+        "be91790b-c152-497d-aa2f-7d3f056a831a",
+        "9f000740-ab49-49cc-905d-50dc162fd623",
+        "6a8ce973-2baa-41ed-b27a-66822a225323",
+        "85e7d3c5-4054-4eaa-a730-ff46034d5019"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 640px) {button:before {left: -7px; }}",
+        ".categories-heading h3 {margin-top: 25px; margin-bottom: 0;}",
+        "h3 {text-align: center !important;}",
+        ".col-sm-12.col-xs-12.categories-heading {padding-bottom: 0;}",
+        "@media only screen and (min-width: 768px) {.custom-slider .collection_blocks {padding: 10px; }}"
+      ],
+      "settings": {
+        "title": "Birthday Banners & Framed Gifts",
+        "textarea1": "",
+        "show_text_over_image": false,
+        "show_number_products": true,
+        "section_layout": "slider",
         "alignment": "center center",
         "background_color": "#f9f9f9"
       }
@@ -679,6 +783,7 @@
     "e107c66a-cb95-468d-aa6e-da3fdeb81983",
     "58de30ed-2d4d-4225-be4d-2017a2c1a821",
     "0d32ab96-1dbe-4ee6-b0f6-65c993bb8a46",
+    "a9a0cbc6-749f-4ca1-9fc4-2c3c73cc786d",
     "1d219c60-9888-433d-a5ba-fff2bfb18ca5",
     "5f9fc417-836a-48af-b6be-421a6931ea93",
     "2dff711a-0c20-491f-bccb-b88230f6738e"
