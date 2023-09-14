@@ -51,9 +51,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "40TH PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "40TH FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -177,7 +177,7 @@
         "4eb3840e-ce2a-49a6-ba90-f163e299963c"
       ],
       "settings": {
-        "bannerid2": "banner",
+        "bannerid2": "photobanner",
         "title": "40th  Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -244,8 +244,8 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "offer": "gifts",
-        "right_text": "<p>40th Wedding Anniversary  Photo Collages combining all their favourite photos in one frame or canvas is the perfect way to cherish your memories. <\/p>They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
+        "bannerid3": "framegifts",
+        "right_text": "40th Wedding Anniversary  Photo Collages combining all their favourite photos in one frame or canvas is the perfect way to cherish your memories. They make fantastic anniversary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way).",
         "main_product": "ruby-anniversary-this-is-your-life-sentiment",
         "main2_product": "40th-ruby-anniversary-framed-photo-collage"
       }
