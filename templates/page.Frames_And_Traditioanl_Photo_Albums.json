@@ -172,11 +172,20 @@
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
+        },
+        "b6f89a9f-803d-457a-921e-6c187bd0633a": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
         }
       },
       "block_order": [
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf",
-        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d"
+        "d29f9366-1b81-478a-bbb2-ff4c409d5a8d",
+        "b6f89a9f-803d-457a-921e-6c187bd0633a"
       ],
       "settings": {
         "title": "HOW WE WORK",
