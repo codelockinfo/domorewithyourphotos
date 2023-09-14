@@ -8,14 +8,14 @@
     endcapture
 -%}
 
-<article class="{% if section.settings.compact %}w940{% endif %}{% if section.settings.alignment == 'center' %} align-center text-center{% endif %}">
+<article class="{% if section.settings.compact %}w940{% endif %}{% if section.settings.alignment == 'center' %} align-center text-center{% endif %}"id="{{ section.settings.content_id }}">
   {%- if section.settings.title != blank -%}
     <{{ section.settings.title_size }} class="{{ title_classes }} ff-{{ section.settings.title_font }} {% if section.settings.enable_custom_text_styling %}text-palette-{{ section.settings.title_color_palette }} fw-{{ section.settings.title_weight }}{% endif %}{% if section.settings.subtitle != blank %} m0{% endif %}">{{ section.settings.title }}</{{ section.settings.title_size }}>
   {%- endif -%}
   {%- if section.settings.subtitle != blank -%}
     <{{ section.settings.subtitle_size }} class="{{ title_classes }} ff-{{ section.settings.subtitle_font }} {% if section.settings.enable_custom_subtext_styling %}text-palette-{{ section.settings.subtitle_color_palette }} fw-{{ section.settings.subtitle_weight }}{% endif %}">{{ section.settings.subtitle }}</{{ section.settings.subtitle_size }}>
   {%- endif -%}
-  <div class="m6tb btn" data-active-class="button-palette-{{ settings.active_tabs_color }}" style="font-size:{{ section.settings.font_size }};"id="{{ section.settings.content_id }}">
+  <div class="m6tb btn" data-active-class="button-palette-{{ settings.active_tabs_color }}" style="font-size:{{ section.settings.font_size }};">
     <nav class="strong">
       <ul{% if section.settings.alignment == 'center' %} class="text-center"{% endif %}>
         {%- for block in section.blocks -%}
