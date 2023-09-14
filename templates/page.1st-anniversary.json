@@ -75,9 +75,9 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#banner",
+            "btn_id": "#photobanner",
             "btn_text": "1ST PHOTO BANNERS",
-            "btn_id1": "#gifts",
+            "btn_id1": "#framegifts",
             "btn_text1": "1ST FRAMED GIFTS",
             "btn_id2": "",
             "btn_text2": ""
@@ -177,7 +177,7 @@
         "4eb3840e-ce2a-49a6-ba90-f163e299963c"
       ],
       "settings": {
-        "bannerid2": "banner111",
+        "bannerid2": "photobanner",
         "title": "1st Anniversary Personalised Banners",
         "html": "",
         "main_product": "",
@@ -252,7 +252,7 @@
         "91efe3ab-7124-4463-9a23-9064c1717a62"
       ],
       "settings": {
-        "bannerid3": "gifts",
+        "bannerid3": "framegifts",
         "right_text": "1st Wedding Anniversary Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories forever. They make fantastic anniverary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way). If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "first-year-12-month-year-photo-collage-wall-art-baby-gift",
         "main2_product": "always-and-forever-couples-personalised-photo-mug"
