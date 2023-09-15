@@ -75,6 +75,9 @@
 
     <!-- Your SDK code -->
     <script>
+       setTimeout(function(){
+  jQuery(".fb-customerchat.fb_invisible_flow.fb_iframe_widget span iframe").css('max-height','0px');    
+      }, 5000);
       window.fbAsyncInit = function() {
         FB.init({
           xfbml            : true,
