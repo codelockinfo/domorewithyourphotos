@@ -57,8 +57,12 @@
 		{% render 'sc-includes' %}
 		{% if template == 'product' and product.metafields.inventory.ShappifyHidden or product.type contains '_HIDDEN_' %}<meta name='robots' content='noindex'>{% endif %}
 		{{ settings.custom_script_for_head }}
+
 	</head>
-	<body class="template-{{ template.name | handle }}">	
+		<body class="{{ template | handleize }} template-{{ template | split: '.' | first }}" data-page-temp="{{ template }}">
+  <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5J6K8T"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  <!-- Messenger Chat plugin Code -->
     <div id="fb-root"></div>
 
