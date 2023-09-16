@@ -958,11 +958,11 @@
         "color_palette": "white",
         "overlay_opacity": 100,
         "layout": "image-left",
-        "width": "boxed",
+        "width": "wide",
         "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "text_position": "text-start",
+        "text_position": "align-top text-center",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
