@@ -382,7 +382,7 @@
         ".link-btn a:before {background: #d13540 !important;}"
       ],
       "settings": {
-        "collection": "most-popular-products",
+        "collection": "most-popular-framed-photo-collages-styles",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
