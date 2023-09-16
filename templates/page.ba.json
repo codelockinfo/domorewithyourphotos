@@ -880,43 +880,91 @@
         "fix_zindex": 0
       }
     },
-    "5f9fc417-836a-48af-b6be-421a6931ea93": {
-      "type": "section-image-comparison",
-      "custom_css": [
-        ".link-btn a:before {background-color: #d43342 !important; color: #fff !important; border: none !important;}",
-        ".image-compare {margin-bottom: 4%;}",
-        "h2 {margin-top: 25px;}"
+    "51ed5aea-e64e-48b1-95ca-3dda8a6aed65": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Give The Gift Of Memories",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>With A Framed Birthday Photo Collage<\/p>"
+          }
+        },
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-1": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Fill a frames with their lifetime memories",
+            "font_size": "16px"
+          }
+        },
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-2": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Sure to bring a tear to heir eye",
+            "font_size": "16px"
+          }
+        },
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-3": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Previews sent to your emial 24hours after ordering to ensure its perfect before printing",
+            "font_size": "16px"
+          }
+        },
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "See The Range",
+            "link_url_1": "shopify:\/\/pages\/personalised-birthday-gifts-and-photo-collages",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-title-1",
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-text-1",
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-1",
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-2",
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-3",
+        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-buttons-1"
       ],
       "settings": {
-        "image_before": "shopify:\/\/shop_images\/Landing_page_bitthday.png",
-        "drag_color_palette": "white",
-        "drag_direction": "horizontal",
-        "drag_position": 10,
-        "labels": true,
-        "label_before": "",
-        "label_after": "",
-        "text_alignment": "center",
-        "title": "Give The Gift Of Memories",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Bring a tear to their eye and present them with their history hidden  within our number collages<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Order Now",
-        "link_url": "shopify:\/\/collections\/number-photo-collages",
-        "button_color_palette": "accent",
-        "show_link": false,
+        "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/Landing_page76small.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
         "spacing_desktop": 50,
-        "spacing_mobile": 140,
+        "spacing_mobile": 30,
         "fix_zindex": 0
       }
     },
@@ -1010,94 +1058,6 @@
         "title3": "Personalised Birthday Gifts",
         "button_link2": "shopify:\/\/collections\/number-photo-collages"
       }
-    },
-    "51ed5aea-e64e-48b1-95ca-3dda8a6aed65": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Give The Gift Of Memories",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>With A framed Birthday Photo Collage<\/p>"
-          }
-        },
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Fill a frames with their lifetime memories",
-            "font_size": "16px"
-          }
-        },
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Sure to bring a tear to heir eye",
-            "font_size": "16px"
-          }
-        },
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Previews sent to your emial 24hours after ordering to ensure its perfect before printing",
-            "font_size": "16px"
-          }
-        },
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "See The Range",
-            "link_url_1": "shopify:\/\/pages\/personalised-birthday-gifts-and-photo-collages",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-title-1",
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-text-1",
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-1",
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-2",
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-usp-3",
-        "template--19486310007114__51ed5aea-e64e-48b1-95ca-3dda8a6aed65-buttons-1"
-      ],
-      "settings": {
-        "imagetextid": "",
-        "image": "shopify:\/\/shop_images\/Landing_page76small.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-left",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
@@ -1115,10 +1075,9 @@
     "0c3e6bfa-56c0-4a84-a945-729abd0fc3f8",
     "27ece943-d23b-49cb-93b5-471618751a6b",
     "00ee51b0-29ac-4a2b-aad0-3da75188f979",
-    "5f9fc417-836a-48af-b6be-421a6931ea93",
+    "51ed5aea-e64e-48b1-95ca-3dda8a6aed65",
     "bcc0e1a5-7243-4b3f-9fdc-cbd7130346d7",
     "680794df-a1be-4bd7-8a34-d9dd5052151c",
-    "43664164-a993-48a4-bd99-e45e63e40113",
-    "51ed5aea-e64e-48b1-95ca-3dda8a6aed65"
+    "43664164-a993-48a4-bd99-e45e63e40113"
   ]
 }
