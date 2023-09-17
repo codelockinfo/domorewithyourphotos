@@ -848,40 +848,6 @@
         "fix_zindex": 0
       }
     },
-    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2": {
-      "type": "section-featured-collection",
-      "custom_css": [
-        "@media (max-width: 767px) {h3.p0 a {line-height: 22px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }}"
-      ],
-      "settings": {
-        "collection": "just-print",
-        "limit": 21,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Put Your Photo On",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0": {
       "type": "allanniversary",
       "blocks": {
@@ -948,6 +914,40 @@
       "settings": {
         "tradinghead": "",
         "alignment": "middle"
+      }
+    },
+    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2": {
+      "type": "section-featured-collection",
+      "custom_css": [
+        "@media (max-width: 767px) {h3.p0 a {line-height: 22px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }}"
+      ],
+      "settings": {
+        "collection": "just-print",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Put Your Photo On",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     },
     "94727f6b-34dc-4de9-a9ab-2bde94909e0c": {
@@ -1146,8 +1146,8 @@
     "356e82f9-b1ba-4f35-8cd6-93a61aec3864",
     "d82593bb-5fb1-48f5-8b90-c6287ebbd8cb",
     "e4401d1a-bfe5-40c3-9622-4ff73e51cef4",
-    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
+    "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "94727f6b-34dc-4de9-a9ab-2bde94909e0c",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
