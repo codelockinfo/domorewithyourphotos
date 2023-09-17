@@ -527,7 +527,7 @@
       ],
       "settings": {
         "collection": "most-popular-framed-photo-collages-styles",
-        "limit": 8,
+        "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
@@ -558,7 +558,7 @@
       "type": "section-featured-collection",
       "settings": {
         "collection": "most-popular-party-banenrs",
-        "limit": 5,
+        "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Our Best Selling Personalised Banners",
