@@ -1101,6 +1101,37 @@
       ],
       "settings": {
       }
+    },
+    "bbcd08ff-e68b-4d9a-a186-7aeee33a3a32": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "most-popular-party-banenrs",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "aside",
+        "title": "Party Banners",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Best Selling for 2023<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1119,6 +1150,7 @@
     "94727f6b-34dc-4de9-a9ab-2bde94909e0c",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
-    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616"
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616",
+    "bbcd08ff-e68b-4d9a-a186-7aeee33a3a32"
   ]
 }
