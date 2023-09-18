@@ -175,7 +175,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script>
 
-
+setTimeout(function(){
  $('#fb-customer-chat iframe').on('load', function () {
             // Access the iframe's content window
             var iframeContentWindow = this.contentWindow;
@@ -188,6 +188,8 @@
                 }
             });
         });
+  
+},3000);
   
 	// $(document).on("click",".forCollapse",function(){
 	$(document).on("click",".plusicon",function(){
