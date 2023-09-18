@@ -207,6 +207,13 @@
             "product2": "30th-pearl-wedding-anniversary-photo-collage"
           }
         },
+        "1d975270-3fcb-47ca-9c2f-a8f18df74dc3": {
+          "type": "block",
+          "settings": {
+            "product": "30th-pearl-wedding-framed-photo-collage",
+            "product2": ""
+          }
+        },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
@@ -231,6 +238,7 @@
       },
       "block_order": [
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887",
+        "1d975270-3fcb-47ca-9c2f-a8f18df74dc3",
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46",
         "2bc58445-1e65-40f6-95c0-ddb5227aac18"
