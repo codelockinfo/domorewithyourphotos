@@ -7206,8 +7206,3 @@ transform: scale(1.1);
 	max-height: 400px !important;
 }
 }
-.fb_dialog_content,
-.fb_dialog_content iframe:first-child body div div:first-child{
-    background-color: red !important; /* Change to your desired color */
-    border-color: red !important; /* Change to your desired color */
-}
