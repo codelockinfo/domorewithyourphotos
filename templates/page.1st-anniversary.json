@@ -241,6 +241,20 @@
             "product": "our-anniversary-photo-slate",
             "product2": "personalised-first-dance-wedding-song-unique-wedding-gift-for-couple"
           }
+        },
+        "a7b54aa4-fc34-4032-9348-eb2ba5d52df6": {
+          "type": "block",
+          "settings": {
+            "product": "this-is-our-first-year-bubbled-framed-photo-collage",
+            "product2": "1st-wedding-anniversary-numbered-framed-photo-collage"
+          }
+        },
+        "cabd8e5a-5cdc-4f33-a6b6-6700dfb28d17": {
+          "type": "block",
+          "settings": {
+            "product": "",
+            "product2": ""
+          }
         }
       },
       "block_order": [
@@ -249,7 +263,9 @@
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58",
         "2bc58445-1e65-40f6-95c0-ddb5227aac18",
         "d4e5eee4-860b-495c-80e9-5b16dc238b55",
-        "91efe3ab-7124-4463-9a23-9064c1717a62"
+        "91efe3ab-7124-4463-9a23-9064c1717a62",
+        "a7b54aa4-fc34-4032-9348-eb2ba5d52df6",
+        "cabd8e5a-5cdc-4f33-a6b6-6700dfb28d17"
       ],
       "settings": {
         "bannerid3": "framegifts",
