@@ -7206,8 +7206,8 @@ transform: scale(1.1);
 	max-height: 400px !important;
 }
 }
-.fb_customer_chat_bounce_in_v2,
-.fb_customer_chat_bounce_in_v2 iframe {
+.fb_dialog_content,
+.fb_dialog_content iframe {
     background-color: red !important; /* Change to your desired color */
     border-color: red !important; /* Change to your desired color */
 }
