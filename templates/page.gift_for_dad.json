@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personlised Gift For New Babies",
+            "heading": "Personlised Gift For Dad",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -52,11 +52,11 @@
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
             "btn_id": "#gifts",
-            "btn_text": "Baby Gifts",
-            "btn_id1": "#slate",
-            "btn_text1": "Slate Baby",
-            "btn_id2": "#mugs",
-            "btn_text2": "Mugs For Baby"
+            "btn_text": "Gifts for Dad",
+            "btn_id1": "#mugs",
+            "btn_text1": "Mugs for Dad",
+            "btn_id2": "#frame",
+            "btn_text2": "Personalised Framed"
           }
         }
       },
@@ -204,11 +204,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "gifts",
-        "collection": "personalised-baby-gifts-frames",
+        "collection": "gifts-for-dad",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Baby Gifts",
+        "title": "Gifts for Dad",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -235,12 +235,12 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "slate",
-        "collection": "slate-baby",
+        "bannerid": "mugs",
+        "collection": "mugs-father",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Slate Baby",
+        "title": "Mugs for Dad",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -267,12 +267,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "mugs",
-        "collection": "mugs-baby",
+        "bannerid": "frame",
+        "collection": "personalised-framed-photo-collages-dad-or-grandad",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mugs For Baby",
+        "title": "Personalised Framed Photo collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -300,11 +300,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "",
-        "collection": "personalised-framed-photo-collages-for-baby-gifts",
+        "collection": "fathers-day-canvas-prints",
         "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Framed Photo Collages For Baby",
+        "title": "Canvas Prints",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
