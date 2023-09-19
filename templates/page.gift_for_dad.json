@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personlised Gifts For Weddings",
+            "heading": "Personalised Gifts For Friends",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#photocollages",
-            "btn_text": "Photo Collages",
+            "btn_id": "#Mug",
+            "btn_text": "Mugs for Friends",
             "btn_id1": "#Gifts",
-            "btn_text1": "Personalised Framed Gift",
-            "btn_id2": "#Framed",
-            "btn_text2": "Wedding  Frame"
+            "btn_text1": "Personalised Gift Framed",
+            "btn_id2": "",
+            "btn_text2": ""
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "photocollages",
-        "collection": "personalised-framed-photo-collages-for-anniversaries",
+        "bannerid": "Mug",
+        "collection": "mug-friend",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Framed Photo Collages For Wedding",
+        "title": "Mug for Friends",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -236,11 +236,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Gifts",
-        "collection": "personalised-framed-gifts-photo-collages-for-weddings",
+        "collection": "personalised-gift-frames-photo-collages-for-birthdays",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Framed Gift",
+        "title": "Personalised Gift Framed",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -267,12 +267,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Framed",
-        "collection": "personalised-framed-photo-collages-for-weddings",
+        "bannerid": "",
+        "collection": "mug-work",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Wedding  Frame Photo Collages",
+        "title": "Mugs For Work Colleagues",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -298,6 +298,7 @@
     },
     "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
+      "disabled": true,
       "settings": {
         "bannerid": "",
         "collection": "traditional-wedding-albums",
