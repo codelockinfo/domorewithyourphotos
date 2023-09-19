@@ -35,31 +35,184 @@
         "spacing_mobile": 30
       }
     },
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856": {
-      "type": "section-collection-list",
+    "7c3ec4f6-5adb-4997-89ad-350c64265907": {
+      "type": "anniversary_banner",
+      "blocks": {
+        "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
+            "top_heading": "",
+            "heading": "Personlised Gift For New Babies",
+            "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
+            "button_text": "Anniversary Photo banner",
+            "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
+            "button_text_2": "Anniversary banner",
+            "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
+            "button_text_3": "Anniversary Gifts",
+            "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
+            "btn_id": "#gifts",
+            "btn_text": "Baby Gifts",
+            "btn_id1": "#slate",
+            "btn_text1": "Slate Baby",
+            "btn_id2": "#mugs",
+            "btn_text2": "Mugs For Baby"
+          }
+        }
+      },
+      "block_order": [
+        "ec7bde64-b653-463f-85ee-ed39bfbf713e"
+      ],
       "settings": {
-        "collections": [
-          "fathers-day-photo-slates",
-          "slate-memorial",
-          "slate-extra",
-          "slate-communion-confirmation",
-          "slate-baby",
-          "slate-family",
-          "slate-father",
-          "slate-mother",
-          "personalised-wedding-gifts-on-slate",
-          "gifts-on-slate"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": false,
-        "fill_images": false,
-        "layout": "grid",
+      }
+    },
+    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3": {
+      "type": "birthday_work",
+      "blocks": {
+        "705a9d8a-1a9a-4336-9498-755e2939dc60": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "heading": "Order",
+            "html": "Preview Sent for every order within 24 hours"
+          }
+        },
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deadline.png",
+            "heading": "Day for Delivery",
+            "html": "1 - 2 Days for Delivery Nationwide with An Post"
+          }
+        },
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "heading": "Made For You",
+            "html": "All designs can be changed in any way to suit your requirements"
+          }
+        }
+      },
+      "block_order": [
+        "705a9d8a-1a9a-4336-9498-755e2939dc60",
+        "ed987ef7-0a61-4ae2-84b8-057c850a1107",
+        "a51dae4f-f36a-4378-8a47-99d40dc88c8e"
+      ],
+      "settings": {
+        "title": "HOW WE WORK",
+        "sub_title": ""
+      }
+    },
+    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413": {
+      "type": "select_anniversry",
+      "blocks": {
+        "bb0d5761-bf99-4e24-803b-e058def32a12": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/1st-anniversary",
+            "anniversaryname": "1st"
+          }
+        },
+        "e1f83384-f722-483b-9983-bed8b153fd34": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/10th-anniversary",
+            "anniversaryname": "10th"
+          }
+        },
+        "57b1224a-9dcc-4414-988d-3ffd395e8b12": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/20th-anniversary",
+            "anniversaryname": "20th"
+          }
+        },
+        "f76c21c4-47f2-4f44-b2fc-4699e318b962": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/25th-anniversary",
+            "anniversaryname": "25th"
+          }
+        },
+        "86d5dc71-f733-49c3-9419-e619ea1335e7": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/30th-anniversary",
+            "anniversaryname": "30th"
+          }
+        },
+        "999f7953-5d2b-44dc-86a6-e32115a5ef08": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/40th-anniversary",
+            "anniversaryname": "40th"
+          }
+        },
+        "d1c25a87-0464-4837-85db-233a9d193f3a": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/50th-anniversary",
+            "anniversaryname": "50th"
+          }
+        },
+        "babd70e7-79a6-4d7b-bccd-d780b5b656b1": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/60th-anniversary",
+            "anniversaryname": "60th"
+          }
+        },
+        "1a208171-2aeb-4b21-abd4-5f6abbc13d44": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/pages\/70th-anniversary",
+            "anniversaryname": "70th"
+          }
+        },
+        "cd7ee41b-e2ac-44e2-b926-9e778796ed39": {
+          "type": "Blog",
+          "settings": {
+            "anniversarylink": "shopify:\/\/collections\/banners-for-anniversaries",
+            "anniversaryname": "All"
+          }
+        }
+      },
+      "block_order": [
+        "bb0d5761-bf99-4e24-803b-e058def32a12",
+        "e1f83384-f722-483b-9983-bed8b153fd34",
+        "57b1224a-9dcc-4414-988d-3ffd395e8b12",
+        "f76c21c4-47f2-4f44-b2fc-4699e318b962",
+        "86d5dc71-f733-49c3-9419-e619ea1335e7",
+        "999f7953-5d2b-44dc-86a6-e32115a5ef08",
+        "d1c25a87-0464-4837-85db-233a9d193f3a",
+        "babd70e7-79a6-4d7b-bccd-d780b5b656b1",
+        "1a208171-2aeb-4b21-abd4-5f6abbc13d44",
+        "cd7ee41b-e2ac-44e2-b926-9e778796ed39"
+      ],
+      "custom_css": [
+        ".blogflex {margin-bottom: 2%;}",
+        ".blogbodr:hover {border-color: black; background: black; transition: all 0.5s; transform: scale(1.1);}",
+        "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
+        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
+      ],
+      "settings": {
+        "blogid": "Select Anniversary"
+      }
+    },
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "gifts",
+        "collection": "personalised-baby-gifts-frames",
+        "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Collection list",
+        "title": "Personalised Baby Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -68,48 +221,137 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
         "link_text": "",
-        "link_url": "shopify:\/\/collections",
         "button_color_palette": "accent",
         "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
     },
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d": {
-      "type": "allanniversary",
-      "blocks": {
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1": {
-          "type": "image",
-          "settings": {
-            "width": "half",
-            "link_url": "",
-            "text": "",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--19423283609930__538a1281-b0f3-4de3-8ba2-4ffc88fdb82d-image-1"
-      ],
-      "disabled": true,
+    "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
+      "type": "section_feature_collection_grid",
       "settings": {
-        "tradinghead": "",
-        "alignment": "middle"
+        "bannerid": "slate",
+        "collection": "slate-baby",
+        "limit": 4,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Slate Baby",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "mugs",
+        "collection": "mugs-baby",
+        "limit": 16,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Mugs For Baby",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "3df74cc1-2bfd-4297-926b-842e65a9228a": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "",
+        "collection": "personalised-framed-photo-collages-for-baby-gifts",
+        "limit": 12,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised Framed Photo Collages For Baby",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "585f48b7-c8ca-485b-995e-773f9a334356": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container {position: relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/default_name_07f39345-8968-4b9f-808a-aa38f99f5d66.jpg",
+        "title": "Dont see what you are looking for ?",
+        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
+        "title1": "Order a Customised Gift Here",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
       }
     }
   },
   "order": [
     "breadcrumbs",
     "main-page",
-    "811854c5-382a-40c4-a5cf-2ab5e51a5856",
-    "538a1281-b0f3-4de3-8ba2-4ffc88fdb82d"
+    "7c3ec4f6-5adb-4997-89ad-350c64265907",
+    "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
+    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
+    "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
+    "d138c01a-9c39-4a17-9b20-0aa3ced74985",
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084",
+    "3df74cc1-2bfd-4297-926b-842e65a9228a",
+    "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
