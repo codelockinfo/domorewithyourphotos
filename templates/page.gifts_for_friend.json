@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personlised Gift For New Babies",
+            "heading": "Personlised Gifts For Friends",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#gifts",
-            "btn_text": "Baby Gifts",
-            "btn_id1": "#slate",
+            "btn_id": "#Mugs",
+            "btn_text": "Mug for Friend",
+            "btn_id1": "#Framed",
             "btn_text1": "Slate Baby",
-            "btn_id2": "#mugs",
-            "btn_text2": "Mugs For Baby"
+            "btn_id2": "",
+            "btn_text2": ""
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "gifts",
-        "collection": "personalised-baby-gifts-frames",
+        "bannerid": "Mugs",
+        "collection": "mug-friend",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Baby Gifts",
+        "title": "Mug for Friend",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -234,13 +234,14 @@
     },
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
+      "disabled": true,
       "settings": {
-        "bannerid": "slate",
-        "collection": "slate-baby",
+        "bannerid": "Framed",
+        "collection": "personalised-framed-photo-collages-for-pets",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Slate Baby",
+        "title": "Personalised Framed Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -267,12 +268,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "mugs",
-        "collection": "mugs-baby",
+        "bannerid": "Framed",
+        "collection": "18th-birthday-gift-ideas",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mugs For Baby",
+        "title": "Birthday Frame Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -300,11 +301,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "",
-        "collection": "personalised-framed-photo-collages-for-baby-gifts",
+        "collection": "most-popular-personalised-gifts-for-birthdays",
         "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Framed Photo Collages For Baby",
+        "title": "Most Popular Personalised Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
