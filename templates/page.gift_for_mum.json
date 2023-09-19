@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personlised Gift For Dad",
+            "heading": "Personlised Gift For Mum",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#gifts",
-            "btn_text": "Gifts for Dad",
-            "btn_id1": "#mugs",
-            "btn_text1": "Mugs for Dad",
-            "btn_id2": "#frame",
-            "btn_text2": "Personalised Framed"
+            "btn_id": "#slate",
+            "btn_text": "Slate Mother",
+            "btn_id1": "#framed",
+            "btn_text1": "Framed Gifts",
+            "btn_id2": "#mugs",
+            "btn_text2": "Mugs for Mum"
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "gifts",
-        "collection": "gifts-for-dad",
+        "bannerid": "slate",
+        "collection": "slate-mother",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Gifts for Dad",
+        "title": "Slate Mother",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -235,12 +235,12 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "mugs",
-        "collection": "mugs-father",
+        "bannerid": "framed",
+        "collection": "mother-framed-gifts",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mugs for Dad",
+        "title": "Framed Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -267,12 +267,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "frame",
-        "collection": "personalised-framed-photo-collages-dad-or-grandad",
+        "bannerid": "mugs",
+        "collection": "mugs-mother",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Framed Photo collages",
+        "title": "Mugs for Mum",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -300,11 +300,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "",
-        "collection": "fathers-day-canvas-prints",
+        "collection": "mothers-day",
         "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Canvas Prints",
+        "title": "Mother Day 2024",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
