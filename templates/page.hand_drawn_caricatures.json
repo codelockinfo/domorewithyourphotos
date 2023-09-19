@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personalised Anniversary Gifts",
+            "heading": "Hand Drawn Caricatures",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#Most",
-            "btn_text": "Most popular",
-            "btn_id1": "#Framed",
-            "btn_text1": "Framed Gifts",
-            "btn_id2": "#Canvas",
-            "btn_text2": "Canvas Art"
+            "btn_id": "#Family",
+            "btn_text": "Family",
+            "btn_id1": "#Caricatures",
+            "btn_text1": "Caricatures",
+            "btn_id2": "#gift",
+            "btn_text2": "Caricature Gift"
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Most",
-        "collection": "most-popular-personalised-gifts-for-anniversaries-1",
-        "limit": 16,
+        "bannerid": "Family",
+        "collection": "personalised-hand-drawn-family-caricatures",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Most Popular Anniversary Gifts",
+        "title": "Personalised Hand Drawn Family",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -267,12 +267,12 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Framed",
-        "collection": "personalised-gifts-for-anniversaries-1",
+        "bannerid": "gift",
+        "collection": "personalised-hand-drawn-caricature-gifts-for-weddings",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Framed Gifts & Photo Collages",
+        "title": "Personalised Hand Drawn Caricature Gift",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -299,12 +299,12 @@
     "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Canvas",
-        "collection": "personalised-canvas-photo-collages-for-anniversaries",
+        "bannerid": "",
+        "collection": "personalised-hand-drawn-sport-caricature",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Canvas Art",
+        "title": "Personalised Hand Drawn Sport Caricature",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -317,7 +317,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All Products can be done for any Anniversary. Just mention the year in \"other info box\" when ordering.<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "View all",
