@@ -43,7 +43,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personalised Gifts For Mum",
+            "heading": "Personlised Gifts For Weddings",
             "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#gift",
-            "btn_text": "Gifts for Mum",
-            "btn_id1": "#Mugs",
-            "btn_text1": "Mugs for Mum",
+            "btn_id": "#photocollages",
+            "btn_text": "Photo Collages",
+            "btn_id1": "#Gifts",
+            "btn_text1": "Personalised Framed Gift",
             "btn_id2": "#Framed",
-            "btn_text2": "Frame for Mum"
+            "btn_text2": "Personalised Wedding  Frame"
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "gift",
-        "collection": "mother-framed-gifts",
+        "bannerid": "photocollages",
+        "collection": "personalised-framed-photo-collages-for-anniversaries",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mother Frame Gifts",
+        "title": "Personalised Framed Photo Collages For Wedding",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -235,12 +235,12 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Mugs",
-        "collection": "mugs-mother",
+        "bannerid": "Gifts",
+        "collection": "personalised-framed-gifts-photo-collages-for-weddings",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mugs for Mum",
+        "title": "Personalised Framed Gift",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -268,11 +268,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Framed",
-        "collection": "slate-mother",
+        "collection": "personalised-framed-photo-collages-for-weddings",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Slate Photo Collages",
+        "title": "Personalised Wedding  Frame Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -300,11 +300,11 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "",
-        "collection": "mothers-day",
-        "limit": 8,
+        "collection": "traditional-wedding-albums",
+        "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mothers Day 2024",
+        "title": "Traditional Wedding Albums",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
