@@ -51,12 +51,12 @@
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#Most",
-            "btn_text": "Most popular",
-            "btn_id1": "#Framed",
-            "btn_text1": "Framed Gifts",
-            "btn_id2": "#Canvas",
-            "btn_text2": "Canvas Art"
+            "btn_id": "#frame",
+            "btn_text": "PhotoAlbums",
+            "btn_id1": "#photocollages",
+            "btn_text1": "Photo Collages",
+            "btn_id2": "#Framed",
+            "btn_text2": "Framed Gifts & Photo Collages"
           }
         }
       },
@@ -203,12 +203,12 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Most",
-        "collection": "most-popular-personalised-gifts-for-anniversaries-1",
+        "bannerid": "frame",
+        "collection": "frames-photoalbums",
         "limit": 16,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Most Popular Anniversary Gifts",
+        "title": "Frames &  PhotoAlbums",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -235,12 +235,12 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Caricatures",
-        "collection": "personalised-hand-drawn-caricature-gifts-for-anniversaries",
+        "bannerid": "photocollages",
+        "collection": "gifts-for-you",
         "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Hand  Drawn Caricatures",
+        "title": "Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -298,6 +298,7 @@
     },
     "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
+      "disabled": true,
       "settings": {
         "bannerid": "Canvas",
         "collection": "personalised-canvas-photo-collages-for-anniversaries",
