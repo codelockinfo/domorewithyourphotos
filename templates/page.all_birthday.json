@@ -402,6 +402,38 @@
         "title1": "Order a Customised Banner or Selfie Frame",
         "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
       }
+    },
+    "b4cc244e-c47a-4a68-9c0c-947783a8ffba": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "",
+        "collection": "personalised-birthday-photo-banners-for-adults",
+        "limit": 12,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Featured collection",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -416,6 +448,7 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
     "83771654-9371-4b9c-9d4b-4d883b88c9a5",
     "b4b6da97-a6f9-427d-8c86-e6d088c68d73",
-    "585f48b7-c8ca-485b-995e-773f9a334356"
+    "585f48b7-c8ca-485b-995e-773f9a334356",
+    "b4cc244e-c47a-4a68-9c0c-947783a8ffba"
   ]
 }
