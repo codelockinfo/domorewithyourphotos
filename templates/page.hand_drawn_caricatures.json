@@ -173,10 +173,10 @@
       "settings": {
         "bannerid": "gift",
         "collection": "personalised-hand-drawn-caricature-gifts-for-weddings",
-        "limit": 8,
+        "limit": 5,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Personalised Hand Drawn Caricature Gift",
+        "title": "Wedding Gifts",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
