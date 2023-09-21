@@ -41,10 +41,10 @@
         "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
+            "image": "shopify:\/\/shop_images\/Popular_Collages.jpg",
             "top_heading": "",
-            "heading": "Photo Collages & Gift Frames",
-            "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
+            "heading": "Give The Gift Of Memories",
+            "html": "<p>With  personalised Photo Collage all handmade in Ireland to make the perfect gift.<\/p><p>Gather a lot of photos in one frame or canvas, Whether it is a gift or for yourself, fill the wall with happy memories,  <\/p><p> Preview sent before printing to ensure its perfect<\/p>",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
             "button_text_2": "Anniversary banner",
@@ -104,111 +104,15 @@
         "sub_title": ""
       }
     },
-    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413": {
-      "type": "select_anniversry",
-      "blocks": {
-        "bb0d5761-bf99-4e24-803b-e058def32a12": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/1st-anniversary",
-            "anniversaryname": "1st"
-          }
-        },
-        "e1f83384-f722-483b-9983-bed8b153fd34": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/10th-anniversary",
-            "anniversaryname": "10th"
-          }
-        },
-        "57b1224a-9dcc-4414-988d-3ffd395e8b12": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/20th-anniversary",
-            "anniversaryname": "20th"
-          }
-        },
-        "f76c21c4-47f2-4f44-b2fc-4699e318b962": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/25th-anniversary",
-            "anniversaryname": "25th"
-          }
-        },
-        "86d5dc71-f733-49c3-9419-e619ea1335e7": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/30th-anniversary",
-            "anniversaryname": "30th"
-          }
-        },
-        "999f7953-5d2b-44dc-86a6-e32115a5ef08": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/40th-anniversary",
-            "anniversaryname": "40th"
-          }
-        },
-        "d1c25a87-0464-4837-85db-233a9d193f3a": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/50th-anniversary",
-            "anniversaryname": "50th"
-          }
-        },
-        "babd70e7-79a6-4d7b-bccd-d780b5b656b1": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/60th-anniversary",
-            "anniversaryname": "60th"
-          }
-        },
-        "1a208171-2aeb-4b21-abd4-5f6abbc13d44": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/70th-anniversary",
-            "anniversaryname": "70th"
-          }
-        },
-        "cd7ee41b-e2ac-44e2-b926-9e778796ed39": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/collections\/banners-for-anniversaries",
-            "anniversaryname": "All"
-          }
-        }
-      },
-      "block_order": [
-        "bb0d5761-bf99-4e24-803b-e058def32a12",
-        "e1f83384-f722-483b-9983-bed8b153fd34",
-        "57b1224a-9dcc-4414-988d-3ffd395e8b12",
-        "f76c21c4-47f2-4f44-b2fc-4699e318b962",
-        "86d5dc71-f733-49c3-9419-e619ea1335e7",
-        "999f7953-5d2b-44dc-86a6-e32115a5ef08",
-        "d1c25a87-0464-4837-85db-233a9d193f3a",
-        "babd70e7-79a6-4d7b-bccd-d780b5b656b1",
-        "1a208171-2aeb-4b21-abd4-5f6abbc13d44",
-        "cd7ee41b-e2ac-44e2-b926-9e778796ed39"
-      ],
-      "custom_css": [
-        ".blogflex {margin-bottom: 2%;}",
-        ".blogbodr:hover {border-color: black; background: black; transition: all 0.5s; transform: scale(1.1);}",
-        "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
-        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
-      ],
-      "settings": {
-        "blogid": "Select Anniversary"
-      }
-    },
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "frame",
-        "collection": "frames-photoalbums",
-        "limit": 16,
+        "bannerid": "Wedding Photo Collage",
+        "collection": "personalised-framed-photo-collages-for-weddings",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Frames &  PhotoAlbums",
+        "title": "Put Your Wedding Day In One Frame",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -236,11 +140,139 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "photocollages",
-        "collection": "gifts-for-you",
-        "limit": 4,
+        "collection": "personalised-framed-photo-collages-for-anniversaries",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Photo Collages",
+        "title": "Anniversary Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>All Products can be done for any Anniversary, Just mention the year in \"other info box\" when ordering.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "Framed",
+        "collection": "personalised-framed-photo-collages-for-birthdays",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Birthday Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>All Products can be done for any Birthday, Just mention the age in \"other info box\" when ordering.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "3df74cc1-2bfd-4297-926b-842e65a9228a": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "Family Memories",
+        "collection": "personalised-framed-photo-collages-for-family",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Family Memories",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "97fd15b0-221e-4256-b446-7eb0ddaf7180": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "For Dad",
+        "collection": "personalised-framed-photo-collages-dad-or-grandad",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "For Dad & Grandad",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Share information and details about this collection<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "fec79888-fa51-4ffa-be6e-cf8c84d27bfc": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "Mum",
+        "collection": "personalised-framed-photo-collages-for-mum-or-granny",
+        "limit": 8,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "Mum & Granny",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -264,15 +296,15 @@
         "fix_zindex": 0
       }
     },
-    "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
+    "b5941e07-8aac-4dbf-8df8-3856066b68a4": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Framed",
-        "collection": "personalised-gifts-for-anniversaries-1",
-        "limit": 16,
+        "bannerid": "",
+        "collection": "personalised-framed-photo-collages-for-first-holy-communions",
+        "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Framed Gifts & Photo Collages",
+        "title": "First Holy Communion",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -285,7 +317,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All Products can be done for any Anniversary. Just mention the year in \"other info box\" when ordering.<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
@@ -296,20 +328,19 @@
         "fix_zindex": 0
       }
     },
-    "3df74cc1-2bfd-4297-926b-842e65a9228a": {
+    "3329acb2-67d4-489b-9a7f-f65ca65befed": {
       "type": "section_feature_collection_grid",
-      "disabled": true,
       "settings": {
-        "bannerid": "Canvas",
-        "collection": "personalised-canvas-photo-collages-for-anniversaries",
+        "bannerid": "",
+        "collection": "personalised-framed-remembrance-photo-collages",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Canvas Art",
+        "title": "Remembrance",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -318,10 +349,42 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All Products can be done for any Anniversary. Just mention the year in \"other info box\" when ordering.<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
-        "link_text": "View all",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "0c8f28d2-3d04-4adf-b1d5-aeaa985502fe": {
+      "type": "section_feature_collection_grid",
+      "settings": {
+        "bannerid": "Most Popular",
+        "collection": "most-popular-framed-photo-collages-styles",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Most Popular",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -348,11 +411,15 @@
     "main-page",
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
-    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
     "d138c01a-9c39-4a17-9b20-0aa3ced74985",
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
     "3df74cc1-2bfd-4297-926b-842e65a9228a",
+    "97fd15b0-221e-4256-b446-7eb0ddaf7180",
+    "fec79888-fa51-4ffa-be6e-cf8c84d27bfc",
+    "b5941e07-8aac-4dbf-8df8-3856066b68a4",
+    "3329acb2-67d4-489b-9a7f-f65ca65befed",
+    "0c8f28d2-3d04-4adf-b1d5-aeaa985502fe",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
