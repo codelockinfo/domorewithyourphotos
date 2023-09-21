@@ -4822,6 +4822,12 @@ var ajaxCart = (function(module) {
 		fetch(routes.cart_change_url, config)
 			.then((response) => response.json())
 			.then((response) => {
+              if(typeof window.BOLD !== 'undefined'
+           && typeof window.BOLD.common !== 'undefined'
+           && typeof window.BOLD.common.cartDoctor !== 'undefined') {
+          // NOTE: "cart" should be the variable containing the cart json data
+          response = window.BOLD.common.cartDoctor.fix(response);
+        }
 				if (response.status) {
 					handleErrorMessage(response.description);
 					return;
@@ -4856,6 +4862,11 @@ var ajaxCart = (function(module) {
 					updateCartPage(response);
 					updateCartPanel(response, false);
 				}
+              if (window.BOLD && BOLD.common && BOLD.common.eventEmitter && typeof BOLD.common.eventEmitter.emit === 'function'){
+  setTimeout(function(){
+        BOLD.common.eventEmitter.emit('BOLD_COMMON_cart_loaded');
+  },800);
+    }
 			})
 			.catch((error) => {
 				console.log("removeItem error", error);
