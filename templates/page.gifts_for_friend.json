@@ -43,8 +43,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/personalsied_anniversary_gifts.jpg",
             "top_heading": "",
-            "heading": "Personlised Gifts For Friends",
-            "html": "<p>Celebrate their Anniversary with the gift of memories with our wonderful personalised Gifts.<\/p> From Framed gifts Banners, Photos Collages, Canvas Art  and more.",
+            "heading": "Personlised Gifts For your Bestie",
+            "html": "<p>Discover a world of heartwarming treasures at DoMore.ie, where personalized gifts for your bestie take center stage. <\/p><p>Celebrate the beautiful moments and inside jokes that make your friendship one-of-a-kind. From framed gifts to large photo collages. Explore our collection and make your bestie's day extraordinary with a keepsake they'll cherish forever.<\/p>",
             "button_text": "Anniversary Photo banner",
             "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
             "button_text_2": "Anniversary banner",
@@ -52,9 +52,9 @@
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
             "btn_id": "#Mugs",
-            "btn_text": "Mug for Friend",
+            "btn_text": "Most Popular",
             "btn_id1": "#Framed",
-            "btn_text1": "Slate Baby",
+            "btn_text1": "framed Gifts",
             "btn_id2": "",
             "btn_text2": ""
           }
@@ -104,111 +104,15 @@
         "sub_title": ""
       }
     },
-    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413": {
-      "type": "select_anniversry",
-      "blocks": {
-        "bb0d5761-bf99-4e24-803b-e058def32a12": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/1st-anniversary",
-            "anniversaryname": "1st"
-          }
-        },
-        "e1f83384-f722-483b-9983-bed8b153fd34": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/10th-anniversary",
-            "anniversaryname": "10th"
-          }
-        },
-        "57b1224a-9dcc-4414-988d-3ffd395e8b12": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/20th-anniversary",
-            "anniversaryname": "20th"
-          }
-        },
-        "f76c21c4-47f2-4f44-b2fc-4699e318b962": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/25th-anniversary",
-            "anniversaryname": "25th"
-          }
-        },
-        "86d5dc71-f733-49c3-9419-e619ea1335e7": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/30th-anniversary",
-            "anniversaryname": "30th"
-          }
-        },
-        "999f7953-5d2b-44dc-86a6-e32115a5ef08": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/40th-anniversary",
-            "anniversaryname": "40th"
-          }
-        },
-        "d1c25a87-0464-4837-85db-233a9d193f3a": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/50th-anniversary",
-            "anniversaryname": "50th"
-          }
-        },
-        "babd70e7-79a6-4d7b-bccd-d780b5b656b1": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/60th-anniversary",
-            "anniversaryname": "60th"
-          }
-        },
-        "1a208171-2aeb-4b21-abd4-5f6abbc13d44": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/pages\/70th-anniversary",
-            "anniversaryname": "70th"
-          }
-        },
-        "cd7ee41b-e2ac-44e2-b926-9e778796ed39": {
-          "type": "Blog",
-          "settings": {
-            "anniversarylink": "shopify:\/\/collections\/banners-for-anniversaries",
-            "anniversaryname": "All"
-          }
-        }
-      },
-      "block_order": [
-        "bb0d5761-bf99-4e24-803b-e058def32a12",
-        "e1f83384-f722-483b-9983-bed8b153fd34",
-        "57b1224a-9dcc-4414-988d-3ffd395e8b12",
-        "f76c21c4-47f2-4f44-b2fc-4699e318b962",
-        "86d5dc71-f733-49c3-9419-e619ea1335e7",
-        "999f7953-5d2b-44dc-86a6-e32115a5ef08",
-        "d1c25a87-0464-4837-85db-233a9d193f3a",
-        "babd70e7-79a6-4d7b-bccd-d780b5b656b1",
-        "1a208171-2aeb-4b21-abd4-5f6abbc13d44",
-        "cd7ee41b-e2ac-44e2-b926-9e778796ed39"
-      ],
-      "custom_css": [
-        ".blogflex {margin-bottom: 2%;}",
-        ".blogbodr:hover {border-color: black; background: black; transition: all 0.5s; transform: scale(1.1);}",
-        "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
-        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
-      ],
-      "settings": {
-        "blogid": "Select Anniversary"
-      }
-    },
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "Mugs",
-        "collection": "mug-friend",
-        "limit": 16,
+        "collection": "personalised-gifts-for-your-bestie",
+        "limit": 20,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Mug for Friend",
+        "title": "Most Popular",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -221,7 +125,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "",
@@ -232,84 +136,49 @@
         "fix_zindex": 0
       }
     },
-    "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
-      "type": "section_feature_collection_grid",
-      "disabled": true,
+    "e34eb128-fc27-4b70-b6b4-95861362c8e6": {
+      "type": "section-featured-collection",
       "settings": {
-        "bannerid": "Framed",
-        "collection": "personalised-framed-photo-collages-for-pets",
-        "limit": 4,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Personalised Framed Photo Collages",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
-      "type": "section_feature_collection_grid",
-      "settings": {
-        "bannerid": "Framed",
-        "collection": "18th-birthday-gift-ideas",
-        "limit": 16,
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Birthday Frame Gifts",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "buynowcheck": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "14px",
-        "link_text": "",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "3df74cc1-2bfd-4297-926b-842e65a9228a": {
-      "type": "section_feature_collection_grid",
-      "settings": {
-        "bannerid": "",
         "collection": "most-popular-personalised-gifts-for-birthdays",
-        "limit": 12,
+        "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Most Popular Personalised Gifts",
+        "title": "Framed Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
-        "buynowcheck": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "12ae32d3-f6fb-4803-8514-8378359ccc93": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "mug-friend",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Personalised mugs",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
         "title_color_palette": "black",
         "title_weight": "700",
         "subtitle": "",
@@ -321,7 +190,69 @@
         "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
-        "link_text": "View all",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "71ea0d07-2d51-44df-808a-16183d80550c": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "birthday-photo-collage",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Canvas Art",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>All Products can be done for any Birthday. Just mention the Age in \"other info box\" when ordering.<\/p>",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "a39e0275-8915-4bdf-aa53-632142527098": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "personalised-hand-drawn-caricature-gifts-for-birthdays",
+        "limit": 17,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Hand Drawn Caricatures",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
         "button_color_palette": "accent",
         "show_link": false,
         "spacing_desktop": 50,
@@ -348,11 +279,11 @@
     "main-page",
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
-    "e9526b37-6b4f-4c01-b8db-fa9fc31b2413",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
-    "d138c01a-9c39-4a17-9b20-0aa3ced74985",
-    "187d2840-e3a4-4aa7-a740-ac22d36c3084",
-    "3df74cc1-2bfd-4297-926b-842e65a9228a",
+    "e34eb128-fc27-4b70-b6b4-95861362c8e6",
+    "12ae32d3-f6fb-4803-8514-8378359ccc93",
+    "71ea0d07-2d51-44df-808a-16183d80550c",
+    "a39e0275-8915-4bdf-aa53-632142527098",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
