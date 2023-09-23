@@ -260,6 +260,37 @@
         "fix_zindex": 0
       }
     },
+    "77d1f3e3-4075-4caf-a6db-16b514cd1b74": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "personalised-framed-photo-collages-dad-or-grandad",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Framed Photo Collages",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "585f48b7-c8ca-485b-995e-773f9a334356": {
       "type": "custom_section",
       "custom_css": [
@@ -284,6 +315,7 @@
     "a7adcd54-b14c-493e-b1c4-0c45b53ef838",
     "47f3de0f-74b7-446a-b2fc-770f15498d4b",
     "bb11879c-db52-43e2-9d1c-04e4ce023044",
+    "77d1f3e3-4075-4caf-a6db-16b514cd1b74",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
