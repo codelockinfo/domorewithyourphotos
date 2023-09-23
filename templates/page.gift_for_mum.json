@@ -136,19 +136,6 @@
         "fix_zindex": 0
       }
     },
-    "585f48b7-c8ca-485b-995e-773f9a334356": {
-      "type": "custom_section",
-      "custom_css": [
-        ".container {position: relative;}"
-      ],
-      "settings": {
-        "imgs": "shopify:\/\/shop_images\/default_name_07f39345-8968-4b9f-808a-aa38f99f5d66.jpg",
-        "title": "Dont see what you are looking for ?",
-        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
-        "title1": "Order a Customised Gift Here",
-        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
-      }
-    },
     "35c19233-4766-4348-af72-a2aa49ca3889": {
       "type": "section-featured-collection",
       "settings": {
@@ -241,6 +228,81 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "517bc96c-2edb-45ce-a9f9-9dd2681032b2": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "mother-framed-gifts",
+        "limit": 17,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Framed Gifts",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "fc9773db-f865-4283-aec2-448378f70101": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "personalised-framed-photo-collages-for-mum-or-granny",
+        "limit": 21,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Framed Photo Collages",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "585f48b7-c8ca-485b-995e-773f9a334356": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container {position: relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/default_name_07f39345-8968-4b9f-808a-aa38f99f5d66.jpg",
+        "title": "Dont see what you are looking for ?",
+        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
+        "title1": "Order a Customised Gift Here",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
     }
   },
   "order": [
@@ -249,9 +311,11 @@
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
     "187d2840-e3a4-4aa7-a740-ac22d36c3084",
-    "585f48b7-c8ca-485b-995e-773f9a334356",
     "35c19233-4766-4348-af72-a2aa49ca3889",
     "05cb4666-b014-4820-a1b0-f3a937c0aaed",
-    "3ad86591-ebc2-4fcb-9911-8d07e476adff"
+    "3ad86591-ebc2-4fcb-9911-8d07e476adff",
+    "517bc96c-2edb-45ce-a9f9-9dd2681032b2",
+    "fc9773db-f865-4283-aec2-448378f70101",
+    "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
