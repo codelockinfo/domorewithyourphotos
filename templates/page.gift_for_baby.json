@@ -136,19 +136,6 @@
         "fix_zindex": 0
       }
     },
-    "585f48b7-c8ca-485b-995e-773f9a334356": {
-      "type": "custom_section",
-      "custom_css": [
-        ".container {position: relative;}"
-      ],
-      "settings": {
-        "imgs": "shopify:\/\/shop_images\/default_name_07f39345-8968-4b9f-808a-aa38f99f5d66.jpg",
-        "title": "Dont see what you are looking for ?",
-        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
-        "title1": "Order a Customised Gift Here",
-        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
-      }
-    },
     "fe0d62c5-b459-47d2-89ce-b7562494d543": {
       "type": "section-featured-collection",
       "settings": {
@@ -365,6 +352,19 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "585f48b7-c8ca-485b-995e-773f9a334356": {
+      "type": "custom_section",
+      "custom_css": [
+        ".container {position: relative;}"
+      ],
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/default_name_07f39345-8968-4b9f-808a-aa38f99f5d66.jpg",
+        "title": "Dont see what you are looking for ?",
+        "textarea": "We can create a personalised bespoke photos Collage on canvas, slate or framed to suit your individual needs.",
+        "title1": "Order a Customised Gift Here",
+        "button_link": "shopify:\/\/collections\/custom-selfie-frame-personalised-banner-or-selfie-frame"
+      }
     }
   },
   "order": [
@@ -373,13 +373,13 @@
     "7c3ec4f6-5adb-4997-89ad-350c64265907",
     "e2f69992-d41d-4ce4-8c70-9bc62a8f6df3",
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb",
-    "585f48b7-c8ca-485b-995e-773f9a334356",
     "fe0d62c5-b459-47d2-89ce-b7562494d543",
     "fc1d15e6-1a18-4637-960e-d308a9d50c9d",
     "fda35077-2d64-40f4-9b4e-74762cc0e639",
     "3415f38c-b0e7-4808-9365-6c7cd3cafd93",
     "4feba636-2f71-4cea-97a7-1d7951e352af",
     "0fc3fe6c-b9cc-4047-ac01-8de7d1a3ef83",
-    "9097ec35-796d-49dd-8af4-42656bdb7a34"
+    "9097ec35-796d-49dd-8af4-42656bdb7a34",
+    "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
