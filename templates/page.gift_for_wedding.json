@@ -41,7 +41,7 @@
         "ec7bde64-b653-463f-85ee-ed39bfbf713e": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weddingCollages.jpg",
+            "image": "shopify:\/\/shop_images\/weddingCollages_c82f250c-6226-4941-a374-24387cae3b00.jpg",
             "top_heading": "",
             "heading": "Personlised Wedding Gifts",
             "html": "<p>Cherish the unique love story with a personalized photo collage. A heartfelt wedding gift that immortalizes your special moments.<\/p> Our extensive range of Wedding framed gifts are never identical and we can personalise them to your exact requirements.<p><\/p><p>Create yours today.<\/p>",
@@ -322,6 +322,37 @@
         "fix_zindex": 0
       }
     },
+    "6ee10c5e-fd58-4c9a-8fbe-6ca2a23af63e": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "traditional-wedding-albums",
+        "limit": 20,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Traditional Wedding Photo albums",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "585f48b7-c8ca-485b-995e-773f9a334356": {
       "type": "custom_section",
       "custom_css": [
@@ -348,6 +379,7 @@
     "5d8aaaa5-9ff7-465f-9bf6-ce70cc1813b8",
     "97398a7d-9b84-4d8c-a89b-c872937166b8",
     "84104a7c-44da-4fad-b371-c7f80016c171",
+    "6ee10c5e-fd58-4c9a-8fbe-6ca2a23af63e",
     "585f48b7-c8ca-485b-995e-773f9a334356"
   ]
 }
