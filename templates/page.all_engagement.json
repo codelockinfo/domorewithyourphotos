@@ -304,8 +304,8 @@
     "3df74cc1-2bfd-4297-926b-842e65a9228a": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Canvas",
-        "collection": "personalised-canvas-photo-collages-for-anniversaries",
+        "bannerid": "",
+        "collection": "personalised-canvas-photo-collages-for-engagements",
         "limit": 8,
         "number_of_items": 4,
         "text_alignment": "center",
@@ -322,7 +322,7 @@
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
-        "text": "<p>All Products can be done for any Anniversary. Just mention the year in \"other info box\" when ordering.<\/p>",
+        "text": "",
         "enable_custom_font_styling": false,
         "font_size": "14px",
         "link_text": "View all",
