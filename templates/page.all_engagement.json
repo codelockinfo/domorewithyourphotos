@@ -111,35 +111,35 @@
           "type": "Blog",
           "settings": {
             "anniversarylink": "shopify:\/\/collections\/personalised-gift-frames-photo-collages-for-engagements",
-            "anniversaryname": "photo-collages-for-engagements"
+            "anniversaryname": "photo collages"
           }
         },
         "e1f83384-f722-483b-9983-bed8b153fd34": {
           "type": "Blog",
           "settings": {
             "anniversarylink": "shopify:\/\/collections\/personalised-canvas-photo-collages-for-engagements",
-            "anniversaryname": "personalised-canvas-photo-collages-for-engagements"
+            "anniversaryname": "canvas photo collages"
           }
         },
         "57b1224a-9dcc-4414-988d-3ffd395e8b12": {
           "type": "Blog",
           "settings": {
             "anniversarylink": "shopify:\/\/collections\/personalised-hand-drawn-caricature-gifts-for-engagements",
-            "anniversaryname": "personalised-hand-drawn-caricature-gifts-for-engagements"
+            "anniversaryname": "Caricature gifts"
           }
         },
         "f76c21c4-47f2-4f44-b2fc-4699e318b962": {
           "type": "Blog",
           "settings": {
             "anniversarylink": "shopify:\/\/collections\/personalised-slates-for-engagements",
-            "anniversaryname": "personalised-slates-for-engagements"
+            "anniversaryname": "personalised slates"
           }
         },
         "86d5dc71-f733-49c3-9419-e619ea1335e7": {
           "type": "Blog",
           "settings": {
             "anniversarylink": "shopify:\/\/collections\/personalised-mugs-for-engagements",
-            "anniversaryname": "personalised-mugs-for-engagements"
+            "anniversaryname": "personalised mugs"
           }
         },
         "999f7953-5d2b-44dc-86a6-e32115a5ef08": {
@@ -196,13 +196,15 @@
         "cd7ee41b-e2ac-44e2-b926-9e778796ed39"
       ],
       "custom_css": [
-        ".blogflex {margin-bottom: 2%;}",
+        ".blogflex {margin-bottom: 2%; padding: 0;}",
         ".blogbodr:hover {border-color: black; background: black; transition: all 0.5s; transform: scale(1.1);}",
+        ".blogbodr {min-width: 225px !important; max-width: 225px;}",
+        ".blogbodr a {font-size: 20px; letter-spacing: 1.2px; line-height: 26px;}",
         "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
         "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
       ],
       "settings": {
-        "blogid": "Select Anniversary"
+        "blogid": "Engagement"
       }
     },
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
