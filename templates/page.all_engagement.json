@@ -196,7 +196,7 @@
         "cd7ee41b-e2ac-44e2-b926-9e778796ed39"
       ],
       "custom_css": [
-        ".blogflex {margin-bottom: 2%;}",
+        ".blogflex {margin-bottom: 2%; padding:0;}",
         ".blogbodr:hover {border-color: black; background: black; transition: all 0.5s; transform: scale(1.1);}",
         ".blogbodr {min-width: 225px !important; max-width: 225px;}",
         ".blogbodr a {font-size: 20px; letter-spacing: 1.2px; line-height: 26px;}",
