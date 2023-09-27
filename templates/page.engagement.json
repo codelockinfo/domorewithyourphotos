@@ -68,7 +68,7 @@
             "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> This anniversary is is the first milestone of life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
             "button_text": "1ST PHOTO BANNERS",
             "button_link": "",
             "button_text_2": "",
@@ -78,7 +78,7 @@
             "btn_id": "#photobanner",
             "btn_text": "1ST PHOTO BANNERS",
             "btn_id1": "#framegifts",
-            "btn_text1": "1ST FRAMED GIFTS",
+            "btn_text1": "1ST FRAMED GIFT",
             "btn_id2": "",
             "btn_text2": ""
           }
@@ -192,7 +192,7 @@
       "type": "birthdat_text_background",
       "settings": {
         "image": "shopify:\/\/shop_images\/1st_anniversary_Landing_page.jpg",
-        "html": "Tell Their Story &amp; Go Bigger <br> With A 1st Anniversary Photo Collage, Framed Gift Or Canvas",
+        "html": "Tell Their Story &amp; Go Bigger <br> With A  Engagement Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
       }
@@ -261,7 +261,7 @@
       ],
       "settings": {
         "bannerid3": "framegifts",
-        "right_text": "1st Wedding Anniversary Photo Collages Combining all your favourite photos in one frame is the perfect way to cherish your memories forever. They make fantastic anniverary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way). If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
+        "right_text": "1st Engagement Anniversary Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories forever. They make fantastic anniverary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way). If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "first-year-12-month-year-photo-collage-wall-art-baby-gift",
         "main2_product": "always-and-forever-couples-personalised-photo-mug"
       }
