@@ -202,7 +202,7 @@
         ".blogbodr a {font-size: 20px !important; text-align: center;}",
         "@media screen and (max-width: 1140px) {.blogbodr {max-width: min-content !important; }}",
         "@media screen and (max-width: 420px) {.blogbodr {margin: 2px; }}",
-        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 30px; }}"
+        "@media screen and (max-width: 380px) {.blogbodr {min-width: 140px !important; max-width: 140px; } .blogbodr a {font-size: 15px !important; }}"
       ],
       "settings": {
         "blogid": "Engagement"
