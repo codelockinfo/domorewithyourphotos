@@ -75,10 +75,10 @@
             "button_link_2": "",
             "button_text_3": "",
             "button_link_3": "",
-            "btn_id": "#photobanner",
-            "btn_text": "1ST PHOTO BANNERS",
-            "btn_id1": "#framegifts",
-            "btn_text1": "1ST FRAMED GIFT",
+            "btn_id": "#giftframe",
+            "btn_text": "GIFT FRAMES PHOTO",
+            "btn_id1": "#canvasgifts",
+            "btn_text1": "CANVAS PHOTO",
             "btn_id2": "",
             "btn_text2": ""
           }
@@ -134,51 +134,65 @@
         "60c69138-e02f-4169-9092-6c26e856e782": {
           "type": "block",
           "settings": {
-            "product": "1st-wedding-anniversary-natures-way-personalised-banner"
-          }
-        },
-        "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
-          "type": "block",
-          "settings": {
-            "product": "gold-floral-wedding-anniversary-personalised-party-banner"
+            "product": "our-love-story-sentiment-frame"
           }
         },
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd": {
           "type": "block",
           "settings": {
-            "product": "congratulations-on-your-special-day-banner"
+            "product": "our-love-story-by-heart-wall-art"
+          }
+        },
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3": {
+          "type": "block",
+          "settings": {
+            "product": "when-two-worlds-collide-engagemnt-framed-gift"
           }
         },
         "c13e5bda-c542-4107-97bf-f441dcb9212d": {
           "type": "block",
           "settings": {
-            "product": "floral-wedding-anniversary-party-personalised-banner"
+            "product": "wedding-splash-wall-art"
           }
         },
         "5860f50e-fa03-4e46-a972-e373c9eded9a": {
           "type": "block",
           "settings": {
-            "product": "60th-photo-collage-wedding-anniversary-party-personalised-banner"
+            "product": "live-laugh-love-photo-collage-wall-art"
           }
         },
         "4eb3840e-ce2a-49a6-ba90-f163e299963c": {
           "type": "block",
           "settings": {
-            "product": "lilac-floral-anniversary-selfie-frame"
+            "product": "she-said-yes-sentiment-frame"
+          }
+        },
+        "5ee0abe3-0c57-490a-85aa-cc31a8a54cba": {
+          "type": "block",
+          "settings": {
+            "product": "love-is-patient-love-is-kind-sentiment-frame"
+          }
+        },
+        "18f444d6-83d1-49f4-bb8c-ee9feed3a0b9": {
+          "type": "block",
+          "settings": {
+            "product": "every-love-story-sentiment-frame"
           }
         }
       },
       "block_order": [
         "60c69138-e02f-4169-9092-6c26e856e782",
-        "63488ac5-d481-42d5-8e55-86fd00ff69f3",
         "d78a0ad4-38c3-444d-97d4-cc0bafd90bfd",
+        "63488ac5-d481-42d5-8e55-86fd00ff69f3",
         "c13e5bda-c542-4107-97bf-f441dcb9212d",
         "5860f50e-fa03-4e46-a972-e373c9eded9a",
-        "4eb3840e-ce2a-49a6-ba90-f163e299963c"
+        "4eb3840e-ce2a-49a6-ba90-f163e299963c",
+        "5ee0abe3-0c57-490a-85aa-cc31a8a54cba",
+        "18f444d6-83d1-49f4-bb8c-ee9feed3a0b9"
       ],
       "settings": {
-        "bannerid2": "photobanner",
-        "title": "1st Anniversary Personalised Banners",
+        "bannerid2": "giftframe",
+        "title": "Personalised Gift Frames For Engagements",
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
@@ -203,50 +217,50 @@
         "f39d1d9e-7ec8-4f38-9edc-c4bbc17a2887": {
           "type": "block",
           "settings": {
-            "product": "1st-wedding-anniversary-sentiment-frame",
+            "product": "custom-canvas-collage-from-your-photo",
             "product2": "our-love-story-framed-photo-collage-3"
           }
         },
         "662b4cd8-2e5d-4619-aa69-e41a0b5e6b46": {
           "type": "block",
           "settings": {
-            "product": "our-first-dance-song-lyrics-disc-unique-framed-wedding-gift-with-spotify-code",
-            "product2": "mr-mrs-first-dance-wedding-framed-photo-collage-with-spotify-code"
+            "product": "love-is-beautiful-framed-photo-collage",
+            "product2": "love-is-the-story-on-canvas"
           }
         },
         "e1a5584f-e548-4e6e-82e3-c8c34326bd58": {
           "type": "block",
           "settings": {
-            "product": "wedding-anniversary-word-cloud-gift-sentiment",
-            "product2": "one-year-together-wedding-anniversary-numbered-framed-photo-collage"
+            "product": "we-are-far-apart-but-yuor-are-alway-in-my-heart-on-canvas",
+            "product2": "dream-catcher-wedding-collage-on-canvas"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
-            "product": "our-anniversary-photo-collage-framed-gift",
-            "product2": "mr-mrs-wedding-day-heart-collage-framed-gift"
+            "product": "love-cloud-photo-collage-wall-art",
+            "product2": "true-love-photo-collage-wall-art"
           }
         },
         "d4e5eee4-860b-495c-80e9-5b16dc238b55": {
           "type": "block",
           "settings": {
-            "product": "our-first-anniversary-number-collage-framed-gift",
-            "product2": "our-first-dance-song-lyrics-unique-framed-wedding-gift"
+            "product": "cancun-wedding-canvas-artcollage",
+            "product2": "our-wedding-bubble-photo-collage-on-canvas"
           }
         },
         "91efe3ab-7124-4463-9a23-9064c1717a62": {
           "type": "block",
           "settings": {
-            "product": "our-anniversary-photo-slate",
-            "product2": "personalised-first-dance-wedding-song-unique-wedding-gift-for-couple"
+            "product": "our-wedding-blocked-photo-collage-on-canvas",
+            "product2": "sleek-engagement-photo-collage-on-canvas"
           }
         },
         "a7b54aa4-fc34-4032-9348-eb2ba5d52df6": {
           "type": "block",
           "settings": {
-            "product": "this-is-our-first-year-bubbled-framed-photo-collage",
-            "product2": "1st-wedding-anniversary-numbered-framed-photo-collage"
+            "product": "every-love-is-beautiful-framed-picture-collage",
+            "product2": "to-have-to-hold-framed-photo-collage"
           }
         }
       },
@@ -260,10 +274,10 @@
         "a7b54aa4-fc34-4032-9348-eb2ba5d52df6"
       ],
       "settings": {
-        "bannerid3": "framegifts",
+        "bannerid3": "canvasgifts",
         "right_text": "1st Engagement Anniversary Photo Collages Combining all your favorite photos in one frame is the perfect way to cherish your memories forever. They make fantastic anniverary gifts as they can put on show, a couples life achievements or best bits so far and they usually bring a tear to their eye  (in a good way). If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
-        "main_product": "first-year-12-month-year-photo-collage-wall-art-baby-gift",
-        "main2_product": "always-and-forever-couples-personalised-photo-mug"
+        "main_product": "love-is-beautiful-framed-photo-collage",
+        "main2_product": "custom-canvas-collage-from-your-photo"
       }
     },
     "daa7aef0-9ee4-4eb0-ad97-55e741073369": {
