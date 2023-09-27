@@ -274,7 +274,7 @@
       "settings": {
         "bannerid": "slate",
         "collection": "personalised-slates-for-engagements",
-        "limit": 16,
+        "limit": 4,
         "number_of_items": 4,
         "text_alignment": "center",
         "title": "Personalised Slates For Engagements",
