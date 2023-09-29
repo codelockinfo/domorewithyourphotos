@@ -29,8 +29,8 @@
       "disabled": true,
       "settings": {
         "max_width": 980,
-        "content_alignment": "start",
-        "text_alignment": "start",
+        "content_alignment": "center",
+        "text_alignment": "center",
         "spacing_desktop": 50,
         "spacing_mobile": 30
       }
