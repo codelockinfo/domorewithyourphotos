@@ -201,7 +201,7 @@
         "items_width": 3,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
+        "enable_custom_height": false,
         "custom_height": 380,
         "space_between": 1,
         "image_zoom": true,
