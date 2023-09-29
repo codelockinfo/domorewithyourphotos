@@ -80,6 +80,13 @@
             "data_text": "Memory Card Recovery"
           }
         },
+        "7db6a951-b2a4-4c86-877d-b6afa7c4c062": {
+          "type": "blocks",
+          "settings": {
+            "data_id": "#partybanners",
+            "data_text": "Party Decorations"
+          }
+        },
         "573b65c8-9c2b-4f10-9b45-6cf70083c927": {
           "type": "blocks",
           "settings": {
@@ -102,6 +109,7 @@
         "18ed6d9f-fc35-43d7-9e67-27a884b4c5f0",
         "3a6d21bb-8ccd-423a-bceb-d06df105121d",
         "f7bfb2a6-af61-4037-9042-7e3491f4c15d",
+        "7db6a951-b2a4-4c86-877d-b6afa7c4c062",
         "573b65c8-9c2b-4f10-9b45-6cf70083c927",
         "85efa440-4976-4304-beda-1714b700ff69"
       ],
@@ -618,6 +626,51 @@
         "fix_zindex": 0
       }
     },
+    "d66c663b-f0fc-4317-a501-85af813a4520": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Elevate Your Celebrations with Personalized Touches!",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "primary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>At DoMore.ie, we specialize in creating customized party banners, selfie frames, and welcome boards. Add a personal touch to your special occasions like birthdays, anniversaries, graduations, and more. Choose from a variety of designs, colors, and sizes to suit your theme.<\/p><p>Create unforgettable memories with our bespoke, personalized party decorations. Order yours today at DoMore.ie!\"<\/p><p><a href=\"\/pages\/personalised-party-banners\" title=\"Personalised Party Banners\"><strong>Personalise Your Party Here<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1"
+      ],
+      "settings": {
+        "imagetextid": "partybanners",
+        "image": "shopify:\/\/shop_images\/ban.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b": {
       "type": "section-collage",
       "blocks": {
@@ -681,94 +734,6 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "d66c663b-f0fc-4317-a501-85af813a4520": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Elevate Your Celebrations with Personalized Touches!",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "primary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>At DoMore.ie, we specialize in creating customized party banners, selfie frames, and welcome boards. Add a personal touch to your special occasions like birthdays, anniversaries, graduations, and more. Choose from a variety of designs, colors, and sizes to suit your theme.<\/p><p>Create unforgettable memories with our bespoke, personalized party decorations. Order yours today at DoMore.ie!\"<\/p><p><a href=\"\/pages\/personalised-party-banners\" title=\"Personalised Party Banners\"><strong>Personalise Your Party Here<\/strong><\/a><\/p>"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-1": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-2": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-3": {
-          "type": "usp",
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-1",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-2",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-3",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-buttons-1"
-      ],
-      "settings": {
-        "imagetextid": "partybanners",
-        "image": "shopify:\/\/shop_images\/ban.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-left",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
@@ -781,7 +746,7 @@
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e",
     "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
     "4eae6704-5f77-424a-876d-bc2e9fa742d8",
-    "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b",
-    "d66c663b-f0fc-4317-a501-85af813a4520"
+    "d66c663b-f0fc-4317-a501-85af813a4520",
+    "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b"
   ]
 }
