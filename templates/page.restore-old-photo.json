@@ -201,8 +201,8 @@
         "items_width": 3,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 380,
+        "enable_custom_height": true,
+        "custom_height": 250,
         "space_between": 1,
         "image_zoom": true,
         "image_move": false,
@@ -211,7 +211,7 @@
         "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
-        "fix_zindex": 0
+        "fix_zindex": 4
       }
     },
     "fb9adf5e-7a15-48fb-9574-d1749d84bbd6": {
