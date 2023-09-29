@@ -35,74 +35,6 @@
         "spacing_mobile": 30
       }
     },
-    "d79ecb01-0118-4636-add8-04c8b1f2f45f": {
-      "type": "section-two-images-text",
-      "blocks": {
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/contact-bg-new.png",
-            "image_mobile": "shopify:\/\/shop_images\/contact-bg-new1.png"
-          }
-        },
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-1",
-        "template--19475072647498__d79ecb01-0118-4636-add8-04c8b1f2f45f-image-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".module-color-palette[class^=\"palette-\"] {background: #dad1d1; color: #000 !important;}",
-        ".ff-primary {color: #000;}",
-        ".no-bg {background: #fff !important;}"
-      ],
-      "settings": {
-        "width": "boxed",
-        "first_image_width": 65,
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "image_zoom": false,
-        "overlay_opacity": 0,
-        "color_palette": "black",
-        "button_color_palette": "black",
-        "text_position": "text-center",
-        "title": "Restore Your Family history",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Photo Restoration<\/p><p>Using a combination of traditional photography, digital technology and careful, expert hand-retouching and coloring, we are able to undertake virtually any level of renovation, from cleaning up marks and scratches to fixing major damage, changing backgrounds, removing unwanted people, making combinations of more than one photograph- you name it!<\/p><p>Digital restoration ensures that your original photographs will not be damaged or altered in any way. Prints can be any size up to around 36 X24 inches  and may be toned or subtly hand colored, as you desire. We also offer a full mounting and framing service to ensure that your restored photographs look their absolute best. Additional prints may be ordered at any time.<\/p><p>By capturing your photo electronically the digital copy can be enhanced & manipulated by one of our restoration artists using specialist computer software. The original photograph is not altered and returned in its original condition. The restored photograph is printed at the required size along with any extra copies or enlargements requested. We can also archive the finished job to CD-ROM so you will always have a digital copy. Your treasured photograph is now safe for many years to come.<\/p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "View all",
-        "link_url": "",
-        "show_link": false,
-        "show_look": false,
-        "product_list": [
-
-        ],
-        "look_btn_color_palette": "buy_button",
-        "look_position": "end",
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "62a0875f-a0c1-451f-8c87-8b478a3ebb00": {
       "type": "section-image-with-text",
       "blocks": {
@@ -120,63 +52,16 @@
         "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p> At Domore.ie, Mcgeres Photocentre in Killybegs, Co. Donegal, we understand the value of preserving those precious memories. Our team specializes in restoring old, faded, and damaged photos to their former glory.<\/p><p><strong>Why Restore Your Old Photos?<\/strong><\/p><p><strong>-  <\/strong>Preserve Your Family History: These images are irreplaceable, offering a window into your heritage and the generations that came before you.<\/p><p><strong>-<\/strong> All Work Done In-House: Rest easy knowing that every restoration is handled by our skilled team, ensuring the highest quality results.<\/p>"
-          }
-        },
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-1": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-2": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-3": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
+            "text": "<p> At Domore.ie, McGee's Photocentre in Killybegs, Co. Donegal, we understand the value of preserving those precious memories. Our team specializes in restoring old, faded, and damaged photos to their former glory.<\/p><p><strong>Why Restore Your Old Photos?<\/strong><\/p><p><strong>-  <\/strong>Preserve Your Family History: These images are irreplaceable, offering a window into your heritage and the generations that came before you.<\/p><p><strong>-<\/strong> All Work Done In-House: Rest easy knowing that every restoration is handled by our skilled team, ensuring the highest quality results.<\/p>"
           }
         }
       },
       "block_order": [
         "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-title-1",
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-text-1",
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-1",
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-2",
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-usp-3",
-        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-buttons-1"
+        "template--19486359912778__62a0875f-a0c1-451f-8c87-8b478a3ebb00-text-1"
       ],
       "settings": {
         "imagetextid": "",
@@ -314,12 +199,12 @@
       ],
       "settings": {
         "items_width": 3,
-        "width": "boxed",
+        "width": "wide",
         "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "space_between": 16,
-        "image_zoom": false,
+        "enable_custom_height": true,
+        "custom_height": 250,
+        "space_between": 1,
+        "image_zoom": true,
         "image_move": false,
         "show_content_below": false,
         "layout_mobile": "rows",
@@ -337,7 +222,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Servivces We Offer",
+            "title": "Photo Restoration Services We Offer",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -348,26 +233,15 @@
           "settings": {
             "page": "",
             "text": "<p><\/p><p><strong>Photo Enhancement:<\/strong> Remove scratches, blemishes, and imperfections to reveal the true beauty of your treasured photos.<\/p><p><strong>Color Correction: <\/strong>Restore faded colors to their original vibrancy, bringing life back into your cherished memories.<\/p><p><strong>Black & White to Color:<\/strong> Witness the transformation as we breathe new life into your monochrome treasures, adding depth and vibrancy.<\/p><p><strong> Image Reconstruction: <\/strong>Repair torn or damaged photos, recreating missing pieces for a seamless finish.<\/p><p><\/p><p><\/p><p><\/p><p>We understand the importance of time. Most restorations are completed promptly, so you can relive your family's history sooner than you think.<\/p><p>Rediscover the beauty of your old photos with Domore.ie. Let's embark on this journey of preserving and celebrating your family's legacy together!<\/p>",
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px"
-          }
-        },
-        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link_text": "Button",
-            "link_url": "\/",
-            "button_color_palette": "accent",
-            "button_style": "fill"
           }
         }
       },
       "block_order": [
         "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-title-1",
-        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-content-1",
-        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-button-1"
+        "template--19475072647498__fb9adf5e-7a15-48fb-9574-d1749d84bbd6-content-1"
       ],
       "settings": {
         "color_palette": "white",
@@ -405,58 +279,11 @@
             "font_size": "16px",
             "text": "<p>Prices vary acordingly depending on the amount of damage on the original photograph Additional charges for repair, renovation, colouring etc. are dependent upon the condition of your originals. Generally it will cost €10 per hour . We are happy to inspect your pictures, advise on what work is required and give a free, no-strings quotation at any time. Additional copies start from 0.20c depending on quantity (your only paying for restoration once).<\/p>"
           }
-        },
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-1": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-2": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-3": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
         }
       },
       "block_order": [
         "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-title-1",
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-text-1",
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-1",
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-2",
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-usp-3",
-        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-buttons-1"
+        "template--19475072647498__2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7-text-1"
       ],
       "custom_css": [
         "img {object-fit: contain !important;}"
@@ -473,61 +300,6 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "849adeae-df17-4c2f-bf4d-025f7bf3a78a": {
-      "type": "section-rich-text",
-      "blocks": {
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Sounds good, So what does it cost?",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-content-1": {
-          "type": "content",
-          "settings": {
-            "page": "",
-            "text": "<p>Prices vary acordingly depending on the amount of damage on the original photograph Additional charges for repair, renovation, colouring etc. are dependent upon the condition of your originals. Generally it will cost €10 per hour . We are happy to inspect your pictures, advise on what work is required and give a free, no-strings quotation at any time. Additional copies start from 0.20c depending on quantity (your only paying for restoration once).<\/p>",
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link_text": "Button",
-            "link_url": "\/",
-            "button_color_palette": "accent",
-            "button_style": "fill"
-          }
-        }
-      },
-      "block_order": [
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-title-1",
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-content-1",
-        "template--19475072647498__849adeae-df17-4c2f-bf4d-025f7bf3a78a-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "text_position": "text-center",
-        "height": "xs",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "width": "wide",
-        "height_mobile": "xs",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -658,58 +430,11 @@
             "font_size": "16px",
             "text": "<p>Get in Touch: Reach out to us at <a href=\"mailto:declan@domore.ie\">declan@domore.ie<\/a> or visit our shop in Killybegs.<\/p><p>Send Your Photo: Share your image with us for a no-obligation quote.<\/p><p>Expert Restoration: Declan will work his magic, breathing new life into your cherished photograph and if paid in advance you will get a preveiw win your email as well .<\/p>"
           }
-        },
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-1": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-2": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-3": {
-          "type": "usp",
-          "disabled": true,
-          "settings": {
-            "font": "secondary",
-            "usp": "Tell a unique detail about this image",
-            "font_size": "16px"
-          }
-        },
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "link_text_1": "Button",
-            "link_url_1": "\/",
-            "button_color_palette_1": "accent",
-            "button_style_1": "fill",
-            "show_link_1": false,
-            "link_text_2": "",
-            "link_url_2": "",
-            "button_color_palette_2": "light",
-            "button_style_2": "fill",
-            "show_link_2": false
-          }
         }
       },
       "block_order": [
         "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-title-1",
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-text-1",
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-1",
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-2",
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-usp-3",
-        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-buttons-1"
+        "template--19475072647498__48b46886-38a2-4590-a812-f51097ddb79a-text-1"
       ],
       "custom_css": [
         "img {object-fit: contain !important;}"
@@ -749,27 +474,16 @@
           "type": "content",
           "settings": {
             "page": "",
-            "text": "<p>Our Postal Address : Do more With your Pictures, \"Mc Gees Photocentre, Main st., Killybegs, Co. Donegal, Ireland (send a self adressed envelope to ensure a quick service).Alternatlivly if you have a scanner , you can email me the picture, and i can quote you within 24 hours, you can contact me<a href=\"https:\/\/domore.ie\/pages\/contact-us\" title=\"Contact Us\"><strong>HERE<\/strong><\/a><\/p>",
+            "text": "<p>Our Postal Address : Do more With your Pictures, \"Mc Gees Photocentre, Main st., Killybegs, Co. Donegal, Ireland (send a self adressed envelope to ensure a quick service).Alternatlivly if you have a scanner , you can email me the picture, and i can quote you within 24 hours, you can contact me  <a href=\"https:\/\/domore.ie\/pages\/contact-us\" title=\"Contact Us\"><strong>HERE<\/strong><\/a><\/p>",
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px"
-          }
-        },
-        "template--19475072647498__49f8356d-f061-4131-a6f5-16e078c50d82-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link_text": "Button",
-            "link_url": "\/",
-            "button_color_palette": "accent",
-            "button_style": "fill"
           }
         }
       },
       "block_order": [
         "template--19475072647498__49f8356d-f061-4131-a6f5-16e078c50d82-title-1",
-        "template--19475072647498__49f8356d-f061-4131-a6f5-16e078c50d82-content-1",
-        "template--19475072647498__49f8356d-f061-4131-a6f5-16e078c50d82-button-1"
+        "template--19475072647498__49f8356d-f061-4131-a6f5-16e078c50d82-content-1"
       ],
       "settings": {
         "color_palette": "white",
@@ -789,12 +503,10 @@
   "order": [
     "breadcrumbs",
     "main-page",
-    "d79ecb01-0118-4636-add8-04c8b1f2f45f",
     "62a0875f-a0c1-451f-8c87-8b478a3ebb00",
     "8fd09eeb-b395-4813-9a20-05a7e0990230",
     "fb9adf5e-7a15-48fb-9574-d1749d84bbd6",
     "2faf31e8-dcdd-4e23-b6cd-e24bcb9d85a7",
-    "849adeae-df17-4c2f-bf4d-025f7bf3a78a",
     "6fb7007e-595c-48d9-951d-4d47d4298a79",
     "48b46886-38a2-4590-a812-f51097ddb79a",
     "49f8356d-f061-4131-a6f5-16e078c50d82"
