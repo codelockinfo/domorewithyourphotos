@@ -128,10 +128,10 @@
         "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Visit us in Killybegs where we offer the full range of Passport Photos and ID Photos for Adults, Kids and Babies.<br\/>We have recently installed a professional lighting system and now validate every photo on the official Department of Foreign Affairs website before providing it to you and can now guarantee you photos will never being rejected your online application making your online application faster.<br\/><br\/>Digital Photos now available for Online renewals<br\/><br\/><strong>We also provide photo ID for :<\/strong><\/p><ul><li>foreign Passport Renewals (such as USA, UK, Canada etc<\/li><li>All other forms of Photo ID is also supported, such as<\/li><li>Age Cards photos<\/li><li>Visa’s  photos, Any country, any size<\/li><li>Disability, bus pass Permits photos<\/li><li>PSV Licenses photos<\/li><li>SafePass photos<\/li><li>Driving Theory test photos<\/li><li>Children and baby photos<\/li><\/ul><p><br\/>All Photos are taken and printed while you wait – no appointment is necessary so pop down to us in today.<\/p>"
+            "text": "<p>Get Your Passport and ID Photos in Killybegs, Ireland - We offer a comprehensive range of Passport and ID Photos for Adults, Kids, and Babies. Our newly installed professional lighting system ensures accuracy. Every photo is validated on the official Department of Foreign Affairs website, ensuring swift processing and no rejections.<\/p><p>Digital Photos now available for Online Renewals<\/p><p>We also provide photo ID services for:<\/p><ul><li>Foreign Passport Renewals (USA, UK, Canada, etc.)<\/li><li>Age Cards<\/li><li>Visa Applications (Any country, any size)<\/li><li>Disability and Bus Pass Permits<\/li><li>PSV Licenses<\/li><li>SafePass<\/li><li>Driving Theory Tests<\/li><li>Children and Baby Photos<\/li><\/ul><p>No appointments needed - Walk in today for instant, reliable service.<\/p>"
           }
         },
         "template--19449641533770__5c94fc0f-42ed-4bb4-98ae-23eb13babdab-usp-1": {
@@ -191,7 +191,7 @@
       ],
       "settings": {
         "imagetextid": "Passport",
-        "image": "shopify:\/\/shop_images\/custom_resized_4b21e67a-0570-4242-9b8c-977e0cdf28c8.jpg",
+        "image": "shopify:\/\/shop_images\/Passport-idphotos.png",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
@@ -223,10 +223,10 @@
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<h4>1. Instant Prints form your phone or camera while you wait<\/h4><p>Pop into is in Killybegs and we can print your photos while you wait from your mobile phone or camera at no extra charge. Get expert advise options and help using our kiosks.<\/p><h4>2.  Copy Old Photos<\/h4><p>Bring in your prints and have them copied and or enlarged. Dont loose your family history, we can copy, repair and restore store your old photos.<\/p><h4>3. Enlargements and Poster prints<\/h4><p>Your beautiful, meaningful photos are something to be proud of so show them off as large A1 framed prints on your walls. We can help you transform your own personal experiences and memories into picture perfect wall art<\/p><h4>4. Canvas Prints and Photoblocks<\/h4><p>Create stunning wall art from your memories by turning your precious photos into canvas prints or photoblocks. All our canvas prints comes finished using large 2inch stretcher frames and 100% cotton canvas. Guaranteed to last a lifetime wiht no fading overtime.<\/p>"
+            "text": "<ol><li><strong>Instant Photo Printing in Killybegs, Ireland:<\/strong><br\/>\"Visit us in Killybegs for Instant Photo Prints! Whether from your phone or camera, we offer on-the-spot printing at no extra cost. Our expert team can assist you with options and guide you through using our kiosks for the best results.\"<\/li><li><strong>Preserve Your Family History with Photo Copying:<\/strong><br\/>\"Don't risk losing your family's precious history. Bring in your old prints for copying and enlargement services. We specialize in copying, repairing, and restoring old photos, ensuring your cherished memories endure for generations.\"<\/li><li><strong>Elevate Your Memories with Enlargements and Poster Prints:<\/strong><br\/>\"Your cherished moments deserve to be showcased proudly. Turn your meaningful photos into stunning A1 framed prints, perfect for adorning your walls. Let us help you transform your personal experiences into timeless, picture-perfect wall art.\"<\/li><li><strong>Timeless Wall Art with Canvas Prints and Photoblocks:<\/strong><br\/>\"Create captivating wall art from your treasured memories! Our canvas prints and photoblocks turn your photos into stunning pieces of art. Crafted with 100% cotton canvas and large 2-inch stretcher frames, these prints are guaranteed to stand the test of time, with no fading over the years.<\/li><\/ol>"
           }
         },
         "template--19449641533770__634cc43a-4488-4a31-b024-d9bbd52f2e53-usp-1": {
@@ -309,7 +309,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Framing Services",
+            "title": "Discover Our Exceptional Photo Framing Service",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -321,7 +321,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>A traditional personal service giving you access to over 2000 options. We can find any framing solution to suit all your photographs and budgets. From your family wedding photos to your holiday in the sun – we can frame it! We can offer you expert advice in a relaxed, friendly atmosphere.Bespoke framing service available where we can cater for any size including multi aperture options. Yuo name it, we can frame it.<\/p>"
+            "text": "<p><\/p><p>Experience a Personalized Touch with Our Framing Services<br\/>Our traditional approach to framing ensures you have access to an extensive selection of over 2000 options. Whether it's your cherished family wedding photos or the memories from a sun-soaked holiday, we're equipped to frame them all.<\/p><p>Expert Advice in a Warm and Welcoming Environment<br\/>At our framing studio, we provide expert guidance in a relaxed, friendly atmosphere. Our team is dedicated to helping you choose the perfect frame that complements your photographs and fits your budget.<\/p><p>Bespoke Framing Solutions Tailored to Your Needs<br\/>Looking for a unique and custom framing service? We've got you covered! Our bespoke framing service caters to any size, including multi-aperture options. Whatever you envision, we have the expertise to turn it into reality.<\/p><p>Elevate Your Memories with Professional Framing<br\/>Preserve the essence of your special moments with our professional framing services. Whether it's a family portrait, a landscape shot, or a candid beach scene, we have the skills to frame it beautifully.<\/p><p>Premium Quality Frames for Every Occasion<br\/>Our frames are crafted with precision and care to ensure they enhance the beauty of your photographs. We understand the sentimental value of your memories, and our frames are designed to protect and showcase them flawlessly.<\/p><p>Affordable Framing Solutions That Fit Any Budget<br\/>We believe that everyone deserves to have their memories displayed in quality frames. That's why we offer a range of options to suit different budgets, ensuring that you can enjoy the benefits of professional framing without breaking the bank.<\/p><p>Visit Us Today for Unmatched Framing Expertise<br\/>Discover the difference of our framing services at our studio in Ireland. With a wealth of options, personalized advice, and bespoke solutions, we're here to transform your photographs into treasured works of art. Let us help you frame your memories with care and craftsmanship!<\/p>"
           }
         },
         "template--19449641533770__e881e35e-f58a-4e20-bcae-4632f201c683-usp-1": {
@@ -397,27 +397,6 @@
         "fix_zindex": 0
       }
     },
-    "ef995478-84d7-4f44-9d3d-62a5f693ff66": {
-      "type": "our_services",
-      "blocks": {
-        "4b4c05ce-bce5-4e31-b316-af2f77557b4c": {
-          "type": "blocks",
-          "settings": {
-            "data_id": "Passport",
-            "data_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "4b4c05ce-bce5-4e31-b316-af2f77557b4c"
-      ],
-      "disabled": true,
-      "settings": {
-        "serviceimg": "shopify:\/\/shop_images\/Layer_6.png",
-        "servicehead": "Our Services",
-        "servicetitle": "Visit us in main st, Killybegs where we can offer"
-      }
-    },
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e": {
       "type": "section-image-with-text",
       "blocks": {
@@ -435,10 +414,10 @@
         "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>We stock a large range of ready made frames and photo albums in all sizes from the very small to the extra large A1 size from wood and silver. Stock is updated on a daily basis so it is not possible to make these products available online. Official stockist of Newbridge silverware, Galway crystal, Genesis fine art, Tipperary Crystal and Belleek pottery Our personalised photobooks can only be created online<\/p>"
+            "text": "<p>Discover an extensive selection of ready-made frames and photo albums in various sizes, ranging from small to extra-large A1 size. Our offerings include wooden and silver frames, ensuring you find the perfect fit for your cherished memories.<\/p><p>Please note that our stock is regularly updated to provide you with the latest options, and while we do not currently offer these products for online purchase, you can visit our store to explore our full range.<\/p><p>As an authorized stockist, we proudly feature renowned brands such as Newbridge Silverware, Galway Crystal, Genesis Fine Art, Tipperary Crystal, and Belleek Pottery. Rest assured, you'll find only authentic and high-quality products at our establishment.<\/p><p>Create Personalized Photobooks Online<br\/>Elevate your photo album experience with our personalized photobooks, which can be conveniently designed and ordered online. Crafted with care and tailored to your preferences, these photobooks are a delightful way to preserve and showcase your treasured moments.<\/p><p>Visit us today to explore our diverse range of frames, albums, and personalized photobooks. With top-tier brands and customizable options, we're here to help you transform your photographs into lasting keepsakes.<\/p><p><a href=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\" title=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\">Shop Frames Here <\/a><\/p><p><a href=\"https:\/\/domore.ie\/pages\/photo-album\" title=\"https:\/\/domore.ie\/pages\/photo-album\">Shop Albums Here<\/a><\/p>"
           }
         },
         "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-1": {
@@ -548,7 +527,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h4",
-            "title": "fujifilm Instax mini 11 NOW in Stock",
+            "title": "fujifilm Instax mini 12 NOW in Stock",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -557,10 +536,10 @@
         "template--19449641533770__7f490ebb-4d3e-4d91-9968-ef60b4550d37-text-1": {
           "type": "text",
           "settings": {
-            "font": "secondary",
+            "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p><\/p><p>Official stockist of Sony, kodak digital cameras.<\/p><p>Full range of fujifilm Instax cameras, printers and film accessories in stock now Instax 11 now available in 5 colours .<\/p>"
+            "text": "<p>As an authorized retailer of Sony and Kodak digital cameras, we bring you the latest in cutting-edge photography technology. But that's not all – we're also your go-to destination for the complete lineup of Fujifilm Instax cameras, printers, and accessories.<\/p><p>Introducing the Instax 12 – now available in five vibrant colors! This latest addition to the Instax family promises instant gratification with its user-friendly features and superb image quality. Get ready to capture your favorite moments and watch them develop right before your eyes.<\/p><p>With our extensive selection of Fujifilm Instax products, you'll have everything you need to embark on your instant photography journey. From sleek and compact cameras to high-quality films and convenient accessories, we've got you covered.<\/p><p>Visit us today to explore our full range of Fujifilm Instax offerings and elevate your photography experience to a whole new level. Get ready to capture memories in an instant with Fujifilm Instax – where every moment is a masterpiece<\/p><p><\/p><p><a href=\"https:\/\/domore.ie\/pages\/instax-mini-12-ireland\" title=\"https:\/\/domore.ie\/pages\/instax-mini-12-ireland\">Shop Fujifilm Instax Here<\/a><\/p>"
           }
         }
       },
@@ -611,7 +590,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>We are very experienced in data recovery and can recover deleted files, music and lost digital photos from failed or corrupt flash cards or any smart media. We can recover data from any smart media type ranging from USB Memory Stick, SD Cards, MMC Cards, XD Cards, Compact Flash Memory Cards, Sony memory sticks etc.<\/p><p>Pop into us today or contact us for more information.<\/p>"
+            "text": "<p>Don't Panic! We Specialize in Data Recovery for Deleted Memory Cards.<\/p><p>Accidentally deleted important files, music, or precious digital photos from your flash card or smart media? No worries! Our team of experts is highly experienced in data recovery and can retrieve your lost data.<\/p><p>We offer comprehensive recovery services for a wide range of smart media types, including USB Memory Sticks, SD Cards, MMC Cards, XD Cards, Compact Flash Memory Cards, Sony memory sticks, and more. Whether your storage device has failed or become corrupt, we have the expertise to help.<\/p><p>Visit us today or get in touch for more information. Your memories are important, and we're here to help you get them back!<\/p>"
           }
         }
       },
@@ -645,8 +624,8 @@
         "template--19449641533770__8106adf2-ec36-4f42-bf8a-40f5cd4fc33b-image-1": {
           "type": "image",
           "settings": {
-            "imgid": "https:\/\/domore.ie\/pages\/personalisedphotobanners",
-            "image": "shopify:\/\/shop_images\/Landing_page1sm_c52f092e-c052-4ca3-b93e-d5abb823558c.jpg",
+            "imgid": "https:\/\/580.app.fujipix.ie\/products\/digital-print\/all-products-of-category\/12\/1\/none",
+            "image": "shopify:\/\/shop_images\/FIRE_Digital_assets_Summer_Slider_screen_1440x460px.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -703,65 +682,89 @@
         "fix_zindex": 0
       }
     },
-    "121f0efb-ba09-4338-9708-84f56cf1aaee": {
-      "type": "section-collage",
+    "d66c663b-f0fc-4317-a501-85af813a4520": {
+      "type": "section-image-with-text",
       "blocks": {
-        "template--19449641533770__121f0efb-ba09-4338-9708-84f56cf1aaee-image-1": {
-          "type": "image",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1": {
+          "type": "title",
           "settings": {
-            "imgid": "https:\/\/580.app.fujipix.ie\/",
-            "image": "shopify:\/\/shop_images\/Landing_page3a.jpg",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "button_color_palette": "accent",
-            "text_position": "text-center",
-            "title": "",
             "title_font": "primary",
             "title_size": "h2",
+            "title": "Elevate Your Celebrations with Personalized Touches!",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "primary",
+            "font_weight": "400",
             "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [
-
-            ],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
+            "text": "<p>At DoMore.ie, we specialize in creating customized party banners, selfie frames, and welcome boards. Add a personal touch to your special occasions like birthdays, anniversaries, graduations, and more. Choose from a variety of designs, colors, and sizes to suit your theme.<\/p><p>Create unforgettable memories with our bespoke, personalized party decorations. Order yours today at DoMore.ie!\"<\/p><p><a href=\"\/pages\/personalised-party-banners\" title=\"Personalised Party Banners\"><strong>Personalise Your Party Here<\/strong><\/a><\/p>"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-1": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-2": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-3": {
+          "type": "usp",
+          "settings": {
+            "font": "secondary",
+            "usp": "Tell a unique detail about this image",
+            "font_size": "16px"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
           }
         }
       },
       "block_order": [
-        "template--19449641533770__121f0efb-ba09-4338-9708-84f56cf1aaee-image-1"
-      ],
-      "custom_css": [
-        "img {object-fit: fill !important;}"
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-1",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-2",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-usp-3",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-buttons-1"
       ],
       "settings": {
-        "collageimg": "",
-        "mirrored": false,
+        "imagetextid": "partybanners",
+        "image": "shopify:\/\/shop_images\/ban.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
         "width": "boxed",
-        "height": "size-m",
+        "height": "l",
         "enable_custom_height": false,
         "custom_height": 300,
-        "space_between": 16,
-        "image_zoom": false,
-        "image_move": false,
-        "layout_mobile": "rows",
-        "mobile_height": "size-s",
+        "text_position": "text-start",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -775,11 +778,10 @@
     "5c94fc0f-42ed-4bb4-98ae-23eb13babdab",
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
     "e881e35e-f58a-4e20-bcae-4632f201c683",
-    "ef995478-84d7-4f44-9d3d-62a5f693ff66",
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e",
     "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
     "4eae6704-5f77-424a-876d-bc2e9fa742d8",
     "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b",
-    "121f0efb-ba09-4338-9708-84f56cf1aaee"
+    "d66c663b-f0fc-4317-a501-85af813a4520"
   ]
 }
