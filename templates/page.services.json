@@ -425,7 +425,7 @@
             "font": "primary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Discover an extensive selection of ready-made frames and photo albums in various sizes, ranging from small to extra-large A1 size. Our offerings include wooden and silver frames, ensuring you find the perfect fit for your cherished memories.<\/p><p>As an authorized stockist, we proudly feature renowned brands such as Newbridge Silverware, Galway Crystal, Genesis Fine Art, Tipperary Crystal, and Belleek Pottery. Rest assured, you'll find only authentic and high-quality products here.<\/p><p>Create Personalized Photobooks Online<br\/>Elevate your photo album experience with our personalized photobooks, which can be conveniently designed and ordered online. Crafted with care and tailored to your preferences, these photobooks are a delightful way to preserve and showcase your treasured moments.<\/p><p>Visit us today to explore our diverse range of frames, albums, and personalized photobooks. With top-tier brands and customizable options, we're here to help you transform your photographs into lasting keepsakes.<\/p><p><\/p><p><a href=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\" title=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\">Shop Frames Here <\/a><\/p><p><a href=\"https:\/\/domore.ie\/pages\/photo-album\" title=\"https:\/\/domore.ie\/pages\/photo-album\">Shop Albums Here<\/a><\/p>"
+            "text": "<p>Discover an extensive selection of ready-made frames and photo albums in various sizes, ranging from small to extra-large A1 size. Our offerings include wooden and silver frames, ensuring you find the perfect fit for your cherished memories.<\/p><p>As an authorized stockist, we proudly feature renowned brands such as Newbridge Silverware, Galway Crystal, Genesis Fine Art, Tipperary Crystal, and Belleek Pottery. Rest assured, you'll find only authentic and high-quality products here.<\/p><p>Create Personalised Photobooks Online<br\/>Elevate your photo album experience with our personalized photobooks, which can be conveniently designed and ordered online. Crafted with care and tailored to your preferences, these photobooks are a delightful way to preserve and showcase your treasured moments. <\/p><p><a href=\"https:\/\/580.app.fujipix.ie\/products\/photo-books\/all-products-of-category\/12\/1\/none\" title=\"https:\/\/580.app.fujipix.ie\/products\/photo-books\/all-products-of-category\/12\/1\/none\"><strong>Create a Photobook Here<\/strong><\/a><\/p><p>Visit us today to explore our diverse range of frames, albums, and personalised photobooks. With top-tier brands and customizable options, we're here to help you transform your photographs into lasting keepsakes.<\/p><p><\/p><p><a href=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\" title=\"https:\/\/domore.ie\/collections\/all-our-photo-frames\">Shop Frames Here <\/a><\/p><p><a href=\"https:\/\/domore.ie\/pages\/photo-album\" title=\"https:\/\/domore.ie\/pages\/photo-album\">Shop Albums Here<\/a><\/p>"
           }
         },
         "template--19449641533770__e46d8efc-d180-4f4f-8cb4-c566b20b0a6e-usp-1": {
@@ -490,6 +490,99 @@
         "color_palette": "white",
         "overlay_opacity": 100,
         "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "4eae6704-5f77-424a-876d-bc2e9fa742d8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Memory Card Recovery",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>Don't Panic! We Specialize in Data Recovery for Deleted Memory Cards.<\/p><p>Accidentally deleted important files, music, or precious digital photos from your flash card or smart media? No worries! Our team of experts is highly experienced in data recovery and can retrieve your lost data.<\/p><p>We offer comprehensive recovery services for a wide range of smart media types, including USB Memory Sticks, SD Cards, MMC Cards, XD Cards, Compact Flash Memory Cards, Sony memory sticks, and more. Whether your storage device has failed or become corrupt, we have the expertise to help.<\/p><p>Visit us today or get in touch for more information. Your memories are important, and we're here to help you get them back!<\/p><p><a href=\"https:\/\/domore.ie\/pages\/contact-us\" title=\"https:\/\/domore.ie\/pages\/contact-us\"><strong>Dont panic, Get in touch today !<\/strong><\/a><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1",
+        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1"
+      ],
+      "custom_css": [
+        ".imagetext article picture img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "imagetextid": "memory-card-recovery",
+        "image": "shopify:\/\/shop_images\/Layer_17.png",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-right",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "d66c663b-f0fc-4317-a501-85af813a4520": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1": {
+          "type": "title",
+          "settings": {
+            "title_font": "primary",
+            "title_size": "h2",
+            "title": "Elevate Your Celebrations with Personalized Touches!",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1": {
+          "type": "text",
+          "settings": {
+            "font": "primary",
+            "font_weight": "400",
+            "font_size": "16px",
+            "text": "<p>At DoMore.ie, we specialize in creating customized party banners, selfie frames, and welcome boards. Add a personal touch to your special occasions like birthdays, anniversaries, graduations, and more. Choose from a variety of designs, colors, and sizes to suit your theme.<\/p><p>Create unforgettable memories with our bespoke, personalized party decorations. Order yours today at DoMore.ie!\"<\/p><p><a href=\"\/pages\/personalised-party-banners\" title=\"Personalised Party Banners\"><strong>Personalise Your Party Here<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1",
+        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1"
+      ],
+      "settings": {
+        "imagetextid": "partybanners",
+        "image": "shopify:\/\/shop_images\/ban.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
         "width": "boxed",
         "height": "l",
         "enable_custom_height": false,
@@ -578,99 +671,6 @@
         "fix_zindex": 0
       }
     },
-    "4eae6704-5f77-424a-876d-bc2e9fa742d8": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Memory Card Recovery",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>Don't Panic! We Specialize in Data Recovery for Deleted Memory Cards.<\/p><p>Accidentally deleted important files, music, or precious digital photos from your flash card or smart media? No worries! Our team of experts is highly experienced in data recovery and can retrieve your lost data.<\/p><p>We offer comprehensive recovery services for a wide range of smart media types, including USB Memory Sticks, SD Cards, MMC Cards, XD Cards, Compact Flash Memory Cards, Sony memory sticks, and more. Whether your storage device has failed or become corrupt, we have the expertise to help.<\/p><p>Visit us today or get in touch for more information. Your memories are important, and we're here to help you get them back!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-title-1",
-        "template--19449641533770__4eae6704-5f77-424a-876d-bc2e9fa742d8-text-1"
-      ],
-      "custom_css": [
-        ".imagetext article picture img {object-fit: contain !important;}"
-      ],
-      "settings": {
-        "imagetextid": "memory-card-recovery",
-        "image": "shopify:\/\/shop_images\/Layer_17.png",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-right",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "d66c663b-f0fc-4317-a501-85af813a4520": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1": {
-          "type": "title",
-          "settings": {
-            "title_font": "primary",
-            "title_size": "h2",
-            "title": "Elevate Your Celebrations with Personalized Touches!",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1": {
-          "type": "text",
-          "settings": {
-            "font": "primary",
-            "font_weight": "400",
-            "font_size": "16px",
-            "text": "<p>At DoMore.ie, we specialize in creating customized party banners, selfie frames, and welcome boards. Add a personal touch to your special occasions like birthdays, anniversaries, graduations, and more. Choose from a variety of designs, colors, and sizes to suit your theme.<\/p><p>Create unforgettable memories with our bespoke, personalized party decorations. Order yours today at DoMore.ie!\"<\/p><p><a href=\"\/pages\/personalised-party-banners\" title=\"Personalised Party Banners\"><strong>Personalise Your Party Here<\/strong><\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-title-1",
-        "template--19449641533770__d66c663b-f0fc-4317-a501-85af813a4520-text-1"
-      ],
-      "settings": {
-        "imagetextid": "partybanners",
-        "image": "shopify:\/\/shop_images\/ban.jpg",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-left",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b": {
       "type": "section-collage",
       "blocks": {
@@ -744,9 +744,9 @@
     "634cc43a-4488-4a31-b024-d9bbd52f2e53",
     "e881e35e-f58a-4e20-bcae-4632f201c683",
     "e46d8efc-d180-4f4f-8cb4-c566b20b0a6e",
-    "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
     "4eae6704-5f77-424a-876d-bc2e9fa742d8",
     "d66c663b-f0fc-4317-a501-85af813a4520",
+    "7f490ebb-4d3e-4d91-9968-ef60b4550d37",
     "8106adf2-ec36-4f42-bf8a-40f5cd4fc33b"
   ]
 }
