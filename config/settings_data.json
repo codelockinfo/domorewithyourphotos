@@ -10,7 +10,7 @@
     "palette_light_2": "#ea1a2e",
     "palette_light_gradient": "linear-gradient(120deg, rgba(244, 244, 244, 1), rgba(239, 179, 76, 0.51) 100%)",
     "palette_dark_gradient": "linear-gradient(320deg, rgba(232, 74, 147, 1) 4%, rgba(239, 179, 76, 1) 100%)",
-    "title_color": "light",
+    "title_color": "black",
     "text_color": "black",
     "show_color_scheme_bar": false,
     "body_background_color": "#FFFFFF",
