@@ -21,7 +21,7 @@
     "buy_button_color": "#ea1a2e",
     "buy_button_text_color": "#ffffff",
     "dynamic_buy_button_color": "#ea1a2e",
-    "dropdown_color": "black",
+    "dropdown_color": "white",
     "active_tabs_color": "accent",
     "price_color": "#0e0e0e",
     "compare_at_price_color": "#ff0000",
