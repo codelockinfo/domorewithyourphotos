@@ -255,7 +255,7 @@
         "top_bar_color": "white",
         "header_color": "white",
         "search_color": "white",
-        "menubar_color": "white",
+        "menubar_color": "light",
         "show_top_bar": false,
         "top_bar_font_size": "14px",
         "navbar_menu_item_text": "Contact us",
