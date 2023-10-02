@@ -159,7 +159,7 @@
         "@media only screen and (max-width: 760px) {.footericons {margin-right: unset !important; }}"
       ],
       "settings": {
-        "footer_color": "light",
+        "footer_color": "white",
         "column_text_alignment": "left",
         "content_position": "left",
         "title_font": "primary",
