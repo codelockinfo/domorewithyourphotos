@@ -282,7 +282,7 @@
         "menubar_alignment": "center",
         "menubar_border": false,
         "menubar_border_width": "wide",
-        "menubar_border_color": "#f4f4f4",
+        "menubar_border_color": "#e3e3e3",
         "main_menu_items_clickable": true,
         "menubar_caps": false,
         "sale_highlight": true,
