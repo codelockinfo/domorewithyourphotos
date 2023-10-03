@@ -304,7 +304,7 @@
   {%- endif -%}
 </div>
 <div class="footericons">
-  <img src=" {{ section.settings.footericon  | img_url: '800x800'    }}" alt="">
+  <img src=" {{ section.settings.footericon  | img_url: '800x800'    }}" alt="{{ section.settings.footericon.alt | escape  }}">
 
 </div>
           <script type="text/javascript"> var yotpo_app_key = "MT1NhvGDnMOtcr61sFNN4ImGjDt6oVBs4152y9p8";
