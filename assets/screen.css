@@ -7209,3 +7209,16 @@ transform: scale(1.1);
 	max-height: 400px !important;
 }
 }
+.yotpo .yotpo-first-review .yotpo-first-review-content{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.main-widget.yotpo-display-wrapper{
+	margin-bottom: 28px;
+}
+.product_page span.bold_option_element select{
+	color: #040404;
+	/* border-color: #0000005e; */
+}
