@@ -6337,7 +6337,7 @@ h3.servicehed {
 	display: none;
 }
 .collage_img  [class^=palette-] .link-btn a:not(.loading){
-	background-color: #fff !important;
+	/* background-color: #fff !important; */
 }
 .categories-heading{
 	margin: auto;
