@@ -18,7 +18,7 @@
 #nav > ul > li > ul > *:before, #nav-bar > ul > li > ul > *:before { left: -17px; top: 0 /*6px*/; bottom: 0 /*9px*/; border: 0 solid var(--custom_top_nav_bd); border-left-width: 1px; }
 #nav > ul > li.no-inner-borders > ul > *:before, #nav-bar > ul > li.no-inner-borders > ul > *:before { border-color: rgba(0,0,0,0); }
 .m2a #nav > ul > li > ul > *:last-child, .m2a #nav-bar > ul > li > ul > *:last-child { padding-right: 24px; }
-#nav > ul > li > ul ul li, #nav-bar > ul > li > ul ul li { margin: 0 0 15px; }
+#nav > ul > li > ul ul li, #nav-bar > ul > li > ul ul li { margin: 0 0 5px; }
 #nav > ul > li > ul ul li > a, #nav-bar > ul > li > ul ul li > a { display: block; min-height: 39px; color: inherit; text-decoration: none; }
 #nav > ul > li > ul ul li a img, #nav-bar > ul > li > ul ul li a img, .sub-static > ul a img { display: block; margin-right: 15px; }
 #nav > ul > li > ul ul ul, #nav-bar > ul > li > ul ul ul { padding: 9px 0 0; font-weight: var(--main_fw); }
@@ -573,3 +573,9 @@
 
 	#root .shopify-section-header #nav > ul > li.sub > a span.mobile-hide { position: relative; left: 0; top: 0; }
 }
+/* custom css  */
+#nav ul .sub .cls_submegamenu{
+	font-weight: 700;
+	font-size: 18px !important;
+}
+/* custom css  */
