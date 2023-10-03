@@ -530,7 +530,7 @@
         "limit": 21,
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "<a href=\"https:\/\/domorewithyourphotos.myshopify.com\/collections\/most-popular-products\">Our Best Selling Photo Collages<\/a>",
+        "title": "Our Best Selling Photo Collages",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
