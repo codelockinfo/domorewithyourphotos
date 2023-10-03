@@ -6966,6 +6966,9 @@ section.photo-main-sec {
 	.flexible-layout .column-quarter ,.flexible-layout .column-half-quarter {
 		padding: 0 2%;
 	}
+	.how_work .ppdm_layout .orderdetail{
+		min-height: auto;
+	}
 }
 @media(max-width: 540px) {
 	.photo-btn-wrap a{
