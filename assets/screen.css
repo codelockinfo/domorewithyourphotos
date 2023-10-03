@@ -5225,7 +5225,7 @@ p.text-center.size-s ,a.close{
 	display: block;
 }
 .bold_option.bold_option_uploadfile {
-	position: relative;
+	/* position: relative;
     overflow: hidden;
     margin-bottom: 10px !important; 
     margin-top: 10px !important; 
@@ -5233,15 +5233,14 @@ p.text-center.size-s ,a.close{
 	padding-bottom: 10px !important;
     color: #333;
     background-color: #fff;
-    /* border-color: #ccc; */
     padding: 8px 16px 7px;
-	border: 1px solid #efefef;
+	border: 1px solid #efefef; */
 }
 .bold_option_title{
 	margin-left: 2px;
 }
 .bold_option_uploadfile .bold_option_element input[type=file] {
-	position: absolute;
+	/* position: absolute;
 	top: 0;
 	right: 0;
 	margin: 0;
@@ -5249,7 +5248,7 @@ p.text-center.size-s ,a.close{
 	font-size: 20px;
 	cursor: pointer;
 	opacity: 0;
-	filter: alpha(opacity=0);
+	filter: alpha(opacity=0); */
 }
 .clsHidemenu{
 	display: none;
