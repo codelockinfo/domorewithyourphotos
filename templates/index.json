@@ -93,9 +93,9 @@
             "text": "",
             "enable_custom_font_styling": true,
             "font_size": "18px",
-            "link_text": "Shop Banners Now",
+            "link_text": "Shop Party Banners Now",
             "link_url": "shopify:\/\/pages\/personalisedphotobanners",
-            "show_link": false,
+            "show_link": true,
             "show_look": false,
             "product_list": [
 
