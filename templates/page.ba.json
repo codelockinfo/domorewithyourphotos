@@ -599,6 +599,16 @@
         "fix_zindex": 0
       }
     },
+    "767ae077-36f5-4e8f-900f-4de071bb29d8": {
+      "type": "newimage-text",
+      "settings": {
+        "imgs": "shopify:\/\/shop_images\/2021_Number_Collagea_c8675fdc-2464-4039-b647-3fe4d6e3d893.jpg",
+        "title": "Give The Gift Of Memories",
+        "textarea": "Bring a tear to their eye and present them with their history hidden  within our number collages",
+        "title1": "Order Now",
+        "button_link": "shopify:\/\/collections\/number-photo-collages"
+      }
+    },
     "43664164-a993-48a4-bd99-e45e63e40113": {
       "type": "Gift_section",
       "settings": {
@@ -626,6 +636,7 @@
     "36de9cd6-bb30-47e8-9ed7-ffb67f36a7a0",
     "680794df-a1be-4bd7-8a34-d9dd5052151c",
     "51ed5aea-e64e-48b1-95ca-3dda8a6aed65",
+    "767ae077-36f5-4e8f-900f-4de071bb29d8",
     "43664164-a993-48a4-bd99-e45e63e40113"
   ]
 }
