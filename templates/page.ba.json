@@ -262,14 +262,14 @@
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/80th.jpg",
-            "button_link": ""
+            "button_link": "shopify:\/\/pages\/80th-birthday-framed-gifts-personalised-banners"
           }
         },
         "e3737de2-1c98-4cd3-89fb-8be1bc669700": {
           "type": "collection_block",
           "settings": {
             "imgs2": "shopify:\/\/shop_images\/90th.jpg",
-            "button_link": ""
+            "button_link": "shopify:\/\/pages\/90th-birthday-framed-gifts-personalised-banners"
           }
         }
       },
