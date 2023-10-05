@@ -1,0 +1,56 @@
+<div class="custom-banner-main">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-8 col-xs-12 custom-banner-image">
+          <img src=" {{ section.settings.imgs | img_url: '1024x1024' }}">
+        </div>
+        <div class="col-sm-4 col-xs-12 custom-banner-content">
+          <h3>{{ section.settings.title }}</h3>
+          <p>{{ section.settings.textarea }}</p>
+          <a class="order" href="{{ section.settings.button_link }}"> {{ section.settings.title1 }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% schema %}
+{
+  "name": "New-imag-text",
+  "class": "custom-section new_image_text",
+  "settings": [
+   {
+          "type": "image_picker",
+          "id": "imgs",
+          "label": "Image"
+        },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"     
+    },
+  {
+      "type": "textarea",
+      "id": "textarea",
+      "label": "Description",
+      "default": "collection section"   
+    },
+ 
+{
+      "type": "text",
+      "id": "title1",
+      "label": "Heading"     
+    },    
+{
+      "type": "url",
+      "id": "button_link",
+      "label": "Button link"  
+    }
+  ],
+  "presets": [
+    {
+      "name": "New-imag-text",
+      "category": "Image"
+    }
+  ]
+}
+{% endschema %}
