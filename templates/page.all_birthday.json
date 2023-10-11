@@ -53,10 +53,10 @@
             "button_link_3": "shopify:\/\/collections\/birthday-gifts",
             "btn_id": "#MostPopular",
             "btn_text": "Most Popular Gifts",
-            "btn_id1": "#canvas",
+            "btn_id1": "#birthdayCanvasArt",
             "btn_text1": "Canvas art",
-            "btn_id2": "#Birthday Banners",
-            "btn_text2": "BirthdayBanners"
+            "btn_id2": "#BirthdayBanners",
+            "btn_text2": "Birthday Banners"
           }
         }
       },
@@ -330,7 +330,7 @@
     "83771654-9371-4b9c-9d4b-4d883b88c9a5": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "birthday Canvas Art",
+        "bannerid": "birthdayCanvasArt",
         "collection": "birthday-photo-collage",
         "limit": 8,
         "number_of_items": 4,
@@ -393,7 +393,7 @@
     "b4cc244e-c47a-4a68-9c0c-947783a8ffba": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Birthday Banners",
+        "bannerid": "BirthdayBanners",
         "collection": "personalised-birthday-photo-banners-for-adults",
         "limit": 12,
         "number_of_items": 4,
