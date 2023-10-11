@@ -114,7 +114,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
             "heading": "Order",
-            "html": "Preview Sent for every order within 24 hours"
+            "html": "Al designs can be changed in any to suit your requirements"
           }
         }
       },
@@ -416,6 +416,7 @@
         "3c3ff5d4-6a73-4af9-8df5-f5b6b369634f"
       ],
       "settings": {
+        "bannerid3": "gifts",
         "right_text": "30th Photo CollagesCombining all your favourite photos in one frame is the perfect way to cherish your memories. They make fantastic birthday gifts as they can put on show, a person's life acheivements or best bits so far and they usually bring a tear to their eye (in a good way).If ordered we will send you an email on how to get your photos to us and a preview will be sent for your approvement before we print and ship to enusre its perfect.",
         "main_product": "30th-birthday-framed-photo-collage",
         "main2_product": "happy-30th-birthday-this-is-your-life-framed-photo-collage-birthday-gift"
