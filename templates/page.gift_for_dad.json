@@ -139,6 +139,7 @@
     "a002001e-86b3-4506-bd57-ed8fdd59f370": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "mugs",
         "collection": "mugs-father",
         "limit": 21,
         "number_of_items": 4,
@@ -170,6 +171,7 @@
     "a7adcd54-b14c-493e-b1c4-0c45b53ef838": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "fathers-day-photo-slates",
         "limit": 8,
         "number_of_items": 4,
@@ -201,6 +203,7 @@
     "47f3de0f-74b7-446a-b2fc-770f15498d4b": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "fathers-day-canvas-prints",
         "limit": 20,
         "number_of_items": 4,
@@ -232,6 +235,7 @@
     "bb11879c-db52-43e2-9d1c-04e4ce023044": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "fathers-day-gift-frames",
         "limit": 21,
         "number_of_items": 4,
@@ -263,6 +267,7 @@
     "77d1f3e3-4075-4caf-a6db-16b514cd1b74": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "personalised-framed-photo-collages-dad-or-grandad",
         "limit": 21,
         "number_of_items": 4,
