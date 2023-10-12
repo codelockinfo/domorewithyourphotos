@@ -235,7 +235,7 @@
     "bb11879c-db52-43e2-9d1c-04e4ce023044": {
       "type": "section-featured-collection",
       "settings": {
-        "bannerid": "",
+        "bannerid": "frame",
         "collection": "fathers-day-gift-frames",
         "limit": 21,
         "number_of_items": 4,
