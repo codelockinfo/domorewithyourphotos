@@ -394,7 +394,7 @@
       "type": "section_feature_collection_grid",
       "settings": {
         "bannerid": "BirthdayBanners",
-        "collection": "personalised-birthday-photo-banners-for-adults",
+        "collection": "personalised-birthday-photo-banners",
         "limit": 12,
         "number_of_items": 4,
         "text_alignment": "center",
