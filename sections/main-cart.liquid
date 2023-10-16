@@ -253,11 +253,11 @@
               <span>{{ 'cart.checkout' | t }}</span>
             </button>
           </p>
-          {%- if section.settings.show_dynamic_buybutton and additional_checkout_buttons -%}
+          <!-- {%- if section.settings.show_dynamic_buybutton and additional_checkout_buttons -%}
             <div class="m20 overlay-quaternary {{ settings.button_height }} {{ settings.button_style }}">
               {{ content_for_additional_checkout_buttons }}
             </div>
-          {%- endif -%}
+          {%- endif -%} -->
           {%- if settings.show_trustbadge -%}
             {%- render 'trustbadge' -%}
           {%- endif -%}
