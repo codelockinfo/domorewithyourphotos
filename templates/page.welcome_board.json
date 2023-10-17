@@ -150,7 +150,7 @@
       "settings": {
         "collections": [
           "personalised-welcome-boards-for-any-occasion",
-          "welcome-home-goodbye-personal-banners"
+          "welcome-home-personalised-banners"
         ],
         "buttons_color_palette": "black",
         "button_styling": "fill",
@@ -261,7 +261,7 @@
             "collection": "",
             "title2": "description",
             "imgs2": "shopify:\/\/shop_images\/b_welcome.jpg",
-            "button_link": "shopify:\/\/collections\/welcome-home-goodbye-personal-banners"
+            "button_link": "shopify:\/\/collections\/welcome-home-personalised-banners"
           }
         },
         "48c4041d-3e42-420f-b3a2-2dd0aaa78bcb": {
