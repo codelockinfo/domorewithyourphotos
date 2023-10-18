@@ -526,6 +526,7 @@
         "@media (max-width: 767px) {h3.p0 a {line-height: 22px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }}"
       ],
       "settings": {
+        "bannerid": "",
         "collection": "most-popular-framed-photo-collages-styles",
         "limit": 21,
         "number_of_items": 4,
@@ -557,6 +558,7 @@
     "bbcd08ff-e68b-4d9a-a186-7aeee33a3a32": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "most-popular-party-banenrs",
         "limit": 21,
         "number_of_items": 4,
@@ -922,6 +924,7 @@
         "@media (max-width: 767px) {h3.p0 a {line-height: 22px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }}"
       ],
       "settings": {
+        "bannerid": "",
         "collection": "just-print",
         "limit": 21,
         "number_of_items": 4,
@@ -1006,6 +1009,38 @@
         "show_content_below": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "b347cd11-c2df-48f9-9749-7b3ea8deae5d": {
+      "type": "section-featured-collection",
+      "settings": {
+        "bannerid": "differnet",
+        "collection": "exclusive-personalised-gifts",
+        "limit": 5,
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Something A Little Different",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "buynowcheck": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "14px",
+        "link_text": "",
+        "button_color_palette": "accent",
+        "show_link": false,
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -1132,6 +1167,39 @@
       ],
       "settings": {
       }
+    },
+    "23cd91ee-3797-412a-8aea-f3e7e4cb594f": {
+      "type": "section-blog-posts",
+      "settings": {
+        "blog": "news",
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Get Inspired",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": false,
+        "button_color_palette_post": "accent",
+        "show_link_post": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1149,8 +1217,10 @@
     "7fefcbef-dde3-4f59-8a6d-c70388748ad0",
     "80f7a530-b3de-42b4-ae43-bda8fe17b8f2",
     "94727f6b-34dc-4de9-a9ab-2bde94909e0c",
+    "b347cd11-c2df-48f9-9749-7b3ea8deae5d",
     "810a5104-f6f7-4a64-935d-3a285397bf19",
     "b19657d9-9ba4-42d2-9aac-094f50ec3905",
-    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616"
+    "6f9b4f08-1387-43c9-9c92-71d7bfc8a616",
+    "23cd91ee-3797-412a-8aea-f3e7e4cb594f"
   ]
 }
