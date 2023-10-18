@@ -1172,7 +1172,7 @@
       "type": "section-blog-posts",
       "settings": {
         "blog": "news",
-        "number_of_items": 4,
+        "number_of_items": 5,
         "text_alignment": "center",
         "title": "Get Inspired",
         "title_font": "primary",
