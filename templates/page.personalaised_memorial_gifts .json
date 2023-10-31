@@ -52,9 +52,9 @@
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
             "btn_id": "#welcomeboard",
-            "btn_text": "Slate",
-            "btn_id1": "#canvas",
-            "btn_text1": "Canvas Photo Collage",
+            "btn_text": "Popular",
+            "btn_id1": "#Popular",
+            "btn_text1": "Slate Only",
             "btn_id2": "#frame",
             "btn_text2": "Personalised Framed"
           }
