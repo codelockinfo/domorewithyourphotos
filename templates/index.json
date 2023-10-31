@@ -268,18 +268,6 @@
             "overlay_bg": "rgba(0,0,0,0)"
           }
         },
-        "a5ac15a7-0e63-4970-8e6f-74da7aa38438": {
-          "type": "image",
-          "settings": {
-            "width": "quarter",
-            "image": "shopify:\/\/shop_images\/but_freinds1.jpg",
-            "link_url": "shopify:\/\/pages\/personlised-gifts-for-friends",
-            "text": "Gifts For Friends",
-            "subtext": "",
-            "overlay_color": "#ffffff",
-            "overlay_bg": "rgba(0,0,0,0)"
-          }
-        },
         "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e": {
           "type": "image",
           "settings": {
@@ -291,6 +279,18 @@
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
           }
+        },
+        "a5ac15a7-0e63-4970-8e6f-74da7aa38438": {
+          "type": "image",
+          "settings": {
+            "width": "quarter",
+            "image": "shopify:\/\/shop_images\/but_santa.png",
+            "link_url": "shopify:\/\/collections\/magic-santa-photos",
+            "text": "Magic Santa Photos",
+            "subtext": "",
+            "overlay_color": "#ffffff",
+            "overlay_bg": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
@@ -298,8 +298,8 @@
         "15cf5aad-a853-46d7-a76d-c1d7e98a8122",
         "5dcf6549-c6f9-47ac-a443-0f8ca8e12b3f",
         "26db7fd2-c23a-4025-89de-48610eb0d016",
-        "a5ac15a7-0e63-4970-8e6f-74da7aa38438",
-        "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e"
+        "baa3f584-a7cb-4f6c-a2a2-f4f0d71fcd9e",
+        "a5ac15a7-0e63-4970-8e6f-74da7aa38438"
       ],
       "custom_css": [
         ".categories-heading h3 {text-align: center; font-family: Bitter, serif; text-transform: none; font-weight: var(--main_fw_h); font-style: normal; --main_fw_strong: var(--main_fw_h_strong); letter-spacing: -0.04em; font-size: var(--main_h2);}"
