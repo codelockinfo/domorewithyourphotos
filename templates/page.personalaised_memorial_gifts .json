@@ -45,18 +45,18 @@
             "top_heading": "",
             "heading": "Personalised Memorial Gifts",
             "html": "<p>When a loved one becomes a memory, that memory becomes a treasure. <\/p><p>Cherish your fond memories with a uniques photo collage that is made to order.<\/p><p> Our memorial gifts  are never identical They can be personalised to your exact requirements.  If you dont see a design you like, Let us now as bespoke orders are welcome.<\/p>",
-            "button_text": "Anniversary Photo banner",
-            "button_link": "shopify:\/\/collections\/personalised-gifts-for-anniversaries-1",
+            "button_text": "",
+            "button_link": "",
             "button_text_2": "Anniversary banner",
             "button_link_2": "shopify:\/\/collections\/banners-for-anniversaries",
             "button_text_3": "Anniversary Gifts",
             "button_link_3": "shopify:\/\/collections\/personalised-gifts-for-anniversaries",
-            "btn_id": "#welcomeboard",
+            "btn_id": "#Popular",
             "btn_text": "Popular",
-            "btn_id1": "#Popular",
+            "btn_id1": "#slate",
             "btn_text1": "Slate Only",
-            "btn_id2": "#frame",
-            "btn_text2": "Personalised Framed"
+            "btn_id2": "#canvas",
+            "btn_text2": "Canvas"
           }
         }
       },
@@ -107,7 +107,7 @@
     "d6ffdf4e-85a1-40cc-beef-b15b3d8906bb": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "Popular Remembrance",
+        "bannerid": "Popular",
         "collection": "memorial-gifts",
         "limit": 8,
         "number_of_items": 4,
@@ -139,7 +139,7 @@
     "d138c01a-9c39-4a17-9b20-0aa3ced74985": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "canvas",
+        "bannerid": "slate",
         "collection": "slate-memorial",
         "limit": 16,
         "number_of_items": 4,
@@ -203,7 +203,7 @@
     "187d2840-e3a4-4aa7-a740-ac22d36c3084": {
       "type": "section_feature_collection_grid",
       "settings": {
-        "bannerid": "frame",
+        "bannerid": "canvas",
         "collection": "memorial-photo-collage",
         "limit": 12,
         "number_of_items": 4,
