@@ -42,7 +42,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/20507278_1801807996746841_4507154809770605342_o.jpg",
+            "image": "shopify:\/\/shop_images\/003_f1ee9aab-ed35-4c60-938e-25419b6fcf5f.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -79,7 +79,6 @@
       "block_order": [
         "template--19460186374474__2cda9383-0261-442d-b3f4-9c653dd483f6-image-1"
       ],
-      "disabled": true,
       "custom_css": [
         "img {object-fit: fill !important;}"
       ],
@@ -88,9 +87,9 @@
         "mirrored": false,
         "width": "wide",
         "height": "size-l",
-        "enable_custom_height": true,
-        "custom_height": 800,
-        "space_between": 16,
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "space_between": 12,
         "image_zoom": false,
         "image_move": false,
         "layout_mobile": "rows",
@@ -660,7 +659,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "FREE Print with every frame.Visit us instore to see our our extensive range of photo frames that will suit any taste.",
+            "title": "FREE Print with every frame.   Visit us instore to see our our extensive range of photo frames that will suit any taste.",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "500"
@@ -754,6 +753,7 @@
       "blocks": {
         "template--19460186374474__153f1e2d-3ded-4895-abb8-36320769bbcc-title-1": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
@@ -851,6 +851,7 @@
         "70284d05-7b93-4595-9db7-10ddcb61ceea",
         "526dd2ff-1d73-4565-9729-506f43971078"
       ],
+      "disabled": true,
       "settings": {
         "pricehead": "Pricelist",
         "title": "Standard Prints"
@@ -1009,6 +1010,7 @@
         "0c29f183-064b-451f-bd82-275b004e7627",
         "48e1848a-da9f-46bc-a756-f4e7db2105fb"
       ],
+      "disabled": true,
       "settings": {
         "canvas_image": "shopify:\/\/shop_images\/photo-centre-canvases.jpg",
         "top_heading": "CANVAS PRINTS"
