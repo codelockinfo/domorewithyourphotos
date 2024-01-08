@@ -1106,6 +1106,63 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "d0808665-c7f9-4f95-a50d-4027d8de8567": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--19486195155274__d0808665-c7f9-4f95-a50d-4027d8de8567-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bottom.jpg",
+            "layout": "background",
+            "image_width": 50,
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "first_link_text": "",
+            "first_link_url": "shopify:\/\/collections\/all",
+            "first_button_color_palette": "accent",
+            "first_button_styling": "fill",
+            "first_show_link": false,
+            "second_link_text": "",
+            "second_link_url": "shopify:\/\/collections\/all",
+            "second_button_color_palette": "accent",
+            "second_button_styling": "fill",
+            "second_show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19486195155274__d0808665-c7f9-4f95-a50d-4027d8de8567-slide-1"
+      ],
+      "settings": {
+        "width": "wide",
+        "height": "m",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "enable_controls": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1124,6 +1181,7 @@
     "b6310324-56b5-4de1-a510-f46c7861be1b",
     "792ebfbb-e638-437b-b8a2-b9646f12d36c",
     "130443cd-790e-48e9-ab0c-893cdbe403a6",
-    "bcd420c1-9bee-435f-a49d-3050ba39e523"
+    "bcd420c1-9bee-435f-a49d-3050ba39e523",
+    "d0808665-c7f9-4f95-a50d-4027d8de8567"
   ]
 }
