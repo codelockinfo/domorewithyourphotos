@@ -384,6 +384,43 @@
         "fix_zindex": 0
       }
     },
+    "34b67d70-1cfd-4f88-b13d-574d8a532862": {
+      "type": "section-kinetic-text",
+      "blocks": {
+        "template--19486195155274__34b67d70-1cfd-4f88-b13d-574d8a532862-title-1": {
+          "type": "title",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "text": "Remember to utilize the code organise2023 to receive a 20% discount."
+          }
+        }
+      },
+      "block_order": [
+        "template--19486195155274__34b67d70-1cfd-4f88-b13d-574d8a532862-title-1"
+      ],
+      "settings": {
+        "color_palette": "accent",
+        "overlay_opacity": 100,
+        "animation": "type",
+        "text_speed": 75,
+        "space_between_text": 16,
+        "width": "boxed",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "content_position": "start",
+        "text_size": "h2",
+        "enable_custom_text_size": false,
+        "custom_text_size": 80,
+        "font": "secondary",
+        "font_weight": "400",
+        "mobile_text_size": "h2",
+        "mobile_height": "size-xs-mobile",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
     "ee1e06a4-76b4-4619-a255-2df4db238c1e": {
       "type": "section-featured-collection",
       "settings": {
@@ -1172,6 +1209,7 @@
     "2cda9383-0261-442d-b3f4-9c653dd483f6",
     "ee92b0ac-57e7-4e79-91be-75b3dbd8184d",
     "8b52b352-eeae-479a-b148-546f04576bb4",
+    "34b67d70-1cfd-4f88-b13d-574d8a532862",
     "ee1e06a4-76b4-4619-a255-2df4db238c1e",
     "d375c9b2-92e9-42ee-a210-8e4ff7079572",
     "4c653c31-7e8e-43e0-9f31-957ec63dac92",
