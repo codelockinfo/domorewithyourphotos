@@ -299,7 +299,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Order photos from your phone with our new Fujifilm Imagine Ireland App",
+            "title": "Order photos from your phone with our new Fujifilm Imagine Ireland App<p><\/p><p><\/p><p>Use \"mcgees\" as our store code to get started.<\/p><p><\/p>Dont forget to use ORGANISE2023 at checkout to get 20% OFF",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "500"
@@ -311,7 +311,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<h2><\/h2><h5>Use \"mcgees\" as our store code to get started.<\/h5><h5>Dont forget to use ORGANISE2023 at checkout to get 20% OFF<\/h5>"
+            "text": "<h2><\/h2><h5><\/h5>"
           }
         },
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
