@@ -312,7 +312,7 @@
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<h2><\/h2><h5>Use \"mcgees\" as our store code to get started.Dont forget to use DOPRINT22 at checkout to get 20% Off.Available on both :<\/h5>"
+            "text": "<h2><\/h2><h5>Use \"mcgees\" as our store code to get started.<\/h5><h5>Dont forget to use ORGANISE2023 at checkout to get 20% OFF<\/h5>"
           }
         },
         "template--19460186374474__8b52b352-eeae-479a-b148-546f04576bb4-buttons-1": {
@@ -388,6 +388,7 @@
     "ee1e06a4-76b4-4619-a255-2df4db238c1e": {
       "type": "section-featured-collection",
       "settings": {
+        "bannerid": "",
         "collection": "just-print",
         "limit": 8,
         "number_of_items": 4,
