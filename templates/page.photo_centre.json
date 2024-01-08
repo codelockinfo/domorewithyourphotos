@@ -1024,7 +1024,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "Image with text",
+            "title": "20% OFF     <p><\/p>Use Code ORGANISE2023 at checkout",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
@@ -1032,12 +1032,11 @@
         },
         "template--19486195155274__bcd420c1-9bee-435f-a49d-3050ba39e523-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px",
-            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+            "text": ""
           }
         },
         "template--19486195155274__bcd420c1-9bee-435f-a49d-3050ba39e523-usp-1": {
@@ -1093,6 +1092,7 @@
       ],
       "settings": {
         "imagetextid": "",
+        "image": "shopify:\/\/shop_images\/Traditional_Photo_Albums.jpg",
         "overlay_opacity_img": 0,
         "color_palette": "white",
         "overlay_opacity": 100,
