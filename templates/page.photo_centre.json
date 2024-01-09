@@ -86,7 +86,7 @@
       "settings": {
         "collageimg": "",
         "mirrored": false,
-        "width": "wide",
+        "width": "boxed",
         "height": "size-l",
         "enable_custom_height": false,
         "custom_height": 250,
@@ -283,7 +283,7 @@
       ],
       "settings": {
         "items_width": 4,
-        "width": "wide",
+        "width": "boxed",
         "space_between": 16,
         "image_zoom": false,
         "layout_mobile": "compact",
