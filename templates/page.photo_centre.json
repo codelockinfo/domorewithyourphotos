@@ -42,7 +42,7 @@
           "type": "image",
           "settings": {
             "imgid": "",
-            "image": "shopify:\/\/shop_images\/001_c312766b-e57a-40dd-b9cf-c67bd3557edc.jpg",
+            "image": "shopify:\/\/shop_images\/001_2.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -72,7 +72,8 @@
             "look_btn_color_palette": "buy_button",
             "look_position": "end",
             "show_look_label": false,
-            "look_label_text": "Label"
+            "look_label_text": "Label",
+            "image_mobile": "shopify:\/\/shop_images\/001_mobile_4e74b9c4-a6d6-4c5d-8063-134e7702182e.jpg"
           }
         }
       },
