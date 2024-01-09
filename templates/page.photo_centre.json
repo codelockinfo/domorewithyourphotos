@@ -1190,7 +1190,7 @@
         "template--19486195155274__d0808665-c7f9-4f95-a50d-4027d8de8567-slide-1"
       ],
       "settings": {
-        "width": "wide",
+        "width": "boxed",
         "height": "m",
         "enable_custom_height": false,
         "custom_height": 300,
