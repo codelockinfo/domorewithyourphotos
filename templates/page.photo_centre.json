@@ -393,7 +393,7 @@
           "settings": {
             "font": "secondary",
             "font_weight": "400",
-            "text": "Remember to utilize the code organise2023 to receive a 20% discount."
+            "text": "Remember to utilize the code organise2023 at checkout to receive a 20% discount.   CODE EXPIRES 31st Januaryt."
           }
         }
       },
@@ -1202,6 +1202,43 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "87b8ad0b-32cf-4c82-a920-63cb3836be09": {
+      "type": "section-kinetic-text",
+      "blocks": {
+        "template--19486195155274__87b8ad0b-32cf-4c82-a920-63cb3836be09-title-1": {
+          "type": "title",
+          "settings": {
+            "font": "secondary",
+            "font_weight": "400",
+            "text": "Remember to utilize the code organise2023 at checkout to receive a 20% discount.   CODE EXPIRES 31st January"
+          }
+        }
+      },
+      "block_order": [
+        "template--19486195155274__87b8ad0b-32cf-4c82-a920-63cb3836be09-title-1"
+      ],
+      "settings": {
+        "color_palette": "accent",
+        "overlay_opacity": 100,
+        "animation": "type",
+        "text_speed": 75,
+        "space_between_text": 16,
+        "width": "boxed",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "content_position": "start",
+        "text_size": "h2",
+        "enable_custom_text_size": false,
+        "custom_text_size": 80,
+        "font": "secondary",
+        "font_weight": "400",
+        "mobile_text_size": "h2",
+        "mobile_height": "size-xs-mobile",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -1222,6 +1259,7 @@
     "792ebfbb-e638-437b-b8a2-b9646f12d36c",
     "130443cd-790e-48e9-ab0c-893cdbe403a6",
     "bcd420c1-9bee-435f-a49d-3050ba39e523",
-    "d0808665-c7f9-4f95-a50d-4027d8de8567"
+    "d0808665-c7f9-4f95-a50d-4027d8de8567",
+    "87b8ad0b-32cf-4c82-a920-63cb3836be09"
   ]
 }
