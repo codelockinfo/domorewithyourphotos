@@ -604,7 +604,7 @@
           "settings": {
             "title_font": "primary",
             "title_size": "h2",
-            "title": "20% OFF     <p><\/p>Use Code ORGANISE2023 at checkout",
+            "title": "",
             "enable_custom_text_styling": false,
             "title_color_palette": "black",
             "title_weight": "700"
