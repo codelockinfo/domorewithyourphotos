@@ -110,7 +110,7 @@
         "template--19398885081418__747e66cf-c2ec-4068-a3c1-19c06148cdec-image-2": {
           "type": "image",
           "settings": {
-            "imgid": "shopify:\/\/pages\/personalised-anniversary-gifts-and-photo-collages",
+            "imgid": "shopify:\/\/pages\/print-your-photos-with-our-fujifilm-imagine",
             "image": "shopify:\/\/shop_images\/website_homepage.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
@@ -142,7 +142,7 @@
             "look_position": "end",
             "show_look_label": false,
             "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/salemobile.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/website_homepagemobile2a.jpg"
           }
         }
       },
