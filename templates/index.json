@@ -111,7 +111,7 @@
           "type": "image",
           "settings": {
             "imgid": "shopify:\/\/pages\/personalised-anniversary-gifts-and-photo-collages",
-            "image": "shopify:\/\/shop_images\/Anniversary_Gifts.jpg",
+            "image": "shopify:\/\/shop_images\/website_homepage.jpg",
             "overlay_opacity": 0,
             "color_palette": "white",
             "button_color_palette": "accent",
@@ -132,7 +132,7 @@
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "",
-            "link_url": "shopify:\/\/pages\/personalised-anniversary-gifts-and-photo-collages",
+            "link_url": "shopify:\/\/pages\/picture-perfect-prints-digital-photo-printing-services-donegal",
             "show_link": false,
             "show_look": false,
             "product_list": [
@@ -142,7 +142,7 @@
             "look_position": "end",
             "show_look_label": false,
             "look_label_text": "",
-            "image_mobile": "shopify:\/\/shop_images\/Anniversary_Gifts_Mobile.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/salemobile.jpg"
           }
         }
       },
@@ -284,9 +284,9 @@
           "type": "image",
           "settings": {
             "width": "quarter",
-            "image": "shopify:\/\/shop_images\/but_santa.png",
-            "link_url": "shopify:\/\/collections\/magic-santa-photos",
-            "text": "Magic Santa Photos",
+            "image": "shopify:\/\/shop_images\/but_gran.jpg",
+            "link_url": "shopify:\/\/collections\/grandparents-gifts",
+            "text": "Gifts For Grandparents",
             "subtext": "",
             "overlay_color": "#ffffff",
             "overlay_bg": "rgba(0,0,0,0)"
