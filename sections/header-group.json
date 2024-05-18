@@ -301,10 +301,18 @@
         "logo_width_mobile": 140,
         "search_compact_mobile": false
       }
+    },
+    "section_frame_PwTwk7": {
+      "type": "section_frame",
+      "settings": {
+        "tradinghead": "",
+        "alignment": "middle"
+      }
     }
   },
   "order": [
     "announcement",
-    "header"
+    "header",
+    "section_frame_PwTwk7"
   ]
 }
