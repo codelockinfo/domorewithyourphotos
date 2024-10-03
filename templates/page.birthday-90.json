@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breadcrumbs": {
@@ -41,14 +50,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/90_page_banner.jpg",
+            "image": "shopify://shop_images/90_page_banner.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
             "html": "With a 90th Birthday framed Gift, 90th Personalised Photo Banner or Selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
             "button_text": "90TH PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "/",
             "button_text_2": "90TH FRAMED GIFTS",
-            "button_link_2": "shopify:\/\/collections\/90th-birthday-framed-gifts-personalised-photo-banners"
+            "button_link_2": "shopify://collections/90th-birthday-framed-gifts-personalised-photo-banners"
           }
         }
       },
@@ -64,7 +73,7 @@
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "image": "shopify://shop_images/XMLID_806.png",
             "heading": "Order",
             "html": "Preview Sent for every order within 24 hours"
           }
@@ -72,7 +81,7 @@
         "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/deadline.png",
+            "image": "shopify://shop_images/deadline.png",
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
@@ -252,16 +261,16 @@
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
-        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "pro_img": "shopify://shop_images/photo_collage_banner.png",
         "bottom_text": "Our Most Popular Birthday Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/products\/90th-party-personalised-photo-collage-banner"
+        "button_link": "shopify://products/90th-party-personalised-photo-collage-banner"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/90_page_runner.jpg",
+        "image": "shopify://shop_images/90_page_runner.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 90th Birthday Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
@@ -322,7 +331,7 @@
         "88cdcf63-5721-4f30-be33-99f9ed3336f3": {
           "type": "block",
           "settings": {
-            "product": "love-for-grandchildren-framed-photo-collage-1",
+            "product": "little-smiles-big-love-photo-collage-for-grandparents",
             "product2": "family-love-framed-photo-collage"
           }
         }
