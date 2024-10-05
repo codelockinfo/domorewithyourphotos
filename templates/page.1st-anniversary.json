@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breadcrumbs": {
@@ -41,14 +50,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
+            "image": "shopify://shop_images/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. </p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
             "button_text": "1ST PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "/",
             "button_text_2": "1ST FRAMED GIFTS",
-            "button_link_2": "\/"
+            "button_link_2": "/"
           }
         }
       },
@@ -65,10 +74,10 @@
         "6bbdc77b-fb66-4ba5-ac5b-c22f6b929de3": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
+            "image": "shopify://shop_images/1st_anniversary_thumbnail_f20708b0-6102-450e-9358-f73773228b06.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. <\/p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
+            "html": "<p>With 1st Anniversary Photo Collage or personalised Banner  for the happy couple. </p> This anniversary is is the first milestone of married life, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.",
             "button_text": "1ST PHOTO BANNERS",
             "button_link": "",
             "button_text_2": "",
@@ -96,7 +105,7 @@
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "image": "shopify://shop_images/XMLID_806.png",
             "heading": "Order",
             "html": "Preview Sent for every order within 24 hours"
           }
@@ -104,7 +113,7 @@
         "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/deadline.png",
+            "image": "shopify://shop_images/deadline.png",
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
@@ -112,7 +121,7 @@
         "554ae6bd-fbe3-4ab8-9fd2-0a38710ae67f": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "image": "shopify://shop_images/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
             "heading": "Made For You",
             "html": "All Designs can be changed to suit your requirements"
           }
@@ -182,16 +191,16 @@
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
-        "pro_img": "shopify:\/\/shop_images\/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
+        "pro_img": "shopify://shop_images/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
         "bottom_text": "Our Most Popular Birthday Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/products\/50th-your-wedding-in-pictures-personalised-anniversary-photo-banner"
+        "button_link": "shopify://products/50th-your-wedding-in-pictures-personalised-anniversary-photo-banner"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1st_anniversary_Landing_page.jpg",
+        "image": "shopify://shop_images/1st_anniversary_Landing_page.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 1st Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
@@ -224,7 +233,7 @@
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
-            "product": "our-anniversary-photo-collage-framed-gift",
+            "product": "still-going-strong-anniversary-gift-franmed-photo-collage",
             "product2": "mr-mrs-wedding-day-heart-collage-framed-gift"
           }
         },
