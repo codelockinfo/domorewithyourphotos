@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breadcrumbs": {
@@ -41,14 +50,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1st_anniversary_thumbnail.jpg",
+            "image": "shopify://shop_images/1st_anniversary_thumbnail.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
             "html": "With a 30th Anniversary framed Gift, 1st Personalised Photo Banner  selfie frame. This birthday is a real big one, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their embarrassing baby photos and we will do the rest.",
             "button_text": "1ST PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "/",
             "button_text_2": "1ST FRAMED GIFTS",
-            "button_link_2": "\/"
+            "button_link_2": "/"
           }
         }
       },
@@ -64,7 +73,7 @@
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "image": "shopify://shop_images/XMLID_806.png",
             "heading": "Order",
             "html": "Preview Sent for every order within 24 hours"
           }
@@ -72,7 +81,7 @@
         "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/deadline.png",
+            "image": "shopify://shop_images/deadline.png",
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
@@ -158,16 +167,16 @@
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
-        "pro_img": "shopify:\/\/shop_images\/photo_collage_banner.png",
+        "pro_img": "shopify://shop_images/photo_collage_banner.png",
         "bottom_text": "Our Most Popular Birthday Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/collections\/1st-year-wedding-anniversary-personalised-gifts-and-photo-banners"
+        "button_link": "shopify://collections/1st-year-wedding-anniversary-personalised-gifts-and-photo-banners"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1st_anniversary_Landing_page.jpg",
+        "image": "shopify://shop_images/1st_anniversary_Landing_page.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 30th Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
@@ -200,7 +209,7 @@
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
           "type": "block",
           "settings": {
-            "product": "our-anniversary-photo-collage-framed-gift",
+            "product": "still-going-strong-anniversary-gift-franmed-photo-collage",
             "product2": "from-this-day-wedding-framed-photo-collage"
           }
         },
