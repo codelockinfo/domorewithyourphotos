@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breadcrumbs": {
@@ -41,10 +50,10 @@
         "a1bb81da-c0c8-4678-8d46-9c1d7e687cc0": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/40_anniversary_thumbnail.jpg",
+            "image": "shopify://shop_images/40_anniversary_thumbnail.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "<p>With a 40th Wedding Anniversary framed Gift or Personalised Photo Banner. <\/p><p>Thirty years together is a lifetime, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.<\/p>",
+            "html": "<p>With a 40th Wedding Anniversary framed Gift or Personalised Photo Banner. </p><p>Thirty years together is a lifetime, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.</p>",
             "button_text": "",
             "button_link": "",
             "button_text_2": "",
@@ -72,14 +81,14 @@
         "39b16584-9986-4fc0-b814-6a11e219f5be": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/40_anniversary_thumbnail.jpg",
+            "image": "shopify://shop_images/40_anniversary_thumbnail.jpg",
             "top_heading": "",
             "heading": "Give the Gift of Memories",
-            "html": "<p>With a 40th Wedding Anniversary framed Gift or Personalised Photo Banner. <\/p><p>Thirty years together is a lifetime, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.<\/p>",
+            "html": "<p>With a 40th Wedding Anniversary framed Gift or Personalised Photo Banner. </p><p>Thirty years together is a lifetime, so If it’s original ideas you’re after, we’ve got heaps that’ll make their day, month and even year, So now go and find their photos and we will do the rest.</p>",
             "button_text": "40TH PHOTO BANNERS",
-            "button_link": "\/",
+            "button_link": "/",
             "button_text_2": "40TH FRAMED GIFTS",
-            "button_link_2": "\/"
+            "button_link_2": "/"
           }
         }
       },
@@ -96,7 +105,7 @@
         "2b52fb3b-2a23-4982-b61a-b6d6c34a81bf": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/XMLID_806.png",
+            "image": "shopify://shop_images/XMLID_806.png",
             "heading": "Order",
             "html": "Preview Sent for every order within 24 hours"
           }
@@ -104,7 +113,7 @@
         "d29f9366-1b81-478a-bbb2-ff4c409d5a8d": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/deadline.png",
+            "image": "shopify://shop_images/deadline.png",
             "heading": "Day for Delivery",
             "html": "1 - 2 Days for delivery nationwide with An Post"
           }
@@ -112,7 +121,7 @@
         "749d6f63-0547-42b4-820b-d9954b550d45": {
           "type": "block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
+            "image": "shopify://shop_images/processed-466c6c6e-2136-41b0-aac2-fe4868108cb4_t07cX5Ye__1_-removebg-preview.png",
             "heading": "Made For You",
             "html": "All Designs can be changed to suit your requirements"
           }
@@ -182,16 +191,16 @@
         "html": "",
         "main_product": "",
         "popular_title": "This Is Your Life Photo Collage Banner",
-        "pro_img": "shopify:\/\/shop_images\/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
+        "pro_img": "shopify://shop_images/Anniveraries_photo_banner_collage_bbb918db-8a30-49f7-8659-7d772c00b4f0.png",
         "bottom_text": "Our Most Popular Anniversary Banner from €29",
         "button_text": "Order HERE",
-        "button_link": "shopify:\/\/products\/40th-your-wedding-in-pictures-personalised-anniversary-photo-banner"
+        "button_link": "shopify://products/40th-your-wedding-in-pictures-personalised-anniversary-photo-banner"
       }
     },
     "5ecf0492-976d-4688-8332-3fcb15ba96b9": {
       "type": "birthdat_text_background",
       "settings": {
-        "image": "shopify:\/\/shop_images\/25th_anniversary_Landing_page.jpg",
+        "image": "shopify://shop_images/25th_anniversary_Landing_page.jpg",
         "html": "Tell Their Story &amp; Go Bigger <br> With A 40th Wedding Anniversary Photo Collage, Framed Gift Or Canvas",
         "bg_color": "#d43342",
         "bg_text": "#ffffff"
@@ -218,7 +227,7 @@
           "type": "block",
           "settings": {
             "product": "mr-mrs-wedding-day-heart-collage-framed-gift",
-            "product2": "40th-ruby-wedding-anniversary-sentiment"
+            "product2": "celebrating-40-years-ruby-wedding-anniversary-photo-gift"
           }
         },
         "2bc58445-1e65-40f6-95c0-ddb5227aac18": {
